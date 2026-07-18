@@ -280,7 +280,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_wor
 
 ## Introduction
 
-The best-known photographs associated with the Roswell UFO incident were not taken in New Mexico. They were taken at Fort Worth Army Air Field in Texas on 8 July 1947, after [debris]({{ 'debris/' | relative_url }}) recovered in New Mexico had been moved up the military chain of command. That geographical fact matters because it turns the photographs into a custody problem rather than a simple visual record of what was allegedly found on the ranch. The images show material displayed in the office of Brigadier General Roger [Ramey]({{ 'ramey/' | relative_url }}) at Fort Worth, not material documented at the recovery site itself. As a result, debates about the photographs often centre less on what the pictures depict and more on whether the photographed debris was the same material that originally left New Mexico. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesHomepage &#124; Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Wort...</span></span></span>
+The best-known photographs associated with the Roswell UFO incident were not taken in New Mexico. They were taken at Fort Worth Army Air Field in Texas on 8 July 1947, after [debris]({{ 'debris/' | relative_url }}) recovered in New Mexico had been moved up the military chain of command. That geographical fact matters because it turns the photographs into a custody problem rather than a simple visual record of what was allegedly found on the ranch. The images show material displayed in the office of Brigadier General Roger [Ramey]({{ 'ramey/' | relative_url }}) at Fort Worth, not material documented at the recovery site itself. As a result, debates about the photographs often centre less on what the pictures depict and more on whether the photographed debris was the same material that originally left New Mexico.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesHomepage &#124; Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Wort...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-1-dark.svg" | relative_url }}" alt="Fort Worth illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,9 +291,9 @@ Within the broader geography of the Roswell case, Fort Worth represents the poin
 
 ## Why Debris Moved to Higher Headquarters
 
-One of the least controversial elements of the Roswell timeline is that debris was transported from New Mexico to Fort Worth. Contemporary and later military accounts agree that General Ramey, commander of the Eighth [Air Force]({{ 'air-force/' | relative_url }}), ordered the material brought to Fort Worth Army Air Field for inspection. Fort Worth served as the regional headquarters above Roswell Army Air Field, making it the logical destination for an object that had suddenly attracted national attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulMeanwhile, Brig Gen Roger Ramey, Eighth Air Force Commander, ordered that the debris be flown to Eighth Air Force...</span></span></span>
+One of the least controversial elements of the Roswell timeline is that debris was transported from New Mexico to Fort Worth. Contemporary and later military accounts agree that General Ramey, commander of the Eighth [Air Force]({{ 'air-force/' | relative_url }}), ordered the material brought to Fort Worth Army Air Field for inspection. Fort Worth served as the regional headquarters above Roswell Army Air Field, making it the logical destination for an object that had suddenly attracted national attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulMeanwhile, Brig Gen Roger Ramey, Eighth Air Force Commander, ordered that the debris be flown to Eighth Air Force...</span></span></span>
 
-From an administrative perspective, the movement was routine. Local officers reported unusual material; higher headquarters examined it; public statements were coordinated from the command level. Yet that transfer created a critical evidentiary gap. No widely known sequence of photographs documents the material continuously from the New Mexico ranch to the Fort Worth office. Instead, the public record jumps from reports of recovery in New Mexico to staged press photographs in Texas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesHomepage &#124; Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Wort...</span></span></span>
+From an administrative perspective, the movement was routine. Local officers reported unusual material; higher headquarters examined it; public statements were coordinated from the command level. Yet that transfer created a critical evidentiary gap. No widely known sequence of photographs documents the material continuously from the New Mexico ranch to the Fort Worth office. Instead, the public record jumps from reports of recovery in New Mexico to staged press photographs in Texas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesHomepage &#124; Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Wort...</span></span></span>
 
 For historians, this means the Fort Worth photographs are not direct evidence of what lay on the ranch. They are evidence of what military officials chose to present after the debris reached headquarters. That distinction is central to later disputes.
 
@@ -302,21 +302,21 @@ For historians, this means the Fort Worth photographs are not direct evidence of
 
 ## What the Ramey Office Photos Changed
 
-The Fort Worth photographs became famous because they reshaped the story almost immediately. Earlier publicity from Roswell had referred to recovery of a “flying disc”, but the images released from Fort Worth showed balloon-like material, foil-covered components and what appeared to be parts of a radar target. The visual message supported the military's revised explanation that the recovered object was not an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on July 8...</span></span></span>
+The Fort Worth photographs became famous because they reshaped the story almost immediately. Earlier publicity from Roswell had referred to recovery of a “flying disc”, but the images released from Fort Worth showed balloon-like material, foil-covered components and what appeared to be parts of a radar target. The visual message supported the military's revised explanation that the recovered object was not an extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on July 8...</span></span></span>
 
-Several photographs were taken in General Ramey's office. They show Ramey, Colonel Thomas DuBose and Major Jesse [Marcel]({{ 'marcel/' | relative_url }}) posing with debris spread across the floor. These images became some of the most reproduced photographs in UFO history because they supplied a tangible visual record at a moment when the narrative was rapidly changing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesAbout the Roswell Photo Collection &#124; Roswell UFO IncidentRamey, left, holding letter, and DuBose looking over wind-forecasti...</span></span></span>
+Several photographs were taken in General Ramey's office. They show Ramey, Colonel Thomas DuBose and Major Jesse [Marcel]({{ 'marcel/' | relative_url }}) posing with debris spread across the floor. These images became some of the most reproduced photographs in UFO history because they supplied a tangible visual record at a moment when the narrative was rapidly changing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesAbout the Roswell Photo Collection &#124; Roswell UFO IncidentRamey, left, holding letter, and DuBose looking over wind-forecasti...</span></span></span>
 
-The photographs also shifted the centre of gravity of the evidence. Once the images were published nationally, discussions about Roswell increasingly revolved around interpreting the Fort Worth debris rather than independently documenting the New Mexico recovery area. In practical terms, Texas became the location through which much of the public first encountered the alleged evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesHomepage &#124; Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Wort...</span></span></span>
+The photographs also shifted the centre of gravity of the evidence. Once the images were published nationally, discussions about Roswell increasingly revolved around interpreting the Fort Worth debris rather than independently documenting the New Mexico recovery area. In practical terms, Texas became the location through which much of the public first encountered the alleged evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesHomepage &#124; Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Wort...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-2-dark.svg" | relative_url }}" alt="Fort Worth illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Distance Fuels Substitution Debates
 
-The geographical separation between the New Mexico recovery area and Fort Worth is one reason substitution theories emerged. Critics of the official explanation have long argued that material photographed in Texas may not have been identical to material originally collected in New Mexico. The theory generally proposes a replacement or staging event occurring somewhere between recovery and press presentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Unsolved Mysteries&quot;: The True Story of the Roswell UFO Incident</span><span class="citation-popover-snippet">Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</span></span></span>
+The geographical separation between the New Mexico recovery area and Fort Worth is one reason substitution theories emerged. Critics of the official explanation have long argued that material photographed in Texas may not have been identical to material originally collected in New Mexico. The theory generally proposes a replacement or staging event occurring somewhere between recovery and press presentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Unsolved Mysteries&quot;: The True Story of the Roswell UFO Incident</span><span class="citation-popover-snippet">Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</span></span></span>
 
-Supporters of this argument often point to later statements by Major Jesse Marcel and others who claimed that the debris displayed for photographers did not match what they remembered from the recovery operation. In these accounts, Fort Worth becomes the location where the public narrative diverged from the alleged original evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Unsolved Mysteries&quot;: The True Story of the Roswell UFO Incident</span><span class="citation-popover-snippet">Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</span></span></span>
+Supporters of this argument often point to later statements by Major Jesse Marcel and others who claimed that the debris displayed for photographers did not match what they remembered from the recovery operation. In these accounts, Fort Worth becomes the location where the public narrative diverged from the alleged original evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Unsolved Mysteries&quot;: The True Story of the Roswell UFO Incident</span><span class="citation-popover-snippet">Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</span></span></span>
 
-However, the geographical gap alone does not prove substitution. A break in custody creates the possibility of replacement, not evidence that replacement occurred. Researchers who favour the Project Mogul explanation argue that the photographed material is consistent with balloon and radar-reflector components and that no independent documentation demonstrates a swap. Air Force reviews later cited the Fort Worth photographs as supporting evidence for a balloon-related interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Roswell Incident</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORT&quot; Upon review of the local newspaper photographs from General Ramey&#x27;s press conference in 1947... July...</span></span></span>
+However, the geographical gap alone does not prove substitution. A break in custody creates the possibility of replacement, not evidence that replacement occurred. Researchers who favour the Project Mogul explanation argue that the photographed material is consistent with balloon and radar-reflector components and that no independent documentation demonstrates a swap. Air Force reviews later cited the Fort Worth photographs as supporting evidence for a balloon-related interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Roswell Incident</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORT&quot; Upon review of the local newspaper photographs from General Ramey&#x27;s press conference in 1947... July...</span></span></span>
 
 This is why the debate persists. The chain of custody is incomplete enough to permit competing interpretations but not complete enough to resolve them definitively.
 
@@ -325,202 +325,202 @@ This is why the debate persists. The chain of custody is incomplete enough to pe
 
 ## Why the Fort Worth Location Still Matters
 
-The Fort Worth photographs occupy a unique position in Roswell research because they are simultaneously primary evidence and a source of uncertainty. They are authentic historical photographs taken on a documented date at a documented military installation. Yet they do not show the debris where it was found. They show the debris after transport, after command review and during a carefully managed press event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesAbout the Roswell Photo Collection &#124; Roswell UFO IncidentRamey, left, holding letter, and DuBose looking over wind-forecasti...</span></span></span>
+The Fort Worth photographs occupy a unique position in Roswell research because they are simultaneously primary evidence and a source of uncertainty. They are authentic historical photographs taken on a documented date at a documented military installation. Yet they do not show the debris where it was found. They show the debris after transport, after command review and during a carefully managed press event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesAbout the Roswell Photo Collection &#124; Roswell UFO IncidentRamey, left, holding letter, and DuBose looking over wind-forecasti...</span></span></span>
 
-As a result, the key question is not merely “What is in the photographs?” but “What stage of the custody process do the photographs represent?” The answer places Fort Worth at the centre of one of the longest-running disputes in the Roswell story. Geography matters because the evidence travelled. Once it crossed state lines from the New Mexico ranch country to a Texas headquarters, questions about location became questions about custody, and questions about custody became questions about [credibility]({{ 'credibility/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulMeanwhile, Brig Gen Roger Ramey, Eighth Air Force Commander, ordered that the debris be flown to Eighth Air Force...</span></span></span>
+As a result, the key question is not merely “What is in the photographs?” but “What stage of the custody process do the photographs represent?” The answer places Fort Worth at the centre of one of the longest-running disputes in the Roswell story. Geography matters because the evidence travelled. Once it crossed state lines from the New Mexico ranch country to a Texas headquarters, questions about location became questions about custody, and questions about custody became questions about [credibility]({{ 'credibility/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulMeanwhile, Brig Gen Roger Ramey, Eighth Air Force Commander, ordered that the debris be flown to Eighth Air Force...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-3-dark.svg" | relative_url }}" alt="Fort Worth illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_fort_worth_photos_cu_667675-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Famous Photos Were Taken in Texas. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Famous Photos Were Taken in Texas. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Directly examines witness testimony, evidence handling, and competing interpretations central to debates over the Fort Worth photographs...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines witness testimony, evidence handling, and competing interpretations central to debates over the Fort Worth photographs...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Expands on the alleged aftermath of Roswell and government handling of recovered materials, themes closely tied to evidence-transfer deba...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Expands on the alleged aftermath of Roswell and government handling of recovered materials, themes closely tied to evidence-transfer deba...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Introduced many of the key claims surrounding debris substitution and the famous photographs taken in General Ramey&#x27;s office.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced many of the key claims surrounding debris substitution and the famous photographs taken in General Ramey&#x27;s office.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Focuses on witness accounts, military actions, and evidence movement, making it highly relevant to discussions of Fort Worth and the phot...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness accounts, military actions, and evidence movement, making it highly relevant to discussions of Fort Worth and the phot...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="https://i.ebayimg.com/images/g/p1gAAOSwlndnXwAd/s-l225.jpg" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="https://i.ebayimg.com/images/g/4qcAAeSwSoFqDh-N/s-l225.jpg" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vTwAAeSw-2ppy~rQ/s-l225.jpg" alt="Listing image for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="fort-worth-why-the-famous-photos-were-taken-in-texas-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/1GEAAeSw3KdpYAOG/s-l225.jpg" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-the-famous-photos-were-taken-in-texas-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ As a result, the key question is not merely “What is in the photographs?” bu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ As a result, the key question is not merely “What is in the photographs?” bu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ As a result, the key question is not merely “What is in the photographs?” bu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ As a result, the key question is not merely “What is in the photographs?” bu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ As a result, the key question is not merely “What is in the photographs?” bu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,144 +726,144 @@ As a result, the key question is not merely “What is in the photographs?” bu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesHomepage | Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Wort...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesHomepage | Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Wort...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on July 8...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on July 8...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesAbout the Roswell Photo Collection | Roswell UFO IncidentRamey, left, holding letter, and DuBose looking over wind-forecasti...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesAbout the Roswell Photo Collection | Roswell UFO IncidentRamey, left, holding letter, and DuBose looking over wind-forecasti...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Brig General Ramey Roswell debris.jpg Image title  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At Fort Worth Army Air Field, Brig. General Roger Ramey, holding telegram, inspects debris brought back from Roswell, NM, UFO incident, 0...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At Fort Worth Army Air Field, Brig. General Roger Ramey, holding telegram, inspects debris brought back from Roswell, NM, UFO incident, 0...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: flickr.com  
    Title: Some speculate the wreckage was that of an alien spacecraft.Read more  
-   Link: <a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Incident, July 1947 |...</p></details>
+   Link:<a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Incident, July 1947 |...</p></details>
    Published: July 1947  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: people.com  
    Title: "[Unsolved Mysteries](&#123;&#123; 'tv-suspense/' | relative_url &#125;&#125;)": The True Story of the Roswell UFO Incident  
-   Link: <a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
+   Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Worth Army Air Field where...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Worth Army Air Field where...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roswell (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Plik:Brig General Ramey Roswell debris.jpg  
-   Link: <a href="https://pl.wikipedia.org/wiki/Plik%3ABrig_General_Ramey_Roswell_debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/Plik%3ABrig_General_Ramey_Roswell_debris.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpisBrig General Ramey Roswell debris.jpg. English: At Fort Worth Army Air Field, Brig. General Roger Ramey, holding telegram, inspects d...</p></details>
+   Link:<a href="https://pl.wikipedia.org/wiki/Plik%3ABrig_General_Ramey_Roswell_debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/Plik%3ABrig_General_Ramey_Roswell_debris.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpisBrig General Ramey Roswell debris.jpg. English: At Fort Worth Army Air Field, Brig. General Roger Ramey, holding telegram, inspects d...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulMeanwhile, Brig Gen Roger Ramey, Eighth Air Force Commander, ordered that the debris be flown to Eighth Air Force...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulMeanwhile, Brig Gen Roger Ramey, Eighth Air Force Commander, ordered that the debris be flown to Eighth Air Force...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Working his way up the chain of command, he decided to contact his superior, General Roger W. Ramey, commander of the 8th Ai...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Working his way up the chain of command, he decided to contact his superior, General Roger W. Ramey, commander of the 8th Ai...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORT&quot; Upon review of the local [newspaper](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;) photographs from General Ramey&#x27;s press conference in 1947... July...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORT&quot; Upon review of the local [newspaper](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;) photographs from General Ramey&#x27;s press conference in 1947... July...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skyatnightmagazine.com  
    Title: roswell ufo incident  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>facts and history26 Jun 2025 — The Roswell UFO incident begins on 24 June 1947 when pilot Kenneth Arnold was flying over the Cascade Moun...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>facts and history26 Jun 2025 — The Roswell UFO incident begins on 24 June 1947 when pilot Kenneth Arnold was flying over the Cascade Moun...</p></details>
    Published: June 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gettyimages.fi  
-   Link: <a href="https://www.gettyimages.fi/photos/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.fi/photos/roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2611 Roswell Stock Photos, High-Res Pictures, and ImagesFort Worth Army Air Field 8th July 1947: Jesse Marcel, head intelligence officer...</p></details>
+   Link:<a href="https://www.gettyimages.fi/photos/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.fi/photos/roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2611 Roswell Stock Photos, High-Res Pictures, and ImagesFort Worth Army Air Field 8th July 1947: Jesse Marcel, head intelligence officer...</p></details>
    Published: July 1947  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: roswell-nm.gov  
-   Link: <a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteRoswell Air Center is proud to announce its partnership with United Airlines to provide service to Denver I...</p></details>
+   Link:<a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteRoswell Air Center is proud to announce its partnership with United Airlines to provide service to Denver I...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/roswell-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/roswell-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>63 Roswell Crash Images and Stock PhotosExplore Authentic Roswell Crash Stock Photos &amp; Images For Your Project Or Campaign. Less Searchin...</p></details>
+   Link:<a href="https://www.gettyimages.com/photos/roswell-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/roswell-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>63 Roswell Crash Images and Stock PhotosExplore Authentic Roswell Crash Stock Photos &amp; Images For Your Project Or Campaign. Less Searchin...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentSomething unquestionably strange fell southeast of the tiny New Mexican town of Coron...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentSomething unquestionably strange fell southeast of the tiny New Mexican town of Coron...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RoswellA cute high-school student saves the life of a teenage waitress. Surrounded by cliques of clever, angst-filled classmates, the two...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/tv/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RoswellA cute high-school student saves the life of a teenage waitress. Surrounded by cliques of clever, angst-filled classmates, the two...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsIf a weather balloon was to crash the debris wouldn&#x27;t have been scattered as far as the w...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsIf a weather balloon was to crash the debris wouldn&#x27;t have been scattered as far as the w...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: seeroswell.com  
-   Link: <a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
+   Link:<a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: airbnb.com  
-   Link: <a href="https://www.airbnb.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.airbnb.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vacation rentals, cabins, beach houses, &amp; moreGet an Airbnb for every kind of trip → 8 million vacation rentals → 2 million Gues...</p></details>
+   Link:<a href="https://www.airbnb.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.airbnb.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vacation rentals, cabins, beach houses, &amp; moreGet an Airbnb for every kind of trip → 8 million vacation rentals → 2 million Gues...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/81062075" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81062075</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Roswell, New MexicoAfter 10 years, a woman returns to her sleepy hometown and discovers her high-school crush is also an unusual fo...</p></details>
+   Link:<a href="https://www.netflix.com/title/81062075" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81062075</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Roswell, New MexicoAfter 10 years, a woman returns to her sleepy hometown and discovers her high-school crush is also an unusual fo...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/roswell-ufo-incident.html?blackwhite=1&amp;pseudoid=68C575A2-1FC9-41A3-9799-C9564D30B4DD&amp;sortBy=relevant" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/roswell-ufo-incident.html?blackwhite=1&amp;pseudoid=68C575A2-1FC9-41A3-9799-C9564D30B4DD&amp;sortBy=relevant</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/roswell-ufo-incident.html?blackwhite=1&amp;pseudoid=68C575A2-1FC9-41A3-9799-C9564D30B4DD&amp;sortBy=relevant" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/roswell-ufo-incident.html?blackwhite=1&amp;pseudoid=68C575A2-1FC9-41A3-9799-C9564D30B4DD&amp;sortBy=relevant</a>  

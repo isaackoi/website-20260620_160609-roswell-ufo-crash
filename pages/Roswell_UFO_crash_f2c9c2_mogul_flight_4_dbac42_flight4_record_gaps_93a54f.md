@@ -274,7 +274,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flight4_rec
 
 ## Introduction
 
-The case for identifying Roswell debris as [Project Mogul]({{ 'project-mogul/' | relative_url }}) Flight 4 is often presented as a material match rather than a documentary one. Supporters of the Mogul explanation argue that the foil, rubber, lightweight structural pieces and radar-reflector components described in 1947 closely resemble equipment used in early [Mogul balloon trains]({{ 'balloon-train/' | relative_url }}). The difficulty is that Flight 4 is also the flight for which researchers do not possess the kind of complete launch, tracking and recovery paperwork that would normally make an identification straightforward. As a result, one of the strongest pieces of the official explanation rests on a reconstruction rather than on a fully preserved contemporary record. That does not automatically invalidate the explanation, but it does make the quality of the surviving documentation a central issue in the Roswell debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+The case for identifying Roswell debris as [Project Mogul]({{ 'project-mogul/' | relative_url }}) Flight 4 is often presented as a material match rather than a documentary one. Supporters of the Mogul explanation argue that the foil, rubber, lightweight structural pieces and radar-reflector components described in 1947 closely resemble equipment used in early [Mogul balloon trains]({{ 'balloon-train/' | relative_url }}). The difficulty is that Flight 4 is also the flight for which researchers do not possess the kind of complete launch, tracking and recovery paperwork that would normally make an identification straightforward. As a result, one of the strongest pieces of the official explanation rests on a reconstruction rather than on a fully preserved contemporary record. That does not automatically invalidate the explanation, but it does make the quality of the surviving documentation a central issue in the Roswell debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flight4_record_gaps_93a54f-Illustration-1-dark.svg" | relative_url }}" alt="Record Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flight4_record_gaps_93a54f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flight4_record_gaps_93a54f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ The case for identifying Roswell debris as [Project Mogul]({{ 'project-mogul/' |
 
 The significance of Flight 4's [missing records]({{ 'missing-records/' | relative_url }}) lies less in what they prove than in what they prevent historians from proving. If researchers possessed a complete launch log, flight path record, recovery report and inventory of components, the argument over whether Flight 4 reached the Roswell area would be much narrower.
 
-Instead, later investigators encountered gaps in the surviving Mogul documentation. The Air Force's Roswell investigation acknowledged that some early Mogul operations were not fully reflected in the project's formal reports. According to the official account, several early flights, including Flights 2 through 4, fell into a category of service or test launches that were not documented with the same thoroughness as later constant-altitude experimental flights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+Instead, later investigators encountered gaps in the surviving Mogul documentation. The Air Force's Roswell investigation acknowledged that some early Mogul operations were not fully reflected in the project's formal reports. According to the official account, several early flights, including Flights 2 through 4, fell into a category of service or test launches that were not documented with the same thoroughness as later constant-altitude experimental flights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-This matters because the official Roswell explanation ultimately asks readers to accept a historical reconstruction. Rather than pointing to a complete Flight 4 file, investigators assembled evidence from multiple surviving sources: field notes, weather information, personnel recollections, technical reports and later interviews with project participants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+This matters because the official Roswell explanation ultimately asks readers to accept a historical reconstruction. Rather than pointing to a complete Flight 4 file, investigators assembled evidence from multiple surviving sources: field notes, weather information, personnel recollections, technical reports and later interviews with project participants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
@@ -293,11 +293,11 @@ This matters because the official Roswell explanation ultimately asks readers to
 
 A key element of the Air Force explanation is the distinction between major experimental flights and routine service launches.
 
-Project Mogul was still in its developmental phase during June 1947. Teams at Alamogordo were experimenting with balloon configurations, radar reflectors and payload arrangements. According to the Air Force investigation, not every launch received the same level of reporting, particularly those considered support or service operations rather than full scientific missions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+Project Mogul was still in its developmental phase during June 1947. Teams at Alamogordo were experimenting with balloon configurations, radar reflectors and payload arrangements. According to the Air Force investigation, not every launch received the same level of reporting, particularly those considered support or service operations rather than full scientific missions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-Under this interpretation, the absence of a polished Flight 4 report is not evidence that no launch occurred. Instead, it reflects the informal and experimental nature of early field operations. Researchers working on the official explanation argue that modern readers often expect a level of bureaucratic record-keeping that did not always exist in small research programmes operating in remote locations during 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+Under this interpretation, the absence of a polished Flight 4 report is not evidence that no launch occurred. Instead, it reflects the informal and experimental nature of early field operations. Researchers working on the official explanation argue that modern readers often expect a level of bureaucratic record-keeping that did not always exist in small research programmes operating in remote locations during 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-Critics respond that this explanation creates an evidentiary asymmetry. The flight most often invoked to explain Roswell is also one of the least directly documented. In historical investigations, missing [records]({{ 'records/' | relative_url }}) can be understandable, but they still reduce confidence because they eliminate opportunities for independent verification. The issue is not simply whether records are missing, but whether the missing records happen to concern the very event being used to solve the mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">a few facts about project mogul</span><span class="citation-popover-snippet">4 was cancelled. It did not fly, there is no record of it anywhere and that number is skipped in the accounting. Contrary to...Read more...</span></span></span>
+Critics respond that this explanation creates an evidentiary asymmetry. The flight most often invoked to explain Roswell is also one of the least directly documented. In historical investigations, missing [records]({{ 'records/' | relative_url }}) can be understandable, but they still reduce confidence because they eliminate opportunities for independent verification. The issue is not simply whether records are missing, but whether the missing records happen to concern the very event being used to solve the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">a few facts about project mogul</span><span class="citation-popover-snippet">4 was cancelled. It did not fly, there is no record of it anywhere and that number is skipped in the accounting. Contrary to...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flight4_record_gaps_93a54f-Illustration-2-dark.svg" | relative_url }}" alt="Record Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flight4_record_gaps_93a54f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mogul_flight_4_dbac42_flight4_record_gaps_93a54f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -305,13 +305,13 @@ Critics respond that this explanation creates an evidentiary asymmetry. The flig
 
 Much of the Flight 4 case depends on the later testimony and recollections of Charles B. Moore, one of the New York University researchers involved in Mogul operations.
 
-Moore argued that Flight 4 was a real launch and that later confusion resulted from incomplete reporting practices. His reconstruction relied on surviving notes, project records and his own knowledge of how the field team operated. The Air Force investigation adopted this interpretation and concluded that debris recovered near Roswell was most likely associated with Flight 4. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+Moore argued that Flight 4 was a real launch and that later confusion resulted from incomplete reporting practices. His reconstruction relied on surviving notes, project records and his own knowledge of how the field team operated. The Air Force investigation adopted this interpretation and concluded that debris recovered near Roswell was most likely associated with Flight 4.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-The strength of Moore's contribution is obvious. He was not an outsider speculating decades later; he was directly involved in the project and had first-hand knowledge of the equipment, procedures and launch activities. His recollections helped explain why gaps existed in formal reports and why some launches appeared to disappear from the documentary trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">The Roswell Incident at 70: Facts, Not Myths Flight 4, Professor Charles B</span><span class="citation-popover-snippet">Moore, showed us some of what was on that flight. “The Roswell Incident and Project Mogul” Mogul balloon assemblages. Moore...</span></span></span>
+The strength of Moore's contribution is obvious. He was not an outsider speculating decades later; he was directly involved in the project and had first-hand knowledge of the equipment, procedures and launch activities. His recollections helped explain why gaps existed in formal reports and why some launches appeared to disappear from the documentary trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">The Roswell Incident at 70: Facts, Not Myths Flight 4, Professor Charles B</span><span class="citation-popover-snippet">Moore, showed us some of what was on that flight. “The Roswell Incident and Project Mogul” Mogul balloon assemblages. Moore...</span></span></span>
 
-The weakness is equally obvious. Historical reconstructions based partly on memory are inherently less secure than contemporary records. Moore's account was developed decades after the events, at a time when Roswell had already become internationally famous. Critics therefore argue that recollection, however sincere, cannot fully substitute for missing original documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">a few facts about project mogul</span><span class="citation-popover-snippet">4 was cancelled. It did not fly, there is no record of it anywhere and that number is skipped in the accounting. Contrary to...Read more...</span></span></span>
+The weakness is equally obvious. Historical reconstructions based partly on memory are inherently less secure than contemporary records. Moore's account was developed decades after the events, at a time when Roswell had already become internationally famous. Critics therefore argue that recollection, however sincere, cannot fully substitute for missing original documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">a few facts about project mogul</span><span class="citation-popover-snippet">4 was cancelled. It did not fly, there is no record of it anywhere and that number is skipped in the accounting. Contrary to...Read more...</span></span></span>
 
-This tension explains why Flight 4 remains a focal point. The official explanation does not rely solely on memory, but memory plays a larger role than many historians would prefer when identifying a specific launch as the source of the debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+This tension explains why Flight 4 remains a focal point. The official explanation does not rely solely on memory, but memory plays a larger role than many historians would prefer when identifying a specific launch as the source of the debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UAnLgCga3Yg" title="I Found the REAL Roswell UFO Crash Site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UAnLgCga3Yg" target="_blank" rel="noopener noreferrer">I Found the REAL Roswell UFO Crash Site</a></p><p class="youtube-embed-meta">Channel: Baker Overland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UAnLgCga3Yg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UAnLgCga3Yg">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ This tension explains why Flight 4 remains a focal point. The official explanati
 
 The missing paperwork becomes important because the material evidence is often regarded as the strongest part of the Mogul explanation.
 
-Descriptions from 1947 mention rubber-like material, foil, lightweight sticks and reflector components. Researchers supporting the Mogul explanation argue that these details correspond closely to balloon trains and radar targets used by the project. Later analyses of Mogul equipment emphasised how unusual such materials could appear to people unfamiliar with specialised military research hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+Descriptions from 1947 mention rubber-like material, foil, lightweight sticks and reflector components. Researchers supporting the Mogul explanation argue that these details correspond closely to balloon trains and radar targets used by the project. Later analyses of Mogul equipment emphasised how unusual such materials could appear to people unfamiliar with specialised military research hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 If complete records existed showing that Flight 4 launched with those materials and landed in the relevant area, the [debris match]({{ 'debris-match/' | relative_url }}) would be considerably stronger. Because the documentation is incomplete, the argument instead combines two separate propositions:
 
@@ -329,211 +329,211 @@ If complete records existed showing that Flight 4 launched with those materials 
 1. The recovered material resembles Mogul hardware.
 2. Flight 4 is the most plausible Mogul launch that could have produced it.
 
-The first proposition is often viewed as relatively strong. The second depends much more heavily on reconstruction and inference. The record gaps therefore do not undermine the material comparison itself; they affect confidence in connecting that material to one specific flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulIt now appears that the debris from MOGUL flight no. 4 had come to earth on the plains east of the Sacramento Moun...</span></span></span>
+The first proposition is often viewed as relatively strong. The second depends much more heavily on reconstruction and inference. The record gaps therefore do not undermine the material comparison itself; they affect confidence in connecting that material to one specific flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulIt now appears that the debris from MOGUL flight no. 4 had come to earth on the plains east of the Sacramento Moun...</span></span></span>
 
 ## What the Gaps Do and Do Not Prove
 
 The existence of missing records is sometimes treated as decisive evidence by both sides, but the historical reality is more limited.
 
-The gaps do not prove that Flight 4 never existed. Missing or incomplete documentation is common in military and research archives, particularly for projects conducted during periods of rapid experimentation. The Air Force investigation concluded that the surviving evidence was sufficient to establish Flight 4 as the most likely source of the Roswell debris despite those gaps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+The gaps do not prove that Flight 4 never existed. Missing or incomplete documentation is common in military and research archives, particularly for projects conducted during periods of rapid experimentation. The Air Force investigation concluded that the surviving evidence was sufficient to establish Flight 4 as the most likely source of the Roswell debris despite those gaps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-At the same time, the gaps do not prove that Flight 4 was definitely the source of the debris. Because the documentation is incomplete, the conclusion remains partly inferential. Critics can reasonably point out that historians lack the ideal chain of evidence that would directly connect launch, flight path, crash location and recovered debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">a few facts about project mogul</span><span class="citation-popover-snippet">4 was cancelled. It did not fly, there is no record of it anywhere and that number is skipped in the accounting. Contrary to...Read more...</span></span></span>
+At the same time, the gaps do not prove that Flight 4 was definitely the source of the debris. Because the documentation is incomplete, the conclusion remains partly inferential. Critics can reasonably point out that historians lack the ideal chain of evidence that would directly connect launch, flight path, crash location and recovered debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">a few facts about project mogul</span><span class="citation-popover-snippet">4 was cancelled. It did not fly, there is no record of it anywhere and that number is skipped in the accounting. Contrary to...Read more...</span></span></span>
 
-The practical consequence is that Flight 4 occupies an unusual position in the Roswell debate. It is arguably the strongest candidate when comparing known materials and timing, yet it is also the candidate whose identification depends most heavily on reconstructing a fragmented historical record. That combination explains why the missing records remain one of the most discussed weaknesses in the Mogul explanation, even among researchers who accept that Mogul hardware provides the best match to the debris itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+The practical consequence is that Flight 4 occupies an unusual position in the Roswell debate. It is arguably the strongest candidate when comparing known materials and timing, yet it is also the candidate whose identification depends most heavily on reconstructing a fragmented historical record. That combination explains why the missing records remain one of the most discussed weaknesses in the Mogul explanation, even among researchers who accept that Mogul hardware provides the best match to the debris itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VxxRFCM2w-w" title="Genesis of Roswell: Flight #4, NYU, June 4, 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VxxRFCM2w-w" target="_blank" rel="noopener noreferrer">Genesis of Roswell: Flight #4, NYU, June 4, 1947</a></p><p class="youtube-embed-meta">Channel: TheNMSR</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VxxRFCM2w-w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VxxRFCM2w-w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Missing Paper Trail Problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Missing Paper Trail Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
-        </h4>
-        <p class="fr-book-author">By James McAndrew</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
+</h4>
+<p class="fr-book-author">By James McAndrew</p>
         
-        <p class="fr-book-desc">Addresses missing records, reconstruction methods and Project Mogul paperwork.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses missing records, reconstruction methods and Project Mogul paperwork.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Explores evidentiary weaknesses and documentary gaps in Roswell claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores evidentiary weaknesses and documentary gaps in Roswell claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Analyzes how incomplete records affected later interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes how incomplete records affected later interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Represents the narrative that prompted later documentary investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the narrative that prompted later documentary investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ao8AAeSw0HJp1S2n/s-l225.jpg" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/1GEAAeSw3KdpYAOG/s-l225.jpg" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="https://i.ebayimg.com/images/g/p1gAAOSwlndnXwAd/s-l225.jpg" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="record-gaps-the-missing-paper-trail-problem-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="https://i.ebayimg.com/images/g/wt4AAOSw2p9nr1Fc/s-l225.jpg" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-paper-trail-problem-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="the-missing-paper-trail-problem-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ The practical consequence is that Flight 4 occupies an unusual position in the R
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ The practical consequence is that Flight 4 occupies an unusual position in the R
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ The practical consequence is that Flight 4 occupies an unusual position in the R
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ The practical consequence is that Flight 4 occupies an unusual position in the R
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ The practical consequence is that Flight 4 occupies an unusual position in the R
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,98 +739,98 @@ The practical consequence is that Flight 4 occupies an unusual position in the R
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</p></details>
    Published: March 24, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kevinrandle.blogspot.com  
    Title: a few facts about project mogul  
-   Link: <a href="https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 was cancelled. It did not fly, there is no record of it anywhere and that number is skipped in the accounting. Contrary to...Read more...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 was cancelled. It did not fly, there is no record of it anywhere and that number is skipped in the accounting. Contrary to...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skepticalinquirer.org  
    Title: The Roswell Incident at 70: Facts, Not Myths Flight 4, Professor Charles B  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moore, showed us some of what was on that flight. “The Roswell Incident and Project Mogul” Mogul balloon assemblages. Moore...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moore, showed us some of what was on that flight. “The Roswell Incident and Project Mogul” Mogul balloon assemblages. Moore...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Roswell (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) where the Roswell UFO exists, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) where the Roswell UFO exists, and...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentIn the 1990s, the Air Force published multiple reports which established that the incident was related to Project Mogu...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentIn the 1990s, the Air Force published multiple reports which established that the incident was related to Project Mogu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulIt now appears that the debris from MOGUL flight no. 4 had come to earth on the plains east of the Sacramento Moun...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulIt now appears that the debris from MOGUL flight no. 4 had come to earth on the plains east of the Sacramento Moun...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—...Other Mogul records, describing military applications of balloon...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—...Other Mogul records, describing military applications of balloon...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ia601607.us.archive.org  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/The-DAF-[Legacy" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/The-DAF-[Legacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/The-DAF-[Legacy" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/The-DAF-[Legacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Major Jesse Marcel, an intelligence officer from Roswell Ar...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Major Jesse Marcel, an intelligence officer from Roswell Ar...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — Charles Moore, a scientist who in 1947 was working on the then top-s...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — Charles Moore, a scientist who in 1947 was working on the then top-s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: was the roswell incident ever debunked  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16dfm0d/was_the_roswell_incident_ever_debunked/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16dfm0d/was_the_roswell_incident_ever_debunked/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?: r/UFOsI am referring to the 1947 incident in Roswell, Lincoln County. I have watched many documentaries but there seems to be no conc...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16dfm0d/was_the_roswell_incident_ever_debunked/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16dfm0d/was_the_roswell_incident_ever_debunked/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?: r/UFOsI am referring to the 1947 incident in Roswell, Lincoln County. I have watched many documentaries but there seems to be no conc...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amazon.com  
    Title: The Roswell Report: Fact Vs  
-   Link: <a href="https://www.amazon.com/Roswell-Report-Fiction-Mexico-Desert/dp/016048023X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Roswell-Report-Fiction-Mexico-Desert/dp/016048023X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiction in the New Mexico...The US Air Force&#x27;s 1995 official investigation into the 1947 Roswell UFO incident examines claims and eviden...</p></details>
+   Link:<a href="https://www.amazon.com/Roswell-Report-Fiction-Mexico-Desert/dp/016048023X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Roswell-Report-Fiction-Mexico-Desert/dp/016048023X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiction in the New Mexico...The US Air Force&#x27;s 1995 official investigation into the 1947 Roswell UFO incident examines claims and eviden...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul.Read more...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul.Read more...</p></details>

@@ -280,22 +280,22 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolve
 
 ## Introduction
 
-The 1989 *Unsolved Mysteries* segment on Roswell did more than recount an old UFO story. It transformed Roswell into a national television mystery by presenting it in a format that felt investigative, dramatic and unresolved. For many viewers, the programme was their first detailed exposure to claims about recovered debris, alleged witnesses, military [secrecy]({{ 'secrecy/' | relative_url }}) and possible non-human [bodies]({{ 'bodies/' | relative_url }}). Rather than proving any particular interpretation, the broadcast made uncertainty itself compelling. In doing so, it helped move Roswell beyond UFO magazines and specialist books into mainstream popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unsolved_Mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unsolved Mysteries</span><span class="citation-popover-snippet">Unsolved Mysteries</span></span></span>
+The 1989 *Unsolved Mysteries* segment on Roswell did more than recount an old UFO story. It transformed Roswell into a national television mystery by presenting it in a format that felt investigative, dramatic and unresolved. For many viewers, the programme was their first detailed exposure to claims about recovered debris, alleged witnesses, military [secrecy]({{ 'secrecy/' | relative_url }}) and possible non-human [bodies]({{ 'bodies/' | relative_url }}). Rather than proving any particular interpretation, the broadcast made uncertainty itself compelling. In doing so, it helped move Roswell beyond UFO magazines and specialist books into mainstream popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unsolved_Mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unsolved Mysteries</span><span class="citation-popover-snippet">Unsolved Mysteries</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolved_mysteries_r_aee931-Illustration-1-dark.svg" | relative_url }}" alt="TV Suspense illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolved_mysteries_r_aee931-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolved_mysteries_r_aee931-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The episode arrived at a moment when Roswell was already being revived by books and witness interviews. Television amplified those claims through images, narration and suspense, giving audiences the feeling that they were watching an active investigation rather than a settled historical dispute. The result was one of the most influential moments in the [media]({{ 'media/' | relative_url }}) history of the Roswell legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The episode arrived at a moment when Roswell was already being revived by books and witness interviews. Television amplified those claims through images, narration and suspense, giving audiences the feeling that they were watching an active investigation rather than a settled historical dispute. The result was one of the most influential moments in the [media]({{ 'media/' | relative_url }}) history of the Roswell legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oXc5g0vqnVI" title="Exploring ROSWELL 👽 | Alien Fun | UFO Museum | UFO Spacewalk | USA Road Trip 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oXc5g0vqnVI" target="_blank" rel="noopener noreferrer">Exploring ROSWELL 👽 | Alien Fun | UFO Museum | UFO Spacewalk | USA Road Trip 2025</a></p><p class="youtube-embed-meta">Channel: Kim And Dan Do Stuff</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oXc5g0vqnVI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oXc5g0vqnVI">Open on YouTube</a></p></div></div></div>
 
 ## The Witness-and-Reenactment Formula
 
-What made *Unsolved Mysteries* powerful was not access to new physical evidence. Its strength was a storytelling formula that combined interviews, dramatic reconstructions and a serious investigative tone. The programme regularly applied this approach to crimes, disappearances and unexplained events, encouraging viewers to think of each case as an open question awaiting resolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unsolved_Mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unsolved Mysteries</span><span class="citation-popover-snippet">Unsolved Mysteries</span></span></span>
+What made *Unsolved Mysteries* powerful was not access to new physical evidence. Its strength was a storytelling formula that combined interviews, dramatic reconstructions and a serious investigative tone. The programme regularly applied this approach to crimes, disappearances and unexplained events, encouraging viewers to think of each case as an open question awaiting resolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unsolved_Mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unsolved Mysteries</span><span class="citation-popover-snippet">Unsolved Mysteries</span></span></span>
 
-In the Roswell segment, witness [testimony]({{ 'testimony/' | relative_url }}) became the centrepiece. Individuals connected directly or indirectly to the story described unusual [debris]({{ 'debris/' | relative_url }}), military activity and rumours of recovered bodies. Dramatic reenactments visually recreated events that had allegedly occurred more than forty years earlier. The audience was not simply told about Roswell; it was invited to imagine being present when soldiers secured a crash site or when witnesses encountered strange materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+In the Roswell segment, witness [testimony]({{ 'testimony/' | relative_url }}) became the centrepiece. Individuals connected directly or indirectly to the story described unusual [debris]({{ 'debris/' | relative_url }}), military activity and rumours of recovered bodies. Dramatic reenactments visually recreated events that had allegedly occurred more than forty years earlier. The audience was not simply told about Roswell; it was invited to imagine being present when soldiers secured a crash site or when witnesses encountered strange materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-One especially important development involved mortician [Glenn Dennis]({{ 'glenn-dennis/' | relative_url }}), whose claims about conversations regarding body preservation and stories of non-human corpses became highly influential in later Roswell narratives. His account gained widespread visibility through television exposure, helping shift public attention from unusual debris toward the much more dramatic possibility of recovered alien bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+One especially important development involved mortician [Glenn Dennis]({{ 'glenn-dennis/' | relative_url }}), whose claims about conversations regarding body preservation and stories of non-human corpses became highly influential in later Roswell narratives. His account gained widespread visibility through television exposure, helping shift public attention from unusual debris toward the much more dramatic possibility of recovered alien bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 The programme's visual language mattered as much as the testimony. Low lighting, ominous music, serious narration and carefully staged reconstructions created an atmosphere in which uncertainty felt meaningful. Even viewers who remained sceptical could come away feeling that important questions had not been answered.
 
@@ -306,7 +306,7 @@ The programme's visual language mattered as much as the testimony. Low lighting,
 
 The Roswell segment succeeded because it did not need to solve the case. Its purpose was to present a mystery that seemed worthy of investigation.
 
-Television suspense operates differently from historical research. Historians often focus on documents, corroboration and competing explanations. A suspense-driven television programme focuses on unresolved tension. The key question becomes not "What has been proven?" but "What if something important has been hidden?" Roswell was particularly suited to this treatment because the story already contained apparent contradictions: an initial military announcement about a [flying disc]({{ 'flying-disc/' | relative_url }}), a rapid retraction, decades of rumours and claims of secrecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Television suspense operates differently from historical research. Historians often focus on documents, corroboration and competing explanations. A suspense-driven television programme focuses on unresolved tension. The key question becomes not "What has been proven?" but "What if something important has been hidden?" Roswell was particularly suited to this treatment because the story already contained apparent contradictions: an initial military announcement about a [flying disc]({{ 'flying-disc/' | relative_url }}), a rapid retraction, decades of rumours and claims of secrecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 Several features made Roswell ideal television material:
 
@@ -323,7 +323,7 @@ Several features made Roswell ideal television material:
 
 These ingredients encouraged audiences to treat the case as an ongoing investigation. The absence of definitive proof became part of the attraction rather than a weakness. Every unanswered question could be interpreted as another reason to keep watching, discussing and searching for additional witnesses.
 
-The programme therefore reinforced a broader cultural shift in the late twentieth century toward conspiracy-oriented storytelling. Suspicion, hidden knowledge and official secrecy became narrative engines that kept Roswell alive in public imagination long after the original event. Scholars of Roswell's development have noted that the story's growth depended heavily on retelling and expansion, and television provided an ideal medium for that process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The programme therefore reinforced a broader cultural shift in the late twentieth century toward conspiracy-oriented storytelling. Suspicion, hidden knowledge and official secrecy became narrative engines that kept Roswell alive in public imagination long after the original event. Scholars of Roswell's development have noted that the story's growth depended heavily on retelling and expansion, and television provided an ideal medium for that process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolved_mysteries_r_aee931-Illustration-2-dark.svg" | relative_url }}" alt="TV Suspense illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolved_mysteries_r_aee931-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolved_mysteries_r_aee931-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -331,9 +331,9 @@ The programme therefore reinforced a broader cultural shift in the late twentiet
 
 Books such as *The Roswell Incident* had already revived interest in the case, but their audience remained relatively specialised. Television reached people who would never have purchased a UFO book or attended a UFO conference.
 
-The 1989 *Unsolved Mysteries* broadcast reportedly attracted an audience measured in the tens of millions, vastly expanding awareness of Roswell. Many viewers encountered the story for the first time through that single programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The 1989 *Unsolved Mysteries* broadcast reportedly attracted an audience measured in the tens of millions, vastly expanding awareness of Roswell. Many viewers encountered the story for the first time through that single programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The show's influence extended beyond immediate ratings. Later commentators, researchers and viewers repeatedly pointed to the episode as a turning point in Roswell's public visibility. Discussions surrounding later television revisits to the case have described the original broadcast as a catalyst that increased awareness, generated new witness claims and became part of the Roswell story's continuing evolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnsolvedMysteries/comments/1fug76p/netflix_vol_5_episode_4_the_roswell_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2starrymag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Netflix Vol</span><span class="citation-popover-snippet">5, Episode 4: The Roswell UFO Incident...October 2, 2024 — The OG episode has become part of the Roswell Incident story, as it heightene...</span><span class="citation-popover-meta">Published: October 2, 2024</span></span></span>
+The show's influence extended beyond immediate ratings. Later commentators, researchers and viewers repeatedly pointed to the episode as a turning point in Roswell's public visibility. Discussions surrounding later television revisits to the case have described the original broadcast as a catalyst that increased awareness, generated new witness claims and became part of the Roswell story's continuing evolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnsolvedMysteries/comments/1fug76p/netflix_vol_5_episode_4_the_roswell_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Netflix Vol</span><span class="citation-popover-snippet">5, Episode 4: The Roswell UFO Incident...October 2, 2024 — The OG episode has become part of the Roswell Incident story, as it heightene...</span><span class="citation-popover-meta">Published: October 2, 2024</span></span></span>
 
 Television also gave Roswell a shared visual identity. Readers might imagine a crash site differently when reading a book, but television supplied common images: military vehicles, desert landscapes, shadowy witnesses and reconstructed scenes of secrecy. Those images became part of how audiences remembered Roswell, regardless of whether they accepted the extraterrestrial interpretation.
 
@@ -344,202 +344,202 @@ Television also gave Roswell a shared visual identity. Readers might imagine a c
 
 The importance of the 1989 episode lies less in any single claim than in the way it framed the entire subject. Roswell was presented as a mystery deserving continued attention, not merely as a historical incident with competing explanations.
 
-That framing proved remarkably durable. Later documentaries, television specials and streaming productions continued to revisit Roswell using many of the same techniques: witness interviews, archival material, reenactments and unresolved questions. Even programmes that challenged extraterrestrial interpretations often retained the investigative structure popularised by earlier television treatments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFOs%3A_Seeing_Is_Believing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFOs: Seeing Is Believing</span><span class="citation-popover-snippet">UFOs: Seeing Is Believing</span></span></span>
+That framing proved remarkably durable. Later documentaries, television specials and streaming productions continued to revisit Roswell using many of the same techniques: witness interviews, archival material, reenactments and unresolved questions. Even programmes that challenged extraterrestrial interpretations often retained the investigative structure popularised by earlier television treatments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFOs%3A_Seeing_Is_Believing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFOs: Seeing Is Believing</span><span class="citation-popover-snippet">UFOs: Seeing Is Believing</span></span></span>
 
-In this sense, *Unsolved Mysteries* helped redefine Roswell for a mass audience. It converted a disputed historical episode into a recurring television mystery. The programme's greatest contribution was not evidence but atmosphere. By making Roswell feel unsolved, it ensured that the story would remain culturally alive long after the original events of 1947 had passed into history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unsolved_Mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unsolved Mysteries</span><span class="citation-popover-snippet">Unsolved Mysteries</span></span></span>
+In this sense, *Unsolved Mysteries* helped redefine Roswell for a mass audience. It converted a disputed historical episode into a recurring television mystery. The programme's greatest contribution was not evidence but atmosphere. By making Roswell feel unsolved, it ensured that the story would remain culturally alive long after the original events of 1947 had passed into history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unsolved_Mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unsolved Mysteries</span><span class="citation-popover-snippet">Unsolved Mysteries</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolved_mysteries_r_aee931-Illustration-3-dark.svg" | relative_url }}" alt="TV Suspense illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolved_mysteries_r_aee931-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_unsolved_mysteries_r_aee931-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Television Made Roswell Feel Unsolved. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Television Made Roswell Feel Unsolved. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Places Roswell within broader unexplained-phenomena culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Roswell within broader unexplained-phenomena culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Centers on witness testimony, the key ingredient of the TV format.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on witness testimony, the key ingredient of the TV format.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provided many of the themes television later amplified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provided many of the themes television later amplified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Represents the witness-driven reinvestigation era featured on TV.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the witness-driven reinvestigation era featured on TV.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;"><img src="https://i.ebayimg.com/images/g/~ZcAAeSwS~ZoktWy/s-l225.jpg" alt="Listing image for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift"><img src="https://i.ebayimg.com/images/g/GIYAAOSw9VhmOghw/s-l225.jpg" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell"><img src="https://i.ebayimg.com/images/g/AHMAAeSwvQposFx1/s-l225.jpg" alt="Listing image for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade."><img src="{{ '/assets/images/marketplace-covers/eae7a1e8a8fad5254c8b.jpg' | relative_url }}" alt="Listing image for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="tv-suspense-how-television-made-roswell-feel-unsolved-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled"><img src="https://i.ebayimg.com/images/g/iQcAAeSwJElqGhVs/s-l225.jpg" alt="Listing image for Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-television-made-roswell-feel-unsolved-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ In this sense, *Unsolved Mysteries* helped redefine Roswell for a mass audience.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ In this sense, *Unsolved Mysteries* helped redefine Roswell for a mass audience.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ In this sense, *Unsolved Mysteries* helped redefine Roswell for a mass audience.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ In this sense, *Unsolved Mysteries* helped redefine Roswell for a mass audience.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ In this sense, *Unsolved Mysteries* helped redefine Roswell for a mass audience.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,99 +745,99 @@ In this sense, *Unsolved Mysteries* helped redefine Roswell for a mass audience.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Unsolved Mysteries  
-   Link: <a href="https://en.wikipedia.org/wiki/Unsolved_Mysteries" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unsolved_Mysteries</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unsolved_Mysteries" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unsolved_Mysteries</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: people.com  
    Title: "Unsolved Mysteries": The True Story of the Roswell UFO Incident  
-   Link: <a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
+   Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Netflix Vol  
-   Link: <a href="https://www.reddit.com/r/UnsolvedMysteries/comments/1fug76p/netflix_vol_5_episode_4_the_roswell_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/1fug76p/netflix_vol_5_episode_4_the_roswell_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5, Episode 4: The Roswell UFO Incident...October 2, 2024 — The OG episode has become part of the Roswell Incident story, as it heightene...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnsolvedMysteries/comments/1fug76p/netflix_vol_5_episode_4_the_roswell_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/1fug76p/netflix_vol_5_episode_4_the_roswell_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5, Episode 4: The Roswell UFO Incident...October 2, 2024 — The OG episode has become part of the Roswell Incident story, as it heightene...</p></details>
    Published: October 2, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: starrymag.com  
    Title: unsolved mysteries the roswell ufo incident  
-   Link: <a href="https://starrymag.com/unsolved-mysteries-the-roswell-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://starrymag.com/unsolved-mysteries-the-roswell-ufo-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries – The Roswell UFO Incident14 Oct 2024 — Over six hundred witnesses claim that they saw or knew about the Roswell incid...</p></details>
+   Link:<a href="https://starrymag.com/unsolved-mysteries-the-roswell-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://starrymag.com/unsolved-mysteries-the-roswell-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries – The Roswell UFO Incident14 Oct 2024 — Over six hundred witnesses claim that they saw or knew about the Roswell incid...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFOs: Seeing Is Believing  
-   Link: <a href="https://en.wikipedia.org/wiki/UFOs%3A_Seeing_Is_Believing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFOs%3A_Seeing_Is_Believing</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFOs%3A_Seeing_Is_Believing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFOs%3A_Seeing_Is_Believing</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metacritic.com  
    Title: episode 4 the roswell ufo incident  
-   Link: <a href="https://www.metacritic.com/tv/unsolved-mysteries-2020/season-5/episode-4-the-roswell-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.metacritic.com/tv/unsolved-mysteries-2020/season-5/episode-4-the-roswell-ufo-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Was it a spy balloon or an alien encounter? UFO experts unravel the iconic mystery. View All...</p></details>
+   Link:<a href="https://www.metacritic.com/tv/unsolved-mysteries-2020/season-5/episode-4-the-roswell-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.metacritic.com/tv/unsolved-mysteries-2020/season-5/episode-4-the-roswell-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was it a spy balloon or an alien encounter? UFO experts unravel the iconic mystery. View All...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/netflixus/posts/paranormal-activity-cold-cases-and-roswell-ufos-unsolved-mysteries-is-back-on-oc/940586301443671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/netflixus/posts/paranormal-activity-cold-cases-and-roswell-ufos-unsolved-mysteries-is-back-on-oc/940586301443671/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bout the man that was found in the abandoned building...</p></details>
+   Link:<a href="https://www.facebook.com/netflixus/posts/paranormal-activity-cold-cases-and-roswell-ufos-unsolved-mysteries-is-back-on-oc/940586301443671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/netflixus/posts/paranormal-activity-cold-cases-and-roswell-ufos-unsolved-mysteries-is-back-on-oc/940586301443671/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bout the man that was found in the abandoned building...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/us/episode/roswell-the-first-witness---the-journal/umc.cmc.3pukqwtzxi9b42x9kx14bw69t?showId=umc.cmc.dty6d53ytbez51lt6rbsslv2" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/roswell-the-first-witness---the-journal/umc.cmc.3pukqwtzxi9b42x9kx14bw69t?showId=umc.cmc.dty6d53ytbez51lt6rbsslv2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Roswell: The First Witness - The JournalS1, E5: A cryptic journal sparks an unprecedented investigation into whether a UFO cras...</p></details>
+   Link:<a href="https://tv.apple.com/us/episode/roswell-the-first-witness---the-journal/umc.cmc.3pukqwtzxi9b42x9kx14bw69t?showId=umc.cmc.dty6d53ytbez51lt6rbsslv2" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/roswell-the-first-witness---the-journal/umc.cmc.3pukqwtzxi9b42x9kx14bw69t?showId=umc.cmc.dty6d53ytbez51lt6rbsslv2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Roswell: The First Witness - The JournalS1, E5: A cryptic journal sparks an unprecedented investigation into whether a UFO cras...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oXc5g0vqnVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oXc5g0vqnVI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Roswell (UFO Festival) &amp; Bottomless Lakes Adventure![https://www.youtube.com/watch?v=PWexOU1_zQs...&quot;](https://www.youtube.com/watch?v=PWexOU1_zQs...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oXc5g0vqnVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oXc5g0vqnVI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Roswell (UFO Festival) &amp; Bottomless Lakes Adventure![https://www.youtube.com/watch?v=PWexOU1_zQs...&quot;](https://www.youtube.com/watch?v=PWexOU1_zQs...&quot;)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: is this brokenwood or roswell  
-   Link: <a href="https://www.facebook.com/BrokenwoodMysteries/posts/is-this-brokenwood-or-roswell-/1616823377113926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BrokenwoodMysteries/posts/is-this-brokenwood-or-roswell-/1616823377113926/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>? 🛸Roswell, July 1947 anchors one of the most analyzed events in modern mystery history. Unsolved Mysteries about the Roswell incident...</p></details>
+   Link:<a href="https://www.facebook.com/BrokenwoodMysteries/posts/is-this-brokenwood-or-roswell-/1616823377113926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BrokenwoodMysteries/posts/is-this-brokenwood-or-roswell-/1616823377113926/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>? 🛸Roswell, July 1947 anchors one of the most analyzed events in modern mystery history. Unsolved Mysteries about the Roswell incident...</p></details>
    Published: July 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: screenrant.com  
    Title: Most new witness came  
-   Link: <a href="https://screenrant.com/unsolved-mysteries-volume-5-episode-4-roswell-ufo-true-story/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/unsolved-mysteries-volume-5-episode-4-roswell-ufo-true-story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Screen RantUnsolved Mysteries Volume 5 Episode 4: The True Story...3 Oct 2024 — Donald Schmitt and Kevin Randle have gathered since the...</p></details>
+   Link:<a href="https://screenrant.com/unsolved-mysteries-volume-5-episode-4-roswell-ufo-true-story/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/unsolved-mysteries-volume-5-episode-4-roswell-ufo-true-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Screen RantUnsolved Mysteries Volume 5 Episode 4: The True Story...3 Oct 2024 — Donald Schmitt and Kevin Randle have gathered since the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFO enthusiasts, investigators gather in Roswell, New Mexico | Banfield  
-   Link: <a href="https://www.youtube.com/watch?v=TQ0P0xj2JaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQ0P0xj2JaY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>75 years later, interest in the Roswell incident hasn’t waned...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQ0P0xj2JaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQ0P0xj2JaY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>75 years later, interest in the Roswell incident hasn’t waned...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt33381205/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt33381205/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Unsolved Mysteries&quot; The Roswell UFO Incident (TV...In 1947, an unidentified flying object crashed near Roswell, NM. Was it a spy balloo...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt33381205/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt33381205/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Unsolved Mysteries&quot; The Roswell UFO Incident (TV...In 1947, an unidentified flying object crashed near Roswell, NM. Was it a spy balloo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tvgrapevine.com  
    Title: unsolved mysteries recap for the roswell ufo incident  
-   Link: <a href="https://www.tvgrapevine.com/unsolved-mysteries-recap-for-the-roswell-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.tvgrapevine.com/unsolved-mysteries-recap-for-the-roswell-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over 600 witnesses claim that...</p></details>
+   Link:<a href="https://www.tvgrapevine.com/unsolved-mysteries-recap-for-the-roswell-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.tvgrapevine.com/unsolved-mysteries-recap-for-the-roswell-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over 600 witnesses claim that...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PWexOU1_zQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PWexOU1_zQs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiasts, investigators gather in Roswell, New Mexico | Banfield...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PWexOU1_zQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PWexOU1_zQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiasts, investigators gather in Roswell, New Mexico | Banfield...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Roswell UFO Festival | Live From | Airbnb  
-   Link: <a href="https://www.youtube.com/watch?v=JVDAAsqdySw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JVDAAsqdySw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=JVDAAsqdySw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JVDAAsqdySw</a>  

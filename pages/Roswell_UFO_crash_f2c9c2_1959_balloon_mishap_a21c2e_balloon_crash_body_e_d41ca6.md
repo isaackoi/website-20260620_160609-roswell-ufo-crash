@@ -280,20 +280,20 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloo
 
 ## Introduction
 
-The 1959 balloon crash became part of the Roswell body debate because it provided the U.S. [Air Force]({{ 'air-force/' | relative_url }}) with a documented, non-UFO incident that resembled elements of later witness stories. In its 1997 report *The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})*, the Air Force argued that many accounts of injured or unusual-looking “bodies” associated with Roswell were not memories of a single 1947 event. Instead, they may have combined details from several later military activities, including a balloon-training accident near Roswell in May 1959. The significance of the crash lies less in the accident itself than in how it was used to explain testimony that emerged decades after the original Roswell debris recovery. U.S. Department of War+2U.S. Air Force <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+The 1959 balloon crash became part of the Roswell body debate because it provided the U.S. [Air Force]({{ 'air-force/' | relative_url }}) with a documented, non-UFO incident that resembled elements of later witness stories. In its 1997 report *The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})*, the Air Force argued that many accounts of injured or unusual-looking “bodies” associated with Roswell were not memories of a single 1947 event. Instead, they may have combined details from several later military activities, including a balloon-training accident near Roswell in May 1959. The significance of the crash lies less in the accident itself than in how it was used to explain testimony that emerged decades after the original Roswell debris recovery. U.S. Department of War+2U.S. Air Force<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-1-dark.svg" | relative_url }}" alt="Crash Link illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did a 1959 Crash Feed Roswell Body Stories?
 
-The Air Force’s argument rested on a simple observation: many of the most detailed Roswell body narratives did not appear in public until the late 1970s, 1980s, and 1990s. By then, witnesses were recalling events that allegedly occurred more than thirty years earlier. Investigators therefore looked for later incidents in the Roswell area that could have supplied similar imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+The Air Force’s argument rested on a simple observation: many of the most detailed Roswell body narratives did not appear in public until the late 1970s, 1980s, and 1990s. By then, witnesses were recalling events that allegedly occurred more than thirty years earlier. Investigators therefore looked for later incidents in the Roswell area that could have supplied similar imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
 The May 1959 balloon accident stood out because it involved:
 
-* A dramatic crash near Roswell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">archive where no mannequin has been before 1997</span><span class="citation-popover-snippet">the recovery of human-shaped bodies from the crash area. Frank Kaufmann, now aged 81, a civilian member at the Roswell...</span></span></span>
+* A dramatic crash near Roswell.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">archive where no mannequin has been before 1997</span><span class="citation-popover-snippet">the recovery of human-shaped bodies from the crash area. Frank Kaufmann, now aged 81, a civilian member at the Roswell...</span></span></span>
 * Injured personnel transported through military channels.
 * Medical treatment at facilities linked to the former Roswell Army Air Field, then Walker Air Force Base.
-* An airman whose appearance became severely distorted by swelling and bruising after the accident. U.S. Department of War+2Project Gutenberg <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+* An airman whose appearance became severely distorted by swelling and bruising after the accident. U.S. Department of War+2Project Gutenberg<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
 Those features overlapped with recurring Roswell claims about damaged [bodies]({{ 'bodies/' | relative_url }}), hospital activity, military [secrecy]({{ 'secrecy/' | relative_url }}), and unusual-looking casualties.
 
@@ -302,15 +302,15 @@ Those features overlapped with recurring Roswell claims about damaged [bodies]({
 
 ## What Happened During the Training Flight?
 
-The flight was part of Air Force balloon training connected with high-altitude research programmes that later produced the famous Excelsior parachute jumps of Captain Joseph Kittinger. On 21 May 1959, Kittinger, Dan Fulgham, and William Kaufman were conducting a low-altitude training mission in a manned balloon known as the Sky-Car. During landing practice, the gondola overturned northwest of Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stratocat.com.ar/fichas-e/1959/HMN-19590521.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stratocat.com.ar">[StratoCat+2Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stratocat.com.ar</span><span class="citation-popover-title">Strato Cat SKY-CAR (Fulgham</span><span class="citation-popover-snippet">SKY-CAR (Fulgham - Kaufman - Kittinger) - 5/21/1959Balloon launched on 5/21/1959, balloon malfunctioned. The Roswell Report: Cas...</span></span></span>
+The flight was part of Air Force balloon training connected with high-altitude research programmes that later produced the famous Excelsior parachute jumps of Captain Joseph Kittinger. On 21 May 1959, Kittinger, Dan Fulgham, and William Kaufman were conducting a low-altitude training mission in a manned balloon known as the Sky-Car. During landing practice, the gondola overturned northwest of Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stratocat.com.ar/fichas-e/1959/HMN-19590521.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stratocat.com.ar">[com.ar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stratocat.com.ar</span><span class="citation-popover-title">Strato Cat SKY-CAR (Fulgham</span><span class="citation-popover-snippet">SKY-CAR (Fulgham - Kaufman - Kittinger) - 5/21/1959Balloon launched on 5/21/1959, balloon malfunctioned. The Roswell Report: Cas...</span></span></span>
 
-The crash injured the crew. Fulgham suffered extensive swelling and bruising to his head and face, while Kittinger received facial injuries. Because balloon operations were considered hazardous, medical support was already in place and the injured men were quickly evacuated. Official [records]({{ 'records/' | relative_url }}) later cited by the Air Force described Fulgham’s appearance as so altered by swelling that his eyes were nearly shut and his facial features were difficult to distinguish. U.S. Department of War+2Project Gutenberg <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+The crash injured the crew. Fulgham suffered extensive swelling and bruising to his head and face, while Kittinger received facial injuries. Because balloon operations were considered hazardous, medical support was already in place and the injured men were quickly evacuated. Official [records]({{ 'records/' | relative_url }}) later cited by the Air Force described Fulgham’s appearance as so altered by swelling that his eyes were nearly shut and his facial features were difficult to distinguish. U.S. Department of War+2Project Gutenberg<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
-This physical transformation became the key link. Air Force researchers argued that a person briefly seeing an injured airman in such a condition might later remember an unusual or non-human-looking figure, especially after decades had passed and Roswell stories had become associated with alien bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+This physical transformation became the key link. Air Force researchers argued that a person briefly seeing an injured airman in such a condition might later remember an unusual or non-human-looking figure, especially after decades had passed and Roswell stories had become associated with alien bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
 ## Why the Air Force Connected It to Later Testimony
 
-The 1997 Air Force report did not claim that witnesses deliberately invented stories. Instead, it proposed a process of memory consolidation. According to this interpretation, people may have blended separate events from different years into a single narrative centred on Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — observations of alien bodies associated with the &quot;Roswell Incident.&quot; Pursuant to the discovery, re...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+The 1997 Air Force report did not claim that witnesses deliberately invented stories. Instead, it proposed a process of memory consolidation. According to this interpretation, people may have blended separate events from different years into a single narrative centred on Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — observations of alien bodies associated with the &quot;Roswell Incident.&quot; Pursuant to the discovery, re...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 The balloon accident helped explain several recurring themes:
 
@@ -318,218 +318,218 @@ The balloon accident helped explain several recurring themes:
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-2-dark.svg" | relative_url }}" alt="Crash Link illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Hospital Stories
 
-Some Roswell accounts described military ambulances, injured occupants, hospital activity, or medical personnel reacting to disturbing sights. The 1959 crash generated exactly that sort of real-world activity. Injured crewmen were transported for treatment, creating scenes that later witnesses could potentially remember without accurately placing them in time. U.S. Department of War+2Project Gutenberg <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+Some Roswell accounts described military ambulances, injured occupants, hospital activity, or medical personnel reacting to disturbing sights. The 1959 crash generated exactly that sort of real-world activity. Injured crewmen were transported for treatment, creating scenes that later witnesses could potentially remember without accurately placing them in time. U.S. Department of War+2Project Gutenberg<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
 ### Strange-Looking Bodies
 
-Witness descriptions sometimes emphasised oddly shaped heads, unusual facial proportions, or figures that appeared physically abnormal. Fulgham’s documented injuries created a visibly distorted appearance through swelling and bruising. The Air Force suggested that such a sight could become exaggerated or reinterpreted in memory over subsequent decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+Witness descriptions sometimes emphasised oddly shaped heads, unusual facial proportions, or figures that appeared physically abnormal. Fulgham’s documented injuries created a visibly distorted appearance through swelling and bruising. The Air Force suggested that such a sight could become exaggerated or reinterpreted in memory over subsequent decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
 ### Military Secrecy and Urgency
 
-Balloon research programmes involved military personnel, restricted operations, specialised equipment, and rapid recovery procedures. Witnesses observing these activities could have interpreted them as evidence of something extraordinary, particularly after Roswell became famous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+Balloon research programmes involved military personnel, restricted operations, specialised equipment, and rapid recovery procedures. Witnesses observing these activities could have interpreted them as evidence of something extraordinary, particularly after Roswell became famous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AlFuucsLIVk" title="Were Alien Bodies Found At Roswell&#x27;s UFO Crash?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer">Were Alien Bodies Found At Roswell&#x27;s UFO Crash?</a></p><p class="youtube-embed-meta">Channel: The Rest Is Classified &middot; Views: 4.4K &middot; Uploaded: June 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AlFuucsLIVk">Open on YouTube</a></p></div></div></div>
 
 ## Where the Explanation Fits
 
-The 1959 crash explanation is strongest when applied to witness accounts involving hospitals, injured personnel, ambulances, or observations of unusual-looking human bodies rather than to stories focused on the original 1947 [debris]({{ 'debris/' | relative_url }}) field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+The 1959 crash explanation is strongest when applied to witness accounts involving hospitals, injured personnel, ambulances, or observations of unusual-looking human bodies rather than to stories focused on the original 1947 [debris]({{ 'debris/' | relative_url }}) field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
-It also fits the chronology of Roswell folklore. The elaborate body-recovery narratives that became widely known developed long after 1947. By the time researchers collected many of these accounts, witnesses were recalling events separated from the alleged incident by several decades. The Air Force argued that this created opportunities for memories from different periods to merge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+It also fits the chronology of Roswell folklore. The elaborate body-recovery narratives that became widely known developed long after 1947. By the time researchers collected many of these accounts, witnesses were recalling events separated from the alleged incident by several decades. The Air Force argued that this created opportunities for memories from different periods to merge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-The broader 1997 report used the same logic elsewhere, suggesting that later observers may have combined memories of balloon programmes, anthropomorphic test [dummies]({{ 'dummies/' | relative_url }}), aircraft accidents, and other military activities into a single Roswell narrative. The 1959 balloon accident was one component of that larger explanatory framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — observations of alien bodies associated with the &quot;Roswell Incident.&quot; Pursuant to the discovery, re...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+The broader 1997 report used the same logic elsewhere, suggesting that later observers may have combined memories of balloon programmes, anthropomorphic test [dummies]({{ 'dummies/' | relative_url }}), aircraft accidents, and other military activities into a single Roswell narrative. The 1959 balloon accident was one component of that larger explanatory framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — observations of alien bodies associated with the &quot;Roswell Incident.&quot; Pursuant to the discovery, re...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KWP81Zr5-JQ" title="Why is the US Army’s Explanation for what happened in Roswell suspicious?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KWP81Zr5-JQ" target="_blank" rel="noopener noreferrer">Why is the US Army’s Explanation for what happened in Roswell suspicious?</a></p><p class="youtube-embed-meta">Channel: Dr. Michael S. Heiser</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KWP81Zr5-JQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KWP81Zr5-JQ">Open on YouTube</a></p></div></div></div>
 
 ## Where the Explanation Does Not Fully Fit
 
-The Air Force theory has limits. Many Roswell proponents argue that some witnesses specifically claimed their observations occurred in 1947 and not during the late 1950s. Critics therefore contend that the explanation depends on substantial memory errors and cannot account for every detail in every testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">u s air force reports on roswell</span><span class="citation-popover-snippet">Air Force reports on Roswell &#124; June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but dummies used...</span><span class="citation-popover-meta">Published: June 24, 1997</span></span></span>
+The Air Force theory has limits. Many Roswell proponents argue that some witnesses specifically claimed their observations occurred in 1947 and not during the late 1950s. Critics therefore contend that the explanation depends on substantial memory errors and cannot account for every detail in every testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">u s air force reports on roswell</span><span class="citation-popover-snippet">Air Force reports on Roswell &#124; June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but dummies used...</span><span class="citation-popover-meta">Published: June 24, 1997</span></span></span>
 
-Another limitation is that the balloon accident involved injured adult airmen, not small humanoid figures. Witnesses who described child-sized beings, unusual skin colours, or non-human anatomy are not fully explained by the crash alone. The Air Force recognised this by treating the 1959 incident as only one source among several that might have contributed to later stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+Another limitation is that the balloon accident involved injured adult airmen, not small humanoid figures. Witnesses who described child-sized beings, unusual skin colours, or non-human anatomy are not fully explained by the crash alone. The Air Force recognised this by treating the 1959 incident as only one source among several that might have contributed to later stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
-As a result, the 1959 crash functions best as a partial explanation rather than a complete solution. It offers a documented event that resembles certain hospital-centred and body-related claims, but it does not directly resolve every aspect of the Roswell body narrative. U.S. Department of War+2U.S. Air Force <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+As a result, the 1959 crash functions best as a partial explanation rather than a complete solution. It offers a documented event that resembles certain hospital-centred and body-related claims, but it does not directly resolve every aspect of the Roswell body narrative. U.S. Department of War+2U.S. Air Force<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-3-dark.svg" | relative_url }}" alt="Crash Link illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_balloon_crash_body_e_d41ca6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Crash Remains Important
 
-The importance of the [1959 balloon mishap]({{ '1959-mishap/' | relative_url }}) lies in its role as a bridge between documented history and later recollections. Unlike many elements of the Roswell legend, the accident is firmly recorded in military records, participant statements, and Air Force investigations. Because it produced injured personnel, emergency medical responses, and a strikingly altered appearance in at least one crewman, it gave investigators a concrete event against which later testimony could be compared. U.S. Department of War+2Project Gutenberg <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
+The importance of the [1959 balloon mishap]({{ '1959-mishap/' | relative_url }}) lies in its role as a bridge between documented history and later recollections. Unlike many elements of the Roswell legend, the accident is firmly recorded in military records, participant statements, and Air Force investigations. Because it produced injured personnel, emergency medical responses, and a strikingly altered appearance in at least one crewman, it gave investigators a concrete event against which later testimony could be compared. U.S. Department of War+2Project Gutenberg<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</span></span></span>
 
-Whether one accepts the Air Force interpretation or not, the 1959 crash became central to official explanations of Roswell body stories because it supplied a real incident that looked surprisingly similar to some of the scenes witnesses described many years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+Whether one accepts the Air Force interpretation or not, the 1959 crash became central to official explanations of Roswell body stories because it supplied a real incident that looked surprisingly similar to some of the scenes witnesses described many years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did a 1959 Crash Feed Roswell Body Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did a 1959 Crash Feed Roswell Body Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Focuses on how Roswell stories developed over time, closely matching a page about whether later incidents influenced body narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how Roswell stories developed over time, closely matching a page about whether later incidents influenced body narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Represents influential body-and-crash narratives that stand in contrast to Air Force explanations involving later military events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents influential body-and-crash narratives that stand in contrast to Air Force explanations involving later military events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the core Roswell narrative that later body-story debates, including discussion of the 1959 balloon accident explanation, seek to...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the core Roswell narrative that later body-story debates, including discussion of the 1959 balloon accident explanation, seek to...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 2 Lindberg 91004 Alien Model Kits 1/6 Scale Sealed New in Bag Roswell UFO"><img src="https://i.ebayimg.com/images/g/s6AAAeSwUEtp0d3v/s-l225.jpg" alt="Listing image for Lot of 2 Lindberg 91004 Alien Model Kits 1/6 Scale Sealed New in Bag Roswell UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Lot of 2 Lindberg 91004 Alien Model Kits 1/6 Scale Sealed New in Bag Roswell UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="https://i.ebayimg.com/images/g/7MQAAOSwQH1kdca~/s-l225.jpg" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift"><img src="https://i.ebayimg.com/images/g/GIYAAOSw9VhmOghw/s-l225.jpg" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="crash-link-15167f-did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;"><img src="https://i.ebayimg.com/images/g/~ZcAAeSwS~ZoktWy/s-l225.jpg" alt="Listing image for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-a-1959-crash-feed-roswell-body-stories-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ Whether one accepts the Air Force interpretation or not, the 1959 crash became c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ Whether one accepts the Air Force interpretation or not, the 1959 crash became c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ Whether one accepts the Air Force interpretation or not, the 1959 crash became c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ Whether one accepts the Air Force interpretation or not, the 1959 crash became c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ Whether one accepts the Air Force interpretation or not, the 1959 crash became c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,123 +735,123 @@ Whether one accepts the Air Force interpretation or not, the 1959 crash became c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;KC-97 aircraft accident a 1959 manned balloon mishap in which two Air F...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: esd.whs.mil  
    Title: Roswell Report Case Closed  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Roswell report22 May 2017 — observations of alien bodies associated with the &quot;Roswell Incident.&quot; Pursuant to the discovery, re...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Roswell report22 May 2017 — observations of alien bodies associated with the &quot;Roswell Incident.&quot; Pursuant to the discovery, re...</p></details>
    Published: May 2017  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1997 a definitive air force report—“The Rosw...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1997 a definitive air force report—“The Rosw...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled al...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled al...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: time.com  
    Title: aliens or dummies  
-   Link: <a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jun 1997 — According to “The Roswell Report, Case Closed,” life-sized latex and aluminum test dummies were used in high-altitude parac...</p></details>
+   Link:<a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jun 1997 — According to “The Roswell Report, Case Closed,” life-sized latex and aluminum test dummies were used in high-altitude parac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but dummies used...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but dummies used...</p></details>
    Published: June 24, 1997  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: stratocat.com.ar  
    Title: Strato Cat SKY-CAR (Fulgham  
-   Link: <a href="https://stratocat.com.ar/fichas-e/1959/HMN-19590521.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/fichas-e/1959/HMN-19590521.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SKY-CAR (Fulgham - Kaufman - Kittinger) - 5/21/1959Balloon launched on 5/21/1959, balloon malfunctioned. The Roswell Report: Cas...</p></details>
+   Link:<a href="https://stratocat.com.ar/fichas-e/1959/HMN-19590521.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/fichas-e/1959/HMN-19590521.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SKY-CAR (Fulgham - Kaufman - Kittinger) - 5/21/1959Balloon launched on 5/21/1959, balloon malfunctioned. The Roswell Report: Cas...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: archive where no mannequin has been before 1997  
-   Link: <a href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the recovery of human-shaped bodies from the crash area. Frank Kaufmann, now aged 81, a civilian member at the Roswell...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the recovery of human-shaped bodies from the crash area. Frank Kaufmann, now aged 81, a civilian member at the Roswell...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RCAHyclAmZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RCAHyclAmZs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Greatest Mysteries (S1, E5) | Full EpisodeRoswell&#x27;s First Witness Testimonial crashed in that debris field in 1947, 500 experie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RCAHyclAmZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RCAHyclAmZs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Greatest Mysteries (S1, E5) | Full EpisodeRoswell&#x27;s First Witness Testimonial crashed in that debris field in 1947, 500 experie...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unwritten RecordThe Roswell Reports: What crashed in the desert?7 Jul 2014 — Colonel Dan Fulgham, who was in a May 1959 parachute acc...</p></details>
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unwritten RecordThe Roswell Reports: What crashed in the desert?7 Jul 2014 — Colonel Dan Fulgham, who was in a May 1959 parachute acc...</p></details>
    Published: May 1959  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fW-T8Yo2ryI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fW-T8Yo2ryI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Closed by James McAndrew (Full Audio book)The Roswell Report: Case Closed by James McAndrew Subscribe for... Balloon Dummy Drops 00...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fW-T8Yo2ryI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fW-T8Yo2ryI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case Closed by James McAndrew (Full Audio book)The Roswell Report: Case Closed by James McAndrew Subscribe for... Balloon Dummy Drops 00...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KWP81Zr5-JQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KWP81Zr5-JQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a 1959 high-altitude balloon accident near Roswell, NM, was later cited by the USAF as an explanation for &quot;alien body&quot; sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KWP81Zr5-JQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KWP81Zr5-JQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a 1959 high-altitude balloon accident near Roswell, NM, was later cited by the USAF as an explanation for &quot;alien body&quot; sightings...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zROww8iePY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zROww8iePY4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The USAF official explanation for Roswell (1997) linking body sightings to crash test dummies and specific 1950s balloon accidents...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zROww8iePY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zROww8iePY4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The USAF official explanation for Roswell (1997) linking body sightings to crash test dummies and specific 1950s balloon accidents...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HQRyaCBxPeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HQRyaCBxPeU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1959 USAF archival footage of high-altitude balloon manned flight and the injured crew from the Project Excelsior era...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HQRyaCBxPeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HQRyaCBxPeU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1959 USAF archival footage of high-altitude balloon manned flight and the injured crew from the Project Excelsior era...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Ewing flying what was suspected to be alien remains or UFO...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Ewing flying what was suspected to be alien remains or UFO...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident, focusing on eyewitness accounts and the materials discovered by...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident, focusing on eyewitness accounts and the materials discovered by...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RueuqXrQE4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Footage of the 1959 USAF balloon test flight and subsequent crash that became part of the Roswell explanation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RueuqXrQE4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Footage of the 1959 USAF balloon test flight and subsequent crash that became part of the Roswell explanation...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: librivox.org  
    Title: the roswell report case closed by james mcandrew  
-   Link: <a href="https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/" target="_blank" rel="noopener noreferrer nofollow">https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed11 Feb 2021 — the alleged crash and recovery of an extraterrestrial vehicle and its alien occupants near R...</p></details>
+   Link:<a href="https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/" target="_blank" rel="noopener noreferrer nofollow">https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed11 Feb 2021 — the alleged crash and recovery of an extraterrestrial vehicle and its alien occupants near R...</p></details>

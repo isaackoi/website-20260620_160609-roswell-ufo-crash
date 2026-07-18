@@ -280,11 +280,11 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_gao_act
 
 ## Introduction
 
-When Congress asked the General Accounting Office (GAO, now the Government Accountability Office) to determine what federal [records]({{ 'records/' | relative_url }}) still existed about the 1947 Roswell incident, the result was far narrower than many people expected. The 1995 GAO report did not uncover secret files proving an extraterrestrial crash, nor did it conclusively settle the controversy. Instead, it produced a specific records-management finding: after an extensive search across military, intelligence, archival and law-enforcement holdings, investigators located only two surviving government records from 1947 that directly referred to the Roswell event, while discovering that key Roswell Army Air Field record series had been destroyed at some point after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">NSIAD-95-187 Government Records</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJuly 28, 1995 — 28 Jul 1995 — We reviewed the FBI&#x27;s FOIA material and identified the July 8, 1947, FBI...</span></span></span>
+When Congress asked the General Accounting Office (GAO, now the Government Accountability Office) to determine what federal [records]({{ 'records/' | relative_url }}) still existed about the 1947 Roswell incident, the result was far narrower than many people expected. The 1995 GAO report did not uncover secret files proving an extraterrestrial crash, nor did it conclusively settle the controversy. Instead, it produced a specific records-management finding: after an extensive search across military, intelligence, archival and law-enforcement holdings, investigators located only two surviving government records from 1947 that directly referred to the Roswell event, while discovering that key Roswell Army Air Field record series had been destroyed at some point after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">NSIAD-95-187 Government Records</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJuly 28, 1995 — 28 Jul 1995 — We reviewed the FBI&#x27;s FOIA material and identified the July 8, 1947, FBI...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_gao_actual_findings_f21913-Illustration-1-dark.svg" | relative_url }}" alt="GAO Findings illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_gao_actual_findings_f21913-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_gao_actual_findings_f21913-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Those findings became one of the most discussed parts of the modern Roswell debate because they transformed the issue from a question solely about witness [testimony]({{ 'testimony/' | relative_url }}) into a question about documentary evidence, missing archives and government record-keeping. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">NSIAD-95-187 Government Records</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJuly 28, 1995 — 28 Jul 1995 — We reviewed the FBI&#x27;s FOIA material and identified the July 8, 1947, FBI...</span></span></span>
+Those findings became one of the most discussed parts of the modern Roswell debate because they transformed the issue from a question solely about witness [testimony]({{ 'testimony/' | relative_url }}) into a question about documentary evidence, missing archives and government record-keeping.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">NSIAD-95-187 Government Records</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJuly 28, 1995 — 28 Jul 1995 — We reviewed the FBI&#x27;s FOIA material and identified the July 8, 1947, FBI...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_gao_actual_findings_f21913-Illustration-3-dark.svg" | relative_url }}" alt="GAO Findings illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_gao_actual_findings_f21913-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_gao_actual_findings_f21913-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -296,7 +296,7 @@ Those findings became one of the most discussed parts of the modern Roswell deba
 
 ## Why Congress Asked for a Records Search
 
-The inquiry began after Representative Steven Schiff of New Mexico sought answers about why so little official documentation could be found regarding the most famous UFO-related incident in American history. Schiff's concern was not merely whether a crash had occurred, but whether federal agencies had preserved the records that should have existed if a significant military recovery operation had taken place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostGAO TURNS TO ALIEN TURF IN PROBE13 Jan 1994 — Schiff said after calling Aspin last March to request a Defense Departme...</span></span></span>
+The inquiry began after Representative Steven Schiff of New Mexico sought answers about why so little official documentation could be found regarding the most famous UFO-related incident in American history. Schiff's concern was not merely whether a crash had occurred, but whether federal agencies had preserved the records that should have existed if a significant military recovery operation had taken place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostGAO TURNS TO ALIEN TURF IN PROBE13 Jan 1994 — Schiff said after calling Aspin last March to request a Defense Departme...</span></span></span>
 
 The GAO was asked to investigate two practical questions:
 
@@ -378,194 +378,194 @@ On one hand, the investigation confirmed that substantial Roswell Army Air Field
 4
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the GAO Actually Find?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the GAO Actually Find?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Examines testimony and evidence claims that are often contrasted with the limited documentary findings discussed in the GAO report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines testimony and evidence claims that are often contrasted with the limited documentary findings discussed in the GAO report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Strong context for understanding where the GAO Roswell records search fits within the broader history of US government UFO inquiries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong context for understanding where the GAO Roswell records search fits within the broader history of US government UFO inquiries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly addresses documentary evidence, witness narratives and how Roswell developed into a major historical controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses documentary evidence, witness narratives and how Roswell developed into a major historical controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Helped shape modern Roswell interest and provides essential background for why Congress and the GAO later examined surviving records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helped shape modern Roswell interest and provides essential background for why Congress and the GAO later examined surviving records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Q1kAAeSw6Sxp1S37/s-l225.jpg" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art"><img src="https://i.ebayimg.com/images/g/h8QAAOSwe29jfmch/s-l225.jpg" alt="Listing image for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="https://i.ebayimg.com/images/g/PhwAAOSwMplk~jrt/s-l225.jpg" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gao-findings-what-did-the-gao-actually-find-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/1GEAAeSw3KdpYAOG/s-l225.jpg" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-gao-actually-find-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-did-the-gao-actually-find-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ On one hand, the investigation confirmed that substantial Roswell Army Air Field
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ On one hand, the investigation confirmed that substantial Roswell Army Air Field
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ On one hand, the investigation confirmed that substantial Roswell Army Air Field
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ On one hand, the investigation confirmed that substantial Roswell Army Air Field
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ On one hand, the investigation confirmed that substantial Roswell Army Air Field
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,109 +771,109 @@ On one hand, the investigation confirmed that substantial Roswell Army Air Field
 
 ## Endnotes
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOur search for government records concerning the Roswell crash yielde...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOur search for government records concerning the Roswell crash yielde...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFOOn  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
    Published: July 8, 1947  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
+   Link:<a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe records include approximately 2 cubic feet of unarranged project or administrative files, 37 cubic feet of...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe records include approximately 2 cubic feet of unarranged project or administrative files, 37 cubic feet of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;&quot;Roswell Incident.&quot; The focus of the GAO probe, initiated at the request of New Mexico Congre...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;&quot;Roswell Incident.&quot; The focus of the GAO probe, initiated at the request of New Mexico Congre...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostGAO TURNS TO ALIEN TURF IN PROBE13 Jan 1994 — Schiff said after calling Aspin last March to request a Defense Departme...</p></details>
+   Link:<a href="https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostGAO TURNS TO ALIEN TURF IN PROBE13 Jan 1994 — Schiff said after calling Aspin last March to request a Defense Departme...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentAfter metallic and rubber debris was recovered by Roswell Army Air Field personnel, the United States Army Air Forces...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentAfter metallic and rubber debris was recovered by Roswell Army Air Field personnel, the United States Army Air Forces...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTDuring the in-briefing process with GAO, it was learned that this audit was, indeed, generated at the specific request of...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTDuring the in-briefing process with GAO, it was learned that this audit was, indeed, generated at the specific request of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oocities.org  
-   Link: <a href="https://oocities.org/area51/corridor/8148/gao.html" target="_blank" rel="noopener noreferrer nofollow">https://oocities.org/area51/corridor/8148/gao.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO Roswell ReportJun 5, 2025 — DATE: 7-30-95. The following is the complete text of the GAO Report to Congressman Steve Schiff havin...</p></details>
+   Link:<a href="https://oocities.org/area51/corridor/8148/gao.html" target="_blank" rel="noopener noreferrer nofollow">https://oocities.org/area51/corridor/8148/gao.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO Roswell ReportJun 5, 2025 — DATE: 7-30-95. The following is the complete text of the GAO Report to Congressman Steve Schiff havin...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentSomething unquestionably strange fell southeast of the tiny New Mexican town of Coron...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentSomething unquestionably strange fell southeast of the tiny New Mexican town of Coron...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report... request made by Representative Steven H. Schiff (R-NM) for information regarding an alleged crash of an unidentified fl...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report... request made by Representative Steven H. Schiff (R-NM) for information regarding an alleged crash of an unidentified fl...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufotransparency.com  
    Title: 1995 07 28 gao roswell report nsiad 95 187 gao nsiad 95 187 roswell 1995  
-   Link: <a href="https://ufotransparency.com/files/1995-07-28-gao-roswell-report-nsiad-95-187-gao-nsiad-95-187-roswell-1995" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/1995-07-28-gao-roswell-report-nsiad-95-187-gao-nsiad-95-187-roswell-1995</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947 Crash...28 Jul 1995 — The FBI Dallas teletype of July 8, 1947 described recovery nea...</p></details>
+   Link:<a href="https://ufotransparency.com/files/1995-07-28-gao-roswell-report-nsiad-95-187-gao-nsiad-95-187-roswell-1995" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/1995-07-28-gao-roswell-report-nsiad-95-187-gao-nsiad-95-187-roswell-1995</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947 Crash...28 Jul 1995 — The FBI Dallas teletype of July 8, 1947 described recovery nea...</p></details>
    Published: July 8, 1947  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skepticalinquirer.org  
    Title: The GAO Roswell Report and Congressman Schiff Special Report  
-   Link: <a href="https://skepticalinquirer.org/1995/11/the-gao-roswell-report-and-congressman-schiff/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1995/11/the-gao-roswell-report-and-congressman-schiff/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO Roswell Report and Congressman Schiff. Philip J. Klass. From: Volume 19, No. 6 · November / December 1995 · Twitter Facebook.Read...</p></details>
+   Link:<a href="https://skepticalinquirer.org/1995/11/the-gao-roswell-report-and-congressman-schiff/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1995/11/the-gao-roswell-report-and-congressman-schiff/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO Roswell Report and Congressman Schiff. Philip J. Klass. From: Volume 19, No. 6 · November / December 1995 · Twitter Facebook.Read...</p></details>
    Published: December 1995  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: legistorm.com  
-   Link: <a href="https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>records covering activities of the Roswell Army Air Field had been destroyed. GAO did locate two 1947 records that mentioned the crash--a...</p></details>
+   Link:<a href="https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>records covering activities of the Roswell Army Air Field had been destroyed. GAO did locate two 1947 records that mentioned the crash--a...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: deseret.com  
    Title: ufo documents destroyed unjustifiably lawmaker says  
-   Link: <a href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — The GAO report, released Friday, said that two government documents are the onl...</p></details>
+   Link:<a href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — The GAO report, released Friday, said that two government documents are the onl...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: journals.ala.org  
-   Link: <a href="https://journals.ala.org/index.php/dttp/article/view/6568/8762" target="_blank" rel="noopener noreferrer nofollow">https://journals.ala.org/index.php/dttp/article/view/6568/8762</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ala.orgUFO&#x27;s and Government Disclosure—A Brief Look into...by R Dzakovic · 2017 · Cited by 1 — For example, the document number “GAO-NSI...</p></details>
+   Link:<a href="https://journals.ala.org/index.php/dttp/article/view/6568/8762" target="_blank" rel="noopener noreferrer nofollow">https://journals.ala.org/index.php/dttp/article/view/6568/8762</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ala.orgUFO&#x27;s and Government Disclosure—A Brief Look into...by R Dzakovic · 2017 · Cited by 1 — For example, the document number “GAO-NSI...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: latimes.com  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1994-01-30-mn-17009-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1994-01-30-mn-17009-story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Investigating Report That Government Covered Up...Jan 30, 1994 — GAO Investigating Report That Government Covered Up &#x27;47 UFO Incident...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1994-01-30-mn-17009-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1994-01-30-mn-17009-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Investigating Report That Government Covered Up...Jan 30, 1994 — GAO Investigating Report That Government Covered Up &#x27;47 UFO Incident...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pposed to be automatically declassified due to the statute...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pposed to be automatically declassified due to the statute...</p></details>

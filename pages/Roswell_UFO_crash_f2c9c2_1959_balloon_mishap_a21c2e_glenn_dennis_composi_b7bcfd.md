@@ -280,7 +280,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_
 
 ## Introduction
 
-[Glenn Dennis]({{ 'glenn-dennis/' | relative_url }}) occupies a unique place in Roswell history because his testimony became one of the main foundations for later stories about recovered bodies, secret autopsies, military intimidation, and unusual activity at the Roswell Army Air Field hospital. At the same time, Dennis's account also became central to the U.S. [Air Force]({{ 'air-force/' | relative_url }})'s argument that some of the most dramatic Roswell narratives were not deliberate inventions but composite memories—later recollections that blended several real military incidents from different years into a single story. According to the Air Force's 1997 investigation, the elements found in Dennis's account could be separated into identifiable events, including a fatal 1956 aircraft accident and a 1959 balloon-gondola crash involving injured airmen treated at the Roswell base hospital. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
+[Glenn Dennis]({{ 'glenn-dennis/' | relative_url }}) occupies a unique place in Roswell history because his testimony became one of the main foundations for later stories about recovered bodies, secret autopsies, military intimidation, and unusual activity at the Roswell Army Air Field hospital. At the same time, Dennis's account also became central to the U.S. [Air Force]({{ 'air-force/' | relative_url }})'s argument that some of the most dramatic Roswell narratives were not deliberate inventions but composite memories—later recollections that blended several real military incidents from different years into a single story. According to the Air Force's 1997 investigation, the elements found in Dennis's account could be separated into identifiable events, including a fatal 1956 aircraft accident and a 1959 balloon-gondola crash involving injured airmen treated at the Roswell base hospital.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-1-dark.svg" | relative_url }}" alt="Dennis Composite illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,16 +288,16 @@ The resulting debate is not simply about whether Dennis was truthful. It is abou
 
 ## Dennis's Role in Roswell Body Narratives
 
-Before Glenn Dennis emerged as a witness, Roswell discussions focused primarily on debris recovered from a ranch in 1947. The widespread stories about alien [bodies]({{ 'bodies/' | relative_url }}) and hospital autopsies became much more prominent after Dennis began describing experiences he said occurred while he was working as a mortician handling the military contract for the local funeral home. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
+Before Glenn Dennis emerged as a witness, Roswell discussions focused primarily on debris recovered from a ranch in 1947. The widespread stories about alien [bodies]({{ 'bodies/' | relative_url }}) and hospital autopsies became much more prominent after Dennis began describing experiences he said occurred while he was working as a mortician handling the military contract for the local funeral home.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
 
-Dennis claimed that personnel from the Roswell Army Air Field contacted him about unusual body-preservation procedures and small coffins. He also described a military nurse who allegedly told him she had witnessed examinations of strange bodies at the base hospital. These accounts became highly influential through books, television programmes, documentaries, and interviews, helping transform Roswell from a debris-recovery story into a narrative involving extraterrestrial corpses and medical secrecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time+2Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">DID ALIENS REALLY LAND?</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The most notable of their sources was Glenn Dennis, who in 1947 was 22 and working as a m...</span></span></span>
+Dennis claimed that personnel from the Roswell Army Air Field contacted him about unusual body-preservation procedures and small coffins. He also described a military nurse who allegedly told him she had witnessed examinations of strange bodies at the base hospital. These accounts became highly influential through books, television programmes, documentaries, and interviews, helping transform Roswell from a debris-recovery story into a narrative involving extraterrestrial corpses and medical secrecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">DID ALIENS REALLY LAND?</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The most notable of their sources was Glenn Dennis, who in 1947 was 22 and working as a m...</span></span></span>
 
 The importance of Dennis's testimony was amplified because it appeared to provide a human link between several otherwise disconnected themes:
 
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* Bodies allegedly recovered from a crash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.com/Roswell-Incident-Statements-Excelsior-Experiments-ebook/dp/B005F9YCL4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.com">[amazon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.com</span><span class="citation-popover-snippet">UFO Crash Sites and Alien Bodies from 1947 - Witness Statements, High Dive and...</span></span></span>
+* Bodies allegedly recovered from a crash.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.com/Roswell-Incident-Statements-Excelsior-Experiments-ebook/dp/B005F9YCL4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.com">[amazon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.com</span><span class="citation-popover-snippet">UFO Crash Sites and Alien Bodies from 1947 - Witness Statements, High Dive and...</span></span></span>
 * Hospital personnel exposed to a secret operation.
 * Military efforts to restrict information.
 * Physical descriptions of non-human remains.
@@ -305,22 +305,22 @@ The importance of Dennis's testimony was amplified because it appeared to provid
 
 </div>
 
-For many years, these elements became some of the most cited components of the Roswell mythology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+For many years, these elements became some of the most cited components of the Roswell mythology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_DA-g94Ro1I" title="W. Glenn Dennis Interview, 11/19/1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_DA-g94Ro1I" target="_blank" rel="noopener noreferrer">W. Glenn Dennis Interview, 11/19/1990</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 6.5M &middot; Uploaded: July 2014 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_DA-g94Ro1I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_DA-g94Ro1I">Open on YouTube</a></p></div></div></div>
 
 ## How the Air Force Separated the Story into Later Events
 
-The Air Force's 1997 report did not merely reject Dennis's account. Instead, investigators argued that many of its components corresponded closely to documented incidents that occurred years after 1947. The report identified two events as especially relevant: a deadly [KC-97]({{ 'kc-97/' | relative_url }}) aircraft accident in 1956 and a balloon-training crash in May 1959. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
+The Air Force's 1997 report did not merely reject Dennis's account. Instead, investigators argued that many of its components corresponded closely to documented incidents that occurred years after 1947. The report identified two events as especially relevant: a deadly [KC-97]({{ 'kc-97/' | relative_url }}) aircraft accident in 1956 and a balloon-training crash in May 1959.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
 
 ### The 1956 Aircraft Accident
 
-In June 1956, a KC-97 tanker crashed near Roswell, killing eleven Air Force personnel. The disaster generated exactly the sort of activity a mortician would encounter: damaged bodies, military involvement, hospital procedures, and funeral arrangements. Air Force investigators argued that memories associated with this tragedy could later have become attached to Roswell narratives about recovered bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
+In June 1956, a KC-97 tanker crashed near Roswell, killing eleven Air Force personnel. The disaster generated exactly the sort of activity a mortician would encounter: damaged bodies, military involvement, hospital procedures, and funeral arrangements. Air Force investigators argued that memories associated with this tragedy could later have become attached to Roswell narratives about recovered bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
 
 ### The 1959 Balloon Mishap
 
-The second event was even more significant for explaining details found in Dennis's later recollections. In May 1959, a balloon gondola carrying Captain Joseph Kittinger, Captain Dan Fulgham, and Captain William Kaufman overturned north-west of Roswell. Fulgham suffered severe facial swelling and head injuries and was transported to the hospital at Walker Air Force Base. Contemporary records described his appearance as dramatically altered by trauma. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;1) a 1956 KC-97 aircraft accident in which 11 Air Force members lost th...</span></span></span>
+The second event was even more significant for explaining details found in Dennis's later recollections. In May 1959, a balloon gondola carrying Captain Joseph Kittinger, Captain Dan Fulgham, and Captain William Kaufman overturned north-west of Roswell. Fulgham suffered severe facial swelling and head injuries and was transported to the hospital at Walker Air Force Base. Contemporary records described his appearance as dramatically altered by trauma.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;1) a 1956 KC-97 aircraft accident in which 11 Air Force members lost th...</span></span></span>
 
 The Air Force noted several striking correspondences between witness descriptions and the 1959 incident:
 
@@ -328,9 +328,9 @@ The Air Force noted several striking correspondences between witness description
 * Ambulances, recovery vehicles, and support teams were present.
 * Hospital staff handled unusual injuries.
 * One injured airman had a swollen head and distorted facial appearance.
-* Joseph Kittinger, who supervised the operation, was a [red-haired officer]({{ 'red-haired-officer/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;1) a 1956 KC-97 aircraft accident in which 11 Air Force members lost th...</span></span></span>
+* Joseph Kittinger, who supervised the operation, was a [red-haired officer]({{ 'red-haired-officer/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;1) a 1956 KC-97 aircraft accident in which 11 Air Force members lost th...</span></span></span>
 
-These details mattered because later Roswell witnesses, including Dennis, described military vehicles, hospital activity, strange-looking individuals, and a red-haired officer associated with secrecy. Air Force investigators argued that such features aligned more closely with the documented 1959 accident than with any verified event in 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
+These details mattered because later Roswell witnesses, including Dennis, described military vehicles, hospital activity, strange-looking individuals, and a red-haired officer associated with secrecy. Air Force investigators argued that such features aligned more closely with the documented 1959 accident than with any verified event in 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-2-dark.svg" | relative_url }}" alt="Dennis Composite illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,11 +338,11 @@ These details mattered because later Roswell witnesses, including Dennis, descri
 
 The Air Force did not claim that witnesses necessarily fabricated their stories. Instead, investigators advanced a memory-based explanation.
 
-Under this interpretation, a witness living in Roswell during the late 1940s and 1950s could have observed or heard about several genuine military incidents over many years. When recalling events four decades later, the mind might merge details from separate episodes into a single narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
+Under this interpretation, a witness living in Roswell during the late 1940s and 1950s could have observed or heard about several genuine military incidents over many years. When recalling events four decades later, the mind might merge details from separate episodes into a single narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
 
-This explanation is attractive to many historians because it accounts for a recurring pattern in Roswell testimony: witnesses often remembered vivid details but disagreed on basic facts such as dates, locations, numbers of bodies, and the sequence of events. The composite-memory model allows for sincere recollections while also explaining why different witnesses sometimes describe apparently incompatible versions of the same incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+This explanation is attractive to many historians because it accounts for a recurring pattern in Roswell testimony: witnesses often remembered vivid details but disagreed on basic facts such as dates, locations, numbers of bodies, and the sequence of events. The composite-memory model allows for sincere recollections while also explaining why different witnesses sometimes describe apparently incompatible versions of the same incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-One reason the theory gained traction is that Dennis's story itself changed in important respects over time. The alleged nurse at the centre of his account became a major point of controversy when researchers were unable to verify the identities he provided. Dennis eventually acknowledged that names he had supplied were not genuine, further encouraging critics to look for alternative explanations of how the story developed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+One reason the theory gained traction is that Dennis's story itself changed in important respects over time. The alleged nurse at the centre of his account became a major point of controversy when researchers were unable to verify the identities he provided. Dennis eventually acknowledged that names he had supplied were not genuine, further encouraging critics to look for alternative explanations of how the story developed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AlFuucsLIVk" title="Were Alien Bodies Found At Roswell&#x27;s UFO Crash?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer">Were Alien Bodies Found At Roswell&#x27;s UFO Crash?</a></p><p class="youtube-embed-meta">Channel: The Rest Is Classified &middot; Views: 4.4K &middot; Uploaded: June 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AlFuucsLIVk">Open on YouTube</a></p></div></div></div>
@@ -351,9 +351,9 @@ One reason the theory gained traction is that Dennis's story itself changed in i
 
 Despite its appeal, the composite-memory explanation has never settled the debate.
 
-Supporters of Dennis argue that identifying later incidents does not prove that no unusual event occurred in 1947. They contend that the Air Force explanation relies on inference rather than direct evidence showing exactly how specific memories became merged. In this view, similarities between later accidents and Dennis's testimony may be suggestive without being conclusive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
+Supporters of Dennis argue that identifying later incidents does not prove that no unusual event occurred in 1947. They contend that the Air Force explanation relies on inference rather than direct evidence showing exactly how specific memories became merged. In this view, similarities between later accidents and Dennis's testimony may be suggestive without being conclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
 
-Critics of Dennis, however, point out that the strength of the composite-memory model lies in its ability to explain multiple otherwise puzzling features at once. Rather than requiring a hidden extraterrestrial recovery operation, it relies on documented accidents, identifiable personnel, known hospital activity, and ordinary memory processes. Several researchers who were initially sympathetic to Roswell [body claims]({{ 'body-claims/' | relative_url }}) later concluded that Dennis's testimony could not be accepted at face value because of factual problems and changing details within the account itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Critics of Dennis, however, point out that the strength of the composite-memory model lies in its ability to explain multiple otherwise puzzling features at once. Rather than requiring a hidden extraterrestrial recovery operation, it relies on documented accidents, identifiable personnel, known hospital activity, and ordinary memory processes. Several researchers who were initially sympathetic to Roswell [body claims]({{ 'body-claims/' | relative_url }}) later concluded that Dennis's testimony could not be accepted at face value because of factual problems and changing details within the account itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 The dispute therefore centres on probability rather than a single decisive piece of evidence. Was Dennis preserving fragments of a genuine 1947 secret, or was he unconsciously combining memories of several dramatic military events that occurred in Roswell over the following decade?
 
@@ -361,203 +361,203 @@ The dispute therefore centres on probability rather than a single decisive piece
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-3-dark.svg" | relative_url }}" alt="Dennis Composite illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_glenn_dennis_composi_b7bcfd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Dennis's Case Reveals About Roswell
 
-Glenn Dennis remains one of the most important figures in the Roswell story because his testimony sits at the intersection of witness memory and historical reconstruction. The Air Force's analysis of the 1956 aircraft disaster and the 1959 balloon mishap offered a concrete mechanism for how body-recovery narratives could emerge without any extraterrestrial event having occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
+Glenn Dennis remains one of the most important figures in the Roswell story because his testimony sits at the intersection of witness memory and historical reconstruction. The Air Force's analysis of the 1956 aircraft disaster and the 1959 balloon mishap offered a concrete mechanism for how body-recovery narratives could emerge without any extraterrestrial event having occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
 
-Whether one accepts that explanation or not, Dennis's account illustrates a broader lesson about Roswell: many of the most influential claims appeared decades after 1947 and were shaped by recollection, retelling, and reinterpretation. The composite-memory argument does not merely challenge a witness. It proposes an alternative history of how the modern Roswell body narrative itself may have been assembled from several real episodes remembered as one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
+Whether one accepts that explanation or not, Dennis's account illustrates a broader lesson about Roswell: many of the most influential claims appeared decades after 1947 and were shaped by recollection, retelling, and reinterpretation. The composite-memory argument does not merely challenge a witness. It proposes an alternative history of how the modern Roswell body narrative itself may have been assembled from several real episodes remembered as one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tCr9ft4yWaI" title="Official Reports on the Roswell UFO Incident | USAF Documentary | 1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer">Official Reports on the Roswell UFO Incident | USAF Documentary | 1997</a></p><p class="youtube-embed-meta">Channel: The Best Film Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tCr9ft4yWaI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Glenn Dennis Remembering More Than One Event?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Glenn Dennis Remembering More Than One Event?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Directly addresses Roswell witnesses, testimony reliability, body narratives, and competing interpretations of events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses Roswell witnesses, testimony reliability, body narratives, and competing interpretations of events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Especially relevant to composite-memory explanations, folklore formation, witness testimony, and how Roswell narratives evolved over deca...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Especially relevant to composite-memory explanations, folklore formation, witness testimony, and how Roswell narratives evolved over deca...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Stanton T. Friedman, Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Stanton T. Friedman, Don Berliner</p>
         
-        <p class="fr-book-desc">Provides extensive witness-based analysis useful for evaluating claims such as Glenn Dennis&#x27;s recollections and later memory disputes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides extensive witness-based analysis useful for evaluating claims such as Glenn Dennis&#x27;s recollections and later memory disputes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Important historical context for understanding how body-recovery stories entered popular Roswell lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Important historical context for understanding how body-recovery stories entered popular Roswell lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Rod &amp; Piston Alien Garage T-Shirt Hot Rod Flying Saucer UFO Tee S-4XL"><img src="{{ '/assets/images/marketplace-covers/3ea7c63590dbca228500.jpg' | relative_url }}" alt="Listing image for Roswell Rod &amp; Piston Alien Garage T-Shirt Hot Rod Flying Saucer UFO Tee S-4XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell Rod &amp; Piston Alien Garage T-Shirt Hot Rod Flying Saucer UFO Tee S-4XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Rod &amp; Piston Alien Garage T-Shirt Hot Rod Flying Saucer UFO Tee S-4XL"><img src="{{ '/assets/images/marketplace-covers/3ea7c63590dbca228500.jpg' | relative_url }}" alt="Listing image for Roswell Rod &amp; Piston Alien Garage T-Shirt Hot Rod Flying Saucer UFO Tee S-4XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell Rod &amp; Piston Alien Garage T-Shirt Hot Rod Flying Saucer UFO Tee S-4XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Expert Men&#x27;s T-Shirt Funny Believe Aliens Conspiracy Spaceship Roswell Cool"><img src="{{ '/assets/images/marketplace-covers/c3f0ff92f7513250f5dc.jpg' | relative_url }}" alt="Listing image for UFO Expert Men&#x27;s T-Shirt Funny Believe Aliens Conspiracy Spaceship Roswell Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO Expert Men&#x27;s T-Shirt Funny Believe Aliens Conspiracy Spaceship Roswell Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Expert Men&#x27;s T-Shirt Funny Believe Aliens Conspiracy Spaceship Roswell Cool"><img src="{{ '/assets/images/marketplace-covers/c3f0ff92f7513250f5dc.jpg' | relative_url }}" alt="Listing image for UFO Expert Men&#x27;s T-Shirt Funny Believe Aliens Conspiracy Spaceship Roswell Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO Expert Men&#x27;s T-Shirt Funny Believe Aliens Conspiracy Spaceship Roswell Cool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I BELIEVE ALIENS MENS T-SHIRT FUNNY UFO ROSWELL SCI-FI SPACESHIP HIPSTER GIFT"><img src="{{ '/assets/images/marketplace-covers/f47f1481fa988fc61462.jpg' | relative_url }}" alt="Listing image for I BELIEVE ALIENS MENS T-SHIRT FUNNY UFO ROSWELL SCI-FI SPACESHIP HIPSTER GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">I BELIEVE ALIENS MENS T-SHIRT FUNNY UFO ROSWELL SCI-FI SPACESHIP HIPSTER GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I BELIEVE ALIENS MENS T-SHIRT FUNNY UFO ROSWELL SCI-FI SPACESHIP HIPSTER GIFT"><img src="{{ '/assets/images/marketplace-covers/f47f1481fa988fc61462.jpg' | relative_url }}" alt="Listing image for I BELIEVE ALIENS MENS T-SHIRT FUNNY UFO ROSWELL SCI-FI SPACESHIP HIPSTER GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">I BELIEVE ALIENS MENS T-SHIRT FUNNY UFO ROSWELL SCI-FI SPACESHIP HIPSTER GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours"><img src="{{ '/assets/images/marketplace-covers/3326ed7774a4b208e7f8.jpg' | relative_url }}" alt="Listing image for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours"><img src="{{ '/assets/images/marketplace-covers/3326ed7774a4b208e7f8.jpg' | relative_url }}" alt="Listing image for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien t shirt" data-ebay-reference="dennis-composite-was-glenn-dennis-remembering-more-than-one-event-roswell-ufo-crash-roswell-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ Whether one accepts that explanation or not, Dennis's account illustrates a broa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ Whether one accepts that explanation or not, Dennis's account illustrates a broa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ Whether one accepts that explanation or not, Dennis's account illustrates a broa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ Whether one accepts that explanation or not, Dennis's account illustrates a broa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ Whether one accepts that explanation or not, Dennis's account illustrates a broa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,108 +763,108 @@ Whether one accepts that explanation or not, Dennis's account illustrates a broa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;1) a 1956 KC-97 aircraft accident in which 11 Air Force members lost th...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;1) a 1956 KC-97 aircraft accident in which 11 Air Force members lost th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Glenn Dennis  
-   Link: <a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: content.time.com  
    Title: DID ALIENS REALLY LAND?  
-   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The most notable of their sources was Glenn Dennis, who in 1947 was 22 and working as a m...</p></details>
+   Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The most notable of their sources was Glenn Dennis, who in 1947 was 22 and working as a m...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: go.gale.com  
    Title: A Roswell requiem  
-   Link: <a href="https://go.gale.com/ps/i.do?id=GALE%7CA101495912&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA101495912&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell requiem - Document - Gale Academic OneFileby BD Gildenberg · 2003 · Cited by 7 — In a similar example of garbled memory, Air Forc...</p></details>
+   Link:<a href="https://go.gale.com/ps/i.do?id=GALE%7CA101495912&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA101495912&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell requiem - Document - Gale Academic OneFileby BD Gildenberg · 2003 · Cited by 7 — In a similar example of garbled memory, Air Forc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Glenn Rhee  
-   Link: <a href="https://en.wikipedia.org/wiki/Glenn_Rhee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Rhee</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn RheeGlenn Rhee is a fictional character from the comic book series The Walking Dead. He was portrayed by Steven Yeun in the tele...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Glenn_Rhee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Rhee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn RheeGlenn Rhee is a fictional character from the comic book series The Walking Dead. He was portrayed by Steven Yeun in the tele...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: af.mil  
    Title: The Roswell Report  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell Report) a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: popsci.com  
-   Link: <a href="https://www.popsci.com/science/article/2013-07/your-burning-roswell-ufo-questions-answered/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/article/2013-07/your-burning-roswell-ufo-questions-answered/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceYour Burning Questions About The Roswell Incident...8 Jul 2013 — Q: What about the nurse who saw alien autopsies at the R...</p></details>
+   Link:<a href="https://www.popsci.com/science/article/2013-07/your-burning-roswell-ufo-questions-answered/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/article/2013-07/your-burning-roswell-ufo-questions-answered/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceYour Burning Questions About The Roswell Incident...8 Jul 2013 — Q: What about the nurse who saw alien autopsies at the R...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ancestry.co.uk  
-   Link: <a href="https://www.ancestry.co.uk/first-name-meaning/glenn?srsltid=AfmBOor8y80fAOBkXYC_vw1QZXh4WzEBE8qwkaI4RqCNscmTsG8vM9lU" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.co.uk/first-name-meaning/glenn?srsltid=AfmBOor8y80fAOBkXYC_vw1QZXh4WzEBE8qwkaI4RqCNscmTsG8vM9lU</a>  
+   Link:<a href="https://www.ancestry.co.uk/first-name-meaning/glenn?srsltid=AfmBOor8y80fAOBkXYC_vw1QZXh4WzEBE8qwkaI4RqCNscmTsG8vM9lU" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.co.uk/first-name-meaning/glenn?srsltid=AfmBOor8y80fAOBkXYC_vw1QZXh4WzEBE8qwkaI4RqCNscmTsG8vM9lU</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40GDiesen1" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40GDiesen1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn DiesenGlenn Diesen is a professor of Russian international affairs, with focus on geoeconomics, conservatism and the Greater Eurasi...</p></details>
+   Link:<a href="https://www.youtube.com/%40GDiesen1" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40GDiesen1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn DiesenGlenn Diesen is a professor of Russian international affairs, with focus on geoeconomics, conservatism and the Greater Eurasi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: Portrayed by Steven Yeun, Glenn became a fan favorite because of his  
-   Link: <a href="https://www.instagram.com/reel/DT1IKCRgHNL/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DT1IKCRgHNL/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WASTED | 🎬 Glenn Rhee is one of the most beloved characters in *The Walking Dead*, known for his quick thinking, resourcefulness, and str...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DT1IKCRgHNL/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DT1IKCRgHNL/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WASTED | 🎬 Glenn Rhee is one of the most beloved characters in *The Walking Dead*, known for his quick thinking, resourcefulness, and str...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: the roswell reports what crashed in the desert  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unwritten RecordThe Roswell Reports: What crashed in the desert?7 Jul 2014 — The USAF interviewees discuss the dropping of anthropomo...</p></details>
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unwritten RecordThe Roswell Reports: What crashed in the desert?7 Jul 2014 — The USAF interviewees discuss the dropping of anthropomo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Roswell-Incident-Statements-Excelsior-Experiments-ebook/dp/B005F9YCL4" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Roswell-Incident-Statements-Excelsior-Experiments-ebook/dp/B005F9YCL4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash Sites and Alien Bodies from 1947 - Witness Statements, High Dive and...</p></details>
+   Link:<a href="https://www.amazon.com/Roswell-Incident-Statements-Excelsior-Experiments-ebook/dp/B005F9YCL4" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Roswell-Incident-Statements-Excelsior-Experiments-ebook/dp/B005F9YCL4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash Sites and Alien Bodies from 1947 - Witness Statements, High Dive and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: w glenn dennis said in 1990 interview that nurse  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at Roswell...Glenn Dennis said in 1990 interview that nurse at Roswell [alien autopsy](&amp;#123;&amp;#123; &#x27;alien-autopsy/&#x27; | relative_url &amp;#125;&amp;#125;) t...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at Roswell...Glenn Dennis said in 1990 interview that nurse at Roswell [alien autopsy](&amp;#123;&amp;#123; &#x27;alien-autopsy/&#x27; | relative_url &amp;#125;&amp;#125;) t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: screenrant.com  
-   Link: <a href="https://screenrant.com/walking-dead-glenn-death-negan-reason-explained/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/walking-dead-glenn-death-negan-reason-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Walking Dead: Why Negan Had To Kill Glenn19 Feb 2025 — Negan killed Glenn because of Daryl — who retaliated in anger at Abraham&#x27;s death...</p></details>
+   Link:<a href="https://screenrant.com/walking-dead-glenn-death-negan-reason-explained/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/walking-dead-glenn-death-negan-reason-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Walking Dead: Why Negan Had To Kill Glenn19 Feb 2025 — Negan killed Glenn because of Daryl — who retaliated in anger at Abraham&#x27;s death...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wsmrmuseum.com  
-   Link: <a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1954 and February 1959. At the end...Read more...</p></details>
+   Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 1954 and February 1959. At the end...Read more...</p></details>
    Published: June 1954  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SAF Documentary | 1997 TBFA_0032 NOTE: THE VIDEO DOCUMENTS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAF Documentary | 1997 TBFA_0032 NOTE: THE VIDEO DOCUMENTS...</p></details>

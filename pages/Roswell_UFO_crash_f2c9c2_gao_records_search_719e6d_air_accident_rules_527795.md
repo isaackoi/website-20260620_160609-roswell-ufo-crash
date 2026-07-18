@@ -284,13 +284,13 @@ One of the most important questions raised by the Government Accountability Offi
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_air_accident_rules_527795-Illustration-1-dark.svg" | relative_url }}" alt="Crash Rules illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_air_accident_rules_527795-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_air_accident_rules_527795-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The answer depends almost entirely on how the recovered object was classified. Under Army [Air Forces]({{ 'air-force/' | relative_url }}) rules in effect during 1947, accidents involving military aircraft generated formal reports that were supposed to be retained permanently. If the Roswell event had been treated as the crash of an aircraft, many researchers argue that a lasting paper trail should exist. If, however, the debris was considered balloon material rather than an aircraft, different reporting requirements applied and a permanent accident file may never have been required. The GAO's investigation shifted the debate from the existence of a crash alone to the administrative question of what [records]({{ 'records/' | relative_url }}) the military would have been expected to create and preserve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJul 28, 1995 — An Air Force official said there was no similar requirement to report a weather balloon...</span></span></span>
+The answer depends almost entirely on how the recovered object was classified. Under Army [Air Forces]({{ 'air-force/' | relative_url }}) rules in effect during 1947, accidents involving military aircraft generated formal reports that were supposed to be retained permanently. If the Roswell event had been treated as the crash of an aircraft, many researchers argue that a lasting paper trail should exist. If, however, the debris was considered balloon material rather than an aircraft, different reporting requirements applied and a permanent accident file may never have been required. The GAO's investigation shifted the debate from the existence of a crash alone to the administrative question of what [records]({{ 'records/' | relative_url }}) the military would have been expected to create and preserve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJul 28, 1995 — An Air Force official said there was no similar requirement to report a weather balloon...</span></span></span>
 
 ## Should Roswell Have Had a Crash Report?
 
-The congressional inquiry requested by Representative Steven Schiff specifically asked federal investigators to determine what reporting requirements existed in 1947 for incidents comparable to Roswell. This was not merely a search for UFO evidence; it was an examination of government accountability and records management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Inside Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</span></span></span>
+The congressional inquiry requested by Representative Steven Schiff specifically asked federal investigators to determine what reporting requirements existed in 1947 for incidents comparable to Roswell. This was not merely a search for UFO evidence; it was an examination of government accountability and records management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</span></span></span>
 
-The GAO found that Army regulations in 1947 required air accident reports involving military aircraft to be maintained permanently. During its review, investigators identified four military aircraft accidents reported in New Mexico during July 1947. Those incidents generated the kinds of records expected under the regulations of the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports Government Records</span><span class="citation-popover-snippet">Justia GAO ReportsGovernment Records - NSIAD-95-187Jul 28, 1995 — GAO found that some government records covering activities of the Roswe...</span></span></span>
+The GAO found that Army regulations in 1947 required air accident reports involving military aircraft to be maintained permanently. During its review, investigators identified four military aircraft accidents reported in New Mexico during July 1947. Those incidents generated the kinds of records expected under the regulations of the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports Government Records</span><span class="citation-popover-snippet">Justia GAO ReportsGovernment Records - NSIAD-95-187Jul 28, 1995 — GAO found that some government records covering activities of the Roswe...</span></span></span>
 
 This finding became significant because no comparable Roswell aircraft-accident file was located. For some researchers, the absence of such a report appeared suspicious. For others, the absence suggested that military authorities never regarded the recovered material as an aircraft in the first place. The key issue therefore became classification rather than disappearance.
 
@@ -299,9 +299,9 @@ This finding became significant because no comparable Roswell aircraft-accident 
 
 ## Permanent Reporting Rules for Aircraft Accidents
 
-The Army Air Forces maintained a structured accident-reporting system during the late 1940s. Aircraft crashes, serious damage events, and other aviation accidents generated official investigations intended to document causes, losses, and lessons for future operations. According to the GAO's review, these records were expected to be preserved permanently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports Government Records</span><span class="citation-popover-snippet">Justia GAO ReportsGovernment Records - NSIAD-95-187Jul 28, 1995 — GAO found that some government records covering activities of the Roswe...</span></span></span>
+The Army Air Forces maintained a structured accident-reporting system during the late 1940s. Aircraft crashes, serious damage events, and other aviation accidents generated official investigations intended to document causes, losses, and lessons for future operations. According to the GAO's review, these records were expected to be preserved permanently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports Government Records</span><span class="citation-popover-snippet">Justia GAO ReportsGovernment Records - NSIAD-95-187Jul 28, 1995 — GAO found that some government records covering activities of the Roswe...</span></span></span>
 
-From a records-management perspective, this matters because permanent-retention requirements create an expectation that evidence should survive even decades later. When GAO auditors searched for Roswell-related records, they specifically examined whether a file matching the profile of an aircraft accident investigation could be found. None was discovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJul 28, 1995 — An Air Force official said there was no similar requirement to report a weather balloon...</span></span></span>
+From a records-management perspective, this matters because permanent-retention requirements create an expectation that evidence should survive even decades later. When GAO auditors searched for Roswell-related records, they specifically examined whether a file matching the profile of an aircraft accident investigation could be found. None was discovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJul 28, 1995 — An Air Force official said there was no similar requirement to report a weather balloon...</span></span></span>
 
 The absence of such a report does not by itself prove that no crash occurred. Records can be lost, destroyed, misfiled, or classified. However, the lack of an aircraft-accident file weakens the argument that military authorities formally processed the event as the crash of a conventional or recognised military aircraft. That distinction became central to later debates.
 
@@ -311,13 +311,13 @@ The absence of such a report does not by itself prove that no crash occurred. Re
 
 The most consequential finding in the GAO review was the Air Force's explanation that weather-balloon crashes were treated differently from aircraft accidents.
 
-Officials consulted during the investigation stated that the record-keeping requirements in effect during July 1947 did not require preparation of an air accident report for the crash of a weather balloon. In other words, if the recovered [debris]({{ 'debris/' | relative_url }}) was considered balloon equipment rather than an aircraft, the absence of a permanent accident file would be expected rather than unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJul 28, 1995 — An Air Force official said there was no similar requirement to report a weather balloon...</span></span></span>
+Officials consulted during the investigation stated that the record-keeping requirements in effect during July 1947 did not require preparation of an air accident report for the crash of a weather balloon. In other words, if the recovered [debris]({{ 'debris/' | relative_url }}) was considered balloon equipment rather than an aircraft, the absence of a permanent accident file would be expected rather than unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJul 28, 1995 — An Air Force official said there was no similar requirement to report a weather balloon...</span></span></span>
 
 This administrative distinction altered the Roswell debate in a fundamental way:
 
 * **Aircraft classification** would normally imply formal accident reporting and long-term record retention.
 * **Weather-balloon classification** would not necessarily generate the same paperwork.
-* **Experimental balloon projects** could produce records through other channels, but not necessarily through the air-accident reporting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJul 28, 1995 — An Air Force official said there was no similar requirement to report a weather balloon...</span></span></span>
+* **Experimental balloon projects** could produce records through other channels, but not necessarily through the air-accident reporting system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJul 28, 1995 — An Air Force official said there was no similar requirement to report a weather balloon...</span></span></span>
 
 As a result, the question became less "Where is the missing crash report?" and more "How was the object classified by the military at the time?"
 
@@ -328,11 +328,11 @@ As a result, the question became less "Where is the missing crash report?" and m
 
 The Roswell controversy often assumes that every crash automatically produces a detailed government file. The GAO inquiry demonstrated that record creation depended heavily on administrative categories.
 
-The two surviving 1947 government records identified by investigators both reflected the balloon explanation. One was a July 1947 history report from the combined 509th Bomb Group and Roswell Army Air Field stating that a recovered "[flying disc]({{ 'flying-disc/' | relative_url }})" had later been identified as a radar-tracking balloon. The other was an FBI teletype reporting that military personnel had recovered an object resembling a high-altitude weather balloon with a radar reflector. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports Government Records</span><span class="citation-popover-snippet">Justia GAO ReportsGovernment Records - NSIAD-95-187Jul 28, 1995 — GAO found that some government records covering activities of the Roswe...</span></span></span>
+The two surviving 1947 government records identified by investigators both reflected the balloon explanation. One was a July 1947 history report from the combined 509th Bomb Group and Roswell Army Air Field stating that a recovered "[flying disc]({{ 'flying-disc/' | relative_url }})" had later been identified as a radar-tracking balloon. The other was an FBI teletype reporting that military personnel had recovered an object resembling a high-altitude weather balloon with a radar reflector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports Government Records</span><span class="citation-popover-snippet">Justia GAO ReportsGovernment Records - NSIAD-95-187Jul 28, 1995 — GAO found that some government records covering activities of the Roswe...</span></span></span>
 
-Because those records framed the incident as balloon-related, they fit the reporting expectations described by Air Force officials. Under that interpretation, investigators would not expect to find the same type of permanent aircraft-accident file associated with a bomber crash, transport accident, or other aviation mishap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJul 28, 1995 — An Air Force official said there was no similar requirement to report a weather balloon...</span></span></span>
+Because those records framed the incident as balloon-related, they fit the reporting expectations described by Air Force officials. Under that interpretation, investigators would not expect to find the same type of permanent aircraft-accident file associated with a bomber crash, transport accident, or other aviation mishap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">GAONSIAD-95-187 Government RecordsJul 28, 1995 — An Air Force official said there was no similar requirement to report a weather balloon...</span></span></span>
 
-The later Air Force investigations that connected the debris to the secret [Project Mogul]({{ 'project-mogul/' | relative_url }}) balloon programme reinforced this administrative logic. If the recovered material originated from a [balloon train]({{ 'balloon-train/' | relative_url }}) and associated radar-reflector equipment rather than an aircraft, then the absence of an aircraft-accident report becomes less surprising from a records-management standpoint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
+The later Air Force investigations that connected the debris to the secret [Project Mogul]({{ 'project-mogul/' | relative_url }}) balloon programme reinforced this administrative logic. If the recovered material originated from a [balloon train]({{ 'balloon-train/' | relative_url }}) and associated radar-reflector equipment rather than an aircraft, then the absence of an aircraft-accident report becomes less surprising from a records-management standpoint.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_air_accident_rules_527795-Illustration-3-dark.svg" | relative_url }}" alt="Crash Rules illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_air_accident_rules_527795-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_air_accident_rules_527795-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -353,194 +353,194 @@ That conclusion did not settle the larger Roswell controversy. Critics continued
 Within the broader government-accountability inquiry, this became one of the most important administrative findings. The existence or non-existence of a Roswell crash report was not simply a matter of record preservation; it depended first on whether the incident was recorded as an aircraft accident or as balloon debris. [GAO+2GAO](https://www.gao.gov/assets/nsiad-95-187.pdf)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should Roswell Have Had a Crash Report?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should Roswell Have Had a Crash Report?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a credible government-and-records-focused UFO reading lane that fits a page about official reporting and archival accountability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a credible government-and-records-focused UFO reading lane that fits a page about official reporting and archival accountability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhgClQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report">The Roswell Report</a>
-        </h4>
-        <p class="fr-book-author">By Richard L. Weaver, U. S. Air Force</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhgClQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report">The Roswell Report</a>
+</h4>
+<p class="fr-book-author">By Richard L. Weaver, U. S. Air Force</p>
         
-        <p class="fr-book-desc">Directly addresses the Roswell incident, military records, balloon explanations, and the official government account behind crash-report...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the Roswell incident, military records, balloon explanations, and the official government account behind crash-report...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Focuses on witness testimony and alleged cover-up issues surrounding Roswell, complementing the page’s concern with missing or expected r...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness testimony and alleged cover-up issues surrounding Roswell, complementing the page’s concern with missing or expected r...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">A foundational popular account of the Roswell crash narrative, useful context for why later GAO and records questions mattered.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">A foundational popular account of the Roswell crash narrative, useful context for why later GAO and records questions mattered.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Site Roswell N.M. Metal Sign 3 Sizes to Choose From"><img src="{{ '/assets/images/marketplace-covers/47031d6550983803414a.jpg' | relative_url }}" alt="Listing image for UFO Crash Site Roswell N.M. Metal Sign 3 Sizes to Choose From" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Site Roswell N.M. Metal Sign 3 Sizes to Choose From</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Site Roswell N.M. Metal Sign 3 Sizes to Choose From"><img src="{{ '/assets/images/marketplace-covers/47031d6550983803414a.jpg' | relative_url }}" alt="Listing image for UFO Crash Site Roswell N.M. Metal Sign 3 Sizes to Choose From" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Site Roswell N.M. Metal Sign 3 Sizes to Choose From</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Site 1947 Roswell New Mexico Metal Sign Red &amp; White VTG Made USA 18x12"><img src="{{ '/assets/images/marketplace-covers/d2f876b51593721dd0bd.jpg' | relative_url }}" alt="Listing image for UFO Crash Site 1947 Roswell New Mexico Metal Sign Red &amp; White VTG Made USA 18x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Site 1947 Roswell New Mexico Metal Sign Red &amp; White VTG Made USA 18x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Site 1947 Roswell New Mexico Metal Sign Red &amp; White VTG Made USA 18x12"><img src="{{ '/assets/images/marketplace-covers/d2f876b51593721dd0bd.jpg' | relative_url }}" alt="Listing image for UFO Crash Site 1947 Roswell New Mexico Metal Sign Red &amp; White VTG Made USA 18x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Site 1947 Roswell New Mexico Metal Sign Red &amp; White VTG Made USA 18x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CRASH SITE ROSWELL 8&quot;x12&quot; VIVID METAL SIGN MAN CAVE BAR GARAGE ALIEN HUMOR"><img src="{{ '/assets/images/marketplace-covers/4cb9e1aec5165aa3c908.jpg' | relative_url }}" alt="Listing image for UFO CRASH SITE ROSWELL 8&quot;x12&quot; VIVID METAL SIGN MAN CAVE BAR GARAGE ALIEN HUMOR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer">UFO CRASH SITE ROSWELL 8&quot;x12&quot; VIVID METAL SIGN MAN CAVE BAR GARAGE ALIEN HUMOR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CRASH SITE ROSWELL 8&quot;x12&quot; VIVID METAL SIGN MAN CAVE BAR GARAGE ALIEN HUMOR"><img src="{{ '/assets/images/marketplace-covers/4cb9e1aec5165aa3c908.jpg' | relative_url }}" alt="Listing image for UFO CRASH SITE ROSWELL 8&quot;x12&quot; VIVID METAL SIGN MAN CAVE BAR GARAGE ALIEN HUMOR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer">UFO CRASH SITE ROSWELL 8&quot;x12&quot; VIVID METAL SIGN MAN CAVE BAR GARAGE ALIEN HUMOR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Site Vintage Look Home Decor Farmhouse Metal Sign 106180071021"><img src="{{ '/assets/images/marketplace-covers/dd9eeec2dd7cf5d24dc9.jpg' | relative_url }}" alt="Listing image for UFO Crash Site Vintage Look Home Decor Farmhouse Metal Sign 106180071021" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Site Vintage Look Home Decor Farmhouse Metal Sign 106180071021</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Site Vintage Look Home Decor Farmhouse Metal Sign 106180071021"><img src="{{ '/assets/images/marketplace-covers/dd9eeec2dd7cf5d24dc9.jpg' | relative_url }}" alt="Listing image for UFO Crash Site Vintage Look Home Decor Farmhouse Metal Sign 106180071021" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Site Vintage Look Home Decor Farmhouse Metal Sign 106180071021</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="crash-rules-should-roswell-have-had-a-crash-report-roswell-ufo-crash-ufo-crash-site-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ Within the broader government-accountability inquiry, this became one of the mos
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ Within the broader government-accountability inquiry, this became one of the mos
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ Within the broader government-accountability inquiry, this became one of the mos
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ Within the broader government-accountability inquiry, this became one of the mos
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ Within the broader government-accountability inquiry, this became one of the mos
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,96 +746,96 @@ Within the broader government-accountability inquiry, this became one of the mos
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</p></details>
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gao.justia.com  
    Title: GAO Reports Government Records  
-   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsGovernment Records - NSIAD-95-187Jul 28, 1995 — GAO found that some government records covering activities of the Roswe...</p></details>
+   Link:<a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsGovernment Records - NSIAD-95-187Jul 28, 1995 — GAO found that some government records covering activities of the Roswe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell report: [case closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;) / James McAndrewIn July 1994, the Office of the Secretary of the Air Force concluded an exhaustive...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell report: [case closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;) / James McAndrewIn July 1994, the Office of the Secretary of the Air Force concluded an exhaustive...</p></details>
    Published: July 1994  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
+   Link:<a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: insidedefense.com  
-   Link: <a href="https://insidedefense.com/inside-air-force/gao-settle-ufo-and-classification-dispute-one-fell-swoop" target="_blank" rel="noopener noreferrer nofollow">https://insidedefense.com/inside-air-force/gao-settle-ufo-and-classification-dispute-one-fell-swoop</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GAO TO SETTLE UFO AND CLASSIFICATION DISPUTE IN ONE...A GAO audit entitled &quot;Records Management Procedures Dealing With Weather Balloon...</p></details>
+   Link:<a href="https://insidedefense.com/inside-air-force/gao-settle-ufo-and-classification-dispute-one-fell-swoop" target="_blank" rel="noopener noreferrer nofollow">https://insidedefense.com/inside-air-force/gao-settle-ufo-and-classification-dispute-one-fell-swoop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO TO SETTLE UFO AND CLASSIFICATION DISPUTE IN ONE...A GAO audit entitled &quot;Records Management Procedures Dealing With Weather Balloon...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
    Title: DAF History The Roswell Report  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at [Roswell Air Field](&amp;#123;&amp;#123; &#x27;raaf-route/&#x27; | relative_url &amp;#125;&amp;#125;), New Mexico, focusing on...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at [Roswell Air Field](&amp;#123;&amp;#123; &#x27;raaf-route/&#x27; | relative_url &amp;#125;&amp;#125;), New Mexico, focusing on...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: whitehouse.gov  
-   Link: <a href="https://www.whitehouse.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The White HouseUnder President Donald Trump&#x27;s second administration, the United States has surged into a new era of prosperity, marked by...</p></details>
+   Link:<a href="https://www.whitehouse.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The White HouseUnder President Donald Trump&#x27;s second administration, the United States has surged into a new era of prosperity, marked by...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: usa.gov  
-   Link: <a href="https://www.usa.gov/about-the-us" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/about-the-us</a>  
+   Link:<a href="https://www.usa.gov/about-the-us" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/about-the-us</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gao-cap.com  
-   Link: <a href="https://gao-cap.com/" target="_blank" rel="noopener noreferrer nofollow">https://gao-cap.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Capital — Singapore Hedge Fund · HFM Best Asia ex...GAO Capital is a top-performing Singapore hedge fund. Award-winning ASV Fund nam...</p></details>
+   Link:<a href="https://gao-cap.com/" target="_blank" rel="noopener noreferrer nofollow">https://gao-cap.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Capital — Singapore Hedge Fund · HFM Best Asia ex...GAO Capital is a top-performing Singapore hedge fund. Award-winning ASV Fund nam...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/81026600" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81026600</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch UsA serene family vacation turns frightening when a family&#x27;s nightmarish doppelgängers descend upon their waterfront abode. Watch t...</p></details>
+   Link:<a href="https://www.netflix.com/title/81026600" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81026600</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch UsA serene family vacation turns frightening when a family&#x27;s nightmarish doppelgängers descend upon their waterfront abode. Watch t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newspaceeconomy.ca  
-   Link: <a href="https://newspaceeconomy.ca/2024/01/08/report-results-of-a-search-for-records-concerning-the-1947-crash-near-roswell-new-mexico-gao-1995/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2024/01/08/report-results-of-a-search-for-records-concerning-the-1947-crash-near-roswell-new-mexico-gao-1995/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report: Results of a Search for Records Concerning the 1947...Jan 8, 2024 — Report: Results of a Search for Records Concerning the 1947...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2024/01/08/report-results-of-a-search-for-records-concerning-the-1947-crash-near-roswell-new-mexico-gao-1995/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2024/01/08/report-results-of-a-search-for-records-concerning-the-1947-crash-near-roswell-new-mexico-gao-1995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report: Results of a Search for Records Concerning the 1947...Jan 8, 2024 — Report: Results of a Search for Records Concerning the 1947...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/United-States" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/United-States</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Besides the 48 conterminous states that occupy the middle latitudes of the continent.Read more...</p></details>
+   Link:<a href="https://www.britannica.com/place/United-States" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/United-States</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Besides the 48 conterminous states that occupy the middle latitudes of the continent.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — A 1947 Air Force report noted the recovery of a flying dis...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — A 1947 Air Force report noted the recovery of a flying dis...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: legistorm.com  
-   Link: <a href="https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...Date July 28, 1995 Report No. GAO found that some government records covering acti...</p></details>
+   Link:<a href="https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...Date July 28, 1995 Report No. GAO found that some government records covering acti...</p></details>
    Published: July 28, 1995  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Roswell incident | Overview, Theories, Hoaxes, & Facts  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — Roswell incident, events surrounding the crash...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — Roswell incident, events surrounding the crash...</p></details>
    Published: May 8, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FoxNews/posts/the-us-air-force-released-its-second-public-report-about-the-roswell-incident-a-/861299212526609/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxNews/posts/the-us-air-force-released-its-second-public-report-about-the-roswell-incident-a-/861299212526609/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ident,&quot; a purported UFO crash in rural New Mexico in 1947...</p></details>
+   Link:<a href="https://www.facebook.com/FoxNews/posts/the-us-air-force-released-its-second-public-report-about-the-roswell-incident-a-/861299212526609/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxNews/posts/the-us-air-force-released-its-second-public-report-about-the-roswell-incident-a-/861299212526609/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ident,&quot; a purported UFO crash in rural New Mexico in 1947...</p></details>

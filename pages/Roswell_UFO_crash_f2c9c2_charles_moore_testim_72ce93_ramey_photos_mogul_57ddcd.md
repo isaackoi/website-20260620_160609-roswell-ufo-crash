@@ -284,13 +284,13 @@ The photographs taken in General Roger Ramey’s office at Fort Worth Army Air F
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-1-dark.svg" | relative_url }}" alt="Ramey Photos illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the branch of the Roswell debate concerned with Charles B. Moore and Project Mogul, the Ramey photographs occupy a special position. Moore was not evaluating the images as a distant commentator. He was one of the engineers involved in the balloon and radar-target systems later identified as the likely source of the Roswell debris. When he compared the photographs with known Mogul hardware, he concluded that the images did not require a debris-switch theory. Instead, he argued that the photographed material displayed multiple features consistent with [balloon-train]({{ 'balloon-train/' | relative_url }}) components and radar reflectors used by his team. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
+Within the branch of the Roswell debate concerned with Charles B. Moore and Project Mogul, the Ramey photographs occupy a special position. Moore was not evaluating the images as a distant commentator. He was one of the engineers involved in the balloon and radar-target systems later identified as the likely source of the Roswell debris. When he compared the photographs with known Mogul hardware, he concluded that the images did not require a debris-switch theory. Instead, he argued that the photographed material displayed multiple features consistent with [balloon-train]({{ 'balloon-train/' | relative_url }}) components and radar reflectors used by his team.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
 
 The significance of this disagreement is straightforward. If the Fort Worth photographs genuinely show debris consistent with Mogul equipment, then one of the strongest arguments for a cover-up loses much of its force. If the debris was substituted, however, the photographs become evidence of deliberate deception. The debate therefore hinges less on broad Roswell narratives and more on the physical details visible in a handful of 1947 press images.
 
 ## What the 1947 Office Photos Actually Show
 
-The photographs were taken after debris recovered near Roswell was flown to Fort Worth for inspection by Brigadier General Roger Ramey, commander of the Eighth Air Force. Several images show Ramey, Colonel Thomas DuBose and Major Jesse Marcel with scattered wreckage laid out on the office floor. The photographs survive in the Fort Worth Star-Telegram collection and remain among the most important primary-source visual records connected to the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Brig General Ramey Roswell debris.jpgGeneral Roger Ramey, holding telegram, inspects debris brought back from Roswe...</span></span></span>
+The photographs were taken after debris recovered near Roswell was flown to Fort Worth for inspection by Brigadier General Roger Ramey, commander of the Eighth Air Force. Several images show Ramey, Colonel Thomas DuBose and Major Jesse Marcel with scattered wreckage laid out on the office floor. The photographs survive in the Fort Worth Star-Telegram collection and remain among the most important primary-source visual records connected to the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Brig General Ramey Roswell debris.jpgGeneral Roger Ramey, holding telegram, inspects debris brought back from Roswe...</span></span></span>
 
 Visible in the images are:
 
@@ -305,9 +305,9 @@ Visible in the images are:
 
 </div>
 
-Supporters of the Mogul explanation have long argued that these characteristics match radar targets and balloon equipment commonly used during the late 1940s. Air Force investigations conducted decades later specifically concluded that the debris visible in the photographs was consistent with radar targets normally suspended beneath balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.smu.edu">[Physics at SMU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.smu.edu</span><span class="citation-popover-snippet">General Ramey and Major Marcel in the famous photos (Atch 16) in Fort Worth was that of a radar target normally suspended from...</span></span></span>
+Supporters of the Mogul explanation have long argued that these characteristics match radar targets and balloon equipment commonly used during the late 1940s. Air Force investigations conducted decades later specifically concluded that the debris visible in the photographs was consistent with radar targets normally suspended beneath balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.smu.edu">[Physics at SMU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.smu.edu</span><span class="citation-popover-snippet">General Ramey and Major Marcel in the famous photos (Atch 16) in Fort Worth was that of a radar target normally suspended from...</span></span></span>
 
-The photographs are important because they were taken within hours of the military’s dramatic reversal. Earlier that day Roswell Army Air Field had issued a press release claiming recovery of a “[flying disc]({{ 'flying-disc/' | relative_url }}).” By the evening, Ramey publicly identified the material as balloon-related debris. Because the reversal happened so quickly, later researchers began asking whether the material shown to journalists was actually the same material initially recovered in New Mexico. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The photographs are important because they were taken within hours of the military’s dramatic reversal. Earlier that day Roswell Army Air Field had issued a press release claiming recovery of a “[flying disc]({{ 'flying-disc/' | relative_url }}).” By the evening, Ramey publicly identified the material as balloon-related debris. Because the reversal happened so quickly, later researchers began asking whether the material shown to journalists was actually the same material initially recovered in New Mexico.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rih9-80p0Ec" title="The Truth about Roswell: Decoding Decades of Deception" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer">The Truth about Roswell: Decoding Decades of Deception</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 9.8M &middot; Uploaded: June 2023 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rih9-80p0Ec">Open on YouTube</a></p></div></div></div>
@@ -318,7 +318,7 @@ The debris-switch theory emerged largely after Roswell was revived as a UFO myst
 
 Several versions of the theory exist. Some claim the substitution happened at Fort Worth. Others suggest that only part of the material was replaced. Still others argue that the photographs show genuine balloon wreckage while a second, secret set of debris was hidden elsewhere.
 
-The theory gained popularity because later witness accounts described materials that seemed difficult to reconcile with an ordinary weather balloon. Witnesses spoke of exceptionally light metal, unusual structural pieces and strange symbols or markings. If those descriptions were accurate, advocates reasoned, then the debris photographed in Ramey’s office could not be the same material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an even...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+The theory gained popularity because later witness accounts described materials that seemed difficult to reconcile with an ordinary weather balloon. Witnesses spoke of exceptionally light metal, unusual structural pieces and strange symbols or markings. If those descriptions were accurate, advocates reasoned, then the debris photographed in Ramey’s office could not be the same material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an even...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 Yet the theory also faced a practical problem. It required not only a substitution operation but a convincing replacement that matched many elements of the original witness descriptions. That challenge became increasingly important once Project Mogul entered the discussion.
 
@@ -326,11 +326,11 @@ Yet the theory also faced a practical problem. It required not only a substituti
 
 Charles Moore approached the issue from a technical rather than conspiratorial perspective. Having worked on Project Mogul balloon trains, he focused on whether the photographed debris resembled actual equipment used in New Mexico during 1947.
 
-According to analyses associated with the Air Force investigation and later presentations by Moore, the debris visible in the photographs contained several features that matched Mogul-era radar targets and associated hardware. These included reflector fragments, lightweight structural members and attachment components consistent with balloon-train assemblies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
+According to analyses associated with the Air Force investigation and later presentations by Moore, the debris visible in the photographs contained several features that matched Mogul-era radar targets and associated hardware. These included reflector fragments, lightweight structural members and attachment components consistent with balloon-train assemblies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
 
-Moore argued that critics often compared the photographs to a simple weather balloon and concluded that the match was poor. His response was that Project Mogul systems were not simple weather balloons. They were complex trains involving multiple balloons, radar reflectors, cords, tape, instrumentation and other equipment. When viewed through that lens, the debris appeared far less mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
+Moore argued that critics often compared the photographs to a simple weather balloon and concluded that the match was poor. His response was that Project Mogul systems were not simple weather balloons. They were complex trains involving multiple balloons, radar reflectors, cords, tape, instrumentation and other equipment. When viewed through that lens, the debris appeared far less mysterious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
 
-One detail Moore repeatedly highlighted involved radar reflectors. The reflector structures used by the New York University group differed from the mental image many people have of ordinary meteorological equipment. Their construction produced lightweight geometric fragments that could appear unusual after being damaged and scattered. According to Moore, these components were visible in the Fort Worth photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Ramey&#x27;s office was just a weather bal- loon switched for the &quot;real debris,&quot;. Moore pointed out...Read more...</span></span></span>
+One detail Moore repeatedly highlighted involved radar reflectors. The reflector structures used by the New York University group differed from the mental image many people have of ordinary meteorological equipment. Their construction produced lightweight geometric fragments that could appear unusual after being damaged and scattered. According to Moore, these components were visible in the Fort Worth photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Ramey&#x27;s office was just a weather bal- loon switched for the &quot;real debris,&quot;. Moore pointed out...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-2-dark.svg" | relative_url }}" alt="Ramey Photos illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,19 +338,19 @@ One detail Moore repeatedly highlighted involved radar reflectors. The reflector
 
 A crucial difficulty for the debris-switch theory is that several individuals who either handled the material or inspected it later identified the photographed wreckage as consistent with what they remembered.
 
-Sheridan [Cavitt]({{ 'cavitt/' | relative_url }}), the Counter Intelligence Corps officer who accompanied Marcel to the debris field, reviewed the famous photographs decades later during Air Force interviews. Cavitt stated that the material shown in the images was consistent with the debris recovered from the ranch. He specifically identified reflective foil-like material and lightweight sticks similar to what he remembered collecting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">Ramey /Marcel photographs (Atch 16) of the wreckage taken to Fort Worth (often claimed by UFO...Read more...</span></span></span>
+Sheridan [Cavitt]({{ 'cavitt/' | relative_url }}), the Counter Intelligence Corps officer who accompanied Marcel to the debris field, reviewed the famous photographs decades later during Air Force interviews. Cavitt stated that the material shown in the images was consistent with the debris recovered from the ranch. He specifically identified reflective foil-like material and lightweight sticks similar to what he remembered collecting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">Ramey /Marcel photographs (Atch 16) of the wreckage taken to Fort Worth (often claimed by UFO...Read more...</span></span></span>
 
-Another important witness was Irving Newton, the Fort Worth weather officer summoned to Ramey’s office on the day of the press conference. Newton maintained that he recognised the material as a balloon and radar-target device. He also recalled seeing coloured markings that later became associated with the “hieroglyphics” controversy. Newton consistently argued that the debris was familiar meteorological equipment rather than anything exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
+Another important witness was Irving Newton, the Fort Worth weather officer summoned to Ramey’s office on the day of the press conference. Newton maintained that he recognised the material as a balloon and radar-target device. He also recalled seeing coloured markings that later became associated with the “hieroglyphics” controversy. Newton consistently argued that the debris was familiar meteorological equipment rather than anything exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
 
-For Moore, these accounts mattered because they reduced the necessity of a substitution hypothesis. If both the recovery officer and the weather specialist believed the photographed material matched the recovered debris, then the claim that an entirely different set of wreckage had been introduced became more difficult to sustain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">Ramey /Marcel photographs (Atch 16) of the wreckage taken to Fort Worth (often claimed by UFO...Read more...</span></span></span>
+For Moore, these accounts mattered because they reduced the necessity of a substitution hypothesis. If both the recovery officer and the weather specialist believed the photographed material matched the recovered debris, then the claim that an entirely different set of wreckage had been introduced became more difficult to sustain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">Ramey /Marcel photographs (Atch 16) of the wreckage taken to Fort Worth (often claimed by UFO...Read more...</span></span></span>
 
 ## The Problem of the Ramey Memo
 
 No discussion of the photographs is complete without addressing the so-called Ramey Memo.
 
-One photograph shows Ramey holding a sheet of paper. Over the years, researchers attempted to enlarge and decipher the blurred text, hoping it might reveal what military officials actually believed about the recovered object. The resulting interpretations have varied dramatically. Some investigators claimed the document contains language suggesting a crashed disc and recovery operation. Others concluded that the image quality is too poor to support reliable readings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">Ramey crouched by some of the scattered debris from a Rawin radar target (Berlitz &amp;. Moore...Read more...</span></span></span>
+One photograph shows Ramey holding a sheet of paper. Over the years, researchers attempted to enlarge and decipher the blurred text, hoping it might reveal what military officials actually believed about the recovered object. The resulting interpretations have varied dramatically. Some investigators claimed the document contains language suggesting a crashed disc and recovery operation. Others concluded that the image quality is too poor to support reliable readings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">Ramey crouched by some of the scattered debris from a Rawin radar target (Berlitz &amp;. Moore...Read more...</span></span></span>
 
-The memo controversy indirectly affects the debris-switch debate because advocates of substitution often view the memo as evidence that the military publicly displayed one story while privately discussing another. However, the decipherment efforts remain highly disputed. Analyses of the memo have repeatedly noted the limitations imposed by image quality, photographic angle and enhancement techniques. No universally accepted reading exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">Ramey crouched by some of the scattered debris from a Rawin radar target (Berlitz &amp;. Moore...Read more...</span></span></span>
+The memo controversy indirectly affects the debris-switch debate because advocates of substitution often view the memo as evidence that the military publicly displayed one story while privately discussing another. However, the decipherment efforts remain highly disputed. Analyses of the memo have repeatedly noted the limitations imposed by image quality, photographic angle and enhancement techniques. No universally accepted reading exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">Ramey crouched by some of the scattered debris from a Rawin radar target (Berlitz &amp;. Moore...Read more...</span></span></span>
 
 As a result, the memo has never resolved the question of whether the photographed debris was substituted. Instead, it has become a separate evidentiary dispute layered on top of the photographic debate.
 
@@ -363,9 +363,9 @@ Viewed narrowly, the Ramey photographs do not by themselves prove either side of
 
 The key question is whether the images require a substitution hypothesis to explain what appears in them.
 
-Moore’s answer was no. He argued that the photographed wreckage contained characteristics expected from Project Mogul hardware and radar reflectors. The Air Force investigations reached similar conclusions, stating that descriptions of debris recovered near Roswell and debris displayed in Ramey’s office were consistent with one another and with Mogul-related equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
+Moore’s answer was no. He argued that the photographed wreckage contained characteristics expected from Project Mogul hardware and radar reflectors. The Air Force investigations reached similar conclusions, stating that descriptions of debris recovered near Roswell and debris displayed in Ramey’s office were consistent with one another and with Mogul-related equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
 
-Critics of the official explanation continue to argue that later witness [testimony]({{ 'testimony/' | relative_url }}) points to more unusual materials than those visible in the photographs. Yet the debris-switch theory depends on additional assumptions: that a substitution occurred, that numerous participants concealed it successfully, and that the replacement material happened to resemble equipment later identified as part of Project Mogul. Those assumptions remain largely inferential rather than directly documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">Ramey /Marcel photographs (Atch 16) of the wreckage taken to Fort Worth (often claimed by UFO...Read more...</span></span></span>
+Critics of the official explanation continue to argue that later witness [testimony]({{ 'testimony/' | relative_url }}) points to more unusual materials than those visible in the photographs. Yet the debris-switch theory depends on additional assumptions: that a substitution occurred, that numerous participants concealed it successfully, and that the replacement material happened to resemble equipment later identified as part of Project Mogul. Those assumptions remain largely inferential rather than directly documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">Ramey /Marcel photographs (Atch 16) of the wreckage taken to Fort Worth (often claimed by UFO...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VoncUxxEBZc" title="The Project Mogul COVER-UP That Created Roswell | EP56" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VoncUxxEBZc" target="_blank" rel="noopener noreferrer">The Project Mogul COVER-UP That Created Roswell | EP56</a></p><p class="youtube-embed-meta">Channel: Untold Evidence</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VoncUxxEBZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VoncUxxEBZc">Open on YouTube</a></p></div></div></div>
@@ -374,185 +374,185 @@ Critics of the official explanation continue to argue that later witness [testim
 
 The Ramey office photographs remain important because they are among the few pieces of contemporary physical evidence connected to the Roswell incident. Most of the famous witness accounts emerged decades later. The photographs, by contrast, were taken on the day the story broke.
 
-For Charles Moore, that timing made them especially valuable. Instead of relying solely on memory, he could compare visible objects in the photographs with equipment he had personally worked with in 1947. His conclusion was that the images fit naturally within the Project Mogul explanation and therefore weakened the argument that military authorities needed to stage a debris substitution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
+For Charles Moore, that timing made them especially valuable. Instead of relying solely on memory, he could compare visible objects in the photographs with equipment he had personally worked with in 1947. His conclusion was that the images fit naturally within the Project Mogul explanation and therefore weakened the argument that military authorities needed to stage a debris substitution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
 
-The debate persists because the photographs occupy a unique position between physical evidence and human testimony. Those who see a cover-up view them as carefully managed public relations images. Those who accept the Mogul explanation view them as visual confirmation of what the recovered material actually was. More than seventy years later, the disagreement continues because the same photographs can be interpreted through two very different assumptions: either they document a substitution, or they document the debris itself. The importance of Moore’s analysis lies in his argument that the second interpretation is not only possible but technically plausible when the photographs are compared with the balloon and radar-target systems used by Project Mogul in 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
+The debate persists because the photographs occupy a unique position between physical evidence and human testimony. Those who see a cover-up view them as carefully managed public relations images. Those who accept the Mogul explanation view them as visual confirmation of what the recovered material actually was. More than seventy years later, the disagreement continues because the same photographs can be interpreted through two very different assumptions: either they document a substitution, or they document the debris itself. The importance of Moore’s analysis lies in his argument that the second interpretation is not only possible but technically plausible when the photographs are compared with the balloon and radar-target systems used by Project Mogul in 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulDescriptions of the debris provided by Brazel, Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-3-dark.svg" | relative_url }}" alt="Ramey Photos illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_ramey_photos_mogul_57ddcd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do the Ramey Photos Fit Mogul Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do the Ramey Photos Fit Mogul Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Includes Charles B. Moore and directly addresses the Project Mogul interpretation central to the Ramey-photo debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes Charles B. Moore and directly addresses the Project Mogul interpretation central to the Ramey-photo debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Focuses on the Mogul explanation and critical evaluation of Roswell claims, closely matching the page&#x27;s subject matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the Mogul explanation and critical evaluation of Roswell claims, closely matching the page&#x27;s subject matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Essential for understanding the historical development of debris-switch and cover-up arguments discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Essential for understanding the historical development of debris-switch and cover-up arguments discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album" data-ebay-reference="ramey-photos-do-the-ramey-photos-fit-mogul-debris-roswell-ufo-crash-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ The debate persists because the photographs occupy a unique position between phy
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ The debate persists because the photographs occupy a unique position between phy
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ The debate persists because the photographs occupy a unique position between phy
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ The debate persists because the photographs occupy a unique position between phy
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ The debate persists because the photographs occupy a unique position between phy
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,131 +758,131 @@ The debate persists because the photographs occupy a unique position between phy
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Brig General Ramey Roswell debris.jpgGeneral Roger Ramey, holding telegram, inspects debris brought back from Roswe...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Brig General Ramey Roswell debris.jpgGeneral Roger Ramey, holding telegram, inspects debris brought back from Roswe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesAbout the Roswell Photo Collection | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather ballo...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesAbout the Roswell Photo Collection | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather ballo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>General Ramey and Major Marcel in the famous photos (Atch 16) in Fort Worth was that of a radar target normally suspended from...</p></details>
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Ramey and Major Marcel in the famous photos (Atch 16) in Fort Worth was that of a radar target normally suspended from...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: esd.whs.mil  
    Title: ESDReport of Air Force Research Regarding the "Roswell  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey /Marcel photographs (Atch 16) of the wreckage taken to Fort Worth (often claimed by UFO...Read more...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey /Marcel photographs (Atch 16) of the wreckage taken to Fort Worth (often claimed by UFO...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate''A Message in a Bottle:" Confounds in Deciphering  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey crouched by some of the scattered debris from a Rawin radar target (Berlitz &amp;. Moore...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey crouched by some of the scattered debris from a Rawin radar target (Berlitz &amp;. Moore...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — PHOTOS USED AND LAND DEBRIS RECOVERY TEAMS DEPLOYED. The foll...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — PHOTOS USED AND LAND DEBRIS RECOVERY TEAMS DEPLOYED. The foll...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roger M. Ramey  
-   Link: <a href="https://en.wikipedia.org/wiki/Roger_M._Ramey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roger_M._Ramey</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roger_M._Ramey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roger_M._Ramey</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentBrigadier General Roger Ramey and Colonel Thomas DuBose posed with the alleged wrecka...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentBrigadier General Roger Ramey and Colonel Thomas DuBose posed with the alleged wrecka...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulDescriptions of the debris provided by [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;), Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulDescriptions of the debris provided by [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;), Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey&#x27;s office was just a weather bal- loon switched for the &quot;real debris,&quot;. Moore pointed out...Read more...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey&#x27;s office was just a weather bal- loon switched for the &quot;real debris,&quot;. Moore pointed out...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an even...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an even...</p></details>
    Published: March 24, 2018  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: the roswell ufo crash was a classified balloon program designed to spy on soviet  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Crash Was a Classified Balloon Program...In 1994 it was finally revealed that the balloon was part of the top-secret Pro...</p></details>
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Crash Was a Classified Balloon Program...In 1994 it was finally revealed that the balloon was part of the top-secret Pro...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: flying saucer crash in roswellon july 2 1947 some sort of flying object crashed  
-   Link: <a href="https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What happened in the 1947 Roswell flying saucer crash?FLYING SAUCER CRASH IN ROSWELL! On July 2, 1947, some sort of &quot;flying object&quot; crash...</p></details>
+   Link:<a href="https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happened in the 1947 Roswell flying saucer crash?FLYING SAUCER CRASH IN ROSWELL! On July 2, 1947, some sort of &quot;flying object&quot; crash...</p></details>
    Published: July 2, 1947  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey/Marcel photographs of the wreckage taken to Ft. Worth (often claimed by LITO researchers to have been switched and the remnants of...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey/Marcel photographs of the wreckage taken to Ft. Worth (often claimed by LITO researchers to have been switched and the remnants of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: The deciphered letter held in the hands of Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides smoking gun proof of a disk crash, and the recovery of the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides smoking gun proof of a disk crash, and the recovery of the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: real photograph from roswell 1947 of the us  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zqyjme/real_photograph_from_roswell_1947_of_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zqyjme/real_photograph_from_roswell_1947_of_the_us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA Libraries currently holds photographs and negatives from the incident (digital versions below) as part of the large F...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zqyjme/real_photograph_from_roswell_1947_of_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zqyjme/real_photograph_from_roswell_1947_of_the_us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA Libraries currently holds photographs and negatives from the incident (digital versions below) as part of the large F...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Truth about Roswell: Decoding Decades of Deception  
-   Link: <a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell General Ramey office photos debris switch The Truth about Roswell: Decoding Decades of Deception The Why Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell General Ramey office photos debris switch The Truth about Roswell: Decoding Decades of Deception The Why Files...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Project Mogul COVER-UP That Created Roswell | EP56  
-   Link: <a href="https://www.youtube.com/watch?v=VoncUxxEBZc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VoncUxxEBZc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VoncUxxEBZc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VoncUxxEBZc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: online.flipbuilder.com  
-   Link: <a href="https://online.flipbuilder.com/xwms/hbfw/files/basic-html/page85.html" target="_blank" rel="noopener noreferrer nofollow">https://online.flipbuilder.com/xwms/hbfw/files/basic-html/page85.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mogul flights that Moore objects at top left and bottom middle are radar debris in General Ramey&#x27;s office.” Warrant helped launch. reflec...</p></details>
+   Link:<a href="https://online.flipbuilder.com/xwms/hbfw/files/basic-html/page85.html" target="_blank" rel="noopener noreferrer nofollow">https://online.flipbuilder.com/xwms/hbfw/files/basic-html/page85.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mogul flights that Moore objects at top left and bottom middle are radar debris in General Ramey&#x27;s office.” Warrant helped launch. reflec...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Major Jesse Marcel discusses the Roswell material  
-   Link: <a href="https://www.youtube.com/watch?v=JmCipcmKtpc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JmCipcmKtpc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Mogul COVER-UP That Created Roswell | EP56...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JmCipcmKtpc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JmCipcmKtpc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Mogul COVER-UP That Created Roswell | EP56...</p></details>

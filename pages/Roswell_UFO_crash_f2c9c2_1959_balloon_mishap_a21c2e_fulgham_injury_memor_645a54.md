@@ -280,28 +280,28 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgha
 
 ## Introduction
 
-One of the most unusual attempts to explain later Roswell [body stories]({{ 'body-stories/' | relative_url }}) centres on a real person: [Air Force]({{ 'air-force/' | relative_url }}) Captain Dan Fulgham. According to the U.S. Air Force's 1997 follow-up investigation into Roswell, Fulgham suffered severe head injuries in a 1959 balloon-training accident near Roswell, and his dramatically swollen appearance may have contributed to later memories of a strange, large-headed figure seen at the base hospital. The theory does not attempt to explain the original 1947 debris recovery. Instead, it addresses a much narrower question: why some witnesses decades later described seeing an odd-looking being, hospital activity, and military secrecy in Roswell. Whether Fulgham's injuries genuinely account for those memories remains one of the most debated elements of the Air Force's reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+One of the most unusual attempts to explain later Roswell [body stories]({{ 'body-stories/' | relative_url }}) centres on a real person: [Air Force]({{ 'air-force/' | relative_url }}) Captain Dan Fulgham. According to the U.S. Air Force's 1997 follow-up investigation into Roswell, Fulgham suffered severe head injuries in a 1959 balloon-training accident near Roswell, and his dramatically swollen appearance may have contributed to later memories of a strange, large-headed figure seen at the base hospital. The theory does not attempt to explain the original 1947 debris recovery. Instead, it addresses a much narrower question: why some witnesses decades later described seeing an odd-looking being, hospital activity, and military secrecy in Roswell. Whether Fulgham's injuries genuinely account for those memories remains one of the most debated elements of the Air Force's reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgham_injury_memor_645a54-Illustration-1-dark.svg" | relative_url }}" alt="Fulgham Injury illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgham_injury_memor_645a54-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgham_injury_memor_645a54-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Could an Injured Airman Look Like an Alien?
 
-The Air Force's argument begins with a documented accident. On 21 May 1959, a balloon gondola overturned during a training exercise involving Joseph Kittinger, Dan Fulgham and William Kaufman. Fulgham's head was trapped beneath the gondola, producing extensive trauma and a massive haematoma. Medical descriptions and later witness statements portray an appearance that was genuinely startling rather than merely bruised. His eyes reportedly swelled shut, his face became heavily discoloured, and swelling obscured the normal contours of his nose and forehead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record+2Dallas News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-snippet">The Unwritten RecordThe Roswell Reports: What crashed in the desert?7 Jul 2014 — The accident resulted in serious swelling of Fulgham&#x27;s h...</span></span></span>
+The Air Force's argument begins with a documented accident. On 21 May 1959, a balloon gondola overturned during a training exercise involving Joseph Kittinger, Dan Fulgham and William Kaufman. Fulgham's head was trapped beneath the gondola, producing extensive trauma and a massive haematoma. Medical descriptions and later witness statements portray an appearance that was genuinely startling rather than merely bruised. His eyes reportedly swelled shut, his face became heavily discoloured, and swelling obscured the normal contours of his nose and forehead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-snippet">The Unwritten RecordThe Roswell Reports: What crashed in the desert?7 Jul 2014 — The accident resulted in serious swelling of Fulgham&#x27;s h...</span></span></span>
 
-The severity of the swelling is important because some later Roswell accounts did not describe a conventional injured patient. Instead, they referred to a figure with an unusually large head, strange facial proportions, and an appearance that observers found difficult to interpret. The Air Force contended that an observer catching only a brief glimpse of Fulgham in this condition could have remembered him not as a badly injured airman but as something abnormal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+The severity of the swelling is important because some later Roswell accounts did not describe a conventional injured patient. Instead, they referred to a figure with an unusually large head, strange facial proportions, and an appearance that observers found difficult to interpret. The Air Force contended that an observer catching only a brief glimpse of Fulgham in this condition could have remembered him not as a badly injured airman but as something abnormal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
-Critics often dismiss this suggestion as implausible because Fulgham was a human adult, not a small humanoid creature. Supporters of the Air Force explanation counter that memory reports rarely preserve exact physical dimensions and that shock, distance, partial visibility and the passage of decades can significantly alter recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+Critics often dismiss this suggestion as implausible because Fulgham was a human adult, not a small humanoid creature. Supporters of the Air Force explanation counter that memory reports rarely preserve exact physical dimensions and that shock, distance, partial visibility and the passage of decades can significantly alter recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PrmiatwmHWk" title="Roswell &quot;Case Closed&quot; — U.S. Air Force Press Conference (June 24, 1997)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PrmiatwmHWk" target="_blank" rel="noopener noreferrer">Roswell &quot;Case Closed&quot; — U.S. Air Force Press Conference (June 24, 1997)</a></p><p class="youtube-embed-meta">Channel: Lies Above</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PrmiatwmHWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PrmiatwmHWk">Open on YouTube</a></p></div></div></div>
 
 ## What Fulgham's Medical Records Described
 
-The strongest part of the Fulgham explanation is that the injury itself is well documented. Air Force investigators obtained statements from participants and reviewed medical information associated with the accident. The [records]({{ 'records/' | relative_url }}) described a substantial forehead and scalp haematoma rather than a minor wound. According to accounts cited by the Air Force, the swelling became so extensive that Fulgham's eyes closed completely and his facial features were distorted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+The strongest part of the Fulgham explanation is that the injury itself is well documented. Air Force investigators obtained statements from participants and reviewed medical information associated with the accident. The [records]({{ 'records/' | relative_url }}) described a substantial forehead and scalp haematoma rather than a minor wound. According to accounts cited by the Air Force, the swelling became so extensive that Fulgham's eyes closed completely and his facial features were distorted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
-Later summaries of the incident repeated these details. Descriptions of his condition noted that his face darkened from bruising and swelling and that his nose became difficult to distinguish amid the trauma. Joseph Kittinger himself reportedly characterised Fulgham's appearance as grotesque following the accident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dallasnews.com/news/obituaries/2015/05/21/dan-fulgham-pilot-who-helped-lead-way-to-space-age-dies-at-87/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dallasnews.com">[Dallas News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dallasnews.com</span><span class="citation-popover-title">A bandage wrapping his head</span><span class="citation-popover-snippet">Dallas NewsDan Fulgham, pilot who helped lead way to space age...20 May 2015 — Fulgham&#x27;s nose was barely visible on his swollen face, hi...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
+Later summaries of the incident repeated these details. Descriptions of his condition noted that his face darkened from bruising and swelling and that his nose became difficult to distinguish amid the trauma. Joseph Kittinger himself reportedly characterised Fulgham's appearance as grotesque following the accident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dallasnews.com/news/obituaries/2015/05/21/dan-fulgham-pilot-who-helped-lead-way-to-space-age-dies-at-87/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dallasnews.com">[Dallas News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dallasnews.com</span><span class="citation-popover-title">A bandage wrapping his head</span><span class="citation-popover-snippet">Dallas NewsDan Fulgham, pilot who helped lead way to space age...20 May 2015 — Fulgham&#x27;s nose was barely visible on his swollen face, hi...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
 
-These details matter because they provide a rare instance in Roswell research where an allegedly "alien-looking" figure can be connected to a documented medical event rather than a purely anecdotal story. Unlike many body-recovery claims, the balloon accident left a traceable historical record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-snippet">The Unwritten RecordThe Roswell Reports: What crashed in the desert?7 Jul 2014 — The accident resulted in serious swelling of Fulgham&#x27;s h...</span></span></span>
+These details matter because they provide a rare instance in Roswell research where an allegedly "alien-looking" figure can be connected to a documented medical event rather than a purely anecdotal story. Unlike many body-recovery claims, the balloon accident left a traceable historical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-snippet">The Unwritten RecordThe Roswell Reports: What crashed in the desert?7 Jul 2014 — The accident resulted in serious swelling of Fulgham&#x27;s h...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
@@ -310,16 +310,16 @@ These details matter because they provide a rare instance in Roswell research wh
 
 The memory-blending theory depends on more than Fulgham's appearance. It also requires him to have been visible at the location where later witnesses placed unusual events.
 
-According to statements gathered by Air Force investigators, Fulgham was transported to Walker Air Force Base hospital after the accident. He later recalled arriving at the facility and walking into the hospital before treatment. This detail became significant because some Roswell witnesses described seeing an unusual figure moving through or around the hospital rather than lying hidden in a restricted ward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+According to statements gathered by Air Force investigators, Fulgham was transported to Walker Air Force Base hospital after the accident. He later recalled arriving at the facility and walking into the hospital before treatment. This detail became significant because some Roswell witnesses described seeing an unusual figure moving through or around the hospital rather than lying hidden in a restricted ward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
 The Air Force argued that several elements from separate events may have become fused together over time:
 
 * A severely injured and visibly abnormal-looking airman arriving at the hospital in 1959.
 * Military personnel and vehicles associated with an emergency response.
 * Security measures that naturally accompanied military accidents.
-* Later publicity surrounding Roswell and alleged extraterrestrial [bodies]({{ 'bodies/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+* Later publicity surrounding Roswell and alleged extraterrestrial [bodies]({{ 'bodies/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
-Under this interpretation, witnesses did not invent what they saw. Instead, they remembered genuine scenes but assigned them to the wrong event and year. The resulting story then became incorporated into the larger Roswell mythology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+Under this interpretation, witnesses did not invent what they saw. Instead, they remembered genuine scenes but assigned them to the wrong event and year. The resulting story then became incorporated into the larger Roswell mythology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgham_injury_memor_645a54-Illustration-2-dark.svg" | relative_url }}" alt="Fulgham Injury illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgham_injury_memor_645a54-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgham_injury_memor_645a54-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,11 +327,11 @@ Under this interpretation, witnesses did not invent what they saw. Instead, they
 
 The Fulgham explanation is aimed at a specific category of Roswell [testimony]({{ 'testimony/' | relative_url }}) rather than the entire case.
 
-Many of the most famous body narratives emerged decades after 1947 and often revolved around activity at the Roswell base hospital. Mortician [Glenn Dennis]({{ 'glenn-dennis/' | relative_url }}) became a central figure in these accounts, describing stories involving unusual bodies, medical personnel and military warnings. His testimony helped popularise the image of alien remains being processed at the hospital. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
+Many of the most famous body narratives emerged decades after 1947 and often revolved around activity at the Roswell base hospital. Mortician [Glenn Dennis]({{ 'glenn-dennis/' | relative_url }}) became a central figure in these accounts, describing stories involving unusual bodies, medical personnel and military warnings. His testimony helped popularise the image of alien remains being processed at the hospital.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
 
-The Air Force's investigators concluded that hospital-centred stories were more likely to reflect later accidents and military operations than events from July 1947. Fulgham's accident therefore served as a candidate source for at least part of the narrative because it placed a dramatically injured individual inside the same institutional setting that later witnesses discussed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+The Air Force's investigators concluded that hospital-centred stories were more likely to reflect later accidents and military operations than events from July 1947. Fulgham's accident therefore served as a candidate source for at least part of the narrative because it placed a dramatically injured individual inside the same institutional setting that later witnesses discussed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
-Importantly, the theory does not claim that every body story traces back to Fulgham. Rather, it proposes that his accident may account for one recurring image: the sight of a strange-looking, large-headed figure associated with Walker Air Force Base hospital. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+Importantly, the theory does not claim that every body story traces back to Fulgham. Rather, it proposes that his accident may account for one recurring image: the sight of a strange-looking, large-headed figure associated with Walker Air Force Base hospital.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tCr9ft4yWaI" title="Official Reports on the Roswell UFO Incident | USAF Documentary | 1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer">Official Reports on the Roswell UFO Incident | USAF Documentary | 1997</a></p><p class="youtube-embed-meta">Channel: The Best Film Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tCr9ft4yWaI">Open on YouTube</a></p></div></div></div>
@@ -340,189 +340,189 @@ Importantly, the theory does not claim that every body story traces back to Fulg
 
 Even among researchers who reject extraterrestrial explanations, the Fulgham hypothesis is not universally accepted.
 
-The most obvious criticism is chronology. The balloon accident occurred in 1959, twelve years after the Roswell incident. Skeptics of the Air Force explanation argue that such a large gap makes it difficult to explain why witnesses would consistently relocate memories backwards into 1947. Some UFO researchers have therefore portrayed the Fulgham theory as an overly convenient attempt to explain away uncomfortable testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://crisismagazine.com/vault/coincidentally-the-rosewell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crisismagazine.com">[Crisis Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crisismagazine.com</span><span class="citation-popover-title">Crisis Magazine Coincidentally: The Rosewell Incident</span><span class="citation-popover-snippet">Crisis MagazineCoincidentally: The Rosewell IncidentOctober 1, 1997 — 1 Oct 1997 — Daniel Fulgham, with a bandaged head and face swollen...</span><span class="citation-popover-meta">Published: October 1, 1997</span></span></span>
+The most obvious criticism is chronology. The balloon accident occurred in 1959, twelve years after the Roswell incident. Skeptics of the Air Force explanation argue that such a large gap makes it difficult to explain why witnesses would consistently relocate memories backwards into 1947. Some UFO researchers have therefore portrayed the Fulgham theory as an overly convenient attempt to explain away uncomfortable testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://crisismagazine.com/vault/coincidentally-the-rosewell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crisismagazine.com">[Crisis Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crisismagazine.com</span><span class="citation-popover-title">Crisis Magazine Coincidentally: The Rosewell Incident</span><span class="citation-popover-snippet">Crisis MagazineCoincidentally: The Rosewell IncidentOctober 1, 1997 — 1 Oct 1997 — Daniel Fulgham, with a bandaged head and face swollen...</span><span class="citation-popover-meta">Published: October 1, 1997</span></span></span>
 
-Another criticism concerns physical description. Some witness accounts describe beings that were small in stature, with proportions that differ markedly from those of an injured adult airman. If those descriptions are taken literally, Fulgham cannot account for them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Another criticism concerns physical description. Some witness accounts describe beings that were small in stature, with proportions that differ markedly from those of an injured adult airman. If those descriptions are taken literally, Fulgham cannot account for them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-Supporters of the Air Force view respond that witness narratives changed substantially over time and often conflict with one another. In that context, they argue, a documented accident involving a severely swollen head and a hospital visit provides a more concrete evidentiary foundation than recollections recorded forty or fifty years after the fact. U.S. Department of War+2The Unwritten Record <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media](&amp;#123;&amp;#123; &#x27;media/&#x27; &#124; relative_url &amp;#125;&amp;#125;). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+Supporters of the Air Force view respond that witness narratives changed substantially over time and often conflict with one another. In that context, they argue, a documented accident involving a severely swollen head and a hospital visit provides a more concrete evidentiary foundation than recollections recorded forty or fifty years after the fact. U.S. Department of War+2The Unwritten Record<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media]({{ &#x27;media/&#x27; | relative_url }}). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
-The result is a continuing debate over what kind of evidence deserves the greatest weight. Fulgham's injuries are historically verifiable. The claim that those injuries evolved into memories of a large-headed creature is interpretive. For supporters, it is one of the more plausible mechanisms by which later Roswell body stories could have developed. For critics, it remains an unproven reconstruction that does not fully match the witness descriptions it seeks to explain. U.S. Department of War+2The Unwritten Record <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media](&amp;#123;&amp;#123; &#x27;media/&#x27; &#124; relative_url &amp;#125;&amp;#125;). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
+The result is a continuing debate over what kind of evidence deserves the greatest weight. Fulgham's injuries are historically verifiable. The claim that those injuries evolved into memories of a large-headed creature is interpretive. For supporters, it is one of the more plausible mechanisms by which later Roswell body stories could have developed. For critics, it remains an unproven reconstruction that does not fully match the witness descriptions it seeks to explain. U.S. Department of War+2The Unwritten Record<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media]({{ &#x27;media/&#x27; | relative_url }}). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgham_injury_memor_645a54-Illustration-3-dark.svg" | relative_url }}" alt="Fulgham Injury illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgham_injury_memor_645a54-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_fulgham_injury_memor_645a54-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could an Injured Airman Look Like an Alien?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could an Injured Airman Look Like an Alien?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly examines how Roswell stories developed, including witness testimony, memory formation and competing explanations for later alien...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how Roswell stories developed, including witness testimony, memory formation and competing explanations for later alien...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Focuses on evidence, witness reliability and alternative explanations, making it highly relevant to the Fulgham-memory debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence, witness reliability and alternative explanations, making it highly relevant to the Fulgham-memory debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the influential body-recovery narrative that later skeptical and memory-based explanations attempt to address.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the influential body-recovery narrative that later skeptical and memory-based explanations attempt to address.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW"><img src="{{ '/assets/images/marketplace-covers/e68baf432778c29305a0.jpg' | relative_url }}" alt="Listing image for Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - 40th Anniversary Limited Edition Enamel Pin Badge NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="fulgham-injury-could-an-injured-airman-look-like-an-alien-roswell-ufo-crash-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ The result is a continuing debate over what kind of evidence deserves the greate
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ The result is a continuing debate over what kind of evidence deserves the greate
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ The result is a continuing debate over what kind of evidence deserves the greate
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ The result is a continuing debate over what kind of evidence deserves the greate
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ The result is a continuing debate over what kind of evidence deserves the greate
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,95 +728,95 @@ The result is a continuing debate over what kind of evidence deserves the greate
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;These claims were usually based on anecdotal accounts of second-and thi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Glenn Dennis  
-   Link: <a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unwritten RecordThe Roswell Reports: What crashed in the desert?7 Jul 2014 — The accident resulted in serious swelling of Fulgham&#x27;s h...</p></details>
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unwritten RecordThe Roswell Reports: What crashed in the desert?7 Jul 2014 — The accident resulted in serious swelling of Fulgham&#x27;s h...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dallasnews.com  
    Title: A bandage wrapping his head  
-   Link: <a href="https://www.dallasnews.com/news/obituaries/2015/05/21/dan-fulgham-pilot-who-helped-lead-way-to-space-age-dies-at-87/" target="_blank" rel="noopener noreferrer nofollow">https://www.dallasnews.com/news/obituaries/2015/05/21/dan-fulgham-pilot-who-helped-lead-way-to-space-age-dies-at-87/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dallas NewsDan Fulgham, pilot who helped lead way to space age...20 May 2015 — Fulgham&#x27;s nose was barely visible on his swollen face, hi...</p></details>
+   Link:<a href="https://www.dallasnews.com/news/obituaries/2015/05/21/dan-fulgham-pilot-who-helped-lead-way-to-space-age-dies-at-87/" target="_blank" rel="noopener noreferrer nofollow">https://www.dallasnews.com/news/obituaries/2015/05/21/dan-fulgham-pilot-who-helped-lead-way-to-space-age-dies-at-87/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dallas NewsDan Fulgham, pilot who helped lead way to space age...20 May 2015 — Fulgham&#x27;s nose was barely visible on his swollen face, hi...</p></details>
    Published: May 2015  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: crisismagazine.com  
    Title: Crisis Magazine Coincidentally: The Rosewell Incident  
-   Link: <a href="https://crisismagazine.com/vault/coincidentally-the-rosewell-incident" target="_blank" rel="noopener noreferrer nofollow">https://crisismagazine.com/vault/coincidentally-the-rosewell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis MagazineCoincidentally: The Rosewell IncidentOctober 1, 1997 — 1 Oct 1997 — Daniel Fulgham, with a bandaged head and face swollen...</p></details>
+   Link:<a href="https://crisismagazine.com/vault/coincidentally-the-rosewell-incident" target="_blank" rel="noopener noreferrer nofollow">https://crisismagazine.com/vault/coincidentally-the-rosewell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis MagazineCoincidentally: The Rosewell IncidentOctober 1, 1997 — 1 Oct 1997 — Daniel Fulgham, with a bandaged head and face swollen...</p></details>
    Published: October 1, 1997  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/no-more-worlds-to-conquer-9780008112899-9780007575428.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/no-more-worlds-to-conquer-9780008112899-9780007575428.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No More Worlds to ConquerIt was he who had to relay instructions after Armstrong and Aldrin twice encountered an unfamiliar error message...</p></details>
+   Link:<a href="https://dokumen.pub/download/no-more-worlds-to-conquer-9780008112899-9780007575428.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/no-more-worlds-to-conquer-9780008112899-9780007575428.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No More Worlds to ConquerIt was he who had to relay instructions after Armstrong and Aldrin twice encountered an unfamiliar error message...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-19.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens FilesA review of military aircraft accidents showed that the only accident for which burn victims were autopsied at Walker AFB...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-19.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens FilesA review of military aircraft accidents showed that the only accident for which burn victims were autopsied at Walker AFB...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: grunge.com  
    Title: bizarre details about roswell that still dont make sense  
-   Link: <a href="https://www.grunge.com/434690/bizarre-details-about-roswell-that-still-dont-make-sense/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/434690/bizarre-details-about-roswell-that-still-dont-make-sense/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Details About Roswell That Still Don&#x27;t Make Sense29 Apr 2022 — The huge-headed creature wandering around was likely Captain Dan F...</p></details>
+   Link:<a href="https://www.grunge.com/434690/bizarre-details-about-roswell-that-still-dont-make-sense/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/434690/bizarre-details-about-roswell-that-still-dont-make-sense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Details About Roswell That Still Don&#x27;t Make Sense29 Apr 2022 — The huge-headed creature wandering around was likely Captain Dan F...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ctmYX6AcHCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ctmYX6AcHCc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report Case Closed 1997 Air Force 🛸 The Roswell Report: Case Closed | Official USAF Investigation 🚁 AudioVerse...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ctmYX6AcHCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ctmYX6AcHCc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report Case Closed 1997 Air Force 🛸 The Roswell Report: Case Closed | Official USAF Investigation 🚁 AudioVerse...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tampabay.com  
    Title: the roswell mystery air force aliens  
-   Link: <a href="https://www.tampabay.com/archive/1997/06/25/the-roswell-mystery-air-force-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.tampabay.com/archive/1997/06/25/the-roswell-mystery-air-force-aliens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tampa Bay TimesTHE ROSWELL MYSTERY // AIR FORCE ALIENS25 Jun 1997 — Fulgham, an Air Force captain who had the misfortune to be struck by...</p></details>
+   Link:<a href="https://www.tampabay.com/archive/1997/06/25/the-roswell-mystery-air-force-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.tampabay.com/archive/1997/06/25/the-roswell-mystery-air-force-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tampa Bay TimesTHE ROSWELL MYSTERY // AIR FORCE ALIENS25 Jun 1997 — Fulgham, an Air Force captain who had the misfortune to be struck by...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell &quot;Case Closed&quot; — U.S. Air Force Press Conference (June 24, 1997)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell &quot;Case Closed&quot; — U.S. Air Force Press Conference (June 24, 1997)...</p></details>
    Published: June 24, 1997  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Roswell "Case Closed" — U.S. Air Force Press Conference (  
-   Link: <a href="https://www.youtube.com/watch?v=PrmiatwmHWk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PrmiatwmHWk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CNN &amp; HLN 1997 Air Force Roswell Report: Case Closed w/ Lynne Russell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PrmiatwmHWk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PrmiatwmHWk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CNN &amp; HLN 1997 Air Force Roswell Report: Case Closed w/ Lynne Russell...</p></details>
    Published: June 24, 1997  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: 🛸 The Roswell Report: Case Closed | Official USAF Investigation 🚁  
-   Link: <a href="https://www.youtube.com/watch?v=bDXpx80rXLM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bDXpx80rXLM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bDXpx80rXLM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bDXpx80rXLM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: airandspaceforces.com  
-   Link: <a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF and the UFOsIn 1996, Glenn Dennis succeeded Walter Haut as head of the International UFO Museum in Roswell. The current director is...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF and the UFOsIn 1996, Glenn Dennis succeeded Walter Haut as head of the International UFO Museum in Roswell. The current director is...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: secure.afa.org  
-   Link: <a href="https://secure.afa.org/joinafa/AFMag2014/AFMag1014/files/basic-html/page10.html" target="_blank" rel="noopener noreferrer nofollow">https://secure.afa.org/joinafa/AFMag2014/AFMag1014/files/basic-html/page10.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magazine_October2014 issueCaptain Fulgham&#x27;s head causing it to swell. Fulgham was the “alien” reported seen walking on its own into the h...</p></details>
+   Link:<a href="https://secure.afa.org/joinafa/AFMag2014/AFMag1014/files/basic-html/page10.html" target="_blank" rel="noopener noreferrer nofollow">https://secure.afa.org/joinafa/AFMag2014/AFMag1014/files/basic-html/page10.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magazine_October2014 issueCaptain Fulgham&#x27;s head causing it to swell. Fulgham was the “alien” reported seen walking on its own into the h...</p></details>

@@ -280,17 +280,17 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul
 
 ## Introduction
 
-Do missing [Project Mogul]({{ 'project-mogul/' | relative_url }}) records weaken the case that Roswell debris came from a military [balloon train]({{ 'balloon-train/' | relative_url }})? The answer depends on what kind of records are missing and why. Charles Moore, the New York University engineer who worked on Project Mogul, argued that gaps in the surviving flight sequence were not necessarily signs of a cover-up or fabrication. Instead, he maintained that some balloon operations were conducted as “service flights” that were not entered into the same publicly documented series as the better-known research flights. This claim turned missing flight numbers into a central piece of evidence rather than a simple bookkeeping problem. At the same time, critics have argued that incomplete documentation makes it harder to tie any specific Mogul launch to the Roswell debris field with certainty. The debate is therefore less about whether records are missing and more about what those gaps actually mean. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+Do missing [Project Mogul]({{ 'project-mogul/' | relative_url }}) records weaken the case that Roswell debris came from a military [balloon train]({{ 'balloon-train/' | relative_url }})? The answer depends on what kind of records are missing and why. Charles Moore, the New York University engineer who worked on Project Mogul, argued that gaps in the surviving flight sequence were not necessarily signs of a cover-up or fabrication. Instead, he maintained that some balloon operations were conducted as “service flights” that were not entered into the same publicly documented series as the better-known research flights. This claim turned missing flight numbers into a central piece of evidence rather than a simple bookkeeping problem. At the same time, critics have argued that incomplete documentation makes it harder to tie any specific Mogul launch to the Roswell debris field with certainty. The debate is therefore less about whether records are missing and more about what those gaps actually mean.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-1-dark.svg" | relative_url }}" alt="Record Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Some NYU Flights Were Not Fully Logged
 
-One of the most important findings in the [Air Force]({{ 'air-force/' | relative_url }})'s Roswell investigation was that the surviving New York University flight summaries did not form a complete sequence. The numbered flight listings contained gaps, including flights identified as 2, 3, 4 and 9. According to Charles Moore, these missing numbers represented “service flights” rather than ordinary research flights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+One of the most important findings in the [Air Force]({{ 'air-force/' | relative_url }})'s Roswell investigation was that the surviving New York University flight summaries did not form a complete sequence. The numbered flight listings contained gaps, including flights identified as 2, 3, 4 and 9. According to Charles Moore, these missing numbers represented “service flights” rather than ordinary research flights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-Moore described these operations as launches that carried balloons, radar reflectors and acoustic-test payloads used to support classified military objectives. Because the equipment was expendable and the work had security implications, some flights were handled differently from the acknowledged constant-altitude research programme. In his account, the absence of these launches from the standard technical reports reflected the way the project was organised rather than an attempt decades later to invent missing flights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+Moore described these operations as launches that carried balloons, radar reflectors and acoustic-test payloads used to support classified military objectives. Because the equipment was expendable and the work had security implications, some flights were handled differently from the acknowledged constant-altitude research programme. In his account, the absence of these launches from the standard technical reports reflected the way the project was organised rather than an attempt decades later to invent missing flights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-The Air Force investigation relied heavily on Moore's recollections because he had been the on-site project engineer. Investigators concluded that the numbering gaps were consistent with service operations that existed outside the main reporting structure. That interpretation became a key pillar of the Mogul explanation for Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+The Air Force investigation relied heavily on Moore's recollections because he had been the on-site project engineer. Investigators concluded that the numbering gaps were consistent with service operations that existed outside the main reporting structure. That interpretation became a key pillar of the Mogul explanation for Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 However, the existence of service flights does not automatically resolve every question. Historians must still determine which launches occurred, what equipment they carried, and whether any particular flight could have produced debris later found near Roswell. Missing entries make that reconstruction more difficult than it would be with a complete operational log.
 
@@ -299,18 +299,18 @@ However, the existence of service flights does not automatically resolve every q
 
 ## How Service Flights Complicate Roswell Timelines
 
-The Roswell controversy often focuses on Flight No. 4, a June 1947 Mogul launch frequently identified as the most likely source of the recovered debris. Yet the flight-record issue complicates the timeline because the surviving documentation is uneven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Roswell Incident at 70: Facts, Not Myths4. The research team launched NYU Flight #4 on June 4, 1947, from Alamogord...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
+The Roswell controversy often focuses on Flight No. 4, a June 1947 Mogul launch frequently identified as the most likely source of the recovered debris. Yet the flight-record issue complicates the timeline because the surviving documentation is uneven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Roswell Incident at 70: Facts, Not Myths4. The research team launched NYU Flight #4 on June 4, 1947, from Alamogord...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
 
-Air Force researchers noted that Flight No. 4 did not appear in the standard sequence of reported NYU constant-level balloon flights, which initially created confusion. Their explanation was that it belonged to the category of service flights rather than the fully documented research series. Supporting material cited by the Air Force identified both Flights 3 and 4 as launches from Alamogordo and described equipment configurations involving meteorological balloons and acoustic-testing devices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulAbsent from the reports are service flight nos. 2, 3, and 4. Flight no. 2 was flown on April 18, 1947, at Bethlehe...</span><span class="citation-popover-meta">Published: April 18, 1947</span></span></span>
+Air Force researchers noted that Flight No. 4 did not appear in the standard sequence of reported NYU constant-level balloon flights, which initially created confusion. Their explanation was that it belonged to the category of service flights rather than the fully documented research series. Supporting material cited by the Air Force identified both Flights 3 and 4 as launches from Alamogordo and described equipment configurations involving meteorological balloons and acoustic-testing devices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulAbsent from the reports are service flight nos. 2, 3, and 4. Flight no. 2 was flown on April 18, 1947, at Bethlehe...</span><span class="citation-popover-meta">Published: April 18, 1947</span></span></span>
 
 This creates a methodological problem. Researchers attempting to reconstruct events must draw information from several different sources:
 
 * Technical reports that survive only in part.
 * Diaries and field notes kept by project personnel.
 * Later interviews with participants such as Moore.
-* Military investigations conducted nearly fifty years after the events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+* Military investigations conducted nearly fifty years after the events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-When [records]({{ 'records/' | relative_url }}) are fragmented, different investigators can legitimately emphasise different pieces of evidence. Supporters of the Mogul explanation view the scattered documentation as sufficient to establish that undocumented service launches occurred. Critics argue that fragmented records leave room for uncertainty about the exact launch sequence and the fate of specific balloon trains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+When [records]({{ 'records/' | relative_url }}) are fragmented, different investigators can legitimately emphasise different pieces of evidence. Supporters of the Mogul explanation view the scattered documentation as sufficient to establish that undocumented service launches occurred. Critics argue that fragmented records leave room for uncertainty about the exact launch sequence and the fate of specific balloon trains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 The result is that record gaps become part of the historical argument itself. Rather than serving only as missing information, they influence how confidently competing interpretations can be asserted.
 
@@ -318,16 +318,16 @@ The result is that record gaps become part of the historical argument itself. Ra
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-2-dark.svg" | relative_url }}" alt="Record Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Record Gaps Can Prove
 
-The strongest claim supported by the available evidence is relatively modest: the surviving Project Mogul documentation is incomplete. Multiple sources acknowledge that not every launch was captured in the standard flight summaries and that some activities fell outside the published technical reporting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD+2physics.smu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+The strongest claim supported by the available evidence is relatively modest: the surviving Project Mogul documentation is incomplete. Multiple sources acknowledge that not every launch was captured in the standard flight summaries and that some activities fell outside the published technical reporting system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-The gaps therefore demonstrate that historians cannot rely solely on the numbered flight tables when reconstructing early Mogul operations. They also support Moore's argument that undocumented service flights were a real feature of the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+The gaps therefore demonstrate that historians cannot rely solely on the numbered flight tables when reconstructing early Mogul operations. They also support Moore's argument that undocumented service flights were a real feature of the programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 What the gaps do not prove is equally important:
 
 * They do not by themselves show that the Air Force explanation is false.
 * They do not establish that an extraterrestrial craft crashed near Roswell.
 * They do not independently identify which specific launch generated the debris recovered in 1947.
-* They do not demonstrate a deliberate destruction of all relevant records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+* They do not demonstrate a deliberate destruction of all relevant records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 In historical investigations, [missing records]({{ 'missing-records/' | relative_url }}) can support several competing interpretations. A gap may reflect routine administrative practice, classification rules, lost archives, or incomplete preservation. Without additional evidence, the gap alone cannot determine which explanation is correct.
 
@@ -339,187 +339,187 @@ In historical investigations, [missing records]({{ 'missing-records/' | relative
 
 ## Why Moore's Testimony Remains Important
 
-Charles Moore's contribution was not merely to defend Project Mogul. His testimony reframed the significance of missing flight numbers. Before the Air Force investigations of the 1990s, critics often treated absent records as evidence that the Mogul explanation had been constructed after the fact. Moore instead argued that the missing numbers were expected because some launches were never intended to appear in the same reporting stream as the acknowledged research flights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+Charles Moore's contribution was not merely to defend Project Mogul. His testimony reframed the significance of missing flight numbers. Before the Air Force investigations of the 1990s, critics often treated absent records as evidence that the Mogul explanation had been constructed after the fact. Moore instead argued that the missing numbers were expected because some launches were never intended to appear in the same reporting stream as the acknowledged research flights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-That argument does not eliminate every uncertainty surrounding Roswell. Questions remain about the precise chronology of individual launches and the reliability of recollections offered decades later. Yet the record-gap issue is more nuanced than a simple choice between “documents exist” and “documents do not exist”. The available evidence suggests that early Mogul operations combined formal research flights with less thoroughly documented service missions, making the historical trail uneven from the beginning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+That argument does not eliminate every uncertainty surrounding Roswell. Questions remain about the precise chronology of individual launches and the reliability of recollections offered decades later. Yet the record-gap issue is more nuanced than a simple choice between “documents exist” and “documents do not exist”. The available evidence suggests that early Mogul operations combined formal research flights with less thoroughly documented service missions, making the historical trail uneven from the beginning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-For that reason, missing flight records are best understood as a limitation on certainty rather than a decisive argument for either side. They complicate the reconstruction of events, but they do not by themselves overturn the Mogul explanation or establish an alternative one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+For that reason, missing flight records are best understood as a limitation on certainty rather than a decisive argument for either side. They complicate the reconstruction of events, but they do not by themselves overturn the Mogul explanation or establish an alternative one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-3-dark.svg" | relative_url }}" alt="Record Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_mogul_record_gaps_81bfcd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Missing Mogul Records Weaken the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Missing Mogul Records Weaken the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Explores how the Roswell story developed and includes analysis connected to Mogul evidence, records, and witness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how the Roswell story developed and includes analysis connected to Mogul evidence, records, and witness claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines evidence for the Mogul explanation and discusses documentary gaps, chronology, and competing interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence for the Mogul explanation and discusses documentary gaps, chronology, and competing interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the foundational pro-crash narrative that later debates about Mogul records and missing documentation seek to challenge or support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the foundational pro-crash narrative that later debates about Mogul records and missing documentation seek to challenge or support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="record-gaps-059cb0-do-missing-mogul-records-weaken-the-case-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ For that reason, missing flight records are best understood as a limitation on c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ For that reason, missing flight records are best understood as a limitation on c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ For that reason, missing flight records are best understood as a limitation on c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ For that reason, missing flight records are best understood as a limitation on c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ For that reason, missing flight records are best understood as a limitation on c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,126 +725,126 @@ For that reason, missing flight records are best understood as a limitation on c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: esd.whs.mil  
    Title: ESDReport of Air Force Research Regarding the "Roswell  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 26, 2012 — 27 Jul 1994 — The interview with Professor Moore indicated that these gaps were the unlogged &quot;service flights.&quot; Prof...</p></details>
    Published: September 26, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and ReviewIllustration of Project MOGUL “Balloon Trains”. 26. Two Photos of Project MOGUL “Balloon Trams”. 27. Log Summary, NYU Constant...</p></details>
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and ReviewIllustration of Project MOGUL “Balloon Trains”. 26. Two Photos of Project MOGUL “Balloon Trams”. 27. Log Summary, NYU Constant...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — The National Archives has been unable to locate any documentation among the Project BLUE BOOK re...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — The National Archives has been unable to locate any documentation among the Project BLUE BOOK re...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Roswell: The World's Biggest Alien [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;) Finally Exposed  
-   Link: <a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RueuqXrQE4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RueuqXrQE4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Project Mogul  
-   Link: <a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Roswell Incident at 70: Facts, Not Myths4. The research team launched NYU Flight #4 on June 4, 1947, from Alamogord...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Roswell Incident at 70: Facts, Not Myths4. The research team launched NYU Flight #4 on June 4, 1947, from Alamogord...</p></details>
    Published: June 4, 1947  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulAbsent from the reports are service flight nos. 2, 3, and 4. Flight no. 2 was flown on April 18, 1947, at Bethlehe...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulAbsent from the reports are service flight nos. 2, 3, and 4. Flight no. 2 was flown on April 18, 1947, at Bethlehe...</p></details>
    Published: April 18, 1947  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: realufo.org  
-   Link: <a href="https://realufo.org/nara/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://realufo.org/nara/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Project Mogul — case file · NARA ArchiveThe 8 July 1947 RAAF &#x27;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; press release and its successor explanations — Project Mogul...</p></details>
+   Link:<a href="https://realufo.org/nara/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://realufo.org/nara/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Project Mogul — case file · NARA ArchiveThe 8 July 1947 RAAF &#x27;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; press release and its successor explanations — Project Mogul...</p></details>
    Published: July 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: search.sl.nsw.gov.au  
-   Link: <a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21110572020002626&amp;vid=SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21110572020002626&amp;vid=SLNSW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to popular belief, in early July 1947 the U.S. military secretly recovered the remains...Read more...</p></details>
+   Link:<a href="https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21110572020002626&amp;vid=SLNSW" target="_blank" rel="noopener noreferrer nofollow">https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21110572020002626&amp;vid=SLNSW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to popular belief, in early July 1947 the U.S. military secretly recovered the remains...Read more...</p></details>
    Published: July 1947  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentProject Mogul does not provide the ultimate answer. Dr. Crary&#x27;s eld notes indicate th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentProject Mogul does not provide the ultimate answer. Dr. Crary&#x27;s eld notes indicate th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Ro...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Ro...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident and Project MogulMoore makes a strong case for the hypothesis that NYU Flight #4, which he helped launch on June 4...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident and Project MogulMoore makes a strong case for the hypothesis that NYU Flight #4, which he helped launch on June 4...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army Air Field (RAAF) public information...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army Air Field (RAAF) public information...</p></details>
    Published: July 8, 1947  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/01/22165111/p43.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/01/22165111/p43.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul were still living. These persons included die NYU constant altitude balloon...Read more...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/01/22165111/p43.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/01/22165111/p43.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul were still living. These persons included die NYU constant altitude balloon...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gutenberg.org  
    Title: The Roswell Report: [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;), by James Mc Andrew—  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. Moore launc...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. Moore launc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: books.google.co.uk  
-   Link: <a href="https://books.google.co.uk/books/about/UFO_crash_at_Roswell.html?id=ZTnXAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.co.uk/books/about/UFO_crash_at_Roswell.html?id=ZTnXAAAAMAAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRASH AT ROSWELLThe book also includes the account of scientist Charles B. Moore, who participated in an experiment to launch balloon-bor...</p></details>
+   Link:<a href="https://books.google.co.uk/books/about/UFO_crash_at_Roswell.html?id=ZTnXAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.co.uk/books/about/UFO_crash_at_Roswell.html?id=ZTnXAAAAMAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRASH AT ROSWELLThe book also includes the account of scientist Charles B. Moore, who participated in an experiment to launch balloon-bor...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheWorldsofDavidDarling/photos/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746282520927/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/photos/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746282520927/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>B. Moore in the late 1940s to develop balloon-borne...</p></details>
+   Link:<a href="https://www.facebook.com/TheWorldsofDavidDarling/photos/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746282520927/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/photos/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746282520927/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B. Moore in the late 1940s to develop balloon-borne...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ciphermysteries.com  
    Title: when project mogul met project helios  
-   Link: <a href="https://ciphermysteries.com/2022/09/16/when-project-mogul-met-project-helios" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2022/09/16/when-project-mogul-met-project-helios</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1” (Appendix 13 in the Roswell Report) mentions that Project Mogul moved from serial balloon linkage...Read more...</p></details>
+   Link:<a href="https://ciphermysteries.com/2022/09/16/when-project-mogul-met-project-helios" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2022/09/16/when-project-mogul-met-project-helios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1” (Appendix 13 in the Roswell Report) mentions that Project Mogul moved from serial balloon linkage...Read more...</p></details>

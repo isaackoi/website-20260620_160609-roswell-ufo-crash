@@ -280,30 +280,30 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexi
 
 ## Introduction
 
-One reason the Roswell incident developed such a confusing [timeline]({{ 'timeline/' | relative_url }}) is that the events did not unfold in a town, on a military base, or beside a major highway. They took place across a large area of ranch country in central New Mexico, where distances were measured in hours of travel rather than minutes. A [debris]({{ 'debris/' | relative_url }}) discovery could remain unreported for days simply because the person who found it was busy with ranch work and lived far from the nearest officials. When modern readers compare dates associated with discovery, reporting, military recovery, and press coverage, those delays can seem suspicious. In the geographical reality of 1947 New Mexico, they were often entirely ordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+One reason the Roswell incident developed such a confusing [timeline]({{ 'timeline/' | relative_url }}) is that the events did not unfold in a town, on a military base, or beside a major highway. They took place across a large area of ranch country in central New Mexico, where distances were measured in hours of travel rather than minutes. A [debris]({{ 'debris/' | relative_url }}) discovery could remain unreported for days simply because the person who found it was busy with ranch work and lived far from the nearest officials. When modern readers compare dates associated with discovery, reporting, military recovery, and press coverage, those delays can seem suspicious. In the geographical reality of 1947 New Mexico, they were often entirely ordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-1-dark.svg" | relative_url }}" alt="Road Distances illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Roswell story is therefore not just about what was found. It is also about how information moved across sparsely populated landscapes. Understanding the distances between the Foster Ranch area near Corona, the town of Roswell, and nearby military facilities helps explain why witness accounts and official [records]({{ 'records/' | relative_url }}) often describe events occurring several days apart. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We Learned?</span><span class="citation-popover-snippet">July 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell Army Air Field, with the debris found 75 miles northwest of...</span><span class="citation-popover-meta">Published: July 7, 2022</span></span></span>
+The Roswell story is therefore not just about what was found. It is also about how information moved across sparsely populated landscapes. Understanding the distances between the Foster Ranch area near Corona, the town of Roswell, and nearby military facilities helps explain why witness accounts and official [records]({{ 'records/' | relative_url }}) often describe events occurring several days apart.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We Learned?</span><span class="citation-popover-snippet">July 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell Army Air Field, with the debris found 75 miles northwest of...</span><span class="citation-popover-meta">Published: July 7, 2022</span></span></span>
 
 ## How Ranch Geography Delayed Reporting
 
-The debris associated with the Roswell incident was reportedly found on the Foster Ranch near Corona, roughly 75 miles from Roswell. In modern terms, that distance may appear manageable, but in 1947 it represented a significant journey across rural terrain. Ranchers routinely travelled long distances for supplies, livestock work, and communication. A trip into town was often planned around necessity rather than convenience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulOn July 7, 1947, W.W. (Mac) Brazel, a rancher from approximately 75 miles northwest of Roswell, NM, contacted the...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+The debris associated with the Roswell incident was reportedly found on the Foster Ranch near Corona, roughly 75 miles from Roswell. In modern terms, that distance may appear manageable, but in 1947 it represented a significant journey across rural terrain. Ranchers routinely travelled long distances for supplies, livestock work, and communication. A trip into town was often planned around necessity rather than convenience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulOn July 7, 1947, W.W. (Mac) Brazel, a rancher from approximately 75 miles northwest of Roswell, NM, contacted the...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-Accounts associated with W. W. “Mac” Brazel indicate that he did not immediately rush to authorities after seeing the scattered material. According to later reconstructions, he first encountered the debris while carrying out normal ranch duties. Only after subsequent conversations and growing public interest in reports of “flying discs” did he decide to travel into the area where he could discuss the find with others and eventually contact officials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Accounts associated with W. W. “Mac” Brazel indicate that he did not immediately rush to authorities after seeing the scattered material. According to later reconstructions, he first encountered the debris while carrying out normal ranch duties. Only after subsequent conversations and growing public interest in reports of “flying discs” did he decide to travel into the area where he could discuss the find with others and eventually contact officials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-This sequence helps explain one of the most frequently misunderstood features of the Roswell timeline. Critics sometimes ask why an apparently unusual discovery was not reported immediately. The answer may be less dramatic than often assumed. Remote ranch life encouraged practical decision-making. If the material did not appear dangerous and daily work still needed doing, a delay of several days was not extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+This sequence helps explain one of the most frequently misunderstood features of the Roswell timeline. Critics sometimes ask why an apparently unusual discovery was not reported immediately. The answer may be less dramatic than often assumed. Remote ranch life encouraged practical decision-making. If the material did not appear dangerous and daily work still needed doing, a delay of several days was not extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mBcYtSsPIuU" title="Project Mogul" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer">Project Mogul</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 2.6K &middot; Uploaded: July 2014 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mBcYtSsPIuU">Open on YouTube</a></p></div></div></div>
 
 ## Why Limited Roads Shaped Witness Accounts
 
-The geography of central New Mexico affected not only reporting delays but also the way witnesses remembered events. Much of the region consisted of open grazing land connected by a limited network of roads. Travelling from a ranch to Corona, from Corona to Roswell, or from Roswell back to the debris field required significant time and planning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Corona%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Corona, New Mexico</span><span class="citation-popover-snippet">Corona, New Mexico</span></span></span>
+The geography of central New Mexico affected not only reporting delays but also the way witnesses remembered events. Much of the region consisted of open grazing land connected by a limited network of roads. Travelling from a ranch to Corona, from Corona to Roswell, or from Roswell back to the debris field required significant time and planning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Corona%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Corona, New Mexico</span><span class="citation-popover-snippet">Corona, New Mexico</span></span></span>
 
-As a result, many key participants experienced the incident as a series of separate journeys rather than a single continuous event. Brazel travelled from the ranch toward populated areas. The sheriff in Roswell contacted military personnel. Intelligence officer Jesse Marcel then travelled out to the ranch and later returned with recovered material. Each stage introduced additional travel time and opportunities for memories to become compressed or confused when retold decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+As a result, many key participants experienced the incident as a series of separate journeys rather than a single continuous event. Brazel travelled from the ranch toward populated areas. The sheriff in Roswell contacted military personnel. Intelligence officer Jesse Marcel then travelled out to the ranch and later returned with recovered material. Each stage introduced additional travel time and opportunities for memories to become compressed or confused when retold decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The road network also meant that people often relied on second-hand information before seeing anything themselves. A resident of Corona might hear about unusual debris before Roswell authorities did. Military personnel could receive reports long before reaching the actual location. Such conditions naturally produced differing recollections about when exactly important events occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Corona%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Corona, New Mexico</span><span class="citation-popover-snippet">Corona, New Mexico</span></span></span>
+The road network also meant that people often relied on second-hand information before seeing anything themselves. A resident of Corona might hear about unusual debris before Roswell authorities did. Military personnel could receive reports long before reaching the actual location. Such conditions naturally produced differing recollections about when exactly important events occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Corona%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Corona, New Mexico</span><span class="citation-popover-snippet">Corona, New Mexico</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-2-dark.svg" | relative_url }}" alt="Road Distances illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,7 +317,7 @@ Modern discussions are often influenced by assumptions created by mobile phones,
 * Many ranch properties covered enormous areas.
 * Telephones were not universally available on remote ranches.
 * Travel frequently required long drives over rural roads.
-* News spread through personal conversations, local communities, and newspapers rather than instant electronic networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+* News spread through personal conversations, local communities, and newspapers rather than instant electronic networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 </div>
 
@@ -328,17 +328,17 @@ These conditions make a timeline stretching across several days far less surpris
 
 ## How Distance Complicates Recovery Timelines
 
-The recovery phase of the Roswell incident is often discussed as though military personnel immediately arrived at a clearly marked crash site. The geographical reality was much more complicated. The debris field was reportedly located on isolated ranch land rather than near a town centre or military installation. Even after authorities received a report, personnel still had to travel to the location, inspect the area, gather material, and transport it back to Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We Learned?</span><span class="citation-popover-snippet">July 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell Army Air Field, with the debris found 75 miles northwest of...</span><span class="citation-popover-meta">Published: July 7, 2022</span></span></span>
+The recovery phase of the Roswell incident is often discussed as though military personnel immediately arrived at a clearly marked crash site. The geographical reality was much more complicated. The debris field was reportedly located on isolated ranch land rather than near a town centre or military installation. Even after authorities received a report, personnel still had to travel to the location, inspect the area, gather material, and transport it back to Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We Learned?</span><span class="citation-popover-snippet">July 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell Army Air Field, with the debris found 75 miles northwest of...</span><span class="citation-popover-meta">Published: July 7, 2022</span></span></span>
 
-The scale of the region also affects later debates about exactly where events occurred. Different accounts place people at slightly different locations, describe varying travel routes, or remember distances differently. Such inconsistencies are common in cases involving remote terrain. A witness recalling a journey decades later may accurately remember travelling a long distance while misremembering a specific road, ranch boundary, or landmark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We Learned?</span><span class="citation-popover-snippet">July 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell Army Air Field, with the debris found 75 miles northwest of...</span><span class="citation-popover-meta">Published: July 7, 2022</span></span></span>
+The scale of the region also affects later debates about exactly where events occurred. Different accounts place people at slightly different locations, describe varying travel routes, or remember distances differently. Such inconsistencies are common in cases involving remote terrain. A witness recalling a journey decades later may accurately remember travelling a long distance while misremembering a specific road, ranch boundary, or landmark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We Learned?</span><span class="citation-popover-snippet">July 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell Army Air Field, with the debris found 75 miles northwest of...</span><span class="citation-popover-meta">Published: July 7, 2022</span></span></span>
 
-This geographical challenge extends to later investigations. Researchers attempting to reconstruct the incident have had to compare maps, ranch records, military reports, and witness recollections across a broad area of New Mexico. The fact that the alleged debris site was not situated beside a major road or easily identifiable feature has contributed to continuing disagreements over precise locations and travel routes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blm.gov/visit/alleged-ufo-skip-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blm.gov">[Bureau of Land Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blm.gov</span><span class="citation-popover-title">Bureau of Land Management Alleged UFO Skip Site</span><span class="citation-popover-snippet">2nd St., Roswell. From the parking lot, hike about a mile to the east on BLM land...</span></span></span>
+This geographical challenge extends to later investigations. Researchers attempting to reconstruct the incident have had to compare maps, ranch records, military reports, and witness recollections across a broad area of New Mexico. The fact that the alleged debris site was not situated beside a major road or easily identifiable feature has contributed to continuing disagreements over precise locations and travel routes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blm.gov/visit/alleged-ufo-skip-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blm.gov">[Bureau of Land Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blm.gov</span><span class="citation-popover-title">Bureau of Land Management Alleged UFO Skip Site</span><span class="citation-popover-snippet">2nd St., Roswell. From the parking lot, hike about a mile to the east on BLM land...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-3-dark.svg" | relative_url }}" alt="Road Distances illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_new_mexico_road_dist_652ad6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Geography Matters to the Roswell Debate
 
-The importance of road distances is not that they prove or disprove any explanation for the debris. Instead, they provide context for understanding why the historical record looks the way it does. Whether one accepts the [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation or prefers another interpretation, the basic geography remains the same: the discovery occurred in isolated ranch country, far from administrative centres and military headquarters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Roswell incident &#124; Overview, Theories, Hoaxes, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident &#124; Overview, Theories, Hoaxes, &amp; FactsJanuary 18, 2018 — 8 May 2026 — Roswell incident, events sur...</span><span class="citation-popover-meta">Published: January 18, 2018</span></span></span>
+The importance of road distances is not that they prove or disprove any explanation for the debris. Instead, they provide context for understanding why the historical record looks the way it does. Whether one accepts the [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation or prefers another interpretation, the basic geography remains the same: the discovery occurred in isolated ranch country, far from administrative centres and military headquarters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Roswell incident &#124; Overview, Theories, Hoaxes, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident &#124; Overview, Theories, Hoaxes, &amp; FactsJanuary 18, 2018 — 8 May 2026 — Roswell incident, events sur...</span><span class="citation-popover-meta">Published: January 18, 2018</span></span></span>
 
 That setting helps explain several features of the case that are sometimes treated as mysteries:
 
@@ -349,205 +349,205 @@ That setting helps explain several features of the case that are sometimes treat
 * Differences between witness timelines.
 * Delays in military response and recovery.
 * Confusion over exact locations.
-* Variations in later recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+* Variations in later recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 </div>
 
-Viewed through the lens of New Mexico geography rather than conspiracy or speculation, the slow pace of the Roswell timeline becomes easier to understand. Vast ranches, long drives, limited roads, and sparse populations created conditions in which significant events could unfold gradually, with information travelling almost as slowly as the people carrying it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulOn July 7, 1947, W.W. (Mac) Brazel, a rancher from approximately 75 miles northwest of Roswell, NM, contacted the...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+Viewed through the lens of New Mexico geography rather than conspiracy or speculation, the slow pace of the Roswell timeline becomes easier to understand. Vast ranches, long drives, limited roads, and sparse populations created conditions in which significant events could unfold gradually, with information travelling almost as slowly as the people carrying it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulOn July 7, 1947, W.W. (Mac) Brazel, a rancher from approximately 75 miles northwest of Roswell, NM, contacted the...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Phh03APIWDE" title="The Roswell UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Phh03APIWDE" target="_blank" rel="noopener noreferrer">The Roswell UFO Incident</a></p><p class="youtube-embed-meta">Channel: STRANGE TALES</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Phh03APIWDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Phh03APIWDE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Roswell Timeline Was So Slow. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Roswell Timeline Was So Slow. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Covers witness accounts, recovery narratives, locations, travel distances, and timeline questions central to understanding reporting delays.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness accounts, recovery narratives, locations, travel distances, and timeline questions central to understanding reporting delays.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Explores the broader cultural and governmental narrative that grew out of the Roswell event and its reported recovery timeline.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the broader cultural and governmental narrative that grew out of the Roswell event and its reported recovery timeline.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the foundational narrative of the incident, including ranch discovery, reporting sequence, and movement of information across ru...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the foundational narrative of the incident, including ranch discovery, reporting sequence, and movement of information across ru...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Examines witness testimony and chronology, helping readers understand how events unfolded over several days.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness testimony and chronology, helping readers understand how events unfolded over several days.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="road-distances-why-the-roswell-timeline-was-so-slow-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ Viewed through the lens of New Mexico geography rather than conspiracy or specul
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ Viewed through the lens of New Mexico geography rather than conspiracy or specul
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ Viewed through the lens of New Mexico geography rather than conspiracy or specul
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ Viewed through the lens of New Mexico geography rather than conspiracy or specul
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ Viewed through the lens of New Mexico geography rather than conspiracy or specul
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,138 +753,138 @@ Viewed through the lens of New Mexico geography rather than conspiracy or specul
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: DID ALIENS REALLY LAND?  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 22, 1997 — On the day Brazel chanced upon the strange debris, June 14, 1947, he was making his rounds at the J.B. Foster sheep r...</p></details>
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 22, 1997 — On the day Brazel chanced upon the strange debris, June 14, 1947, he was making his rounds at the J.B. Foster sheep r...</p></details>
    Published: June 22, 1997  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Corona, New Mexico  
-   Link: <a href="https://en.wikipedia.org/wiki/Corona%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Corona%2C_New_Mexico</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Corona%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Corona%2C_New_Mexico</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Roswell incident | Overview, Theories, Hoaxes, & Facts  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsJanuary 18, 2018 — 8 May 2026 — Roswell incident, events sur...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsJanuary 18, 2018 — 8 May 2026 — Roswell incident, events sur...</p></details>
    Published: January 18, 2018  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Roswell, New Mexico  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, New MexicoThe Roswell incident in 1947 was named after the town, though the crash site of the alleged UFO was some 75 miles (...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, New MexicoThe Roswell incident in 1947 was named after the town, though the crash site of the alleged UFO was some 75 miles (...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Roswell UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=Phh03APIWDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Phh03APIWDE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Mogul](&amp;#123;&amp;#123; &#x27;mogul/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Phh03APIWDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Phh03APIWDE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Mogul](&amp;#123;&amp;#123; &#x27;mogul/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Project Mogul  
-   Link: <a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, the secret operation behind the UFO crash in Rodwell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, the secret operation behind the UFO crash in Rodwell...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulOn July 7, 1947, W.W. (Mac) Brazel, a rancher from approximately 75 miles northwest of Roswell, NM, contacted the...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulOn July 7, 1947, W.W. (Mac) Brazel, a rancher from approximately 75 miles northwest of Roswell, NM, contacted the...</p></details>
    Published: July 7, 1947  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blogs.library.unt.edu  
    Title: Blogs75 Years after the Roswell Incident, What Have We Learned?  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell Army Air Field, with the debris found 75 miles northwest of...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell Army Air Field, with the debris found 75 miles northwest of...</p></details>
    Published: July 7, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blm.gov  
    Title: Bureau of Land Management Alleged UFO Skip Site  
-   Link: <a href="https://www.blm.gov/visit/alleged-ufo-skip-site" target="_blank" rel="noopener noreferrer nofollow">https://www.blm.gov/visit/alleged-ufo-skip-site</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2nd St., Roswell. From the parking lot, hike about a mile to the east on BLM land...</p></details>
+   Link:<a href="https://www.blm.gov/visit/alleged-ufo-skip-site" target="_blank" rel="noopener noreferrer nofollow">https://www.blm.gov/visit/alleged-ufo-skip-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2nd St., Roswell. From the parking lot, hike about a mile to the east on BLM land...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=j50PLMwyfKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j50PLMwyfKc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2023 —... Mac” Brazel found some wreckage on his sizable property 75 miles north of Roswell, consisting of [rubber strips](&amp;#123;&amp;#123; &#x27;rubber-strips/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j50PLMwyfKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j50PLMwyfKc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2023 —... Mac” Brazel found some wreckage on his sizable property 75 miles north of Roswell, consisting of [rubber strips](&amp;#123;&amp;#123; &#x27;rubber-strips/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
    Published: May 4, 2023  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: if you had to pick the strangest thing new mexico is known for it would be the i  
-   Link: <a href="https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KRQE News 13The Roswell Incident, New Mexico (1947) b) Explanation The Roswell Incident began when a local ranch discovered mysterious de...</p></details>
+   Link:<a href="https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KRQE News 13The Roswell Incident, New Mexico (1947) b) Explanation The Roswell Incident began when a local ranch discovered mysterious de...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles nor...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles nor...</p></details>
    Published: June 14, 1947  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wbaltv.com  
    Title: A rancher near Roswell, New Mexico named Mac Brazel was tending to his sheep  
-   Link: <a href="https://www.wbaltv.com/article/this-day-in-history-[air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.wbaltv.com/article/this-day-in-history-[air-force</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Day in History: Air Force debunks UFO theories after Roswell...July 8, 2019 — The Roswell Incident in 1947 seemed to confirm extrat...</p></details>
+   Link:<a href="https://www.wbaltv.com/article/this-day-in-history-[air-force" target="_blank" rel="noopener noreferrer nofollow">https://www.wbaltv.com/article/this-day-in-history-[air-force</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Day in History: Air Force debunks UFO theories after Roswell...July 8, 2019 — The Roswell Incident in 1947 seemed to confirm extrat...</p></details>
    Published: July 8, 2019  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
-   Link: <a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSIntelligence Agents Investigate UFOs in Roswell (7 JUL 1947) - DVIDSOn 7 July 1947, a rancher named William “Mac” Brazel reported he...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSIntelligence Agents Investigate UFOs in Roswell (7 JUL 1947) - DVIDSOn 7 July 1947, a rancher named William “Mac” Brazel reported he...</p></details>
    Published: July 1947  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
    Title: It's one of history's most famous conspiracies  
-   Link: <a href="https://www.instagram.com/reel/DL102oSh3IE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DL102oSh3IE/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens really...July 8, 2025 — A few days after Jesse Marcel observed the crashed UFO materials, Roswell Army Air Field issued a pre...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DL102oSh3IE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DL102oSh3IE/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens really...July 8, 2025 — A few days after Jesse Marcel observed the crashed UFO materials, Roswell Army Air Field issued a pre...</p></details>
    Published: July 8, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: seeroswell.com  
    Title: the 1947 roswell incident  
-   Link: <a href="https://seeroswell.com/the-1947-roswell-incident/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/the-1947-roswell-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Story. When cowboy W.W. “Mack” Brazel and foreman of the Foster Ranch near Corona, 75 miles (120 km) north of Roswell, rode out to ch...</p></details>
+   Link:<a href="https://seeroswell.com/the-1947-roswell-incident/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/the-1947-roswell-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Story. When cowboy W.W. “Mack” Brazel and foreman of the Foster Ranch near Corona, 75 miles (120 km) north of Roswell, rode out to ch...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ancestry.com  
    Title: ufo roswell new mexico  
-   Link: <a href="https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell New Mexico UFO CrashIn 1947, mysterious debris fell from the sky over New Mexico and scattered across a rancher&#x27;s property ne...</p></details>
+   Link:<a href="https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell New Mexico UFO CrashIn 1947, mysterious debris fell from the sky over New Mexico and scattered across a rancher&#x27;s property ne...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles northwest of Roswell...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles northwest of Roswell...</p></details>

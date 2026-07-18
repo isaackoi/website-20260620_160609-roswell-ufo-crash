@@ -284,11 +284,11 @@ Sheridan [Cavitt]({{ 'cavitt/' | relative_url }})’s description of the Roswell
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_memory_reliab_725731-Illustration-1-dark.svg" | relative_url }}" alt="Late Memory illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_memory_reliab_725731-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_memory_reliab_725731-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This issue matters because Roswell debates frequently compare late-life witness memories against other late-life witness memories. Cavitt’s [testimony]({{ 'testimony/' | relative_url }}) cannot be exempted from the same scrutiny applied to witnesses who later claimed exotic debris or alien bodies. The reliability question therefore concerns memory, interview context, later influences, and the limits of consistency as evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
+This issue matters because Roswell debates frequently compare late-life witness memories against other late-life witness memories. Cavitt’s [testimony]({{ 'testimony/' | relative_url }}) cannot be exempted from the same scrutiny applied to witnesses who later claimed exotic debris or alien bodies. The reliability question therefore concerns memory, interview context, later influences, and the limits of consistency as evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
 
 ## Why the 1994 Timing Matters
 
-By the time Cavitt was interviewed by Air Force investigators in May 1994, the Roswell incident had already become one of the most famous UFO stories in the world. Books, documentaries, television programmes, and witness interviews had circulated for years. Cavitt was not recalling an obscure personal experience in isolation; he was remembering an event that had become the subject of intense public controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
+By the time Cavitt was interviewed by Air Force investigators in May 1994, the Roswell incident had already become one of the most famous UFO stories in the world. Books, documentaries, television programmes, and witness interviews had circulated for years. Cavitt was not recalling an obscure personal experience in isolation; he was remembering an event that had become the subject of intense public controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
 
 Psychological research on eyewitness memory consistently shows that recollections can change over long periods. People often retain the general outline of an experience while losing precise details, filling gaps with assumptions, or unconsciously incorporating information learned later. This does not imply dishonesty. It is a normal feature of human memory, especially when decades have passed.
 
@@ -304,7 +304,7 @@ For Roswell specifically, the timing creates several challenges:
 
 </div>
 
-Even supporters of the [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation generally acknowledge that Cavitt’s testimony should be viewed as a late recollection rather than a contemporaneous record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
+Even supporters of the [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation generally acknowledge that Cavitt’s testimony should be viewed as a late recollection rather than a contemporaneous record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
 
 The timing issue cuts both ways. Critics of the extraterrestrial interpretation frequently point out that many dramatic Roswell claims emerged decades after 1947. The same chronological caution applies to Cavitt. A fair assessment must evaluate all late memories under similar standards rather than treating one side as inherently reliable and the other as inherently flawed.
 
@@ -315,7 +315,7 @@ The timing issue cuts both ways. Critics of the extraterrestrial interpretation 
 
 One of the more unusual aspects of Cavitt’s role is that he did not merely defend his memory of the event. He also complained that previous researchers had misrepresented what he had said.
 
-The Air Force's Roswell investigation reported that Cavitt told investigators he had spoken with UFO researchers before but believed he had often been quoted inaccurately or taken out of context. He denied claims that he had been silenced by government secrecy agreements and rejected suggestions that he had been pressured into maintaining a cover story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
+The Air Force's Roswell investigation reported that Cavitt told investigators he had spoken with UFO researchers before but believed he had often been quoted inaccurately or taken out of context. He denied claims that he had been silenced by government secrecy agreements and rejected suggestions that he had been pressured into maintaining a cover story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
 
 These complaints create a second reliability problem beyond memory itself. Researchers evaluating Cavitt must consider not only what he remembered in 1994 but also whether earlier versions of his statements were accurately reported by others. In Roswell literature, witness testimony often passed through multiple layers:
 
@@ -339,7 +339,7 @@ This does not automatically validate his later statements. A witness can sincere
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_memory_reliab_725731-Illustration-2-dark.svg" | relative_url }}" alt="Late Memory illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_memory_reliab_725731-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_memory_reliab_725731-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Consistency Can and Cannot Prove
 
-Supporters of Cavitt’s [credibility]({{ 'credibility/' | relative_url }}) often emphasise that his core description remained remarkably ordinary. He repeatedly described lightweight reflective material, stick-like structural pieces, and a small instrument component rather than advanced technology. His account broadly matched the kinds of materials described in early newspaper reports and later balloon-based explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
+Supporters of Cavitt’s [credibility]({{ 'credibility/' | relative_url }}) often emphasise that his core description remained remarkably ordinary. He repeatedly described lightweight reflective material, stick-like structural pieces, and a small instrument component rather than advanced technology. His account broadly matched the kinds of materials described in early newspaper reports and later balloon-based explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
 
 That consistency is significant, but it has limits.
 
@@ -377,205 +377,205 @@ The strongest use of Cavitt’s account is therefore comparative rather than dec
 
 ## How Historians Typically Weigh Cavitt's Testimony
 
-From a historical perspective, Cavitt occupies an unusual middle ground. He was closer to the original recovery than many later Roswell witnesses, giving his testimony genuine evidential value. At the same time, the surviving record depends heavily on interviews conducted decades after the fact, creating unavoidable uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
+From a historical perspective, Cavitt occupies an unusual middle ground. He was closer to the original recovery than many later Roswell witnesses, giving his testimony genuine evidential value. At the same time, the surviving record depends heavily on interviews conducted decades after the fact, creating unavoidable uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
 
 A cautious assessment usually recognises both realities simultaneously. Cavitt cannot be dismissed simply because his interview occurred in 1994; many important historical events rely on retrospective testimony. Yet neither can his account be treated as a flawless record of what happened in 1947.
 
-The reliability problem is therefore not a reason to ignore Cavitt. It is a reason to read him carefully. His testimony remains important because he was a direct participant, but its value lies in broad patterns and recurring themes rather than in the assumption that every remembered detail survived forty-seven years unchanged. In the wider Roswell debate, that balanced approach is often more informative than either unconditional acceptance or outright rejection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2ia601607.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
+The reliability problem is therefore not a reason to ignore Cavitt. It is a reason to read him carefully. His testimony remains important because he was a direct participant, but its value lies in broad patterns and recurring themes rather than in the assumption that every remembered detail survived forty-seven years unchanged. In the wider Roswell debate, that balanced approach is often more informative than either unconditional acceptance or outright rejection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</span><span class="citation-popover-meta">Published: May 24, 1994</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tCr9ft4yWaI" title="Official Reports on the Roswell UFO Incident | USAF Documentary | 1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer">Official Reports on the Roswell UFO Incident | USAF Documentary | 1997</a></p><p class="youtube-embed-meta">Channel: The Best Film Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tCr9ft4yWaI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Was Cavitt&#x27;s Late Memory?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Reliable Was Cavitt&#x27;s Late Memory?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Directly addresses memory errors, perception limits, and why confident recollections can still be unreliable decades later.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses memory errors, perception limits, and why confident recollections can still be unreliable decades later.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uBlAU24-qsoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uBlAU24-qsoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus</p>
         
-        <p class="fr-book-desc">Highly relevant to evaluating whether a witness interview conducted many decades after an event should be treated as strong evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to evaluating whether a witness interview conducted many decades after an event should be treated as strong evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains self-justification, belief persistence, and how recollections can become reinforced over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains self-justification, belief persistence, and how recollections can become reinforced over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines Roswell evidence and witness testimony, including debates over recollections and later narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines Roswell evidence and witness testimony, including debates over recollections and later narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Q1kAAeSw6Sxp1S37/s-l225.jpg" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art"><img src="https://i.ebayimg.com/images/g/h8QAAOSwe29jfmch/s-l225.jpg" alt="Listing image for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ao8AAeSw0HJp1S2n/s-l225.jpg" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="late-memory-how-reliable-was-cavitt-s-late-memory-roswell-ufo-crash-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="https://i.ebayimg.com/images/g/wt4AAOSw2p9nr1Fc/s-l225.jpg" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="how-reliable-was-cavitt-s-late-memory-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ The reliability problem is therefore not a reason to ignore Cavitt. It is a reas
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ The reliability problem is therefore not a reason to ignore Cavitt. It is a reas
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ The reliability problem is therefore not a reason to ignore Cavitt. It is a reas
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ The reliability problem is therefore not a reason to ignore Cavitt. It is a reas
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ The reliability problem is therefore not a reason to ignore Cavitt. It is a reas
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,113 +781,113 @@ The reliability problem is therefore not a reason to ignore Cavitt. It is a reas
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Sheridan D. Cavitt, USAF (Ret), May 24, 1994. 18. Interview, Col Richard L. Weaver with Lt Col Sheridan...</p></details>
    Published: May 24, 1994  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ia601607.us.archive.org  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Fact versus Fiction in the New Mexico...The importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives fro...</p></details>
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Fact versus Fiction in the New Mexico...The importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives fro...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Air Forces high-altitude balloon that was part of the top-secret Project [Mogul](&amp;#123;&amp;#123; &#x27;mogul/&#x27; | relative_url &amp;#125;&amp;#125;), designed to detect Soviet...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army Air Forces high-altitude balloon that was part of the top-secret Project [Mogul](&amp;#123;&amp;#123; &#x27;mogul/&#x27; | relative_url &amp;#125;&amp;#125;), designed to detect Soviet...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident16: &quot;The 1994 Air Force report determined that project Mogul was responsible for the 1947 events.... The Roswell Repo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident16: &quot;The 1994 Air Force report determined that project Mogul was responsible for the 1947 events.... The Roswell Repo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy](&amp;#123;&amp;#123; &#x27;legacy/&#x27; | relative_url &amp;#125;&amp;#125;) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy](&amp;#123;&amp;#123; &#x27;legacy/&#x27; | relative_url &amp;#125;&amp;#125;) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/the" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/the</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryused to say that the particular person or thing being mentioned is the best, most famous, etc. In...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/the" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryused to say that the particular person or thing being mentioned is the best, most famous, etc. In...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/the" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/the</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Translingual · English · Crimean Gothic · Danish · Eastern Arrernte · Hadza · Interlingua...Read more...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/the" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Translingual · English · Crimean Gothic · Danish · Eastern Arrernte · Hadza · Interlingua...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE Definition &amp; Meaning1. a: used as a function word to indicate that a following noun or noun equivalent is definite or has been previ...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE Definition &amp; Meaning1. a: used as a function word to indicate that a following noun or noun equivalent is definite or has been previ...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/dictionary/eb/qa/Two-Pronunciations-of-The" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/dictionary/eb/qa/Two-Pronunciations-of-The</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Pronunciations of &#x27;The&#x27; | Britannica DictionaryThere are two ways to pronounce &quot;the.&quot; One pronunciation sounds like /ðə/ (&quot;thuh,&quot; rhy...</p></details>
+   Link:<a href="https://www.britannica.com/dictionary/eb/qa/Two-Pronunciations-of-The" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/dictionary/eb/qa/Two-Pronunciations-of-The</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two Pronunciations of &#x27;The&#x27; | Britannica DictionaryThere are two ways to pronounce &quot;the.&quot; One pronunciation sounds like /ðə/ (&quot;thuh,&quot; rhy...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dp.la  
-   Link: <a href="https://dp.la/item/1fc917b5cbaf48e85a0cd5b9f9e72bc4" target="_blank" rel="noopener noreferrer nofollow">https://dp.la/item/1fc917b5cbaf48e85a0cd5b9f9e72bc4</a>  
+   Link:<a href="https://dp.la/item/1fc917b5cbaf48e85a0cd5b9f9e72bc4" target="_blank" rel="noopener noreferrer nofollow">https://dp.la/item/1fc917b5cbaf48e85a0cd5b9f9e72bc4</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: the roswell ufo crash was a classified balloon program designed to spy on soviet  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Crash Was a Classified Balloon Program...The investigative report was promptly published by the US Air Force in 1995, ti...</p></details>
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Crash Was a Classified Balloon Program...The investigative report was promptly published by the US Air Force in 1995, ti...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In early 1995 the results of this inquiry were published in...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In early 1995 the results of this inquiry were published in...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
-   Link: <a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...Jul 8, 2024 — Col. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) claimed in an interview with ufologists (researchers...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...Jul 8, 2024 — Col. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) claimed in an interview with ufologists (researchers...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?Jan 15, 2026 — Cavitt was interviewed on been: remnants of a long vertical “train”...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?Jan 15, 2026 — Cavitt was interviewed on been: remnants of a long vertical “train”...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gutenberg.org  
    Title: Fiction in the New Mexico Desert. This volume  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...In July 1994, we completed the first step in that effort and later published The R...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...In July 1994, we completed the first step in that effort and later published The R...</p></details>
    Published: July 1994  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: govinfo.gov  
    Title: GOVPUB D301 PURL LPS71655  
-   Link: <a href="https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-LPS71655" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-LPS71655</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Versus Fiction in the New Mexico DesertThe Roswell Report: Fact Versus Fiction in the New Mexico Desert · Branch · Category · SuDoc...</p></details>
+   Link:<a href="https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-LPS71655" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-LPS71655</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Versus Fiction in the New Mexico DesertThe Roswell Report: Fact Versus Fiction in the New Mexico Desert · Branch · Category · SuDoc...</p></details>

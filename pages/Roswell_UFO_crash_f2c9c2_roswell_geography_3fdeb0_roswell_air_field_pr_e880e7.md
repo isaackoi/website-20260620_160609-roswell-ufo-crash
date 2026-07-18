@@ -280,22 +280,22 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_
 
 ## Introduction
 
-Roswell became famous not because the reported debris was found near the town, but because the discovery passed through one of the most important military installations in the United States. The [remote ranch]({{ 'remote-ranch/' | relative_url }}) where material was recovered lay far from national media networks. What transformed a local curiosity into an international story was the involvement of Roswell Army Air Field (RAAF), home of the elite 509th Bombardment Group. When officers at the base issued an official press release on 8 July 1947 stating that a “[flying disc]({{ 'flying-disc/' | relative_url }})” had been recovered, the story instantly moved from ranch country into newspapers and radio broadcasts across the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Roswell became famous not because the reported debris was found near the town, but because the discovery passed through one of the most important military installations in the United States. The [remote ranch]({{ 'remote-ranch/' | relative_url }}) where material was recovered lay far from national media networks. What transformed a local curiosity into an international story was the involvement of Roswell Army Air Field (RAAF), home of the elite 509th Bombardment Group. When officers at the base issued an official press release on 8 July 1947 stating that a “[flying disc]({{ 'flying-disc/' | relative_url }})” had been recovered, the story instantly moved from ranch country into newspapers and radio broadcasts across the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_air_field_pr_e880e7-Illustration-1-dark.svg" | relative_url }}" alt="RAAF Route illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_air_field_pr_e880e7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_air_field_pr_e880e7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding Roswell therefore requires understanding the route by which information travelled: from ranch land near Corona, to local law enforcement, to Roswell Army Air Field, and then through military and [media]({{ 'media/' | relative_url }}) channels that reached the wider world. The base was not simply another location on the map; it was the communications hub that turned a regional incident into a global legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Understanding Roswell therefore requires understanding the route by which information travelled: from ranch land near Corona, to local law enforcement, to Roswell Army Air Field, and then through military and [media]({{ 'media/' | relative_url }}) channels that reached the wider world. The base was not simply another location on the map; it was the communications hub that turned a regional incident into a global legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
 
 ## Why the 509th Bombardment Group Mattered
 
-In 1947 Roswell Army Air Field was home to the 509th Bombardment Group, the most prestigious bomber unit in the United States military. It traced its reputation to the atomic missions against Hiroshima and Nagasaki and was, at the time, the only operational unit with experience in delivering nuclear weapons. Because of that status, actions taken by the base carried unusual weight both inside the military and outside it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+In 1947 Roswell Army Air Field was home to the 509th Bombardment Group, the most prestigious bomber unit in the United States military. It traced its reputation to the atomic missions against Hiroshima and Nagasaki and was, at the time, the only operational unit with experience in delivering nuclear weapons. Because of that status, actions taken by the base carried unusual weight both inside the military and outside it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The presence of the 509th shaped later interpretations of the Roswell incident. Many people found it difficult to believe that officers from such a strategically important command would mistake ordinary [debris]({{ 'debris/' | relative_url }}) for something extraordinary. Whether one accepts the later [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation or not, the reputation of the 509th helped make the original announcement memorable. A report coming from a routine weather station would likely have attracted far less attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The presence of the 509th shaped later interpretations of the Roswell incident. Many people found it difficult to believe that officers from such a strategically important command would mistake ordinary [debris]({{ 'debris/' | relative_url }}) for something extraordinary. Whether one accepts the later [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation or not, the reputation of the 509th helped make the original announcement memorable. A report coming from a routine weather station would likely have attracted far less attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The base commander, Colonel William Blanchard, sat within a chain of command that connected Roswell directly to senior Air Force leadership. Once reports reached him, the matter did not remain a local curiosity. It became an issue handled through official military channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 Jul 2017 — Seeking answers, he contacted Colonel “Butch” Blanchard, commander of the Roswell Army Airfield&#x27;s 509th Composite Group, loc...</span></span></span>
+The base commander, Colonel William Blanchard, sat within a chain of command that connected Roswell directly to senior Air Force leadership. Once reports reached him, the matter did not remain a local curiosity. It became an issue handled through official military channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 Jul 2017 — Seeking answers, he contacted Colonel “Butch” Blanchard, commander of the Roswell Army Airfield&#x27;s 509th Composite Group, loc...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_air_field_pr_e880e7-Illustration-3-dark.svg" | relative_url }}" alt="RAAF Route illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_air_field_pr_e880e7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_air_field_pr_e880e7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -304,9 +304,9 @@ The base commander, Colonel William Blanchard, sat within a chain of command tha
 
 ## How the Base Connected Ranch Evidence to Reporters
 
-The information route began when rancher W. W. “Mac” Brazel reported unusual debris. Local authorities contacted Roswell Army Air Field, which dispatched intelligence officer Major Jesse Marcel and Counter Intelligence Corps officer Sheridan Cavitt to inspect and recover material from the ranch. The evidence therefore moved physically and administratively into military custody. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The information route began when rancher W. W. “Mac” Brazel reported unusual debris. Local authorities contacted Roswell Army Air Field, which dispatched intelligence officer Major Jesse Marcel and Counter Intelligence Corps officer Sheridan Cavitt to inspect and recover material from the ranch. The evidence therefore moved physically and administratively into military custody.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The critical step came on 8 July 1947. Walter Haut, the base public information officer, issued a press release stating that personnel from the 509th had recovered a “flying disc.” Contemporary accounts indicate that Haut acted under instructions from Colonel Blanchard. Once released, the statement was distributed to newspapers and radio outlets and rapidly spread through wire services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historypod.net">[HistoryPod &#124; The daily history podcast+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historypod.net</span><span class="citation-popover-title">8th july 1947 roswell army air base reports flying disc debris</span><span class="citation-popover-snippet">The daily history podcastRoswell Army Air Base reports &#x27;flying disc&#x27; debrisJul 8, 2024 — Walter Haut, the public information...</span><span class="citation-popover-meta">Published: july 1947</span></span></span>
+The critical step came on 8 July 1947. Walter Haut, the base public information officer, issued a press release stating that personnel from the 509th had recovered a “flying disc.” Contemporary accounts indicate that Haut acted under instructions from Colonel Blanchard. Once released, the statement was distributed to newspapers and radio outlets and rapidly spread through wire services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historypod.net">[historypod.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historypod.net</span><span class="citation-popover-title">8th july 1947 roswell army air base reports flying disc debris</span><span class="citation-popover-snippet">The daily history podcastRoswell Army Air Base reports &#x27;flying disc&#x27; debrisJul 8, 2024 — Walter Haut, the public information...</span><span class="citation-popover-meta">Published: july 1947</span></span></span>
 
 The route from military office to public headline was remarkably short:
 
@@ -315,7 +315,7 @@ The route from military office to public headline was remarkably short:
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_air_field_pr_e880e7-Illustration-2-dark.svg" | relative_url }}" alt="RAAF Route illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_air_field_pr_e880e7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_roswell_air_field_pr_e880e7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-1. Debris reported from ranch land near Corona. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">on july 8 1947 the roswell daily record reported the arrival of something strang</span><span class="citation-popover-snippet">On July 8, 1947, the Roswell Daily Record reported...On 1947, Roswell Army Air Field (RAAF) issued a press release stating that they had...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+1. Debris reported from ranch land near Corona.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">on july 8 1947 the roswell daily record reported the arrival of something strang</span><span class="citation-popover-snippet">On July 8, 1947, the Roswell Daily Record reported...On 1947, Roswell Army Air Field (RAAF) issued a press release stating that they had...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 2. Local authorities notified Roswell Army Air Field.
 3. Military personnel recovered and examined material.
 4. RAAF public information office prepared a statement.
@@ -332,7 +332,7 @@ After the initial announcement, Colonel Blanchard informed his superiors. Materi
 This created a two-stage media sequence:
 
 [* Roswell Army Air Field generated the original “flying disc” headline.](#endnote-2 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryPod | The daily history podcastRoswell Army Air Base reports &#x27;flying disc&#x27; debrisJul 8, 2024 — Walter Haut, the public information&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryPod | The daily history podcastRoswell Army Air Base reports &#x27;flying disc&#x27; debrisJul 8, 2024 — Walter Haut, the public information&quot;)...</p></details>
 * Fort Worth generated the official correction and accompanying photographs. [FAS Project on Government Secrecy](https://sgp.fas.org/othergov/roswell.html)
 
 The rapid reversal is one reason the incident endured. The public saw two conflicting military messages within roughly a day: first that a flying disc had been recovered, then that it was merely balloon debris. Debate over that contradiction became a central feature of later Roswell discussions. [WIRED](https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/)
@@ -354,194 +354,194 @@ Many UFO reports have faded because they remained witness accounts. Roswell beca
 The lasting significance of Roswell Army Air Field is therefore practical as much as geographical. The base provided the command structure, information channels and public relations machinery that carried a remote New Mexico discovery into the national news cycle. Without that route—from ranch, to base, to press office, to reporters—the Roswell incident would likely have remained a little-known local episode rather than one of the most famous UFO stories in history. [Wikipedia+2FAS Project on Government Secrecy](https://en.wikipedia.org/wiki/Roswell_incident)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Roswell Became the Name Everyone Knows. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Roswell Became the Name Everyone Knows. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Places Roswell within the larger history of U.S. government UFO investigations and public fascination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Roswell within the larger history of U.S. government UFO investigations and public fascination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Explores the alleged aftermath of the Roswell incident and why military involvement remains central to the legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the alleged aftermath of the Roswell incident and why military involvement remains central to the legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Helped popularize the Roswell story and directly covers the 1947 events, military involvement, and media attention around Roswell Army Ai...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helped popularize the Roswell story and directly covers the 1947 events, military involvement, and media attention around Roswell Army Ai...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Examines evidence, witnesses, and the military response surrounding Roswell and the 509th Bombardment Group.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence, witnesses, and the military response surrounding Roswell and the 509th Bombardment Group.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T"><img src="{{ '/assets/images/marketplace-covers/f9be57ff29ea9e4ecfd3.jpg' | relative_url }}" alt="Listing image for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T"><img src="{{ '/assets/images/marketplace-covers/f9be57ff29ea9e4ecfd3.jpg' | relative_url }}" alt="Listing image for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt"><img src="{{ '/assets/images/marketplace-covers/2d54ac48876e1957e123.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt"><img src="{{ '/assets/images/marketplace-covers/2d54ac48876e1957e123.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours"><img src="{{ '/assets/images/marketplace-covers/3326ed7774a4b208e7f8.jpg' | relative_url }}" alt="Listing image for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours"><img src="{{ '/assets/images/marketplace-covers/3326ed7774a4b208e7f8.jpg' | relative_url }}" alt="Listing image for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO T Shirt SMALL-2XL"><img src="{{ '/assets/images/marketplace-covers/3c6a60145439aea465d0.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO T Shirt SMALL-2XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO T Shirt SMALL-2XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO T Shirt SMALL-2XL"><img src="{{ '/assets/images/marketplace-covers/3c6a60145439aea465d0.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO T Shirt SMALL-2XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO T Shirt SMALL-2XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="raaf-route-how-roswell-became-the-name-everyone-knows-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ The lasting significance of Roswell Army Air Field is therefore practical as muc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ The lasting significance of Roswell Army Air Field is therefore practical as muc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ The lasting significance of Roswell Army Air Field is therefore practical as muc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ The lasting significance of Roswell Army Air Field is therefore practical as muc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ The lasting significance of Roswell Army Air Field is therefore practical as muc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,130 +747,130 @@ The lasting significance of Roswell Army Air Field is therefore practical as muc
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: historypod.net  
    Title: 8th july 1947 roswell army air base reports flying disc debris  
-   Link: <a href="https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/" target="_blank" rel="noopener noreferrer nofollow">https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The daily history podcastRoswell Army Air Base reports &#x27;flying disc&#x27; debrisJul 8, 2024 — Walter Haut, the public information...</p></details>
+   Link:<a href="https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/" target="_blank" rel="noopener noreferrer nofollow">https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The daily history podcastRoswell Army Air Base reports &#x27;flying disc&#x27; debrisJul 8, 2024 — Walter Haut, the public information...</p></details>
    Published: july 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: 509th Operations Group  
-   Link: <a href="https://en.wikipedia.org/wiki/509th_Operations_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/509th_Operations_Group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>509th Operations GroupThe 509 OG traces its history to the World War II 509th Composite Group, which conducted the atomic bombings of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/509th_Operations_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/509th_Operations_Group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>509th Operations GroupThe 509 OG traces its history to the World War II 509th Composite Group, which conducted the atomic bombings of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army. Army Air Forces personnel from the...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army. Army Air Forces personnel from the...</p></details>
    Published: July 8, 1947  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: 0708army announces roswell new mexico ufo sighting  
-   Link: <a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947: Roswell Incident Launches UFO ControversyJul 8, 2010 — Roswell Army Air Field issues a press release that says the mil...</p></details>
+   Link:<a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947: Roswell Incident Launches UFO ControversyJul 8, 2010 — Roswell Army Air Field issues a press release that says the mil...</p></details>
    Published: July 8, 1947  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project [Mogul](&#123;&#123; 'mogul/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulThe project was carried out from 1947 until early 1949. It was a classified portion of -altitude-control and polyethylene...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulThe project was carried out from 1947 until early 1949. It was a classified portion of -altitude-control and polyethylene...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: irp.fas.org  
-   Link: <a href="https://irp.fas.org/gao/nsi95187.htm" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/gao/nsi95187.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of a Search for Records Concerning the 1947...28 Jul 1995 — GAO provided information on the 1947 weather balloon crash at Roswell Air Fi...</p></details>
+   Link:<a href="https://irp.fas.org/gao/nsi95187.htm" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/gao/nsi95187.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of a Search for Records Concerning the 1947...28 Jul 1995 — GAO provided information on the 1947 weather balloon crash at Roswell Air Fi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Seeking answers, he contacted Colonel “Butch” Blanchard, commander of the Roswell Army Airfield&#x27;s 509th Composite Group, loc...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Seeking answers, he contacted Colonel “Butch” Blanchard, commander of the Roswell Army Airfield&#x27;s 509th Composite Group, loc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dafhistory.af.mil  
    Title: DAF History The Roswell Report  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — Roswell incident, events surrounding the crash...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — Roswell incident, events surrounding the crash...</p></details>
    Published: May 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: the509thremembered.com  
-   Link: <a href="https://www.the509thremembered.com/bobhistory.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.the509thremembered.com/bobhistory.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 509th Composite GroupThe 509th Composite Group/509th Bomb Wing. The unit that dropped the atomic bombs was activated at Wendover Army...</p></details>
+   Link:<a href="https://www.the509thremembered.com/bobhistory.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.the509thremembered.com/bobhistory.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 509th Composite GroupThe 509th Composite Group/509th Bomb Wing. The unit that dropped the atomic bombs was activated at Wendover Army...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentPhotographs of the purported debris have suggested a terrestrial explanation, while e...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentPhotographs of the purported debris have suggested a terrestrial explanation, while e...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesHomepage | Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Wort...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesHomepage | Roswell UFO IncidentAt the time, the object in question, said to be a weather balloon, was flown to the Fort Wort...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vintageaviationnews.com  
-   Link: <a href="https://vintageaviationnews.com/aviation-museum-news/[legacy" target="_blank" rel="noopener noreferrer nofollow">https://vintageaviationnews.com/aviation-museum-news/[legacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legacy Of Walker Air Force BaseThe 509th Composite Group led by then Colonel Paul Tibbets returned from its wartime base at Tinian an...</p></details>
+   Link:<a href="https://vintageaviationnews.com/aviation-museum-news/[legacy" target="_blank" rel="noopener noreferrer nofollow">https://vintageaviationnews.com/aviation-museum-news/[legacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Legacy Of Walker Air Force BaseThe 509th Composite Group led by then Colonel Paul Tibbets returned from its wartime base at Tinian an...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cbs4local.com  
-   Link: <a href="https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii" target="_blank" rel="noopener noreferrer nofollow">https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO story still resonates around the world 77...Aug 2, 2024 — Walter Haut, the Public Information Officer for the 509th Atom...</p></details>
+   Link:<a href="https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii" target="_blank" rel="noopener noreferrer nofollow">https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO story still resonates around the world 77...Aug 2, 2024 — Walter Haut, the Public Information Officer for the 509th Atom...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: on july 8 1947 the roswell daily record reported the arrival of something strang  
-   Link: <a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...On 1947, Roswell Army Air Field (RAAF) issued a press release stating that they had...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...On 1947, Roswell Army Air Field (RAAF) issued a press release stating that they had...</p></details>
    Published: July 8, 1947  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: flying saucer crash in roswellon july 2 1947 some sort of flying object crashed  
-   Link: <a href="https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What happened in the 1947 Roswell flying saucer crash?On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release stating that a...</p></details>
+   Link:<a href="https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happened in the 1947 Roswell flying saucer crash?On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release stating that a...</p></details>
    Published: July 1947  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pdf.ai  
    Title: Chat with this shared document via PDF AI(PUBLIC DOMAIN)  
-   Link: <a href="https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c" target="_blank" rel="noopener noreferrer nofollow">https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 July 1947 — 1st Lt. Walter Haut states in an allegedly signed affidavit he was stationed at Roswell Army Air Field as the Public...Rea...</p></details>
+   Link:<a href="https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c" target="_blank" rel="noopener noreferrer nofollow">https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 July 1947 — 1st Lt. Walter Haut states in an allegedly signed affidavit he was stationed at Roswell Army Air Field as the Public...Rea...</p></details>
    Published: July 1947  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947 Walter Haut, public information officer at the 509th Bomb Group based in Roswell, New Mexico, issued the initial &quot;flying dis...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947 Walter Haut, public information officer at the 509th Bomb Group based in Roswell, New Mexico, issued the initial &quot;flying dis...</p></details>
    Published: July 8, 1947  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: It's one of history's most famous conspiracies  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...On this day in 1947, the Roswell Daily Record printed a reported claiming the Roswell Army Air Field had taken parts of a &quot;...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...On this day in 1947, the Roswell Daily Record printed a reported claiming the Roswell Army Air Field had taken parts of a &quot;...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
-   Link: <a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>

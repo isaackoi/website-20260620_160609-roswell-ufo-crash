@@ -274,7 +274,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilco
 
 ## Introduction
 
-[Sheriff]({{ 'sheriff/' | relative_url }}) George Wilcox did not need to determine what the Roswell [debris]({{ 'debris/' | relative_url }}) was before deciding who should examine it. His role in the reporting chain was administrative and practical: a rancher had brought him material from a remote property that appeared unusual, had no obvious civilian owner, and might have been connected to aircraft or military activity. In the circumstances of July 1947, referring the matter to Roswell Army Air Field (RAAF) was a straightforward institutional decision rather than an extraordinary one. The key question was not whether the debris was a “flying saucer”, but which organisation possessed the expertise, authority, and resources to investigate an unidentified object found across isolated ranchland. Contemporary accounts consistently show Wilcox contacting the nearby military installation, which then dispatched intelligence personnel to inspect the material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum+2Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">National Air and Space MuseumReports of UFOs: 1947 Roswell IncidentOctober 20, 2016 — 20 Oct 2016 — The sheriff called up the local milit...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
+[Sheriff]({{ 'sheriff/' | relative_url }}) George Wilcox did not need to determine what the Roswell [debris]({{ 'debris/' | relative_url }}) was before deciding who should examine it. His role in the reporting chain was administrative and practical: a rancher had brought him material from a remote property that appeared unusual, had no obvious civilian owner, and might have been connected to aircraft or military activity. In the circumstances of July 1947, referring the matter to Roswell Army Air Field (RAAF) was a straightforward institutional decision rather than an extraordinary one. The key question was not whether the debris was a “flying saucer”, but which organisation possessed the expertise, authority, and resources to investigate an unidentified object found across isolated ranchland. Contemporary accounts consistently show Wilcox contacting the nearby military installation, which then dispatched intelligence personnel to inspect the material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">National Air and Space MuseumReports of UFOs: 1947 Roswell IncidentOctober 20, 2016 — 20 Oct 2016 — The sheriff called up the local milit...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_called_air_ba_0c7022-Illustration-1-dark.svg" | relative_url }}" alt="Why Call RAAF illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_called_air_ba_0c7022-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_called_air_ba_0c7022-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,7 +294,7 @@ From Wilcox’s perspective, several factors pointed away from treating the disc
 
 </div>
 
-Accounts of the incident consistently describe rancher W. W. “Mac” [Brazel]({{ 'brazel/' | relative_url }}) bringing information and samples of debris to Wilcox, after which the sheriff contacted military authorities rather than attempting a detailed investigation himself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs+2Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We</span><span class="citation-popover-snippet">7 Jul 2022 — Sheriff Wilcox contacted Major Jesse A. Marcel, an officer in the Roswell Army Air Field (RAAF) intelligence office, ab...</span></span></span>
+Accounts of the incident consistently describe rancher W. W. “Mac” [Brazel]({{ 'brazel/' | relative_url }}) bringing information and samples of debris to Wilcox, after which the sheriff contacted military authorities rather than attempting a detailed investigation himself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[unt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We</span><span class="citation-popover-snippet">7 Jul 2022 — Sheriff Wilcox contacted Major Jesse A. Marcel, an officer in the Roswell Army Air Field (RAAF) intelligence office, ab...</span></span></span>
 
 This distinction is important. Later debates about extraterrestrial explanations often obscure the practical decision facing Wilcox at the time. He was not being asked to solve a mystery; he was deciding which institution had jurisdiction and expertise. For an unidentified object that might be related to aviation or defence activity, the military was the logical destination.
 
@@ -305,21 +305,21 @@ This distinction is important. Later debates about extraterrestrial explanations
 
 RAAF was not a distant federal agency. It was the major military presence in the region and an established part of local life. If an unexplained object appeared on nearby land, the base was the nearest organisation capable of assessing whether it belonged to the armed forces or involved national-security concerns.
 
-Multiple historical summaries describe the same sequence: Brazel informed Wilcox, and Wilcox contacted the air base, which then assigned personnel to investigate. The Smithsonian’s National Air and Space Museum notes that the sheriff called the local military base after Brazel brought news and debris. Other historical accounts similarly state that Wilcox immediately notified RAAF and that intelligence officers responded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">National Air and Space MuseumReports of UFOs: 1947 Roswell IncidentOctober 20, 2016 — 20 Oct 2016 — The sheriff called up the local milit...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
+Multiple historical summaries describe the same sequence: Brazel informed Wilcox, and Wilcox contacted the air base, which then assigned personnel to investigate. The Smithsonian’s National Air and Space Museum notes that the sheriff called the local military base after Brazel brought news and debris. Other historical accounts similarly state that Wilcox immediately notified RAAF and that intelligence officers responded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">National Air and Space MuseumReports of UFOs: 1947 Roswell IncidentOctober 20, 2016 — 20 Oct 2016 — The sheriff called up the local milit...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
 
 The decision also reflected the realities of the period. In 1947, aviation technology was advancing rapidly, military aircraft were common in the American Southwest, and wartime habits of cooperation between local authorities and military installations remained strong. An unidentified object potentially linked to flight operations naturally fell within the military’s sphere of competence.
 
-Importantly, this reasoning does not depend on any later explanation of the debris. Whether the material originated from a weather balloon, [Project Mogul]({{ 'project-mogul/' | relative_url }}) equipment, experimental hardware, or something else entirely, Wilcox had sufficient reason to seek military inspection before any identification had been made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
+Importantly, this reasoning does not depend on any later explanation of the debris. Whether the material originated from a weather balloon, [Project Mogul]({{ 'project-mogul/' | relative_url }}) equipment, experimental hardware, or something else entirely, Wilcox had sufficient reason to seek military inspection before any identification had been made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_called_air_ba_0c7022-Illustration-2-dark.svg" | relative_url }}" alt="Why Call RAAF illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_called_air_ba_0c7022-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_called_air_ba_0c7022-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the 509th Bombardment Group Changed the Stakes
 
-The significance of Wilcox’s decision becomes clearer when considering who was stationed at Roswell Army Air Field. The base was home to the 509th Bombardment Group, the most prestigious and strategically important bomber unit in the United States military at the time. It had carried out the atomic bomb missions against Hiroshima and Nagasaki and remained central to America’s emerging nuclear capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">National Air and Space MuseumReports of UFOs: 1947 Roswell IncidentOctober 20, 2016 — 20 Oct 2016 — The sheriff called up the local milit...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
+The significance of Wilcox’s decision becomes clearer when considering who was stationed at Roswell Army Air Field. The base was home to the 509th Bombardment Group, the most prestigious and strategically important bomber unit in the United States military at the time. It had carried out the atomic bomb missions against Hiroshima and Nagasaki and remained central to America’s emerging nuclear capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">National Air and Space MuseumReports of UFOs: 1947 Roswell IncidentOctober 20, 2016 — 20 Oct 2016 — The sheriff called up the local milit...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
 
-Because the 509th possessed a substantial intelligence apparatus, a report of unusual debris could quickly be elevated beyond routine local interest. Once Wilcox made contact, the matter moved into a military chain of command that included intelligence officers such as Major Jesse [Marcel]({{ 'marcel/' | relative_url }}) and ultimately senior commanders. Contemporary and later accounts describe Marcel being contacted through the base’s intelligence office and becoming directly involved in examining and recovering the material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs+2ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We</span><span class="citation-popover-snippet">7 Jul 2022 — Sheriff Wilcox contacted Major Jesse A. Marcel, an officer in the Roswell Army Air Field (RAAF) intelligence office, ab...</span></span></span>
+Because the 509th possessed a substantial intelligence apparatus, a report of unusual debris could quickly be elevated beyond routine local interest. Once Wilcox made contact, the matter moved into a military chain of command that included intelligence officers such as Major Jesse [Marcel]({{ 'marcel/' | relative_url }}) and ultimately senior commanders. Contemporary and later accounts describe Marcel being contacted through the base’s intelligence office and becoming directly involved in examining and recovering the material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[unt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We</span><span class="citation-popover-snippet">7 Jul 2022 — Sheriff Wilcox contacted Major Jesse A. Marcel, an officer in the Roswell Army Air Field (RAAF) intelligence office, ab...</span></span></span>
 
-This helps explain why the incident escalated so rapidly. A sheriff’s referral to a small local military detachment might have produced little public attention. A referral to the installation housing the nation’s premier atomic-capable bomber group carried very different implications. The involvement of the 509th transformed a ranch discovery into a matter handled through military intelligence channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">National Air and Space MuseumReports of UFOs: 1947 Roswell IncidentOctober 20, 2016 — 20 Oct 2016 — The sheriff called up the local milit...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
+This helps explain why the incident escalated so rapidly. A sheriff’s referral to a small local military detachment might have produced little public attention. A referral to the installation housing the nation’s premier atomic-capable bomber group carried very different implications. The involvement of the 509th transformed a ranch discovery into a matter handled through military intelligence channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">National Air and Space MuseumReports of UFOs: 1947 Roswell IncidentOctober 20, 2016 — 20 Oct 2016 — The sheriff called up the local milit...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/foJWblpzEjA" title="Ask an Expert: The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer">Ask an Expert: The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 300.9K &middot; Uploaded: April 2011 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=foJWblpzEjA">Open on YouTube</a></p></div></div></div>
@@ -342,200 +342,200 @@ Viewed narrowly, the mechanism was simple:
 
 </div>
 
-The significance of this chain lies not in proving any particular explanation for the debris, but in showing why the transfer occurred so naturally. Wilcox treated the find as a military matter because, given the location, the available institutions, and the strategic importance of the nearby air base, that was the most practical and responsible course of action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs+2National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We</span><span class="citation-popover-snippet">7 Jul 2022 — Sheriff Wilcox contacted Major Jesse A. Marcel, an officer in the Roswell Army Air Field (RAAF) intelligence office, ab...</span></span></span>
+The significance of this chain lies not in proving any particular explanation for the debris, but in showing why the transfer occurred so naturally. Wilcox treated the find as a military matter because, given the location, the available institutions, and the strategic importance of the nearby air base, that was the most practical and responsible course of action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[unt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-title">Blogs75 Years after the Roswell Incident, What Have We</span><span class="citation-popover-snippet">7 Jul 2022 — Sheriff Wilcox contacted Major Jesse A. Marcel, an officer in the Roswell Army Air Field (RAAF) intelligence office, ab...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_called_air_ba_0c7022-Illustration-3-dark.svg" | relative_url }}" alt="Why Call RAAF illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_called_air_ba_0c7022-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_wilcox_called_air_ba_0c7022-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Wilcox Call the Air Base?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Wilcox Call the Air Base?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Details the transition from civilian report to Army investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the transition from civilian report to Army investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores secret military programs and Cold War aviation context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores secret military programs and Cold War aviation context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Explains why military authorities became involved so quickly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why military authorities became involved so quickly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Analyzes military response and investigative procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes military response and investigative procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank"><img src="https://i.ebayimg.com/images/g/T5EAAOSwG~9kAqk9/s-l225.jpg" alt="Listing image for Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/1GEAAeSw3KdpYAOG/s-l225.jpg" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="https://i.ebayimg.com/images/g/wt4AAOSw2p9nr1Fc/s-l225.jpg" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="why-call-raaf-why-did-wilcox-call-the-air-base-roswell-ufo-crash-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster"><img src="https://i.ebayimg.com/images/g/T1AAAeSwtiBptWKN/s-l225.jpg" alt="Listing image for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-wilcox-call-the-air-base-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-did-wilcox-call-the-air-base-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ The significance of this chain lies not in proving any particular explanation fo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ The significance of this chain lies not in proving any particular explanation fo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ The significance of this chain lies not in proving any particular explanation fo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ The significance of this chain lies not in proving any particular explanation fo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ The significance of this chain lies not in proving any particular explanation fo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,111 +741,111 @@ The significance of this chain lies not in proving any particular explanation fo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?22 Jun 1997 — Sheriff Wilcox immediately phoned nearby Roswell Army Air Field, home of the 509th Bomb Group, a...</p></details>
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?22 Jun 1997 — Sheriff Wilcox immediately phoned nearby Roswell Army Air Field, home of the 509th Bomb Group, a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 509th Operations Group  
-   Link: <a href="https://en.wikipedia.org/wiki/509th_Operations_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/509th_Operations_Group</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/509th_Operations_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/509th_Operations_Group</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Walker [Air Force](&#123;&#123; 'air-force/' | relative_url &#125;&#125;) Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Walker_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walker_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Walker_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walker_Air_Force_Base</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — The first story reported that the Intelligence Officer of the 509...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — The first story reported that the Intelligence Officer of the 509...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident - Wikipedia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident - Wikipedia...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: airandspace.si.edu  
    Title: reports ufos 1947 roswell incident  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumReports of UFOs: 1947 Roswell IncidentOctober 20, 2016 — 20 Oct 2016 — The sheriff called up the local milit...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumReports of UFOs: 1947 Roswell IncidentOctober 20, 2016 — 20 Oct 2016 — The sheriff called up the local milit...</p></details>
    Published: October 20, 2016  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blogs.library.unt.edu  
    Title: Blogs75 Years after the Roswell Incident, What Have We  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2022 — Sheriff Wilcox contacted Major Jesse A. Marcel, an officer in the Roswell Army Air Field (RAAF) intelligence office, ab...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2022 — Sheriff Wilcox contacted Major Jesse A. Marcel, an officer in the Roswell Army Air Field (RAAF) intelligence office, ab...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skyatnightmagazine.com  
    Title: roswell ufo incident  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>509th Bomb Group Intelligence Office. &quot;Action was immediately taken...Read more...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>509th Bomb Group Intelligence Office. &quot;Action was immediately taken...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/</a>  
+   Link:<a href="https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Wilcox, too, was confounded. Seeking answers, he contacted Colonel “Butch” Blanchard, commander of the Roswell Army Airfield...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Wilcox, too, was confounded. Seeking answers, he contacted Colonel “Butch” Blanchard, commander of the Roswell Army Airfield...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11f6cy8/sheriff_george_wilcox_claimed_to_see_spaceship/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11f6cy8/sheriff_george_wilcox_claimed_to_see_spaceship/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ied to blow it off as aliens because they were testing something...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11f6cy8/sheriff_george_wilcox_claimed_to_see_spaceship/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11f6cy8/sheriff_george_wilcox_claimed_to_see_spaceship/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ied to blow it off as aliens because they were testing something...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-[roswell-daily-record" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-[roswell-daily-record</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...On July 8, 1947, something strange arrived in Roswell, New Mexico...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-[roswell-daily-record" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-[roswell-daily-record</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...On July 8, 1947, something strange arrived in Roswell, New Mexico...</p></details>
    Published: July 8, 1947  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: Astro OT D FAMOUS ROSWELL “UFO CRASH” REPORTED  
-   Link: <a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...July 7, 1947 Brazel informed Sheriff George Wilcox of Chaves County, who contacted the Ro...</p></details>
+   Link:<a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...July 7, 1947 Brazel informed Sheriff George Wilcox of Chaves County, who contacted the Ro...</p></details>
    Published: July 7, 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: It's one of history's most famous conspiracies  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...... Sheriff George Wilcox of the debris he had found. Wilcox called Roswell Army Air Field (RAAF). RAAF was home to the 509...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...... Sheriff George Wilcox of the debris he had found. Wilcox called Roswell Army Air Field (RAAF). RAAF was home to the 509...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>promptly sent agents to visit the ranch, but not before the press...</p></details>
+   Link:<a href="https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>promptly sent agents to visit the ranch, but not before the press...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
-   Link: <a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hhhistory.com  
    Title: the roswell incident of 1947 whats it  
-   Link: <a href="https://www.hhhistory.com/2020/07/the-roswell-incident-of-1947-whats-it.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhhistory.com/2020/07/the-roswell-incident-of-1947-whats-it.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident of 1947: What&#x27;s it all about6 Jul 2020 — He brought some of the material--[rubber strips](&amp;#123;&amp;#123; &#x27;rubber-strips/&#x27; | relative_url &amp;#125;&amp;#125;), tinfoil, and thick paper--t...</p></details>
+   Link:<a href="https://www.hhhistory.com/2020/07/the-roswell-incident-of-1947-whats-it.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhhistory.com/2020/07/the-roswell-incident-of-1947-whats-it.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident of 1947: What&#x27;s it all about6 Jul 2020 — He brought some of the material--[rubber strips](&amp;#123;&amp;#123; &#x27;rubber-strips/&#x27; | relative_url &amp;#125;&amp;#125;), tinfoil, and thick paper--t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: historywiththeszilagyis.org  
-   Link: <a href="https://historywiththeszilagyis.org/hwts188" target="_blank" rel="noopener noreferrer nofollow">https://historywiththeszilagyis.org/hwts188</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>188: The Roswell Incident — History with the SzilagyisWilcox couldn&#x27;t identify it, either, and so took it to Colonel William Blanchard of...</p></details>
+   Link:<a href="https://historywiththeszilagyis.org/hwts188" target="_blank" rel="noopener noreferrer nofollow">https://historywiththeszilagyis.org/hwts188</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>188: The Roswell Incident — History with the SzilagyisWilcox couldn&#x27;t identify it, either, and so took it to Colonel William Blanchard of...</p></details>

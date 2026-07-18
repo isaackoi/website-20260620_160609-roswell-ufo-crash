@@ -280,15 +280,15 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_
 
 ## Introduction
 
-Walter Haut occupies a unique position in the Roswell debate because he was not a later witness who emerged decades after the event. He was the public information officer at Roswell Army Air Field in July 1947 and the man who issued the famous press release announcing the recovery of a “[flying disc]({{ 'flying-disc/' | relative_url }})”. For believers, that role gives his later statements unusual weight. For sceptics, the problem is that his most dramatic claims appeared many decades after the event and often contradicted his earlier accounts. As a result, Haut has become one of the clearest examples of a broader Roswell problem: how much confidence should be placed in late [testimony]({{ 'testimony/' | relative_url }}) that evolves significantly over time? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+Walter Haut occupies a unique position in the Roswell debate because he was not a later witness who emerged decades after the event. He was the public information officer at Roswell Army Air Field in July 1947 and the man who issued the famous press release announcing the recovery of a “[flying disc]({{ 'flying-disc/' | relative_url }})”. For believers, that role gives his later statements unusual weight. For sceptics, the problem is that his most dramatic claims appeared many decades after the event and often contradicted his earlier accounts. As a result, Haut has become one of the clearest examples of a broader Roswell problem: how much confidence should be placed in late [testimony]({{ 'testimony/' | relative_url }}) that evolves significantly over time?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-1-dark.svg" | relative_url }}" alt="Walter Haut illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## His Role in the 1947 Announcement
 
-Haut's historical importance is undisputed. On 8 July 1947, acting under orders from base commander Colonel William Blanchard, he prepared and distributed the press release stating that personnel from Roswell Army Air Field had recovered a “flying disc”. Within hours, higher headquarters reversed the story and identified the recovered material as a balloon. That rapid shift helped create the mystery that still surrounds Roswell today. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+Haut's historical importance is undisputed. On 8 July 1947, acting under orders from base commander Colonel William Blanchard, he prepared and distributed the press release stating that personnel from Roswell Army Air Field had recovered a “flying disc”. Within hours, higher headquarters reversed the story and identified the recovered material as a balloon. That rapid shift helped create the mystery that still surrounds Roswell today.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
-For many years, however, Haut portrayed himself as largely a messenger rather than a witness. Interviews and statements from the 1970s, 1980s and early 1990s generally described him as the officer who issued the release but who had little direct knowledge of the recovered material. In some accounts he said he had asked to see the object but was denied access. In others he stressed that his information came from conversations with senior officers such as Jesse [Marcel]({{ 'marcel/' | relative_url }}) rather than from personal observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+For many years, however, Haut portrayed himself as largely a messenger rather than a witness. Interviews and statements from the 1970s, 1980s and early 1990s generally described him as the officer who issued the release but who had little direct knowledge of the recovered material. In some accounts he said he had asked to see the object but was denied access. In others he stressed that his information came from conversations with senior officers such as Jesse [Marcel]({{ 'marcel/' | relative_url }}) rather than from personal observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
 This earlier version of Haut's story is important because it established a baseline against which his [later claims]({{ 'later-claims/' | relative_url }}) would be judged.
 
@@ -297,11 +297,11 @@ This earlier version of Haut's story is important because it established a basel
 
 ## Why Later Statements Drew Attention
 
-The turning point came in the final years of Haut's life. In 1993 he signed an affidavit expressing confidence that senior officers would not have mistaken a weather balloon for something extraordinary. Although supportive of the Roswell crash narrative, that affidavit still relied heavily on what others had told him rather than on first-hand observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/1993.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[Priory of Sion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-title">Priory of Sion Affidavit of Walter G</span><span class="citation-popover-snippet">Haut, 14 May 1993 Source - Priory of Sion(1) My name is Walter Haut. (2) My address is: XXXXXXXXXX. (3) I am retired. (4) In July 1947, I...</span><span class="citation-popover-meta">Published: May 1993</span></span></span>
+The turning point came in the final years of Haut's life. In 1993 he signed an affidavit expressing confidence that senior officers would not have mistaken a weather balloon for something extraordinary. Although supportive of the Roswell crash narrative, that affidavit still relied heavily on what others had told him rather than on first-hand observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/1993.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[Priory of Sion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-title">Priory of Sion Affidavit of Walter G</span><span class="citation-popover-snippet">Haut, 14 May 1993 Source - Priory of Sion(1) My name is Walter Haut. (2) My address is: XXXXXXXXXX. (3) I am retired. (4) In July 1947, I...</span><span class="citation-popover-meta">Published: May 1993</span></span></span>
 
-The far more controversial development was a document often called the “sealed affidavit”. Signed in 2002 and released after his death in 2005, it presented a dramatically expanded account. In that statement, Haut claimed he had attended meetings about the recovery, seen an unusual craft, observed debris stored in a hangar, and viewed small [bodies]({{ 'bodies/' | relative_url }}) associated with the incident. He also stated that the balloon explanation had been a cover story. These claims went far beyond his earlier public descriptions of his role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vincentamatoauthor.com/wp-content/uploads/2016/02/11-Sealed-Affidavit-Of-Walter-G.-Haut.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vincentamatoauthor.com">[Vincent Amato+2theregister]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vincentamatoauthor.com</span><span class="citation-popover-title">11 Sealed Affidavit Of Walter G. Haut</span><span class="citation-popover-snippet">HAUT DATE26 Dec 2002 — Signed: Walter G. Haut. Signature Witnessed by: Chris Xxxxxx. Dated: December 26, 2002. [...</span><span class="citation-popover-meta">Published: December 26, 2002</span></span></span>
+The far more controversial development was a document often called the “sealed affidavit”. Signed in 2002 and released after his death in 2005, it presented a dramatically expanded account. In that statement, Haut claimed he had attended meetings about the recovery, seen an unusual craft, observed debris stored in a hangar, and viewed small [bodies]({{ 'bodies/' | relative_url }}) associated with the incident. He also stated that the balloon explanation had been a cover story. These claims went far beyond his earlier public descriptions of his role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vincentamatoauthor.com/wp-content/uploads/2016/02/11-Sealed-Affidavit-Of-Walter-G.-Haut.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vincentamatoauthor.com">[vincentamatoauthor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vincentamatoauthor.com</span><span class="citation-popover-title">11 Sealed Affidavit Of Walter G. Haut</span><span class="citation-popover-snippet">HAUT DATE26 Dec 2002 — Signed: Walter G. Haut. Signature Witnessed by: Chris Xxxxxx. Dated: December 26, 2002. [...</span><span class="citation-popover-meta">Published: December 26, 2002</span></span></span>
 
-For Roswell believers, the timing enhanced the affidavit's significance. They argued that Haut had remained silent because of military loyalty and promises of [secrecy]({{ 'secrecy/' | relative_url }}), and that he finally recorded the truth for release only after his death. Supporters, including family members and UFO researchers close to him, have maintained that he carefully reviewed the wording and intended it as an accurate account of what he knew. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sbs.com.au/whats-on/article/my-father-saw-the-bodies-chasing-the-truth-about-roswell/thp111yiy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbs.com.au">[SBS Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbs.com.au</span><span class="citation-popover-snippet">SBS Australia“My father saw the bodies”: chasing the truth about Roswell23 Jul 2021 — After Haut&#x27;s death in 2005, the affidavit was publi...</span></span></span>
+For Roswell believers, the timing enhanced the affidavit's significance. They argued that Haut had remained silent because of military loyalty and promises of [secrecy]({{ 'secrecy/' | relative_url }}), and that he finally recorded the truth for release only after his death. Supporters, including family members and UFO researchers close to him, have maintained that he carefully reviewed the wording and intended it as an accurate account of what he knew.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sbs.com.au/whats-on/article/my-father-saw-the-bodies-chasing-the-truth-about-roswell/thp111yiy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbs.com.au">[SBS Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbs.com.au</span><span class="citation-popover-snippet">SBS Australia“My father saw the bodies”: chasing the truth about Roswell23 Jul 2021 — After Haut&#x27;s death in 2005, the affidavit was publi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-2-dark.svg" | relative_url }}" alt="Walter Haut illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,7 +309,7 @@ For Roswell believers, the timing enhanced the affidavit's significance. They ar
 
 The credibility problem arises because the sealed affidavit differs sharply from many of Haut's earlier statements.
 
-For decades, researchers recorded Haut describing himself primarily as the officer who drafted and released the announcement. In numerous interviews he indicated that he had not personally examined the recovered material. The later affidavit transformed him from a peripheral participant into a direct witness to some of the most extraordinary elements of the Roswell story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2016/03/walter-haut-lost-in-roswell-minutae.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogWalter Haut - Lost in the Roswell MinutaeMar 11, 2016 — Walter Haut made many recorded statements about what he had do...</span></span></span>
+For decades, researchers recorded Haut describing himself primarily as the officer who drafted and released the announcement. In numerous interviews he indicated that he had not personally examined the recovered material. The later affidavit transformed him from a peripheral participant into a direct witness to some of the most extraordinary elements of the Roswell story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2016/03/walter-haut-lost-in-roswell-minutae.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogWalter Haut - Lost in the Roswell MinutaeMar 11, 2016 — Walter Haut made many recorded statements about what he had do...</span></span></span>
 
 Several factors complicate assessment of the document:
 
@@ -319,7 +319,7 @@ Several factors complicate assessment of the document:
 * **Time gap:** The most dramatic claims were recorded more than fifty years after the event.
 * **Memory concerns:** Historians routinely treat recollections recorded after such long intervals with caution, especially when they differ from earlier accounts.
 * **Preparation of the affidavit:** The document emerged through collaboration with prominent Roswell researchers who already supported the extraterrestrial interpretation, leading critics to question whether the final text reflected Haut's independent recollection or a jointly constructed narrative.
-* **Lack of corroborating documentation:** No contemporary 1947 records have surfaced confirming the specific observations described in the affidavit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+* **Lack of corroborating documentation:** No contemporary 1947 records have surfaced confirming the specific observations described in the affidavit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
 </div>
 
@@ -332,217 +332,217 @@ These issues do not automatically disprove Haut's claims, but they mean that the
 
 ### The Believers' Interpretation
 
-Believers see Haut as an insider who gradually revealed more as circumstances allowed. They note that he occupied a trusted position at one of the most sensitive military installations in the United States and had direct access to senior officers. From this perspective, his reluctance to speak openly for decades is not suspicious but expected if secrecy oaths were involved. The sealed affidavit is therefore viewed as a final disclosure from someone who had little to gain personally and who waited until after his death to release the information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sbs.com.au/whats-on/article/my-father-saw-the-bodies-chasing-the-truth-about-roswell/thp111yiy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbs.com.au">[SBS Australia+2KDBC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbs.com.au</span><span class="citation-popover-snippet">SBS Australia“My father saw the bodies”: chasing the truth about Roswell23 Jul 2021 — After Haut&#x27;s death in 2005, the affidavit was publi...</span></span></span>
+Believers see Haut as an insider who gradually revealed more as circumstances allowed. They note that he occupied a trusted position at one of the most sensitive military installations in the United States and had direct access to senior officers. From this perspective, his reluctance to speak openly for decades is not suspicious but expected if secrecy oaths were involved. The sealed affidavit is therefore viewed as a final disclosure from someone who had little to gain personally and who waited until after his death to release the information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sbs.com.au/whats-on/article/my-father-saw-the-bodies-chasing-the-truth-about-roswell/thp111yiy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbs.com.au">[com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbs.com.au</span><span class="citation-popover-snippet">SBS Australia“My father saw the bodies”: chasing the truth about Roswell23 Jul 2021 — After Haut&#x27;s death in 2005, the affidavit was publi...</span></span></span>
 
-Believers also argue that Haut's central role in issuing the original “flying disc” announcement gives him special relevance. If anyone at the base later understood that the public explanation was false, they contend, Haut would have been among those likely to know. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+Believers also argue that Haut's central role in issuing the original “flying disc” announcement gives him special relevance. If anyone at the base later understood that the public explanation was false, they contend, Haut would have been among those likely to know.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-3-dark.svg" | relative_url }}" alt="Walter Haut illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_skeptics_believers_5858ee_walter_haut_credibil_fdadc2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Sceptical Interpretation
 
-Sceptics focus on chronology and consistency. They argue that testimony generally becomes less reliable as the interval between event and recollection grows. From this viewpoint, Haut's earliest statements deserve more weight than later ones because they were made closer to the event and before Roswell became a major cultural phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+Sceptics focus on chronology and consistency. They argue that testimony generally becomes less reliable as the interval between event and recollection grows. From this viewpoint, Haut's earliest statements deserve more weight than later ones because they were made closer to the event and before Roswell became a major cultural phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
-Critics also note that by the early 1990s Haut had become deeply involved in Roswell UFO promotion through the International [UFO Museum]({{ 'ufo-museum/' | relative_url }}) and Research Center, which he helped found. They argue that this environment may have reinforced existing beliefs and encouraged increasingly elaborate narratives. Some researchers have specifically pointed to the contrast between his long-standing claims of limited knowledge and the much more dramatic contents of the posthumously released affidavit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+Critics also note that by the early 1990s Haut had become deeply involved in Roswell UFO promotion through the International [UFO Museum]({{ 'ufo-museum/' | relative_url }}) and Research Center, which he helped found. They argue that this environment may have reinforced existing beliefs and encouraged increasingly elaborate narratives. Some researchers have specifically pointed to the contrast between his long-standing claims of limited knowledge and the much more dramatic contents of the posthumously released affidavit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
 ## What Walter Haut Ultimately Represents in the Roswell Debate
 
 Walter Haut is important not because his testimony resolves Roswell, but because it highlights the central methodological divide between believers and sceptics. Both sides agree that he issued the original 1947 press release. The dispute begins with his later recollections.
 
-Believers view the sealed affidavit as the long-suppressed testimony of a trusted insider finally revealing what he knew. Sceptics view it as a late and evolving account that conflicts with decades of earlier statements and lacks independent confirmation. The result is that Haut remains one of the most cited Roswell witnesses and one of the most contested. His story encapsulates a recurring question throughout the Roswell controversy: when contemporary records and later memories point in different directions, which should carry the greater weight? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+Believers view the sealed affidavit as the long-suppressed testimony of a trusted insider finally revealing what he knew. Sceptics view it as a late and evolving account that conflicts with decades of earlier statements and lacks independent confirmation. The result is that Haut remains one of the most cited Roswell witnesses and one of the most contested. His story encapsulates a recurring question throughout the Roswell controversy: when contemporary records and later memories point in different directions, which should carry the greater weight?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yXQOMqae1AE" title="Did a UFO really crash outside of Roswell?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yXQOMqae1AE" target="_blank" rel="noopener noreferrer">Did a UFO really crash outside of Roswell?</a></p><p class="youtube-embed-meta">Channel: KOAT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yXQOMqae1AE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yXQOMqae1AE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Did Walter Haut Know?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Did Walter Haut Know?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Covers Walter Haut&#x27;s later statements and their significance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Walter Haut&#x27;s later statements and their significance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Addresses credibility issues surrounding evolving testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses credibility issues surrounding evolving testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Examines how figures like Haut influenced the Roswell narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how figures like Haut influenced the Roswell narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides background on the original press-release era and key figures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on the original press-release era and key figures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c49c6573294e34cfec3f.jpg' | relative_url }}" alt="Listing image for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c49c6573294e34cfec3f.jpg' | relative_url }}" alt="Listing image for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster, Many Sizes; Roswell UFO crash debris"><img src="{{ '/assets/images/marketplace-covers/98ebcf5f7d90e9b1209d.jpg' | relative_url }}" alt="Listing image for Poster, Many Sizes; Roswell UFO crash debris" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Poster, Many Sizes; Roswell UFO crash debris</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster, Many Sizes; Roswell UFO crash debris"><img src="{{ '/assets/images/marketplace-covers/98ebcf5f7d90e9b1209d.jpg' | relative_url }}" alt="Listing image for Poster, Many Sizes; Roswell UFO crash debris" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Poster, Many Sizes; Roswell UFO crash debris</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cbbb6c28907e6c685e71.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cbbb6c28907e6c685e71.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="walter-haut-how-much-did-walter-haut-know-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ Believers view the sealed affidavit as the long-suppressed testimony of a truste
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ Believers view the sealed affidavit as the long-suppressed testimony of a truste
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ Believers view the sealed affidavit as the long-suppressed testimony of a truste
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ Believers view the sealed affidavit as the long-suppressed testimony of a truste
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ Believers view the sealed affidavit as the long-suppressed testimony of a truste
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,127 +748,127 @@ Believers view the sealed affidavit as the long-suppressed testimony of a truste
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Walter Haut  
-   Link: <a href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walter_Haut</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walter_Haut</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
    Title: on this day in 1947 the roswell army air field issued a press release claiming t  
-   Link: <a href="https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1947, the Roswell Army Air Field issued a...On July 8th, 1947, Roswell Army Air Field public information officer Walter H...</p></details>
+   Link:<a href="https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1947, the Roswell Army Air Field issued a...On July 8th, 1947, Roswell Army Air Field public information officer Walter H...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: priory-of-sion.com  
    Title: Priory of Sion Affidavit of Walter G  
-   Link: <a href="https://priory-of-sion.com/biblios/links/1993.pdf" target="_blank" rel="noopener noreferrer nofollow">https://priory-of-sion.com/biblios/links/1993.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Haut, 14 May 1993 Source - Priory of Sion(1) My name is Walter Haut. (2) My address is: XXXXXXXXXX. (3) I am retired. (4) In July 1947, I...</p></details>
+   Link:<a href="https://priory-of-sion.com/biblios/links/1993.pdf" target="_blank" rel="noopener noreferrer nofollow">https://priory-of-sion.com/biblios/links/1993.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haut, 14 May 1993 Source - Priory of Sion(1) My name is Walter Haut. (2) My address is: XXXXXXXXXX. (3) I am retired. (4) In July 1947, I...</p></details>
    Published: May 1993  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theregister.com  
    Title: i saw aliens at roswell claims dead pr man  
-   Link: <a href="https://www.theregister.com/offbeat/2007/07/02/i-saw-aliens-at-roswell-claims-dead-pr-man/997718" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/offbeat/2007/07/02/i-saw-aliens-at-roswell-claims-dead-pr-man/997718</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I saw aliens at Roswell, claims dead PR man2 Jul 2007 — Haut died last year, but left instructions that his statement should be opened af...</p></details>
+   Link:<a href="https://www.theregister.com/offbeat/2007/07/02/i-saw-aliens-at-roswell-claims-dead-pr-man/997718" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/offbeat/2007/07/02/i-saw-aliens-at-roswell-claims-dead-pr-man/997718</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I saw aliens at Roswell, claims dead PR man2 Jul 2007 — Haut died last year, but left instructions that his statement should be opened af...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cbs4local.com  
-   Link: <a href="https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii" target="_blank" rel="noopener noreferrer nofollow">https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO story still resonates around the world 77...Aug 2, 2024 — &quot;Walter, in that sealed statement,&quot; Schmitt said, &quot;Would ackno...</p></details>
+   Link:<a href="https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii" target="_blank" rel="noopener noreferrer nofollow">https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO story still resonates around the world 77...Aug 2, 2024 — &quot;Walter, in that sealed statement,&quot; Schmitt said, &quot;Would ackno...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theregister.com  
    Title: dead pr alien claim  
-   Link: <a href="https://www.theregister.com/2007/07/02/dead_pr_alien_claim/" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/2007/07/02/dead_pr_alien_claim/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I saw aliens at Roswell, claims dead PR man2 Jul 2007 — In the affidavit, Lieutenant Walter Haut says the weather balloon was a cover sto...</p></details>
+   Link:<a href="https://www.theregister.com/2007/07/02/dead_pr_alien_claim/" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/2007/07/02/dead_pr_alien_claim/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I saw aliens at Roswell, claims dead PR man2 Jul 2007 — In the affidavit, Lieutenant Walter Haut says the weather balloon was a cover sto...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kevinrandle.blogspot.com  
-   Link: <a href="https://kevinrandle.blogspot.com/2016/03/walter-haut-lost-in-roswell-minutae.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2016/03/walter-haut-lost-in-roswell-minutae.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogWalter Haut - Lost in the Roswell MinutaeMar 11, 2016 — Walter Haut made many recorded statements about what he had do...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2016/03/walter-haut-lost-in-roswell-minutae.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2016/03/walter-haut-lost-in-roswell-minutae.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogWalter Haut - Lost in the Roswell MinutaeMar 11, 2016 — Walter Haut made many recorded statements about what he had do...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vincentamatoauthor.com  
    Title: 11 Sealed Affidavit Of Walter G. Haut  
-   Link: <a href="https://vincentamatoauthor.com/wp-content/uploads/2016/02/11-Sealed-Affidavit-Of-Walter-G.-Haut.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vincentamatoauthor.com/wp-content/uploads/2016/02/11-Sealed-Affidavit-Of-Walter-G.-Haut.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HAUT DATE26 Dec 2002 — Signed: Walter G. Haut. Signature Witnessed by: Chris Xxxxxx. Dated: December 26, 2002. [...</p></details>
+   Link:<a href="https://vincentamatoauthor.com/wp-content/uploads/2016/02/11-Sealed-Affidavit-Of-Walter-G.-Haut.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vincentamatoauthor.com/wp-content/uploads/2016/02/11-Sealed-Affidavit-Of-Walter-G.-Haut.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HAUT DATE26 Dec 2002 — Signed: Walter G. Haut. Signature Witnessed by: Chris Xxxxxx. Dated: December 26, 2002. [...</p></details>
    Published: December 26, 2002  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sbs.com.au  
-   Link: <a href="https://www.sbs.com.au/whats-on/article/my-father-saw-the-bodies-chasing-the-truth-about-roswell/thp111yiy" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/whats-on/article/my-father-saw-the-bodies-chasing-the-truth-about-roswell/thp111yiy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SBS Australia“My father saw the bodies”: chasing the truth about Roswell23 Jul 2021 — After Haut&#x27;s death in 2005, the affidavit was publi...</p></details>
+   Link:<a href="https://www.sbs.com.au/whats-on/article/my-father-saw-the-bodies-chasing-the-truth-about-roswell/thp111yiy" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/whats-on/article/my-father-saw-the-bodies-chasing-the-truth-about-roswell/thp111yiy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SBS Australia“My father saw the bodies”: chasing the truth about Roswell23 Jul 2021 — After Haut&#x27;s death in 2005, the affidavit was publi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pdf.ai  
-   Link: <a href="https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c" target="_blank" rel="noopener noreferrer nofollow">https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Field as the Public Information Officer and received a call...Read more...</p></details>
+   Link:<a href="https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c" target="_blank" rel="noopener noreferrer nofollow">https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Field as the Public Information Officer and received a call...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: standard.co.uk  
    Title: Last week, the text was released and asserts that the weather balloon claim  
-   Link: <a href="https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell officer&#x27;s amazing deathbed admission raises...Haut died last year, but left a sworn affidavit to be opened only after his death...</p></details>
+   Link:<a href="https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell officer&#x27;s amazing deathbed admission raises...Haut died last year, but left a sworn affidavit to be opened only after his death...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: soundviewmediapartners.com  
    Title: [Roswell UFO Crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;): Deathbed Confessions Was (is) there a conspiracy?  
-   Link: <a href="https://soundviewmediapartners.com/roswell-ufo-crash-deathbed-confessions/" target="_blank" rel="noopener noreferrer nofollow">https://soundviewmediapartners.com/roswell-ufo-crash-deathbed-confessions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This series of events has been studied for years by both professionals and amateurs alike… UFO investigator Don Schmitt reveals...</p></details>
+   Link:<a href="https://soundviewmediapartners.com/roswell-ufo-crash-deathbed-confessions/" target="_blank" rel="noopener noreferrer nofollow">https://soundviewmediapartners.com/roswell-ufo-crash-deathbed-confessions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This series of events has been studied for years by both professionals and amateurs alike… UFO investigator Don Schmitt reveals...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: deathbed affidavit written by walter haut public  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1ktk70r/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1ktk70r/deathbed_affidavit_written_by_walter_haut_public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deathbed affidavit written by Walter Haut, public...In 2002 Haut wrote affidavit about what really happened that day in Roswell, however...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1ktk70r/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1ktk70r/deathbed_affidavit_written_by_walter_haut_public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deathbed affidavit written by Walter Haut, public...In 2002 Haut wrote affidavit about what really happened that day in Roswell, however...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: edn.com  
    Title: roswell incident is first reported july 8 1947  
-   Link: <a href="https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident is first reported, July 8, 1947It was reported on July 8, 1947 that the Roswell Army Air Field issued a press release sa...</p></details>
+   Link:<a href="https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident is first reported, July 8, 1947It was reported on July 8, 1947 that the Roswell Army Air Field issued a press release sa...</p></details>
    Published: July 8, 1947  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: military-history.fandom.com  
    Title: Military Wiki Walter Haut | Military Wiki  
-   Link: <a href="https://military-history.fandom.com/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Walter_Haut</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military WikiWalter Haut | Military Wiki - FandomThe full text of the affidavit was first published in June 2007 in the book Witness to R...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Walter_Haut</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military WikiWalter Haut | Military Wiki - FandomThe full text of the affidavit was first published in June 2007 in the book Witness to R...</p></details>
    Published: June 2007  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ktk3y9/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ktk3y9/deathbed_affidavit_written_by_walter_haut_public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t and that official version of the balloons was a lie.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ktk3y9/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ktk3y9/deathbed_affidavit_written_by_walter_haut_public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t and that official version of the balloons was a lie.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t and that official version of the balloons was a lie.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t and that official version of the balloons was a lie.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: podchaser.com  
    Title: roswell revealed walter haut p 127839495  
-   Link: <a href="https://www.podchaser.com/podcasts/deathbed-confessions-1975873/episodes/roswell-revealed-walter-haut-p-127839495" target="_blank" rel="noopener noreferrer nofollow">https://www.podchaser.com/podcasts/deathbed-confessions-1975873/episodes/roswell-revealed-walter-haut-p-127839495</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Revealed: Walter Haut Pt. 1Feb 2, 2022 — Haut did have opinions of his own. Ones he has recorded in a sealed affidavit, only to b...</p></details>
+   Link:<a href="https://www.podchaser.com/podcasts/deathbed-confessions-1975873/episodes/roswell-revealed-walter-haut-p-127839495" target="_blank" rel="noopener noreferrer nofollow">https://www.podchaser.com/podcasts/deathbed-confessions-1975873/episodes/roswell-revealed-walter-haut-p-127839495</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Revealed: Walter Haut Pt. 1Feb 2, 2022 — Haut did have opinions of his own. Ones he has recorded in a sealed affidavit, only to b...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt22536670/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt22536670/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed debris from a downed flying saucer.Read more...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt22536670/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt22536670/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed debris from a downed flying saucer.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: area51aliencenter.net  
    Title: roswell incident part 4  
-   Link: <a href="https://area51aliencenter.net/historical-events/roswell-incident-part-4/" target="_blank" rel="noopener noreferrer nofollow">https://area51aliencenter.net/historical-events/roswell-incident-part-4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident: Part 4May 27, 2022 — His affidavit confirmed that his original press release about a &quot;flying disk&quot; was correct, and add...</p></details>
+   Link:<a href="https://area51aliencenter.net/historical-events/roswell-incident-part-4/" target="_blank" rel="noopener noreferrer nofollow">https://area51aliencenter.net/historical-events/roswell-incident-part-4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident: Part 4May 27, 2022 — His affidavit confirmed that his original press release about a &quot;flying disk&quot; was correct, and add...</p></details>
    Published: May 27, 2022  

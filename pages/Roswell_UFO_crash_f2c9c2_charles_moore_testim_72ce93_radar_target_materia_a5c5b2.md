@@ -280,23 +280,23 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar
 
 ## Introduction
 
-One of the most important questions in the Roswell debate is whether the debris found on the Foster Ranch sounded genuinely exotic or whether it resembled damaged military equipment from the late 1940s. Charles Moore, the [Project Mogul]({{ 'project-mogul/' | relative_url }}) engineer most closely associated with the balloon programme, argued that the reported materials closely matched the radar targets carried beneath [Mogul balloon trains]({{ 'balloon-train/' | relative_url }}). His explanation focused on specific physical components: foil, balsa wood sticks, tape, twine, eyelets and lightweight structural pieces. Rather than relying on broad claims about weather balloons, Moore pointed to the actual construction of radar reflectors and showed how ordinary components could appear strange when scattered, weathered and broken apart. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+One of the most important questions in the Roswell debate is whether the debris found on the Foster Ranch sounded genuinely exotic or whether it resembled damaged military equipment from the late 1940s. Charles Moore, the [Project Mogul]({{ 'project-mogul/' | relative_url }}) engineer most closely associated with the balloon programme, argued that the reported materials closely matched the radar targets carried beneath [Mogul balloon trains]({{ 'balloon-train/' | relative_url }}). His explanation focused on specific physical components: foil, balsa wood sticks, tape, twine, eyelets and lightweight structural pieces. Rather than relying on broad claims about weather balloons, Moore pointed to the actual construction of radar reflectors and showed how ordinary components could appear strange when scattered, weathered and broken apart.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-1-dark.svg" | relative_url }}" alt="Radar Targets illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Early Radar Reflectors Were Made From
 
-The radar targets used with early Project Mogul flights were not simple metal plates. They were lightweight radar reflectors designed to make balloon trains visible to tracking radar. According to [Air Force]({{ 'air-force/' | relative_url }}) documentation, these reflectors were built from aluminium foil or foil-backed paper stretched across frames made of balsa wood. The structures were held together with tape, glue, twine, brass eyelets and swivels, creating angular corner reflectors that could bounce radar signals back to a radar station. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+The radar targets used with early Project Mogul flights were not simple metal plates. They were lightweight radar reflectors designed to make balloon trains visible to tracking radar. According to [Air Force]({{ 'air-force/' | relative_url }}) documentation, these reflectors were built from aluminium foil or foil-backed paper stretched across frames made of balsa wood. The structures were held together with tape, glue, twine, brass eyelets and swivels, creating angular corner reflectors that could bounce radar signals back to a radar station.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 The choice of materials was practical rather than mysterious:
 
 * **Balsa wood** provided strength with very little weight.
-* **Foil-covered surfaces** reflected radar energy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsThere was a weather balloon with a radar reflector attached to it. The radar reflector wa...</span></span></span>
+* **Foil-covered surfaces** reflected radar energy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsThere was a weather balloon with a radar reflector attached to it. The radar reflector wa...</span></span></span>
 * **Tape and glue** held the reflector panels together.
 * **Twine and eyelets** connected reflector sections and attached them to balloon equipment.
-* **Paper-backed components** reduced weight and manufacturing costs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+* **Paper-backed components** reduced weight and manufacturing costs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-These reflectors were often assembled in geometric shapes resembling open-sided boxes or kites. When intact, they looked like technical equipment. When smashed into the ground after a long flight, however, they could leave behind a confusing mixture of foil fragments, sticks, cords and tape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+These reflectors were often assembled in geometric shapes resembling open-sided boxes or kites. When intact, they looked like technical equipment. When smashed into the ground after a long flight, however, they could leave behind a confusing mixture of foil fragments, sticks, cords and tape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mBcYtSsPIuU" title="Project Mogul" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer">Project Mogul</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 2.6K &middot; Uploaded: July 2014 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mBcYtSsPIuU">Open on YouTube</a></p></div></div></div>
@@ -305,11 +305,11 @@ These reflectors were often assembled in geometric shapes resembling open-sided 
 
 A major reason the [radar-target]({{ 'radar-target/' | relative_url }}) explanation remains significant is that witness descriptions frequently emphasised unusual-looking debris rather than heavy machinery.
 
-The materials used in radar reflectors behaved differently from the metal most people expected to find in aircraft wreckage. Thin foil-backed surfaces could crumple, fold and spring back. Balsa wood broke into lightweight splinters rather than solid beams. Adhesive tapes remained attached to fragments, creating combinations of materials that did not resemble familiar farm equipment or conventional aircraft parts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+The materials used in radar reflectors behaved differently from the metal most people expected to find in aircraft wreckage. Thin foil-backed surfaces could crumple, fold and spring back. Balsa wood broke into lightweight splinters rather than solid beams. Adhesive tapes remained attached to fragments, creating combinations of materials that did not resemble familiar farm equipment or conventional aircraft parts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-Several later witnesses described decorative markings or symbols on pieces of tape. Moore and later Air Force investigators argued that these recollections could be explained by the tape used on some radar targets. According to the Mogul investigation, the manufacturer of certain radar targets used decorative tape printed with colourful symbols because of post-war material shortages. Witnesses who later remembered unusual purple, pink or flower-like markings may therefore have been recalling ordinary printed tape rather than unknown writing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulThese figures were printed on tape that sealed the seams of the of the radar target. The radar targets, sometimes...</span></span></span>
+Several later witnesses described decorative markings or symbols on pieces of tape. Moore and later Air Force investigators argued that these recollections could be explained by the tape used on some radar targets. According to the Mogul investigation, the manufacturer of certain radar targets used decorative tape printed with colourful symbols because of post-war material shortages. Witnesses who later remembered unusual purple, pink or flower-like markings may therefore have been recalling ordinary printed tape rather than unknown writing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulThese figures were printed on tape that sealed the seams of the of the radar target. The radar targets, sometimes...</span></span></span>
 
-This point became especially important because some later Roswell accounts transformed these markings into reports of mysterious hieroglyphs. Moore's explanation did not depend on witnesses inventing what they saw. Instead, it suggested that unusual-looking decorative tape was gradually reinterpreted over decades through memory and retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulThese figures were printed on tape that sealed the seams of the of the radar target. The radar targets, sometimes...</span></span></span>
+This point became especially important because some later Roswell accounts transformed these markings into reports of mysterious hieroglyphs. Moore's explanation did not depend on witnesses inventing what they saw. Instead, it suggested that unusual-looking decorative tape was gradually reinterpreted over decades through memory and retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulThese figures were printed on tape that sealed the seams of the of the radar target. The radar targets, sometimes...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-2-dark.svg" | relative_url }}" alt="Radar Targets illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,15 +327,15 @@ Contemporary reports from rancher William “Mac” Brazel and military personne
 * Paper-like material.
 * Tape.
 * Rubber balloon fragments.
-* String or cord-like components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+* String or cord-like components.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 </div>
 
-These descriptions closely mirror the documented components of Mogul radar targets and associated balloon equipment. Air Force investigators specifically noted foil, balsa wood beams, reinforcing tape, twine, eyelets and glue as standard elements of the reflectors used during the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+These descriptions closely mirror the documented components of Mogul radar targets and associated balloon equipment. Air Force investigators specifically noted foil, balsa wood beams, reinforcing tape, twine, eyelets and glue as standard elements of the reflectors used during the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-The match is particularly notable because the reported debris lacked features expected from a conventional aircraft crash. Early accounts described no engine, propeller, heavy metal framework or large mechanical assemblies. Instead, the debris consisted largely of lightweight materials that could easily be bundled and carried away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forcesnews.com">[Forces News+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forcesnews.com</span><span class="citation-popover-title">roswell military truth really out there</span><span class="citation-popover-snippet">Forces NewsRoswell &amp; The Military: The Truth Really Is Out There9 Jul 2017 — &quot;When the debris was gathered up, the tinfoil, paper, tape...</span></span></span>
+The match is particularly notable because the reported debris lacked features expected from a conventional aircraft crash. Early accounts described no engine, propeller, heavy metal framework or large mechanical assemblies. Instead, the debris consisted largely of lightweight materials that could easily be bundled and carried away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forcesnews.com">[forcesnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forcesnews.com</span><span class="citation-popover-title">roswell military truth really out there</span><span class="citation-popover-snippet">Forces NewsRoswell &amp; The Military: The Truth Really Is Out There9 Jul 2017 — &quot;When the debris was gathered up, the tinfoil, paper, tape...</span></span></span>
 
-For Moore, this was not a vague similarity. The specific combination of foil, balsa sticks, tape and twine represented a distinctive technological package. While any one item might be common, the collection as a whole resembled a shattered radar target far more closely than it resembled a crashed aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+For Moore, this was not a vague similarity. The specific combination of foil, balsa sticks, tape and twine represented a distinctive technological package. While any one item might be common, the collection as a whole resembled a shattered radar target far more closely than it resembled a crashed aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fAArhGRN5xk" title="Was the Crash in Roswell a Weather Balloon?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fAArhGRN5xk" target="_blank" rel="noopener noreferrer">Was the Crash in Roswell a Weather Balloon?</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fAArhGRN5xk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fAArhGRN5xk">Open on YouTube</a></p></div></div></div>
@@ -347,202 +347,202 @@ For Moore, this was not a vague similarity. The specific combination of foil, ba
 
 The radar-target explanation does not resolve every Roswell controversy, but it addresses one of the most concrete issues: the physical nature of the debris itself.
 
-Moore's [testimony]({{ 'testimony/' | relative_url }}) gave investigators a mechanism linking witness descriptions to known hardware. Instead of asking whether observers mistook an ordinary weather balloon for a flying saucer, the comparison became more specific. Witnesses were describing fragments of experimental radar reflectors built from unfamiliar combinations of foil, balsa wood, tape and twine—materials that could appear unusual when spread across a ranch after a crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+Moore's [testimony]({{ 'testimony/' | relative_url }}) gave investigators a mechanism linking witness descriptions to known hardware. Instead of asking whether observers mistook an ordinary weather balloon for a flying saucer, the comparison became more specific. Witnesses were describing fragments of experimental radar reflectors built from unfamiliar combinations of foil, balsa wood, tape and twine—materials that could appear unusual when spread across a ranch after a crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-Because the Roswell case often turns on the meaning of those reported materials, the construction of the radar targets remains one of the most important pieces of technical evidence supporting the Mogul interpretation. The closer the debris descriptions are examined, the more the discussion centres on whether those lightweight reflector components adequately explain what witnesses reported finding on the ranch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+Because the Roswell case often turns on the meaning of those reported materials, the construction of the radar targets remains one of the most important pieces of technical evidence supporting the Mogul interpretation. The closer the debris descriptions are examined, the more the discussion centres on whether those lightweight reflector components adequately explain what witnesses reported finding on the ranch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">balsa wood sticks, affixed with tape, glue, and twine.Read more</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-3-dark.svg" | relative_url }}" alt="Radar Targets illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93_radar_target_materia_a5c5b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Radar Targets Explain the Strange Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Radar Targets Explain the Strange Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ii7BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ii7BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Frequently discusses the physical debris and the debate over whether mundane materials could explain reported wreckage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frequently discusses the physical debris and the debate over whether mundane materials could explain reported wreckage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines Project Mogul and conventional debris explanations, making it highly relevant to radar-target material claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines Project Mogul and conventional debris explanations, making it highly relevant to radar-target material claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Directly examines the debris evidence, witness testimony, and competing explanations for what was found near Roswell.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the debris evidence, witness testimony, and competing explanations for what was found near Roswell.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the foundational Roswell narrative against which later Mogul and radar-target explanations are compared.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the foundational Roswell narrative against which later Mogul and radar-target explanations are compared.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/9eb183499e616d1d237a.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/9eb183499e616d1d237a.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/0766f5870481e1cb1479.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/0766f5870481e1cb1479.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/b6b9bdd489ae3c0b815e.jpg' | relative_url }}" alt="Listing image for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/b6b9bdd489ae3c0b815e.jpg' | relative_url }}" alt="Listing image for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radar-targets-could-radar-targets-explain-the-strange-debris-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ Because the Roswell case often turns on the meaning of those reported materials,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ Because the Roswell case often turns on the meaning of those reported materials,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ Because the Roswell case often turns on the meaning of those reported materials,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ Because the Roswell case often turns on the meaning of those reported materials,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ Because the Roswell case often turns on the meaning of those reported materials,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,118 +748,118 @@ Because the Roswell case often turns on the meaning of those reported materials,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: Ask an Expert: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=foJWblpzEjA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=foJWblpzEjA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Project Mogul  
-   Link: <a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | [Roswell UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) 1947...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | [Roswell UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) 1947...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nsa.gov  
    Title: balsa wood sticks, affixed with tape, glue, and twine.Read more  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — These targets were made up of aluminum &quot;...</p></details>
    Published: March 24, 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
    Title: roswell ufo strange metal mystery  
-   Link: <a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — In brief, the foil originally found among the “crashed saucer” debris by “Mac” Brazel wa...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — In brief, the foil originally found among the “crashed saucer” debris by “Mac” Brazel wa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulThese figures were printed on tape that sealed the seams of the of the radar target. The radar targets, sometimes...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulThese figures were printed on tape that sealed the seams of the of the radar target. The radar targets, sometimes...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTWhen the debris was gathered up the tinfoil, paper, tape, and sticks made a bundle about three feet long...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTWhen the debris was gathered up the tinfoil, paper, tape, and sticks made a bundle about three feet long...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: forcesnews.com  
    Title: roswell military truth really out there  
-   Link: <a href="https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forces NewsRoswell &amp; The Military: The Truth Really Is Out There9 Jul 2017 — &quot;When the debris was gathered up, the tinfoil, paper, tape...</p></details>
+   Link:<a href="https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forces NewsRoswell &amp; The Military: The Truth Really Is Out There9 Jul 2017 — &quot;When the debris was gathered up, the tinfoil, paper, tape...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rib.net  
    Title: Radar reflectors  
-   Link: <a href="https://www.rib.net/forum/f8/radar-reflectors-3296-2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rib.net/forum/f8/radar-reflectors-3296-2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 21 Dec 2004 — A reflector has to RETURN the signal to source. rain type reflector offer the best performance for the least target on...</p></details>
+   Link:<a href="https://www.rib.net/forum/f8/radar-reflectors-3296-2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rib.net/forum/f8/radar-reflectors-3296-2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 21 Dec 2004 — A reflector has to RETURN the signal to source. rain type reflector offer the best performance for the least target on...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: library.metoffice.gov.uk  
-   Link: <a href="https://library.metoffice.gov.uk/Portal/recordview/index/631806" target="_blank" rel="noopener noreferrer nofollow">https://library.metoffice.gov.uk/Portal/recordview/index/631806</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflector Corner Type Mk 5A device used for measuring the wind speed and direction in the upper atmosphere, the radar reflector carried a...</p></details>
+   Link:<a href="https://library.metoffice.gov.uk/Portal/recordview/index/631806" target="_blank" rel="noopener noreferrer nofollow">https://library.metoffice.gov.uk/Portal/recordview/index/631806</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reflector Corner Type Mk 5A device used for measuring the wind speed and direction in the upper atmosphere, the radar reflector carried a...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...He discovered &quot;a large area of bright wreckage made up of [rubber strips](&amp;#123;&amp;#123; &#x27;rubber-strips/&#x27; | relative_url &amp;#125;&amp;#125;), tinfoil, a rathe...</p></details>
+   Link:<a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...He discovered &quot;a large area of bright wreckage made up of [rubber strips](&amp;#123;&amp;#123; &#x27;rubber-strips/&#x27; | relative_url &amp;#125;&amp;#125;), tinfoil, a rathe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: daviddarling.info  
-   Link: <a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
+   Link:<a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oceansafety.com  
-   Link: <a href="https://www.oceansafety.com/product-range/leisure/radar-reflectors-leisure" target="_blank" rel="noopener noreferrer nofollow">https://www.oceansafety.com/product-range/leisure/radar-reflectors-leisure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Reflectors &amp; Signalling ArchivesRadar reflectors are devices to aid small boats to appear on the radar screens of larger vessels, t...</p></details>
+   Link:<a href="https://www.oceansafety.com/product-range/leisure/radar-reflectors-leisure" target="_blank" rel="noopener noreferrer nofollow">https://www.oceansafety.com/product-range/leisure/radar-reflectors-leisure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Reflectors &amp; Signalling ArchivesRadar reflectors are devices to aid small boats to appear on the radar screens of larger vessels, t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsThere was a weather balloon with a radar reflector attached to it. The radar reflector wa...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsThere was a weather balloon with a radar reflector attached to it. The radar reflector wa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No aliens Visit Earth, But The Government Covers Up...A search of military [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) for information about the Roswell incident uncovered...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No aliens Visit Earth, But The Government Covers Up...A search of military [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) for information about the Roswell incident uncovered...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ciphermysteries.com  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — When the debris was gathered up the tinfoil, paper, tape...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — When the debris was gathered up the tinfoil, paper, tape...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: It's one of history's most famous conspiracies  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...(The portions of the debris most puzzling to Brazel may in fact have been from a radar target.)... In 1997 a definitive ai...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...(The portions of the debris most puzzling to Brazel may in fact have been from a radar target.)... In 1997 a definitive ai...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>covered string, balsa wood sticks — none of which matched...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>covered string, balsa wood sticks — none of which matched...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m also not saying the debris found at Roswell was a balloon. At...</p></details>
+   Link:<a href="https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m also not saying the debris found at Roswell was a balloon. At...</p></details>

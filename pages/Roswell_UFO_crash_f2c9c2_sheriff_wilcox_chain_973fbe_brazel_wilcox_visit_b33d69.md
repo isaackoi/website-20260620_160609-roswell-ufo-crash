@@ -274,15 +274,15 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_braze
 
 ## Introduction
 
-Mac Brazel’s visit to [Sheriff]({{ 'sheriff/' | relative_url }}) George Wilcox was the moment when the Roswell incident moved from a private ranch discovery into an official reporting chain. Whatever the debris actually was, Brazel’s decision to take his concerns to the Chaves County sheriff gave the story institutional [credibility]({{ 'credibility/' | relative_url }}) and triggered the military response that followed. The key historical question is not whether Wilcox proved the debris was extraordinary, but what Brazel’s visit verified at that stage: that a local rancher had found unusual material, considered it significant enough to report, and persuaded a county official that the matter warranted referral to Roswell Army Air Field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+Mac Brazel’s visit to [Sheriff]({{ 'sheriff/' | relative_url }}) George Wilcox was the moment when the Roswell incident moved from a private ranch discovery into an official reporting chain. Whatever the debris actually was, Brazel’s decision to take his concerns to the Chaves County sheriff gave the story institutional [credibility]({{ 'credibility/' | relative_url }}) and triggered the military response that followed. The key historical question is not whether Wilcox proved the debris was extraordinary, but what Brazel’s visit verified at that stage: that a local rancher had found unusual material, considered it significant enough to report, and persuaded a county official that the matter warranted referral to Roswell Army Air Field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_brazel_wilcox_visit_b33d69-Illustration-1-dark.svg" | relative_url }}" alt="Brazel Visit illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_brazel_wilcox_visit_b33d69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_brazel_wilcox_visit_b33d69-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The surviving records are imperfect, and later retellings sometimes disagree on dates and details. Even so, multiple contemporary and retrospective sources agree on the central sequence: Brazel reported unusual debris to Sheriff Wilcox, Wilcox contacted the military, and military intelligence personnel were then sent to inspect and recover the material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The surviving records are imperfect, and later retellings sometimes disagree on dates and details. Even so, multiple contemporary and retrospective sources agree on the central sequence: Brazel reported unusual debris to Sheriff Wilcox, Wilcox contacted the military, and military intelligence personnel were then sent to inspect and recover the material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 ## What Did Brazel Tell Sheriff Wilcox?
 
-The available evidence suggests that Brazel either brought samples of the debris to Roswell or described it in enough detail to convince Wilcox that it deserved investigation. Accounts differ on exactly how much physical material reached the sheriff’s office, but they consistently describe lightweight, scattered wreckage rather than an intact craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 July 2017 — On July 7, he drove it all to Roswell, delivering the goods to Sheriff George Wilcox. Wilcox, too, was confounded. Seeking...</span><span class="citation-popover-meta">Published: July 2017</span></span></span>
+The available evidence suggests that Brazel either brought samples of the debris to Roswell or described it in enough detail to convince Wilcox that it deserved investigation. Accounts differ on exactly how much physical material reached the sheriff’s office, but they consistently describe lightweight, scattered wreckage rather than an intact craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 July 2017 — On July 7, he drove it all to Roswell, delivering the goods to Sheriff George Wilcox. Wilcox, too, was confounded. Seeking...</span><span class="citation-popover-meta">Published: July 2017</span></span></span>
 
 Descriptions associated with Brazel's report included:
 
@@ -290,34 +290,34 @@ Descriptions associated with Brazel's report included:
 * Rubber strips or rubber-like material.
 * Lightweight wooden sticks or beams.
 * Paper or thick paper-like material.
-* A debris field spread across a sizeable area of ranchland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+* A debris field spread across a sizeable area of ranchland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[unt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-Later newspaper accounts attributed to Brazel emphasised the ordinary-looking nature of many pieces. He described bundles of foil, paper, tape, rubber and sticks, while also stressing that he had never seen quite this combination of materials before. Importantly, these early descriptions did not include reports of engines, conventional aircraft parts, occupants, or a complete vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Later newspaper accounts attributed to Brazel emphasised the ordinary-looking nature of many pieces. He described bundles of foil, paper, tape, rubber and sticks, while also stressing that he had never seen quite this combination of materials before. Importantly, these early descriptions did not include reports of engines, conventional aircraft parts, occupants, or a complete vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-What Wilcox could verify was therefore limited but significant: Brazel was reporting a real debris field, not merely repeating rumours from the nationwide “flying saucer” craze that had swept the United States during the summer of 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+What Wilcox could verify was therefore limited but significant: Brazel was reporting a real debris field, not merely repeating rumours from the nationwide “flying saucer” craze that had swept the United States during the summer of 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbtvxBXEHVw" title="Roswell - UFO Crash in New Mexico | Free Documentary History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer">Roswell - UFO Crash in New Mexico | Free Documentary History</a></p><p class="youtube-embed-meta">Channel: Free Documentary - History &middot; Views: 88.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbtvxBXEHVw">Open on YouTube</a></p></div></div></div>
 
 ## Why the Sheriff's Office Was the Crucial First Official Stop
 
-In rural New Mexico in 1947, the sheriff's office was the most obvious local authority to consult when unusual property was discovered on remote land. Brazel was a ranch foreman, not a scientist or military officer. Reporting to Sheriff Wilcox transformed the matter from a private observation into an official concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 July 2017 — On July 7, he drove it all to Roswell, delivering the goods to Sheriff George Wilcox. Wilcox, too, was confounded. Seeking...</span><span class="citation-popover-meta">Published: July 2017</span></span></span>
+In rural New Mexico in 1947, the sheriff's office was the most obvious local authority to consult when unusual property was discovered on remote land. Brazel was a ranch foreman, not a scientist or military officer. Reporting to Sheriff Wilcox transformed the matter from a private observation into an official concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 July 2017 — On July 7, he drove it all to Roswell, delivering the goods to Sheriff George Wilcox. Wilcox, too, was confounded. Seeking...</span><span class="citation-popover-meta">Published: July 2017</span></span></span>
 
 The sheriff’s office performed three practical functions:
 
 **It authenticated the report as a citizen complaint.**
 
-Wilcox could establish that a known local resident was making the claim and that the debris existed as a physical object rather than a rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+Wilcox could establish that a known local resident was making the claim and that the debris existed as a physical object rather than a rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 **It provided a communication channel.**
 
-Once Wilcox became involved, the information could be passed through recognised governmental and military lines rather than informal local gossip. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer On Ranch in Roswell Region31 Oct 2025 — RAAF Captures Flying Saucer On Ranch in Roswell Region in t...</span></span></span>
+Once Wilcox became involved, the information could be passed through recognised governmental and military lines rather than informal local gossip.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer On Ranch in Roswell Region31 Oct 2025 — RAAF Captures Flying Saucer On Ranch in Roswell Region in t...</span></span></span>
 
 **It triggered military attention.**
 
-After hearing Brazel’s account, Wilcox contacted Roswell Army Air Field. That decision led directly to the involvement of intelligence officer Major Jesse [Marcel]({{ 'marcel/' | relative_url }}) and other military personnel who travelled to inspect and recover the material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+After hearing Brazel’s account, Wilcox contacted Roswell Army Air Field. That decision led directly to the involvement of intelligence officer Major Jesse [Marcel]({{ 'marcel/' | relative_url }}) and other military personnel who travelled to inspect and recover the material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The importance of the sheriff’s office lies less in any technical examination and more in its role as the first official filter through which the report passed. Wilcox did not determine what the debris was; he determined that it was worth forwarding to authorities who might know. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ancestry.com">[Ancestry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ancestry.com</span><span class="citation-popover-snippet">The Roswell New Mexico UFO CrashPuzzled by the discovery, Wilcox contacted officials at the Roswell Army Air Field. On July 8, 19...</span></span></span>
+The importance of the sheriff’s office lies less in any technical examination and more in its role as the first official filter through which the report passed. Wilcox did not determine what the debris was; he determined that it was worth forwarding to authorities who might know.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ancestry.com">[Ancestry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ancestry.com</span><span class="citation-popover-snippet">The Roswell New Mexico UFO CrashPuzzled by the discovery, Wilcox contacted officials at the Roswell Army Air Field. On July 8, 19...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_brazel_wilcox_visit_b33d69-Illustration-2-dark.svg" | relative_url }}" alt="Brazel Visit illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_brazel_wilcox_visit_b33d69-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_brazel_wilcox_visit_b33d69-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,11 +330,11 @@ The visit verified several specific facts:
 * A local rancher claimed to have discovered unusual debris on the Foster Ranch.
 * The debris existed in sufficient quantity to be shown, described, or collected.
 * Sheriff Wilcox considered the report credible enough to contact military authorities.
-* The military regarded the report seriously enough to dispatch personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+* The military regarded the report seriously enough to dispatch personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[unt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-What the visit did **not** verify was the origin of the material. At the moment Brazel entered the sheriff’s office, neither he nor Wilcox appears to have known whether the debris came from a weather device, a military project, an aircraft, or something else entirely. The visit established the existence of a reportable object, not its explanation. Smithsonian Magazine+2National Air and Space Museum <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 July 2017 — On July 7, he drove it all to Roswell, delivering the goods to Sheriff George Wilcox. Wilcox, too, was confounded. Seeking...</span><span class="citation-popover-meta">Published: July 2017</span></span></span>
+What the visit did **not** verify was the origin of the material. At the moment Brazel entered the sheriff’s office, neither he nor Wilcox appears to have known whether the debris came from a weather device, a military project, an aircraft, or something else entirely. The visit established the existence of a reportable object, not its explanation. Smithsonian Magazine+2National Air and Space Museum<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 July 2017 — On July 7, he drove it all to Roswell, delivering the goods to Sheriff George Wilcox. Wilcox, too, was confounded. Seeking...</span><span class="citation-popover-meta">Published: July 2017</span></span></span>
 
-This distinction is important because later Roswell narratives often treat the sheriff’s involvement as evidence for extraordinary conclusions. Historically, the stronger evidence supports a simpler point: Wilcox helped validate that there was something to investigate, not that the object was extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">Roger Launius explores the 1947 Roswell Incident, an event that entangled the United States Army in UFO conspiracy theories that persist...</span></span></span>
+This distinction is important because later Roswell narratives often treat the sheriff’s involvement as evidence for extraordinary conclusions. Historically, the stronger evidence supports a simpler point: Wilcox helped validate that there was something to investigate, not that the object was extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">Roger Launius explores the 1947 Roswell Incident, an event that entangled the United States Army in UFO conspiracy theories that persist...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HQRyaCBxPeU" title="The Roswell Incident and UFO Sightings Documentary - PART 1 | Mysteries Decoded | The CW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HQRyaCBxPeU" target="_blank" rel="noopener noreferrer">The Roswell Incident and UFO Sightings Documentary - PART 1 | Mysteries Decoded | The CW</a></p><p class="youtube-embed-meta">Channel: The CW Network &middot; Views: 98.2K &middot; Uploaded: September 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HQRyaCBxPeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HQRyaCBxPeU">Open on YouTube</a></p></div></div></div>
@@ -343,9 +343,9 @@ This distinction is important because later Roswell narratives often treat the s
 
 One of the persistent historical disputes concerns the exact day Brazel visited Sheriff Wilcox.
 
-Many modern reconstructions place the visit on 7 July 1947. According to this [timeline]({{ 'timeline/' | relative_url }}), Brazel travelled into Roswell after hearing widespread discussion of flying saucers, reported the debris to Wilcox, and set in motion the military response that culminated in the famous 8 July press release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+Many modern reconstructions place the visit on 7 July 1947. According to this [timeline]({{ 'timeline/' | relative_url }}), Brazel travelled into Roswell after hearing widespread discussion of flying saucers, reported the debris to Wilcox, and set in motion the military response that culminated in the famous 8 July press release.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[unt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-Other accounts place the meeting on 6 July. Some later witness summaries and UFO literature state that Brazel showed debris to Wilcox on Sunday, 6 July, before military personnel became involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://public-library.uk/ebooks/83/45.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public-library.uk">[public-library.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public-library.uk</span><span class="citation-popover-snippet">Roswell TestimonyOn July 6, 1947, Brazel showed pieces of the wreckage to Chaves County Sheriff George Wilcox. Wilcox called Roswell Army...</span><span class="citation-popover-meta">Published: July 6, 1947</span></span></span>
+Other accounts place the meeting on 6 July. Some later witness summaries and UFO literature state that Brazel showed debris to Wilcox on Sunday, 6 July, before military personnel became involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://public-library.uk/ebooks/83/45.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public-library.uk">[public-library.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public-library.uk</span><span class="citation-popover-snippet">Roswell TestimonyOn July 6, 1947, Brazel showed pieces of the wreckage to Chaves County Sheriff George Wilcox. Wilcox called Roswell Army...</span><span class="citation-popover-meta">Published: July 6, 1947</span></span></span>
 
 Several factors contribute to the disagreement:
 
@@ -355,213 +355,213 @@ Several factors contribute to the disagreement:
 * Contemporary documentation is incomplete.
 * Newspaper reports were written after the fact and often compressed timelines.
 * Later investigators relied heavily on recollections recorded decades after 1947.
-* Different writers counted the beginning of military involvement differently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+* Different writers counted the beginning of military involvement differently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 </div>
 
-Despite the uncertainty, the disagreement affects chronology more than substance. Whether Brazel first spoke to Wilcox on 6 July or 7 July, the essential sequence remains consistent across the strongest sources: Brazel reported the debris, Wilcox contacted Roswell Army Air Field, and military personnel then entered the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Despite the uncertainty, the disagreement affects chronology more than substance. Whether Brazel first spoke to Wilcox on 6 July or 7 July, the essential sequence remains consistent across the strongest sources: Brazel reported the debris, Wilcox contacted Roswell Army Air Field, and military personnel then entered the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_brazel_wilcox_visit_b33d69-Illustration-3-dark.svg" | relative_url }}" alt="Brazel Visit illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_brazel_wilcox_visit_b33d69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe_brazel_wilcox_visit_b33d69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Moment Matters in the Roswell Record
 
-The significance of Brazel’s visit is that it created the bridge between a remote ranch and official action. Before the visit, the debris was a local curiosity known mainly to Brazel and people around him. After the visit, it became a matter involving county government, military intelligence officers, and eventually national news coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2Ancestry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer On Ranch in Roswell Region31 Oct 2025 — RAAF Captures Flying Saucer On Ranch in Roswell Region in t...</span></span></span>
+The significance of Brazel’s visit is that it created the bridge between a remote ranch and official action. Before the visit, the debris was a local curiosity known mainly to Brazel and people around him. After the visit, it became a matter involving county government, military intelligence officers, and eventually national news coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer On Ranch in Roswell Region31 Oct 2025 — RAAF Captures Flying Saucer On Ranch in Roswell Region in t...</span></span></span>
 
-For historians, the event provides one of the clearest and least disputed links in the Roswell reporting chain. The debate over what the debris was continues, but the evidence strongly supports the conclusion that Sheriff George Wilcox served as the first official recipient of Brazel’s report and the key intermediary who moved the matter from local observation to military investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+For historians, the event provides one of the clearest and least disputed links in the Roswell reporting chain. The debate over what the debris was continues, but the evidence strongly supports the conclusion that Sheriff George Wilcox served as the first official recipient of Brazel’s report and the key intermediary who moved the matter from local observation to military investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[unt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Brazel Tell Sheriff Wilcox?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Brazel Tell Sheriff Wilcox?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Discusses Brazel&#x27;s interactions with local authorities and early reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses Brazel&#x27;s interactions with local authorities and early reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Focuses heavily on witness accounts surrounding the initial report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on witness accounts surrounding the initial report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines evidence quality and disputed details in the early timeline.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence quality and disputed details in the early timeline.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Covers the ranch discovery and reporting sequence involving Brazel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the ranch discovery and reporting sequence involving Brazel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO"><img src="{{ '/assets/images/marketplace-covers/0a7e7fe02fbec99d74bc.jpg' | relative_url }}" alt="Listing image for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO"><img src="{{ '/assets/images/marketplace-covers/0a7e7fe02fbec99d74bc.jpg' | relative_url }}" alt="Listing image for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell"><img src="{{ '/assets/images/marketplace-covers/95d5ad10d27987559da1.jpg' | relative_url }}" alt="Listing image for Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell"><img src="{{ '/assets/images/marketplace-covers/95d5ad10d27987559da1.jpg' | relative_url }}" alt="Listing image for Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZP01 Alien Area 51 Roswell Spaceman Little Green Men PIN BADGE flying saucers"><img src="{{ '/assets/images/marketplace-covers/2f5962a0a2464eec216c.jpg' | relative_url }}" alt="Listing image for ZP01 Alien Area 51 Roswell Spaceman Little Green Men PIN BADGE flying saucers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">ZP01 Alien Area 51 Roswell Spaceman Little Green Men PIN BADGE flying saucers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZP01 Alien Area 51 Roswell Spaceman Little Green Men PIN BADGE flying saucers"><img src="{{ '/assets/images/marketplace-covers/2f5962a0a2464eec216c.jpg' | relative_url }}" alt="Listing image for ZP01 Alien Area 51 Roswell Spaceman Little Green Men PIN BADGE flying saucers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">ZP01 Alien Area 51 Roswell Spaceman Little Green Men PIN BADGE flying saucers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality"><img src="{{ '/assets/images/marketplace-covers/fb66cd42a3176c6506ce.jpg' | relative_url }}" alt="Listing image for ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality"><img src="{{ '/assets/images/marketplace-covers/fb66cd42a3176c6506ce.jpg' | relative_url }}" alt="Listing image for ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="brazel-visit-what-did-brazel-tell-sheriff-wilcox-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ For historians, the event provides one of the clearest and least disputed links 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ For historians, the event provides one of the clearest and least disputed links 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ For historians, the event provides one of the clearest and least disputed links 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ For historians, the event provides one of the clearest and least disputed links 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ For historians, the event provides one of the clearest and least disputed links 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,141 +767,141 @@ For historians, the event provides one of the clearest and least disputed links 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Captures Flying Saucer On Ranch in Roswell Region31 Oct 2025 — RAAF Captures Flying Saucer On Ranch in Roswell Region in t...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Captures Flying Saucer On Ranch in Roswell Region31 Oct 2025 — RAAF Captures Flying Saucer On Ranch in Roswell Region in t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;This account from the. July 9, 1947 Roswell Daily. Record, described th...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;This account from the. July 9, 1947 Roswell Daily. Record, described th...</p></details>
    Published: July 9, 1947  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ancestry.com  
-   Link: <a href="https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell New Mexico UFO CrashPuzzled by the discovery, Wilcox contacted officials at the Roswell Army Air Field. On July 8, 19...</p></details>
+   Link:<a href="https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell New Mexico UFO CrashPuzzled by the discovery, Wilcox contacted officials at the Roswell Army Air Field. On July 8, 19...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: public-library.uk  
-   Link: <a href="https://public-library.uk/ebooks/83/45.pdf" target="_blank" rel="noopener noreferrer nofollow">https://public-library.uk/ebooks/83/45.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell TestimonyOn July 6, 1947, Brazel showed pieces of the wreckage to Chaves County Sheriff George Wilcox. Wilcox called Roswell Army...</p></details>
+   Link:<a href="https://public-library.uk/ebooks/83/45.pdf" target="_blank" rel="noopener noreferrer nofollow">https://public-library.uk/ebooks/83/45.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell TestimonyOn July 6, 1947, Brazel showed pieces of the wreckage to Chaves County Sheriff George Wilcox. Wilcox called Roswell Army...</p></details>
    Published: July 6, 1947  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Roswell (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident and UFO Sightings Documentary - PART 1 | Mysteries Decoded | The CW...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident and UFO Sightings Documentary - PART 1 | Mysteries Decoded | The CW...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Roswell Incident and UFO Sightings Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=HQRyaCBxPeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HQRyaCBxPeU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HQRyaCBxPeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HQRyaCBxPeU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
+   Link:<a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blogs.library.unt.edu  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</p></details>
    Published: July 7, 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 July 2017 — On July 7, he drove it all to Roswell, delivering the goods to Sheriff George Wilcox. Wilcox, too, was confounded. Seeking...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 July 2017 — On July 7, he drove it all to Roswell, delivering the goods to Sheriff George Wilcox. Wilcox, too, was confounded. Seeking...</p></details>
    Published: July 2017  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(“Mac”) Brazel, discovered some unusual debris near Roswell, New Mexico, in June. The...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(“Mac”) Brazel, discovered some unusual debris near Roswell, New Mexico, in June. The...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airandspace.si.edu  
    Title: reports ufos 1947 roswell incident  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roger Launius explores the 1947 Roswell Incident, an event that entangled the United States Army in UFO conspiracy theories that persist...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roger Launius explores the 1947 Roswell Incident, an event that entangled the United States Army in UFO conspiracy theories that persist...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: roswell-nm.gov  
-   Link: <a href="https://roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://roswell-nm.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteSeeRoswell app available. App features local things to do, shopping, dining, lodging, tours, events, trip p...</p></details>
+   Link:<a href="https://roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://roswell-nm.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteSeeRoswell app available. App features local things to do, shopping, dining, lodging, tours, events, trip p...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: commons.wikimedia.org  
    Title: File:Roswell [Daily Record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;)  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...Nov 5, 2023 — July 8, 1947. Article titled: &quot;RAAF Captures Flying Saucer On Ranch in Roswell Region&quot;. Flyi...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...Nov 5, 2023 — July 8, 1947. Article titled: &quot;RAAF Captures Flying Saucer On Ranch in Roswell Region&quot;. Flyi...</p></details>
    Published: July 8, 1947  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: seeroswell.com  
-   Link: <a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
+   Link:<a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: before area 51 there was americas first ufo conspiracy in july 1947 when a ranch  
-   Link: <a href="https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Area 51, there was America&#x27;s first UFO conspiracy...Before Area 51, there was America&#x27;s first UFO conspiracy in July 1947 when a...</p></details>
+   Link:<a href="https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before Area 51, there was America&#x27;s first UFO conspiracy...Before Area 51, there was America&#x27;s first UFO conspiracy in July 1947 when a...</p></details>
    Published: july 1947  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting Requirements, Office of Military Government...Jul 5, 2017 — “RAAF Captures Flying Saucer on Ranch in Roswell Region, Roswell D...</p></details>
+   Link:<a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting Requirements, Office of Military Government...Jul 5, 2017 — “RAAF Captures Flying Saucer on Ranch in Roswell Region, Roswell D...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/rw/p/rdr8jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/rdr8jul1947.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily REcord, July 8, 1947 - Patrick Gross12 Jul 2003 — Roswell Daily REcord, July 8, 1947: Reproduction of the original article: Scan...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/rw/p/rdr8jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/rdr8jul1947.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daily REcord, July 8, 1947 - Patrick Gross12 Jul 2003 — Roswell Daily REcord, July 8, 1947: Reproduction of the original article: Scan...</p></details>
    Published: July 8, 1947  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of [air force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) research regarding the21 July 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedl...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of [air force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) research regarding the21 July 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedl...</p></details>
    Published: July 1994  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYHKIpBxAtD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYHKIpBxAtD/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So the roswell event in 1947 was released #news #ufo...Unsure of what he found, Brazel reported the debris to local sheriff George Wilcox...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYHKIpBxAtD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYHKIpBxAtD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So the roswell event in 1947 was released #news #ufo...Unsure of what he found, Brazel reported the debris to local sheriff George Wilcox...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: georgehbalazs.com  
    Title: 1981 1996 Part 1 of 2 GHB Rosswell File  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2024/03/1981-1996-Part-1-of-2-GHB-Rosswell-File.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2024/03/1981-1996-Part-1-of-2-GHB-Rosswell-File.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 29, 1996The story went on to say that he delivered the debris to the local sheriff on July 7, who then notified Marcel. The intellig...</p></details>
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2024/03/1981-1996-Part-1-of-2-GHB-Rosswell-File.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2024/03/1981-1996-Part-1-of-2-GHB-Rosswell-File.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 29, 1996The story went on to say that he delivered the debris to the local sheriff on July 7, who then notified Marcel. The intellig...</p></details>

@@ -280,17 +280,17 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_de
 
 ## Introduction
 
-The strongest official explanation for the Roswell debris is not that it came from an ordinary weather balloon, but from Project Mogul, a highly classified 1947 programme that used long [balloon trains]({{ 'balloon-train/' | relative_url }}), radar targets and specialised equipment to detect distant Soviet nuclear tests. The Air Force’s 1994 Roswell report relied on Mogul because it explained why military personnel initially concealed the true origin of the debris while also accounting for many of the materials described by witnesses. Yet the Mogul explanation did not end the debate. A persistent “debris explanation gap” remained: some researchers accepted that Mogul solved the mystery, while others argued that the recovered materials and witness accounts did not fully match the equipment known to have been used. U.S. Department of War+2DAF History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media](&amp;#123;&amp;#123; &#x27;media/&#x27; &#124; relative_url &amp;#125;&amp;#125;). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
+The strongest official explanation for the Roswell debris is not that it came from an ordinary weather balloon, but from Project Mogul, a highly classified 1947 programme that used long [balloon trains]({{ 'balloon-train/' | relative_url }}), radar targets and specialised equipment to detect distant Soviet nuclear tests. The Air Force’s 1994 Roswell report relied on Mogul because it explained why military personnel initially concealed the true origin of the debris while also accounting for many of the materials described by witnesses. Yet the Mogul explanation did not end the debate. A persistent “debris explanation gap” remained: some researchers accepted that Mogul solved the mystery, while others argued that the recovered materials and witness accounts did not fully match the equipment known to have been used. U.S. Department of War+2DAF History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media]({{ &#x27;media/&#x27; | relative_url }}). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-1-dark.svg" | relative_url }}" alt="Mogul Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Mogul Was Not Just a Weather Balloon
 
-One reason the Air Force shifted from the weather-balloon story to Project Mogul is that Mogul equipment was far more complex than the public explanation offered in July 1947. The project involved chains of multiple balloons carrying radar reflectors, sensors, batteries, cords and other components. Some balloon trains stretched hundreds of feet in length and were designed to remain aloft at high altitude for long periods. Their purpose was intelligence gathering rather than weather observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+One reason the Air Force shifted from the weather-balloon story to Project Mogul is that Mogul equipment was far more complex than the public explanation offered in July 1947. The project involved chains of multiple balloons carrying radar reflectors, sensors, batteries, cords and other components. Some balloon trains stretched hundreds of feet in length and were designed to remain aloft at high altitude for long periods. Their purpose was intelligence gathering rather than weather observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
-This distinction mattered because the original Roswell explanation had always seemed inadequate to many observers. The Air Force acknowledged in the 1990s that a cover story had effectively existed, but argued that the secret being protected was Cold War surveillance technology, not extraterrestrial hardware. Project Mogul itself remained classified for decades, making it plausible that local officers would avoid publicly identifying the recovered equipment. U.S. Department of War+2National Association of Science Writers <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media](&amp;#123;&amp;#123; &#x27;media/&#x27; &#124; relative_url &amp;#125;&amp;#125;). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
+This distinction mattered because the original Roswell explanation had always seemed inadequate to many observers. The Air Force acknowledged in the 1990s that a cover story had effectively existed, but argued that the secret being protected was Cold War surveillance technology, not extraterrestrial hardware. Project Mogul itself remained classified for decades, making it plausible that local officers would avoid publicly identifying the recovered equipment. U.S. Department of War+2National Association of Science Writers<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media]({{ &#x27;media/&#x27; | relative_url }}). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
 
-The Air Force report specifically linked the Roswell debris to one of the early Mogul launches from New Mexico, often identified as the June 1947 balloon train known as Flight No. 4 or a similar unrecovered Mogul array. According to the report, the timing, launch area and known drift patterns placed such equipment in the general region where debris was later found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
+The Air Force report specifically linked the Roswell debris to one of the early Mogul launches from New Mexico, often identified as the June 1947 balloon train known as Flight No. 4 or a similar unrecovered Mogul array. According to the report, the timing, launch area and known drift patterns placed such equipment in the general region where debris was later found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AlFuucsLIVk" title="Were Alien Bodies Found At Roswell&#x27;s UFO Crash?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer">Were Alien Bodies Found At Roswell&#x27;s UFO Crash?</a></p><p class="youtube-embed-meta">Channel: The Rest Is Classified &middot; Views: 4.4K &middot; Uploaded: June 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AlFuucsLIVk">Open on YouTube</a></p></div></div></div>
@@ -304,11 +304,11 @@ Several commonly reported features fit known Mogul components:
 * **Foil-like metallic material:** Radar reflectors used in Mogul balloon trains employed reflective foil surfaces that could appear unusual when torn apart and scattered.
 * **Lightweight sticks or struts:** Radar targets were constructed using balsa wood frameworks that matched reports of thin wooden members found among the debris.
 * **Rubber fragments:** The balloon array itself used rubber and neoprene materials that would have remained after a crash or collapse.
-* **Decorated tape or markings:** Some witnesses later described strange symbols or “hieroglyphic” markings. Researchers associated with the Mogul explanation pointed to patterned tape used in reflector construction, including decorative designs from commercially available materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">which is consistent with the neoprene balloons used in NYU Flight 4. Much of the Roswell debris—...Read more...</span></span></span>
+* **Decorated tape or markings:** Some witnesses later described strange symbols or “hieroglyphic” markings. Researchers associated with the Mogul explanation pointed to patterned tape used in reflector construction, including decorative designs from commercially available materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">which is consistent with the neoprene balloons used in NYU Flight 4. Much of the Roswell debris—...Read more...</span></span></span>
 
-The surviving documentary record also contains references that align with a balloon-and-[radar-target]({{ 'radar-target/' | relative_url }}) recovery rather than an advanced craft. A July 1947 FBI teletype described an object resembling a high-altitude balloon with a radar reflector. The General Accounting Office later identified this message as one of the few surviving contemporary government records mentioning the Roswell recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports NSIAD-95-187</span><span class="citation-popover-snippet">Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+The surviving documentary record also contains references that align with a balloon-and-[radar-target]({{ 'radar-target/' | relative_url }}) recovery rather than an advanced craft. A July 1947 FBI teletype described an object resembling a high-altitude balloon with a radar reflector. The General Accounting Office later identified this message as one of the few surviving contemporary government records mentioning the Roswell recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports NSIAD</span><span class="citation-popover-snippet">Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
-For supporters of the Mogul explanation, these details are significant because they come from the period closest to the event. They argue that early descriptions of foil, sticks, rubber and reflector-like structures resemble dismantled balloon-train equipment far more closely than they resemble advanced aerospace technology. U.S. Department of War+2Muller Lab <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media](&amp;#123;&amp;#123; &#x27;media/&#x27; &#124; relative_url &amp;#125;&amp;#125;). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
+For supporters of the Mogul explanation, these details are significant because they come from the period closest to the event. They argue that early descriptions of foil, sticks, rubber and reflector-like structures resemble dismantled balloon-train equipment far more closely than they resemble advanced aerospace technology. U.S. Department of War+2Muller Lab<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media]({{ &#x27;media/&#x27; | relative_url }}). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-2-dark.svg" | relative_url }}" alt="Mogul Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -316,11 +316,11 @@ For supporters of the Mogul explanation, these details are significant because t
 
 The debate persisted because the Mogul explanation did not perfectly align with every later account.
 
-One recurring criticism concerns witness descriptions of extraordinary material properties. Some Roswell narratives that emerged decades after 1947 described debris that supposedly could not be cut, burned or permanently bent. Critics of the Air Force report argued that ordinary radar reflectors, balloon rubber and balsa wood could not easily account for such claims. Supporters of the Mogul explanation counter that these dramatic descriptions appeared long after the event and often differed from the earliest records. U.S. Department of War+2The Space Review <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media](&amp;#123;&amp;#123; &#x27;media/&#x27; &#124; relative_url &amp;#125;&amp;#125;). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
+One recurring criticism concerns witness descriptions of extraordinary material properties. Some Roswell narratives that emerged decades after 1947 described debris that supposedly could not be cut, burned or permanently bent. Critics of the Air Force report argued that ordinary radar reflectors, balloon rubber and balsa wood could not easily account for such claims. Supporters of the Mogul explanation counter that these dramatic descriptions appeared long after the event and often differed from the earliest records. U.S. Department of War+2The Space Review<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media]({{ &#x27;media/&#x27; | relative_url }}). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
 
-Another point of contention involves the specific launch identified by the Air Force. Some researchers questioned whether the proposed Mogul flight was actually launched as described or whether weather records and project logs fully supported the reconstruction. The Air Force nevertheless concluded that the debris was consistent with Mogul equipment even if uncertainty remained about the exact balloon train involved. U.S. Department of War+2Muller Lab <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media](&amp;#123;&amp;#123; &#x27;media/&#x27; &#124; relative_url &amp;#125;&amp;#125;). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
+Another point of contention involves the specific launch identified by the Air Force. Some researchers questioned whether the proposed Mogul flight was actually launched as described or whether weather records and project logs fully supported the reconstruction. The Air Force nevertheless concluded that the debris was consistent with Mogul equipment even if uncertainty remained about the exact balloon train involved. U.S. Department of War+2Muller Lab<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media]({{ &#x27;media/&#x27; | relative_url }}). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
 
-The condition and scale of the debris field also generated disagreement. Witnesses gave varying estimates of how much material was present and how widely it was scattered. Because Mogul arrays combined numerous balloons, lines and reflectors, supporters argued that a substantial debris trail was plausible. Critics maintained that some accounts implied a larger or more unusual wreckage pattern than a balloon train would normally create. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Science Friday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The condition and scale of the debris field also generated disagreement. Witnesses gave varying estimates of how much material was present and how widely it was scattered. Because Mogul arrays combined numerous balloons, lines and reflectors, supporters argued that a substantial debris trail was plausible. Critics maintained that some accounts implied a larger or more unusual wreckage pattern than a balloon train would normally create.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
@@ -330,9 +330,9 @@ The condition and scale of the debris field also generated disagreement. Witness
 
 ## The Core of the Debris Explanation Gap
 
-The real significance of Project Mogul is that it narrowed the Roswell mystery without eliminating every dispute. Before the 1990s, the official explanation depended on a simple weather balloon story that failed to explain why [secrecy]({{ 'secrecy/' | relative_url }}) surrounded the recovery. Mogul provided a documented classified programme, a credible reason for concealment and equipment that broadly matched many early descriptions of the debris. U.S. Department of War+2National Association of Science Writers <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media](&amp;#123;&amp;#123; &#x27;media/&#x27; &#124; relative_url &amp;#125;&amp;#125;). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
+The real significance of Project Mogul is that it narrowed the Roswell mystery without eliminating every dispute. Before the 1990s, the official explanation depended on a simple weather balloon story that failed to explain why [secrecy]({{ 'secrecy/' | relative_url }}) surrounded the recovery. Mogul provided a documented classified programme, a credible reason for concealment and equipment that broadly matched many early descriptions of the debris. U.S. Department of War+2National Association of Science Writers<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media]({{ &#x27;media/&#x27; | relative_url }}). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</span></span></span>
 
-The remaining gap lies in interpretation. Supporters of the Air Force findings view the match between Mogul hardware, radar reflectors, balloon materials and surviving records as sufficiently strong to explain the debris recovery. Critics focus on witness statements that appear more exotic than the known equipment and on uncertainties surrounding the reconstruction of specific Mogul flights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe Air Force research did not locate or develop any information that the...</span></span></span>
+The remaining gap lies in interpretation. Supporters of the Air Force findings view the match between Mogul hardware, radar reflectors, balloon materials and surviving records as sufficiently strong to explain the debris recovery. Critics focus on witness statements that appear more exotic than the known equipment and on uncertainties surrounding the reconstruction of specific Mogul flights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe Air Force research did not locate or develop any information that the...</span></span></span>
 
 As a result, Project Mogul remains the central official mechanism for explaining the Roswell debris. Whether it completely resolves every reported detail is the point on which the debate continues.
 
@@ -340,194 +340,194 @@ As a result, Project Mogul remains the central official mechanism for explaining
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-3-dark.svg" | relative_url }}" alt="Mogul Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_air_force_reports_d40f42_mogul_debris_gap_6a06c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Project Mogul Explain the Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Project Mogul Explain the Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines the debris evidence and Mogul explanation in depth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the debris evidence and Mogul explanation in depth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell in the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdA4vgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell in the 21st Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell in the 21st Century">Roswell in the 21st Century</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell in the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdA4vgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell in the 21st Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell in the 21st Century">Roswell in the 21st Century</a>
+</h4>
+<p class="fr-book-author">By Kevin D Randle</p>
         
-        <p class="fr-book-desc">Addresses continuing disputes about debris interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses continuing disputes about debris interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Presents arguments that challenge the Mogul conclusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents arguments that challenge the Mogul conclusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Stanton T. Friedman, Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Stanton T. Friedman, Don Berliner</p>
         
-        <p class="fr-book-desc">Analyzes debris reports and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes debris reports and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell in the 21st Century</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell in the 21st Century</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="https://i.ebayimg.com/images/g/wt4AAOSw2p9nr1Fc/s-l225.jpg" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="https://i.ebayimg.com/images/g/4qcAAeSwSoFqDh-N/s-l225.jpg" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art"><img src="https://i.ebayimg.com/images/g/h8QAAOSwe29jfmch/s-l225.jpg" alt="Listing image for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="mogul-gap-did-project-mogul-explain-the-debris-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vTwAAeSw-2ppy~rQ/s-l225.jpg" alt="Listing image for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-mogul-explain-the-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-project-mogul-explain-the-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ As a result, Project Mogul remains the central official mechanism for explaining
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ As a result, Project Mogul remains the central official mechanism for explaining
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ As a result, Project Mogul remains the central official mechanism for explaining
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ As a result, Project Mogul remains the central official mechanism for explaining
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ As a result, Project Mogul remains the central official mechanism for explaining
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,140 +733,140 @@ As a result, Project Mogul remains the central official mechanism for explaining
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe Air Force research did not locate or develop any information that the...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe Air Force research did not locate or develop any information that the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gutenberg.org  
    Title: 63659 h  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) launc...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) launc...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gao.justia.com  
    Title: GAO Reports NSIAD-95-187  
-   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</p></details>
+   Link:<a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</p></details>
    Published: July 1947  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thespacereview.com  
-   Link: <a href="https://www.thespacereview.com/article/5169/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/5169/1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All&#x27;s well that&#x27;s Roswell2 Mar 2026 — After the initial Air Force revelation about Project Mogul, in 1995 the Air Force published The Ros...</p></details>
+   Link:<a href="https://www.thespacereview.com/article/5169/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/5169/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All&#x27;s well that&#x27;s Roswell2 Mar 2026 — After the initial Air Force revelation about Project Mogul, in 1995 the Air Force published The Ros...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTComparison of all information developed or obtained indicated that the material recovered near Roswell w...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTComparison of all information developed or obtained indicated that the material recovered near Roswell w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>which is consistent with the [neoprene balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) used in NYU Flight 4. Much of the Roswell debris—...Read more...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>which is consistent with the [neoprene balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) used in NYU Flight 4. Much of the Roswell debris—...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The reinforcing tape used on the NYU targets had curious markings; UFO believers later described these...Read more...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The reinforcing tape used on the NYU targets had curious markings; UFO believers later described these...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but it was not being us...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but it was not being us...</p></details>
    Published: July 7, 1947  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencefriday.com  
    Title: Science Friday The Real Roswell Cover-Up?  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;) came across a trail of metal and...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;) came across a trail of metal and...</p></details>
    Published: June 1947  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: daviddarling.info  
-   Link: <a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
+   Link:<a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAt the time of the Roswell crash, project MOGUL was a highly classified U.S. effort to determine the state...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAt the time of the Roswell crash, project MOGUL was a highly classified U.S. effort to determine the state...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/160434858/The-Roswell-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/160434858/The-Roswell-Mystery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident: Project Mogul Explained | PDF | ScienceNew York University Flight #4 carried three of these reflectors and before being...</p></details>
+   Link:<a href="https://www.scribd.com/document/160434858/The-Roswell-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/160434858/The-Roswell-Mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident: Project Mogul Explained | PDF | ScienceNew York University Flight #4 carried three of these reflectors and before being...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — A published statement from the War Department in Washington claimed the debris collected on Brazel&#x27;s ranch was the remains o...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — A published statement from the War Department in Washington claimed the debris collected on Brazel&#x27;s ranch was the remains o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In 1947, Army regulations required that air accident report...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In 1947, Army regulations required that air accident report...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: syfy.com  
    Title: ufo showtime docuseries jj abrams roswell  
-   Link: <a href="https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Was Roswell the result of a secret balloon experiment?19 Aug 2021 — The Roswell incident was nothing more than Project Mogul, an int...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Was Roswell the result of a secret balloon experiment?19 Aug 2021 — The Roswell incident was nothing more than Project Mogul, an int...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: project mogul was a secret program conducted by the us air force and directed by  
-   Link: <a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spy balloon. Part of Project Mogul, it was an attempt to...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spy balloon. Part of Project Mogul, it was an attempt to...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: Aliens or Crash Test [Dummies](&#123;&#123; 'dummies/' | relative_url &#125;&#125;)!?  
-   Link: <a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Roswell Reports...In 1994 the air force admitted that the recovered material was in reality from a U.S. spy balloon. Part of Projec...</p></details>
+   Link:<a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Roswell Reports...In 1994 the air force admitted that the recovered material was in reality from a U.S. spy balloon. Part of Projec...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: newmexicomagazine.org  
    Title: roswell crash explained  
-   Link: <a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — The project, which involved flying microphones in high-altitude balloons, was used to determine w...</p></details>
+   Link:<a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — The project, which involved flying microphones in high-altitude balloons, was used to determine w...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ciphermysteries.com  
    Title: when project mogul met project helios  
-   Link: <a href="https://ciphermysteries.com/2022/09/16/when-project-mogul-met-project-helios" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2022/09/16/when-project-mogul-met-project-helios</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1” (Appendix 13 in the Roswell Report) mentions that Project Mogul moved from serial balloon linkage (which...</p></details>
+   Link:<a href="https://ciphermysteries.com/2022/09/16/when-project-mogul-met-project-helios" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2022/09/16/when-project-mogul-met-project-helios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1” (Appendix 13 in the Roswell Report) mentions that Project Mogul moved from serial balloon linkage (which...</p></details>

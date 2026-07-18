@@ -280,7 +280,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_compa
 
 ## Introduction
 
-One of the strongest arguments behind the [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation for the Roswell incident is not simply that the debris came from a secret programme, but that the programme was organised so that many participants did not know its full purpose. In a strict “need-to-know” system, people can give accurate [testimony]({{ 'testimony/' | relative_url }}) about what they saw while still misunderstanding what they were looking at. That possibility helps explain why Roswell witnesses often appeared sincere even when their accounts differed sharply. Rather than requiring a single deception or a single perfect memory, the Mogul interpretation suggests that different individuals encountered different pieces of a classified operation and later tried to reconstruct a larger story from incomplete information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
+One of the strongest arguments behind the [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation for the Roswell incident is not simply that the debris came from a secret programme, but that the programme was organised so that many participants did not know its full purpose. In a strict “need-to-know” system, people can give accurate [testimony]({{ 'testimony/' | relative_url }}) about what they saw while still misunderstanding what they were looking at. That possibility helps explain why Roswell witnesses often appeared sincere even when their accounts differed sharply. Rather than requiring a single deception or a single perfect memory, the Mogul interpretation suggests that different individuals encountered different pieces of a classified operation and later tried to reconstruct a larger story from incomplete information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_compartmentalized_se_4068d8-Illustration-1-dark.svg" | relative_url }}" alt="Need to Know illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_compartmentalized_se_4068d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_compartmentalized_se_4068d8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,7 +291,7 @@ This perspective does not settle every dispute about Roswell. However, it addres
 
 ## Who Knew Mogul's Real Purpose?
 
-Project Mogul was created during the early Cold War to explore whether high-altitude balloon systems could detect distant Soviet nuclear tests. The programme involved researchers, military personnel, balloon technicians, weather specialists, radar-target operators and support staff. Yet the Air Force's later investigations found that knowledge of the project's true intelligence mission was restricted. Some personnel worked on components of the programme while being told only that they were involved in balloon or atmospheric research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Project MOGUL was a then-sensitive, classified project, whose...</span></span></span>
+Project Mogul was created during the early Cold War to explore whether high-altitude balloon systems could detect distant Soviet nuclear tests. The programme involved researchers, military personnel, balloon technicians, weather specialists, radar-target operators and support staff. Yet the Air Force's later investigations found that knowledge of the project's true intelligence mission was restricted. Some personnel worked on components of the programme while being told only that they were involved in balloon or atmospheric research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Project MOGUL was a then-sensitive, classified project, whose...</span></span></span>
 
 This distinction matters because Roswell testimony came from people occupying very different positions:
 
@@ -306,9 +306,9 @@ This distinction matters because Roswell testimony came from people occupying ve
 
 </div>
 
-A witness could therefore be entirely truthful when describing unusual foil, sticks, rubber, tape or radar-reflector material while still having no idea why those items existed. Likewise, a military officer might recognise balloon hardware but not know the strategic mission behind it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+A witness could therefore be entirely truthful when describing unusual foil, sticks, rubber, tape or radar-reflector material while still having no idea why those items existed. Likewise, a military officer might recognise balloon hardware but not know the strategic mission behind it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The Air Force's Roswell investigations repeatedly characterised Mogul as a highly classified programme whose purpose was hidden because it related to monitoring Soviet nuclear activity. That level of secrecy created layers of understanding rather than a single shared picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Project MOGUL was a then-sensitive, classified project, whose...</span></span></span>
+The Air Force's Roswell investigations repeatedly characterised Mogul as a highly classified programme whose purpose was hidden because it related to monitoring Soviet nuclear activity. That level of secrecy created layers of understanding rather than a single shared picture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Project MOGUL was a then-sensitive, classified project, whose...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
@@ -317,9 +317,9 @@ The Air Force's Roswell investigations repeatedly characterised Mogul as a highl
 
 A common assumption in Roswell debates is that conflicting testimony proves somebody was lying. The compartmentalisation model offers a different possibility: people may have been describing different stages of the same event.
 
-Consider the chain of events. A rancher discovered debris. Local military personnel inspected it. Material was transported through several commands. Public statements were issued and then revised. At each stage, participants had access to different information. Someone who only saw scattered debris could reach a different conclusion from someone who later saw reports, photographs or military briefings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army Air Field (RAAF) public information...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+Consider the chain of events. A rancher discovered debris. Local military personnel inspected it. Material was transported through several commands. Public statements were issued and then revised. At each stage, participants had access to different information. Someone who only saw scattered debris could reach a different conclusion from someone who later saw reports, photographs or military briefings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army Air Field (RAAF) public information...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-The confusion was intensified by the official public explanation. Later Air Force reviews concluded that the familiar "weather balloon" account functioned as a cover story that concealed the classified nature of Mogul. Even individuals who knew the debris was not an ordinary weather balloon might still have lacked access to the real explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Science Friday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The confusion was intensified by the official public explanation. Later Air Force reviews concluded that the familiar "weather balloon" account functioned as a cover story that concealed the classified nature of Mogul. Even individuals who knew the debris was not an ordinary weather balloon might still have lacked access to the real explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 This produced several categories of testimony:
 
@@ -341,11 +341,11 @@ Under a compartmentalised system, these accounts do not necessarily describe dif
 
 The Roswell controversy expanded dramatically decades after 1947. By then, witnesses were often recalling events from memory rather than consulting contemporary [records]({{ 'records/' | relative_url }}). This created another layer of complexity.
 
-Memory research has shown that recollections can be influenced by later information, repeated storytelling and attempts to reconstruct incomplete experiences. People may accurately remember specific details while becoming less certain about context, dates or interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232471510_Internal_and_external_sources_of_misinformation_in_adult_witness_memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Internal and external sources of misinformation in adult</span><span class="citation-popover-snippet">Internal and external sources of misinformation in adult...January 1, 2007 — We review internal and external influences that...</span><span class="citation-popover-meta">Published: January 1, 2007</span></span></span>
+Memory research has shown that recollections can be influenced by later information, repeated storytelling and attempts to reconstruct incomplete experiences. People may accurately remember specific details while becoming less certain about context, dates or interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232471510_Internal_and_external_sources_of_misinformation_in_adult_witness_memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Internal and external sources of misinformation in adult</span><span class="citation-popover-snippet">Internal and external sources of misinformation in adult...January 1, 2007 — We review internal and external influences that...</span><span class="citation-popover-meta">Published: January 1, 2007</span></span></span>
 
-For Roswell witnesses, the original experience was already fragmented by secrecy. Many participants knew only a small part of the story in 1947. When later investigators asked them to explain the entire incident, they were often reconstructing events beyond their original knowledge. A person who remembered unusual debris might later connect it to stories about crashed spacecraft. Another who recalled military secrecy might interpret that secrecy as evidence of something extraordinary rather than evidence of a classified intelligence programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 Jul 2017 — Although much of the documentation about Project Mogul has now been declassified, Launius says that civilian access to infor...</span></span></span>
+For Roswell witnesses, the original experience was already fragmented by secrecy. Many participants knew only a small part of the story in 1947. When later investigators asked them to explain the entire incident, they were often reconstructing events beyond their original knowledge. A person who remembered unusual debris might later connect it to stories about crashed spacecraft. Another who recalled military secrecy might interpret that secrecy as evidence of something extraordinary rather than evidence of a classified intelligence programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 Jul 2017 — Although much of the documentation about Project Mogul has now been declassified, Launius says that civilian access to infor...</span></span></span>
 
-The Air Force's later reviews argued that many contradictions arose because separate events, separate memories and separate military activities became merged into a single Roswell narrative over time. Whether one accepts every aspect of that explanation or not, it highlights an important historical problem: witnesses were remembering not only what they saw, but also what they later learned, heard or assumed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+The Air Force's later reviews argued that many contradictions arose because separate events, separate memories and separate military activities became merged into a single Roswell narrative over time. Whether one accepts every aspect of that explanation or not, it highlights an important historical problem: witnesses were remembering not only what they saw, but also what they later learned, heard or assumed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HQRyaCBxPeU" title="The Roswell Incident and UFO Sightings Documentary - PART 1 | Mysteries Decoded | The CW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HQRyaCBxPeU" target="_blank" rel="noopener noreferrer">The Roswell Incident and UFO Sightings Documentary - PART 1 | Mysteries Decoded | The CW</a></p><p class="youtube-embed-meta">Channel: The CW Network &middot; Views: 98.2K &middot; Uploaded: September 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HQRyaCBxPeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HQRyaCBxPeU">Open on YouTube</a></p></div></div></div>
@@ -354,202 +354,202 @@ The Air Force's later reviews argued that many contradictions arose because sepa
 
 The value of the compartmentalisation argument is that it avoids a false choice between complete government honesty and mass witness fabrication. Under the Project Mogul interpretation, both secrecy and sincerity can coexist.
 
-People may have honestly reported unusual materials. Military personnel may have honestly repeated incomplete explanations. Officials may have concealed the programme's true purpose without inventing every detail surrounding the recovery. In that environment, disagreement becomes an expected outcome rather than evidence that every account must be wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
+People may have honestly reported unusual materials. Military personnel may have honestly repeated incomplete explanations. Officials may have concealed the programme's true purpose without inventing every detail surrounding the recovery. In that environment, disagreement becomes an expected outcome rather than evidence that every account must be wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
 
-For supporters of the Mogul explanation, this is one of the strongest reasons the Roswell testimony appears so fragmented. The witnesses were not necessarily observing the same thing from the same vantage point. They were observing different pieces of a classified operation designed specifically so that most participants would not know the whole story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
+For supporters of the Mogul explanation, this is one of the strongest reasons the Roswell testimony appears so fragmented. The witnesses were not necessarily observing the same thing from the same vantage point. They were observing different pieces of a classified operation designed specifically so that most participants would not know the whole story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_compartmentalized_se_4068d8-Illustration-3-dark.svg" | relative_url }}" alt="Need to Know illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_compartmentalized_se_4068d8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_compartmentalized_se_4068d8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Secrecy Made Honest Witnesses Disagree. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Secrecy Made Honest Witnesses Disagree. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines evidence surrounding Roswell and engages directly with explanations involving secrecy, misinterpretation, and classified programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence surrounding Roswell and engages directly with explanations involving secrecy, misinterpretation, and classified programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for readers evaluating extraordinary claims, secrecy narratives, and evidence standards surrounding Roswell and Project Mogul.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Useful for readers evaluating extraordinary claims, secrecy narratives, and evidence standards surrounding Roswell and Project Mogul.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Foundational account that shaped later debate about Roswell, witness testimony, secrecy, and conflicting recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational account that shaped later debate about Roswell, witness testimony, secrecy, and conflicting recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Focuses heavily on witness accounts and differing interpretations, making it relevant to discussions of honest but conflicting testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on witness accounts and differing interpretations, making it relevant to discussions of honest but conflicting testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir"><img src="{{ '/assets/images/marketplace-covers/fe53f32627aa3a3a0f21.jpg' | relative_url }}" alt="Listing image for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir"><img src="{{ '/assets/images/marketplace-covers/fe53f32627aa3a3a0f21.jpg' | relative_url }}" alt="Listing image for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin"><img src="{{ '/assets/images/marketplace-covers/1b6499acdd19a9e9a4c3.jpg' | relative_url }}" alt="Listing image for NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin"><img src="{{ '/assets/images/marketplace-covers/1b6499acdd19a9e9a4c3.jpg' | relative_url }}" alt="Listing image for NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible"><img src="{{ '/assets/images/marketplace-covers/2e5350de14f0cddd4919.jpg' | relative_url }}" alt="Listing image for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible"><img src="{{ '/assets/images/marketplace-covers/2e5350de14f0cddd4919.jpg' | relative_url }}" alt="Listing image for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist"><img src="{{ '/assets/images/marketplace-covers/dc95e94cc92f8066d056.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist"><img src="{{ '/assets/images/marketplace-covers/dc95e94cc92f8066d056.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="need-to-know-f0d020-how-secrecy-made-honest-witnesses-disagree-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ For supporters of the Mogul explanation, this is one of the strongest reasons th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ For supporters of the Mogul explanation, this is one of the strongest reasons th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ For supporters of the Mogul explanation, this is one of the strongest reasons th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ For supporters of the Mogul explanation, this is one of the strongest reasons th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ For supporters of the Mogul explanation, this is one of the strongest reasons th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,132 +755,132 @@ For supporters of the Mogul explanation, this is one of the strongest reasons th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Project MOGUL was a then-sensitive, classified project, whose...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Project MOGUL was a then-sensitive, classified project, whose...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army Air Field (RAAF) public information...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army Air Field (RAAF) public information...</p></details>
    Published: July 8, 1947  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Internal and external sources of misinformation in adult  
-   Link: <a href="https://www.researchgate.net/publication/232471510_Internal_and_external_sources_of_misinformation_in_adult_witness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232471510_Internal_and_external_sources_of_misinformation_in_adult_witness_memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal and external sources of misinformation in adult...January 1, 2007 — We review internal and external influences that...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232471510_Internal_and_external_sources_of_misinformation_in_adult_witness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232471510_Internal_and_external_sources_of_misinformation_in_adult_witness_memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internal and external sources of misinformation in adult...January 1, 2007 — We review internal and external influences that...</p></details>
    Published: January 1, 2007  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: esd.whs.mil  
    Title: Roswell Report [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Roswell report22 May 2017 — The &quot;Roswell Incident&quot; has assumed a central place in American folklore since the events of the 19...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Roswell report22 May 2017 — The &quot;Roswell Incident&quot; has assumed a central place in American folklore since the events of the 19...</p></details>
    Published: May 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulThe Roswell Report compiled by the United States Air Force attributed the 1947 Roswell debris to a Project Mogul balloon...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulThe Roswell Report compiled by the United States Air Force attributed the 1947 Roswell debris to a Project Mogul balloon...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencefriday.com  
    Title: Science Friday The Real Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;)?  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Although much of the documentation about Project Mogul has now been declassified, Launius says that civilian access to infor...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Although much of the documentation about Project Mogul has now been declassified, Launius says that civilian access to infor...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Air Forces high-altitude balloon that was part of the top-secret Project Mogul, designed to detect Soviet...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army Air Forces high-altitude balloon that was part of the top-secret Project Mogul, designed to detect Soviet...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uapledger.com  
    Title: Roswell Incident  
-   Link: <a href="https://www.uapledger.com/cases/roswell-incident-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.uapledger.com/cases/roswell-incident-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Ledger31 May 2026 — In 1947, a rancher near Roswell, New Mexico found debris that the military initially called a flying saucer, then...</p></details>
+   Link:<a href="https://www.uapledger.com/cases/roswell-incident-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.uapledger.com/cases/roswell-incident-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Ledger31 May 2026 — In 1947, a rancher near Roswell, New Mexico found debris that the military initially called a flying saucer, then...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOooWygOqv0BwKIKbhihW7BrQkpKVnAXBzZ_e3rNXHEqZcbdffjO0" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOooWygOqv0BwKIKbhihW7BrQkpKVnAXBzZ_e3rNXHEqZcbdffjO0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Witnesses SpeakExplore the human side of Roswell: witness accounts, secrets, and why their stories defy official explanations eve...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOooWygOqv0BwKIKbhihW7BrQkpKVnAXBzZ_e3rNXHEqZcbdffjO0" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOooWygOqv0BwKIKbhihW7BrQkpKVnAXBzZ_e3rNXHEqZcbdffjO0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Witnesses SpeakExplore the human side of Roswell: witness accounts, secrets, and why their stories defy official explanations eve...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings can be explained by classified...8 Mar 2024 — Government investigations have found no evidence of alien technology, the Pe...</p></details>
+   Link:<a href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings can be explained by classified...8 Mar 2024 — Government investigations have found no evidence of alien technology, the Pe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ia601607.us.archive.org  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact versus Fiction in the New Mexico...Project MOGUL resulted from two important post-World War II priorities set by the...</p></details>
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact versus Fiction in the New Mexico...Project MOGUL resulted from two important post-World War II priorities set by the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: georgehbalazs.com  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2019/08/1994-1996-ROSWELL-UFO-LITERATURE-AND-LETTERS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/08/1994-1996-ROSWELL-UFO-LITERATURE-AND-LETTERS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Recollections of Roswell--Part II&quot; - Summary of Witness...More than a dozen named, first-hand witnesses handled the debris recovered on...</p></details>
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2019/08/1994-1996-ROSWELL-UFO-LITERATURE-AND-LETTERS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/08/1994-1996-ROSWELL-UFO-LITERATURE-AND-LETTERS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Recollections of Roswell--Part II&quot; - Summary of Witness...More than a dozen named, first-hand witnesses handled the debris recovered on...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-[dummies" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-[dummies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tory had been bogus. According to the 1994 explanation,the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-[dummies" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-[dummies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tory had been bogus. According to the 1994 explanation,the...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hat the craft really was for has just been declassified.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hat the craft really was for has just been declassified.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Revisited: Witnesses, Secrecy, and the Event That...Most of the original witnesses to the Roswell incident of 1947 are no longer...</p></details>
+   Link:<a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Revisited: Witnesses, Secrecy, and the Event That...Most of the original witnesses to the Roswell incident of 1947 are no longer...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) in the late 1940s to develop balloon-borne...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) in the late 1940s to develop balloon-borne...Read more...</p></details>

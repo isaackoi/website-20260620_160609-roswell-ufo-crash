@@ -280,13 +280,13 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_enhance
 
 ## Introduction
 
-The debate over the [Ramey]({{ 'ramey/' | relative_url }}) Memo often assumes that better image processing should produce a clearer answer. In practice, the opposite can happen. Because the memo survives only as a tiny, blurred portion of a larger 1947 photograph, every attempt to enlarge, sharpen, or increase contrast involves interpretation as well as recovery. Researchers studying the memo have repeatedly noted that enhanced images can reveal potentially useful structure, but they can also create the illusion of certainty by making ambiguous marks resemble readable letters and words. The result is a document that can appear more legible than the underlying evidence actually supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
+The debate over the [Ramey]({{ 'ramey/' | relative_url }}) Memo often assumes that better image processing should produce a clearer answer. In practice, the opposite can happen. Because the memo survives only as a tiny, blurred portion of a larger 1947 photograph, every attempt to enlarge, sharpen, or increase contrast involves interpretation as well as recovery. Researchers studying the memo have repeatedly noted that enhanced images can reveal potentially useful structure, but they can also create the illusion of certainty by making ambiguous marks resemble readable letters and words. The result is a document that can appear more legible than the underlying evidence actually supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_enhancement_risk_250f19-Illustration-1-dark.svg" | relative_url }}" alt="Enhancement Risk illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_enhancement_risk_250f19-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_enhancement_risk_250f19-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Enlargement and Sharpening Can Reveal
 
-Image enhancement is not inherently misleading. Techniques such as high-resolution scanning, contrast adjustment, and high dynamic range (HDR) imaging can recover tonal differences that are difficult to see in ordinary reproductions. The University of Texas at Arlington's work on the Ramey Memo used modern imaging methods specifically to extract as much information as possible from the original photographic materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
+Image enhancement is not inherently misleading. Techniques such as high-resolution scanning, contrast adjustment, and high dynamic range (HDR) imaging can recover tonal differences that are difficult to see in ordinary reproductions. The University of Texas at Arlington's work on the Ramey Memo used modern imaging methods specifically to extract as much information as possible from the original photographic materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
 
 When applied carefully, enhancement can help investigators:
 
@@ -296,11 +296,11 @@ When applied carefully, enhancement can help investigators:
 * Distinguish lines of text from paper texture.
 * Improve separation between dark and light regions.
 * Reveal letter-like shapes that are nearly invisible in lower-quality copies.
-* Compare different scans of the same photographic source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
+* Compare different scans of the same photographic source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
 
 </div>
 
-These gains are real. The problem is that the memo sits close to the limits of what the photograph can resolve. Once researchers begin enlarging a very small area, they are working with extremely limited visual information. At that point, enhancement no longer simply reveals data; it also amplifies noise, grain, blur, and imperfections present in the original image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Zealand UFO researcher interested in the Ramey Memo, approached a number of experts in photographic enhance- ment to ask for advice. It...</span></span></span>
+These gains are real. The problem is that the memo sits close to the limits of what the photograph can resolve. Once researchers begin enlarging a very small area, they are working with extremely limited visual information. At that point, enhancement no longer simply reveals data; it also amplifies noise, grain, blur, and imperfections present in the original image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Zealand UFO researcher interested in the Ramey Memo, approached a number of experts in photographic enhance- ment to ask for advice. It...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MLs_LeE483Q" title="XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MLs_LeE483Q" target="_blank" rel="noopener noreferrer">XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo</a></p><p class="youtube-embed-meta">Channel: The &#x27;X&#x27; Zone Broadcast Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MLs_LeE483Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MLs_LeE483Q">Open on YouTube</a></p></div></div></div>
@@ -309,11 +309,11 @@ These gains are real. The problem is that the memo sits close to the limits of w
 
 The central risk is that image-processing software is designed to increase apparent detail. Sharpening algorithms accentuate edges. Contrast adjustments exaggerate tonal differences. Interpolation methods used during enlargement create new pixels between existing ones. These processes can make random patterns look structured.
 
-A faint blotch may begin to resemble a capital letter. A crease or grain pattern may appear to complete a word. Slight differences in processing settings can transform the same patch of grey tones into different apparent readings. What looks like a clear character in one enhancement may disappear or become a different character in another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</span></span></span>
+A faint blotch may begin to resemble a capital letter. A crease or grain pattern may appear to complete a word. Slight differences in processing settings can transform the same patch of grey tones into different apparent readings. What looks like a clear character in one enhancement may disappear or become a different character in another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</span></span></span>
 
 This is particularly important for the Ramey Memo because proposed transcriptions often depend on a handful of uncertain characters. If one or two ambiguous shapes are interpreted differently, an entire phrase can change meaning. The issue is not usually outright fabrication; it is that enhancement can encourage viewers to treat a probabilistic interpretation as a direct observation.
 
-Researchers who examined the controversy have described the memo as an example of ambiguous visual stimuli. In such situations, observers frequently perceive meaningful patterns even when the available information is incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</span></span></span>
+Researchers who examined the controversy have described the memo as an example of ambiguous visual stimuli. In such situations, observers frequently perceive meaningful patterns even when the available information is incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_enhancement_risk_250f19-Illustration-2-dark.svg" | relative_url }}" alt="Enhancement Risk illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_enhancement_risk_250f19-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_memo_dispute_f05213_enhancement_risk_250f19-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,11 +321,11 @@ Researchers who examined the controversy have described the memo as an example o
 
 The danger is amplified by human perception. Once a suggested reading is provided, many people begin to see that reading in the image.
 
-For example, when advocates of a Roswell-crash interpretation propose phrases such as "victims of the wreck" or references to a "disc," viewers often examine the enhanced image with those expectations already in mind. The brain naturally searches for matching shapes and fills in missing information. Sceptics, meanwhile, may focus on different fragments that appear to support more conventional explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesDeciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced...</span></span></span>
+For example, when advocates of a Roswell-crash interpretation propose phrases such as "victims of the wreck" or references to a "disc," viewers often examine the enhanced image with those expectations already in mind. The brain naturally searches for matching shapes and fills in missing information. Sceptics, meanwhile, may focus on different fragments that appear to support more conventional explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesDeciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced...</span></span></span>
 
 This phenomenon is similar to seeing faces in clouds or familiar shapes in random patterns, except that the memo's blurred text provides enough structure to make competing interpretations seem plausible. The effect becomes stronger when enhancements increase local contrast and create sharper-looking edges. What is actually uncertain can feel obvious.
 
-The 2002 study often cited in discussions of the memo specifically investigated whether expectation and interpretive bias could influence attempts to decipher the document. Its significance lies less in any particular reading than in demonstrating how readily ambiguous text can generate confident but conflicting conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</span></span></span>
+The 2002 study often cited in discussions of the memo specifically investigated whether expectation and interpretive bias could influence attempts to decipher the document. Its significance lies less in any particular reading than in demonstrating how readily ambiguous text can generate confident but conflicting conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bp106jUEyis" title="Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer">Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research</a></p><p class="youtube-embed-meta">Channel: The &#x27;X&#x27; Zone Broadcast Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bp106jUEyis">Open on YouTube</a></p></div></div></div>
@@ -334,9 +334,9 @@ The 2002 study often cited in discussions of the memo specifically investigated 
 
 A common assumption is that each new generation of scans should resolve the debate. The history of the memo suggests otherwise.
 
-Over the years, researchers have produced higher-resolution scans, microfiche reproductions, HDR images, and additional enhancement passes. Yet no universally accepted transcription has emerged. Different investigators continue to report different readings from the same underlying photograph. Even reviews sympathetic to further technical analysis acknowledge that the document remains difficult to decipher with certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
+Over the years, researchers have produced higher-resolution scans, microfiche reproductions, HDR images, and additional enhancement passes. Yet no universally accepted transcription has emerged. Different investigators continue to report different readings from the same underlying photograph. Even reviews sympathetic to further technical analysis acknowledge that the document remains difficult to decipher with certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
 
-The reason is straightforward: better processing cannot create information that was never captured clearly in the original photograph. Enhancement can improve access to existing detail, but once the source image falls below a certain level of resolution, the missing information cannot be recovered with confidence. Any apparent improvement eventually becomes a mixture of recovered signal and interpretive reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
+The reason is straightforward: better processing cannot create information that was never captured clearly in the original photograph. Enhancement can improve access to existing detail, but once the source image falls below a certain level of resolution, the missing information cannot be recovered with confidence. Any apparent improvement eventually becomes a mixture of recovered signal and interpretive reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
 
 This is why stronger scans can narrow possibilities without eliminating ambiguity. They may make some proposed readings less plausible and others more plausible, but they do not automatically convert a blurred document into an unambiguous one.
 
@@ -346,201 +346,201 @@ This is why stronger scans can narrow possibilities without eliminating ambiguit
 
 The most important lesson from the [Ramey Memo dispute]({{ 'ramey-memo/' | relative_url }}) is that clarity and reliability are not the same thing. An enhanced image can look dramatically sharper than the original while still resting on uncertain underlying information.
 
-For readers evaluating claims about the memo, the crucial question is not whether a processed image appears readable. The question is whether the proposed words remain stable across different scans, enhancement methods, and independent analysts. When a reading depends heavily on a particular processing choice, confidence should remain limited. The memo's enduring controversy illustrates that image enhancement is most valuable as a tool for exploring possibilities, not as a guarantee that disputed text has finally been decoded. Journal of Scientific Exploration+3UTA Libraries+3UTA Libraries <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesDeciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced...</span></span></span>
+For readers evaluating claims about the memo, the crucial question is not whether a processed image appears readable. The question is whether the proposed words remain stable across different scans, enhancement methods, and independent analysts. When a reading depends heavily on a particular processing choice, confidence should remain limited. The memo's enduring controversy illustrates that image enhancement is most valuable as a tool for exploring possibilities, not as a guarantee that disputed text has finally been decoded. Journal of Scientific Exploration+3UTA Libraries+3UTA Libraries<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesDeciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bGXwcHXicBY" title="Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer">Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery</a></p><p class="youtube-embed-meta">Channel: The Future Past</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bGXwcHXicBY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Enhancement Makes the Memo Too Clear. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Enhancement Makes the Memo Too Clear. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Useful for understanding ambiguity in evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding ambiguity in evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Represents the interpretation enhancement advocates often support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the interpretation enhancement advocates often support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell in the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdA4vgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell in the 21st Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell in the 21st Century">Roswell in the 21st Century</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell in the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdA4vgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell in the 21st Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell in the 21st Century">Roswell in the 21st Century</a>
+</h4>
+<p class="fr-book-author">By Kevin D Randle</p>
         
-        <p class="fr-book-desc">Discusses the Ramey memo and evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the Ramey memo and evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places evidence disputes within UFO research history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places evidence disputes within UFO research history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell in the 21st Century</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell in the 21st Century</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P"><img src="{{ '/assets/images/marketplace-covers/e6d3a6ed324d34756816.jpg' | relative_url }}" alt="Listing image for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P"><img src="{{ '/assets/images/marketplace-covers/e6d3a6ed324d34756816.jpg' | relative_url }}" alt="Listing image for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC"><img src="{{ '/assets/images/marketplace-covers/596a26a8e3477c349659.jpg' | relative_url }}" alt="Listing image for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC"><img src="{{ '/assets/images/marketplace-covers/596a26a8e3477c349659.jpg' | relative_url }}" alt="Listing image for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs"><img src="{{ '/assets/images/marketplace-covers/7e7e9ed635c7a6a132fc.jpg' | relative_url }}" alt="Listing image for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs"><img src="{{ '/assets/images/marketplace-covers/7e7e9ed635c7a6a132fc.jpg' | relative_url }}" alt="Listing image for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/342a781a77638df97461.jpg' | relative_url }}" alt="Listing image for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/342a781a77638df97461.jpg' | relative_url }}" alt="Listing image for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="enhancement-risk-when-enhancement-makes-the-memo-too-clear-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ For readers evaluating claims about the memo, the crucial question is not whethe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ For readers evaluating claims about the memo, the crucial question is not whethe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ For readers evaluating claims about the memo, the crucial question is not whethe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ For readers evaluating claims about the memo, the crucial question is not whethe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ For readers evaluating claims about the memo, the crucial question is not whethe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,108 +746,108 @@ For readers evaluating claims about the memo, the crucial question is not whethe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Zealand UFO researcher interested in the Ramey Memo, approached a number of experts in photographic enhance- ment to ask for advice. It...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zealand UFO researcher interested in the Ramey Memo, approached a number of experts in photographic enhance- ment to ask for advice. It...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: The deciphered letter held in the hands of Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides smoking gun proof of a disk crash, and the recovery of the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides smoking gun proof of a disk crash, and the recovery of the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We have a fuzzy photo of a. physical document that is nearly 80 years old and significantly...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We have a fuzzy photo of a. physical document that is nearly 80 years old and significantly...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentCloseup of Brigadier General Roger Ramey holding the document that has been described...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentCloseup of Brigadier General Roger Ramey holding the document that has been described...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bottle,” i.e., there are filters that limit analysis and consensual...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bottle,” i.e., there are filters that limit analysis and consensual...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2635</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photographed document known as the Ram...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photographed document known as the Ram...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/605412803/Jse" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/605412803/Jse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Exploration: Journal of | PDF | ScienceCloseup of Brigadier General Roger Ramey mendations for future research...</p></details>
+   Link:<a href="https://www.scribd.com/document/605412803/Jse" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/605412803/Jse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Exploration: Journal of | PDF | ScienceCloseup of Brigadier General Roger Ramey mendations for future research...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
    Title: 2004 I 11 An Observation on the Ramey Memo ed Barry Greenwood pdf  
-   Link: <a href="https://www.scribd.com/document/314034746/2004-I-11-An-Observation-on-the-Ramey-Memo-ed-Barry-Greenwood-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/314034746/2004-I-11-An-Observation-on-the-Ramey-Memo-ed-Barry-Greenwood-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the Ramey Memo | PDF | Travel | Young Adult8 Jul 2025 — This document summarizes an observation made about a photo taken in 1...</p></details>
+   Link:<a href="https://www.scribd.com/document/314034746/2004-I-11-An-Observation-on-the-Ramey-Memo-ed-Barry-Greenwood-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/314034746/2004-I-11-An-Observation-on-the-Ramey-Memo-ed-Barry-Greenwood-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the Ramey Memo | PDF | Travel | Young Adult8 Jul 2025 — This document summarizes an observation made about a photo taken in 1...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: XZBN UFO Files  
-   Link: <a href="http://www.youtube.com/watch?v=MLs_LeE483Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MLs_LeE483Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey memo image enhancement photo analysis roswell ALIEN CAUGHT ENTERING A BEDROOM?! | The Proof Is Out There | #Shorts | History HISTORY...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=MLs_LeE483Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MLs_LeE483Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey memo image enhancement photo analysis roswell ALIEN CAUGHT ENTERING A BEDROOM?! | The Proof Is Out There | #Shorts | History HISTORY...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: webspace.science.uu.nl  
    Title: Artefacts and Errors: Acknowledging Issues  
-   Link: <a href="https://webspace.science.uu.nl/~gent0113/downloads/hs2/Aratus/Pugnali%20%282018%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webspace.science.uu.nl/~gent0113/downloads/hs2/Aratus/Pugnali%20%282018%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nlMateriality, Virtuality, and Accessibility of Medieval...by F Pugnali · 2018 — This thesis will investigate how digitization affect...</p></details>
+   Link:<a href="https://webspace.science.uu.nl/~gent0113/downloads/hs2/Aratus/Pugnali%20%282018%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webspace.science.uu.nl/~gent0113/downloads/hs2/Aratus/Pugnali%20%282018%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nlMateriality, Virtuality, and Accessibility of Medieval...by F Pugnali · 2018 — This thesis will investigate how digitization affect...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CQO44KJH40N/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CQO44KJH40N/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>forensic document analysis and photographic enhancement has...</p></details>
+   Link:<a href="https://www.instagram.com/reel/CQO44KJH40N/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CQO44KJH40N/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>forensic document analysis and photographic enhancement has...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: selling-guide.fanniemae.com  
    Title: du credit report analysis  
-   Link: <a href="https://selling-guide.fanniemae.com/sel/b3-5.3-09/du-credit-report-analysis" target="_blank" rel="noopener noreferrer nofollow">https://selling-guide.fanniemae.com/sel/b3-5.3-09/du-credit-report-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fanniemae.comB3-5.3-09, DU Credit Report AnalysisThis topic describes how DU analyzes credit report data and requirements lenders must fo...</p></details>
+   Link:<a href="https://selling-guide.fanniemae.com/sel/b3-5.3-09/du-credit-report-analysis" target="_blank" rel="noopener noreferrer nofollow">https://selling-guide.fanniemae.com/sel/b3-5.3-09/du-credit-report-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fanniemae.comB3-5.3-09, DU Credit Report AnalysisThis topic describes how DU analyzes credit report data and requirements lenders must fo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Kevin Randle Interviews  
-   Link: <a href="http://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bp106jUEyis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bp106jUEyis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery  
-   Link: <a href="http://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGXwcHXicBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGXwcHXicBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: 06-18-24 EXCLUSIVE: David Jones, Decoding the Roswell | Ramey MEMO  
-   Link: <a href="http://www.youtube.com/watch?v=bcf-z7pgUE0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bcf-z7pgUE0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bcf-z7pgUE0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bcf-z7pgUE0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery...</p></details>

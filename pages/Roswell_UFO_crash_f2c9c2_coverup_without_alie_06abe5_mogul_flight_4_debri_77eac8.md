@@ -274,17 +274,17 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul
 
 ## Introduction
 
-Among all the attempts to explain the Roswell [debris]({{ 'debris/' | relative_url }}) without invoking extraterrestrial craft, one candidate gradually emerged as more important than the rest: [Project Mogul]({{ 'project-mogul/' | relative_url }}) Flight 4. The significance of Flight 4 is not that it proves every claim made about Roswell was mistaken. Rather, it provides a specific, documented event that could plausibly account for the unusual material recovered on the Foster ranch. The Mogul explanation became much stronger when investigators stopped talking about “some balloon” and began asking whether a particular launch, on a particular date, could have produced the debris field reported in 1947. The answer led repeatedly to Flight 4, making it the leading debris candidate in official investigations and much of the sceptical literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally re...</span></span></span>
+Among all the attempts to explain the Roswell [debris]({{ 'debris/' | relative_url }}) without invoking extraterrestrial craft, one candidate gradually emerged as more important than the rest: [Project Mogul]({{ 'project-mogul/' | relative_url }}) Flight 4. The significance of Flight 4 is not that it proves every claim made about Roswell was mistaken. Rather, it provides a specific, documented event that could plausibly account for the unusual material recovered on the Foster ranch. The Mogul explanation became much stronger when investigators stopped talking about “some balloon” and began asking whether a particular launch, on a particular date, could have produced the debris field reported in 1947. The answer led repeatedly to Flight 4, making it the leading debris candidate in official investigations and much of the sceptical literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally re...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_flight_4_debri_77eac8-Illustration-1-dark.svg" | relative_url }}" alt="Flight 4 illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_flight_4_debri_77eac8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_flight_4_debri_77eac8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Alamogordo Launch Trail
 
-Project [Mogul]({{ 'mogul/' | relative_url }}) was an experimental programme operated from Alamogordo Army Air Field in New Mexico. Its purpose was to test high-altitude balloon systems that could potentially detect distant Soviet nuclear explosions through atmospheric acoustic monitoring. Because the programme was classified, its equipment combined ordinary-looking balloon components with specialised payload arrangements and radar reflectors. Muller Lab+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+Project [Mogul]({{ 'mogul/' | relative_url }}) was an experimental programme operated from Alamogordo Army Air Field in New Mexico. Its purpose was to test high-altitude balloon systems that could potentially detect distant Soviet nuclear explosions through atmospheric acoustic monitoring. Because the programme was classified, its equipment combined ordinary-looking balloon components with specialised payload arrangements and radar reflectors. Muller Lab+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-Flight 4 attracted attention because records indicated that a [Mogul balloon train]({{ 'balloon-train/' | relative_url }}) was launched from Alamogordo on 4 June 1947 and tracked toward the general region northeast of the launch site, in the direction of the Corona area associated with the later debris discovery. Researchers examining surviving project documents concluded that this flight was one of the best candidates for a balloon train that was not successfully recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4</span><span class="citation-popover-snippet">The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
+Flight 4 attracted attention because records indicated that a [Mogul balloon train]({{ 'balloon-train/' | relative_url }}) was launched from Alamogordo on 4 June 1947 and tracked toward the general region northeast of the launch site, in the direction of the Corona area associated with the later debris discovery. Researchers examining surviving project documents concluded that this flight was one of the best candidates for a balloon train that was not successfully recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4</span><span class="citation-popover-snippet">The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
 
-The Air Force's 1994 Roswell investigation placed considerable weight on this launch. Rather than proposing a vague possibility, investigators argued that the available records pointed to one specific Mogul train whose trajectory and recovery status made it a plausible source of the material found by rancher W. W. Brazel. The report ultimately described the Roswell debris as most likely originating from an unrecovered Mogul balloon train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally re...</span></span></span>
+The Air Force's 1994 Roswell investigation placed considerable weight on this launch. Rather than proposing a vague possibility, investigators argued that the available records pointed to one specific Mogul train whose trajectory and recovery status made it a plausible source of the material found by rancher W. W. Brazel. The report ultimately described the Roswell debris as most likely originating from an unrecovered Mogul balloon train.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/foJWblpzEjA" title="Ask an Expert: The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer">Ask an Expert: The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 300.9K &middot; Uploaded: April 2011 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=foJWblpzEjA">Open on YouTube</a></p></div></div></div>
@@ -293,13 +293,13 @@ The Air Force's 1994 Roswell investigation placed considerable weight on this la
 
 Flight 4 became the leading candidate because several independent elements appeared to line up better than competing explanations.
 
-First, Mogul balloon trains were far more complex than ordinary weather balloons. They consisted of multiple balloons, suspension lines, instrumentation and radar targets made from lightweight materials. Witness descriptions of scattered sticks, foil-like material and unusual-looking reflector components are often cited as broadly consistent with such equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+First, Mogul balloon trains were far more complex than ordinary weather balloons. They consisted of multiple balloons, suspension lines, instrumentation and radar targets made from lightweight materials. Witness descriptions of scattered sticks, foil-like material and unusual-looking reflector components are often cited as broadly consistent with such equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-Second, the timing works reasonably well. The debris was reportedly discovered weeks after the launch rather than immediately after a crash. A balloon train descending into remote ranchland could have remained unnoticed until Brazel encountered it. The gap between launch and discovery is therefore not automatically inconsistent with the Mogul scenario. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4</span><span class="citation-popover-snippet">The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
+Second, the timing works reasonably well. The debris was reportedly discovered weeks after the launch rather than immediately after a crash. A balloon train descending into remote ranchland could have remained unnoticed until Brazel encountered it. The gap between launch and discovery is therefore not automatically inconsistent with the Mogul scenario.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4</span><span class="citation-popover-snippet">The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
 
-Third, Flight 4 helps explain the apparent contradiction between the military's initial confusion and its later insistence on a balloon explanation. Personnel encountering unfamiliar debris from a compartmented project might not immediately recognise its origin. At the same time, higher headquarters would have had strong reasons to conceal the true purpose of Mogul and substitute a simpler public explanation involving weather-balloon equipment. This interpretation fits the broader pattern of a genuine [secrecy]({{ 'secrecy/' | relative_url }}) problem without requiring alien technology. Muller Lab+2National Association of Science Writers <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+Third, Flight 4 helps explain the apparent contradiction between the military's initial confusion and its later insistence on a balloon explanation. Personnel encountering unfamiliar debris from a compartmented project might not immediately recognise its origin. At the same time, higher headquarters would have had strong reasons to conceal the true purpose of Mogul and substitute a simpler public explanation involving weather-balloon equipment. This interpretation fits the broader pattern of a genuine [secrecy]({{ 'secrecy/' | relative_url }}) problem without requiring alien technology. Muller Lab+2National Association of Science Writers<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-Perhaps most importantly, Flight 4 offered investigators a concrete chain of evidence. Instead of arguing from general possibility, they could point to a launch date, launch location, projected flight path and an unrecovered balloon train. That specificity made the hypothesis more persuasive than earlier suggestions that the debris merely resembled balloon material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally re...</span></span></span>
+Perhaps most importantly, Flight 4 offered investigators a concrete chain of evidence. Instead of arguing from general possibility, they could point to a launch date, launch location, projected flight path and an unrecovered balloon train. That specificity made the hypothesis more persuasive than earlier suggestions that the debris merely resembled balloon material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xVUC7XK9s1w" title="Episode 442: The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xVUC7XK9s1w" target="_blank" rel="noopener noreferrer">Episode 442: The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: 13 O&#x27;Clock Podcast &middot; Views: 941 &middot; Uploaded: February 2025 &middot; Length: 3 hours 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xVUC7XK9s1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xVUC7XK9s1w">Open on YouTube</a></p></div></div></div>
@@ -310,172 +310,188 @@ Perhaps most importantly, Flight 4 offered investigators a concrete chain of evi
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_flight_4_debri_77eac8-Illustration-2-dark.svg" | relative_url }}" alt="Flight 4 illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_flight_4_debri_77eac8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_coverup_without_alie_06abe5_mogul_flight_4_debri_77eac8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Match Cannot Prove
 
-Despite its prominence, Flight 4 is not a complete solution to every Roswell question. Critics have long noted that surviving Mogul documentation is incomplete and that some records have been interpreted differently by different researchers. One recurring dispute concerns notes from project scientist Albert Crary that have been read by some authors as indicating that Flight 4 was cancelled or did not fly in the form later described. Supporters of the Mogul explanation argue that the overall documentary record still supports a launch and that the dispute reflects record-keeping ambiguities rather than evidence of something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Grounded Theory Update on the Roswell UFO IncidentProject Mogul does not provide the ultimate answer. Dr. Crary&#x27;s eld notes...</span></span></span>
+Despite its prominence, Flight 4 is not a complete solution to every Roswell question. Critics have long noted that surviving Mogul documentation is incomplete and that some records have been interpreted differently by different researchers. One recurring dispute concerns notes from project scientist Albert Crary that have been read by some authors as indicating that Flight 4 was cancelled or did not fly in the form later described. Supporters of the Mogul explanation argue that the overall documentary record still supports a launch and that the dispute reflects record-keeping ambiguities rather than evidence of something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Grounded Theory Update on the Roswell UFO IncidentProject Mogul does not provide the ultimate answer. Dr. Crary&#x27;s eld notes...</span></span></span>
 
-Even if Flight 4 was the source of the debris, it cannot independently explain every later Roswell story. Accounts involving alien bodies, advanced materials or elaborate recovery operations emerged largely decades after the event and require separate evaluation. Identifying a likely source for the debris field does not automatically settle questions about how memories changed, how rumours spread or why the Roswell narrative expanded over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+Even if Flight 4 was the source of the debris, it cannot independently explain every later Roswell story. Accounts involving alien bodies, advanced materials or elaborate recovery operations emerged largely decades after the event and require separate evaluation. Identifying a likely source for the debris field does not automatically settle questions about how memories changed, how rumours spread or why the Roswell narrative expanded over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-For that reason, Flight 4 occupies a specific place in the non-alien interpretation of Roswell. Its importance lies in providing a plausible, documented origin for the recovered material. It strengthens the argument that a classified Cold War project stood behind the debris discovery, while leaving broader debates about later testimony and mythology to be assessed on their own evidence. FAS Project on Government Secrecy+2archives.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">project MOGUL was a highly</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe Air Force report concluded that the most likely source of the wre...</span></span></span>
+For that reason, Flight 4 occupies a specific place in the non-alien interpretation of Roswell. Its importance lies in providing a plausible, documented origin for the recovered material. It strengthens the argument that a classified Cold War project stood behind the debris discovery, while leaving broader debates about later testimony and mythology to be assessed on their own evidence. FAS Project on Government Secrecy+2archives.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">project MOGUL was a highly</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe Air Force report concluded that the most likely source of the wre...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Flight 4 Became the Key Suspect. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Flight 4 Became the Key Suspect. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Directly examines Roswell evidence and the Project Mogul explanation, including debris-related debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines Roswell evidence and the Project Mogul explanation, including debris-related debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Explores how Roswell narratives developed and evaluates explanations including Mogul-related interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how Roswell narratives developed and evaluates explanations including Mogul-related interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Essential background for understanding why later Mogul explanations were proposed and debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Essential background for understanding why later Mogul explanations were proposed and debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="https://i.ebayimg.com/images/g/p1gAAOSwlndnXwAd/s-l225.jpg" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ao8AAeSw0HJp1S2n/s-l225.jpg" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="flight-4-1e445f-why-flight-4-became-the-key-suspect-roswell-ufo-crash-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster"><img src="https://i.ebayimg.com/images/g/T1AAAeSwtiBptWKN/s-l225.jpg" alt="Listing image for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster, Many Sizes; Roswell UFO crash debris"><img src="https://i.ebayimg.com/images/g/wlkAAOSw3NRkl0vL/s-l225.jpg" alt="Listing image for Poster, Many Sizes; Roswell UFO crash debris" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Poster, Many Sizes; Roswell UFO crash debris</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flight-4-became-the-key-suspect-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-flight-4-became-the-key-suspect-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -491,7 +507,7 @@ For that reason, Flight 4 occupies a specific place in the non-alien interpretat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -511,7 +527,7 @@ For that reason, Flight 4 occupies a specific place in the non-alien interpretat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -543,7 +559,7 @@ For that reason, Flight 4 occupies a specific place in the non-alien interpretat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -595,7 +611,7 @@ For that reason, Flight 4 occupies a specific place in the non-alien interpretat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -640,7 +656,7 @@ For that reason, Flight 4 occupies a specific place in the non-alien interpretat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -681,166 +697,166 @@ For that reason, Flight 4 occupies a specific place in the non-alien interpretat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally re...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally re...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
    Title: project MOGUL was a highly  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe Air Force report concluded that the most likely source of the wre...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe Air Force report concluded that the most likely source of the wre...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Charles B. Moore  
-   Link: <a href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_B._Moore</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_B._Moore</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: The Roswell Incident ([1980 book](&#123;&#123; '1980-book/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulRelative height of a Project Mogul balloon train... 1947 Roswell debris to a Project Mogul balloon. In 1947, a Project M...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulRelative height of a Project Mogul balloon train... 1947 Roswell debris to a Project Mogul balloon. In 1947, a Project M...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentProject Mogul does not provide the ultimate answer. Dr. Crary&#x27;s eld notes...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentProject Mogul does not provide the ultimate answer. Dr. Crary&#x27;s eld notes...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
    Published: June 24, 1997  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe Air Force research did not locate or develop any information that the &quot;Roswell Incident&quot; was a UFO event n...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe Air Force research did not locate or develop any information that the &quot;Roswell Incident&quot; was a UFO event n...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</p></details>
    Published: June 4, 1947  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTEven though Air Force research originally started in January, 1994, the first official Air Force-wide tasking was directed...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTEven though Air Force research originally started in January, 1994, the first official Air Force-wide tasking was directed...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wsmrmuseum.com  
-   Link: <a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryProject Mogul Balloons promptly contacted the Roswell Army Air Field and got Maj. Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) involved. (From now on...</p></details>
+   Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryProject Mogul Balloons promptly contacted the Roswell Army Air Field and got Maj. Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) involved. (From now on...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
+   Link:<a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — A high-altitude balloon crash landed in Roswell. The aliens never left. Despite its persistence in popular culture, extrate...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — A high-altitude balloon crash landed in Roswell. The aliens never left. Despite its persistence in popular culture, extrate...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: in july 1947 strange debris was discovered on a ranch near roswell after reports  
-   Link: <a href="https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force released reports attributing the debris to the secret Project Mogul, a classified balloon program designed to...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force released reports attributing the debris to the secret Project Mogul, a classified balloon program designed to...Read more...</p></details>
    Published: july 1947  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Students complete projects for a personal tutor, working at home at their own...Read more...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Students complete projects for a personal tutor, working at home at their own...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In 1947, Army regulations required that air accident report...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In 1947, Army regulations required that air accident report...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gutenberg.org  
    Title: The Roswell Report: Case Closed, by James Mc Andrew—  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul flights in June 1947, covered a wide spectrum of scientific research. One important experiment in space biology measured th...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul flights in June 1947, covered a wide spectrum of scientific research. One important experiment in space biology measured th...</p></details>
    Published: June 1947  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</p></details>
    Published: June 4, 1947  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: merriam-webster.com  
    Title: PROJEC T Definition & Meaning6 days ago — 1  
-   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast forward: thrust 3. to put or set...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast forward: thrust 3. to put or set...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 the air force admitted that the recover...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 the air force admitted that the recover...</p></details>
    Published: May 2026  

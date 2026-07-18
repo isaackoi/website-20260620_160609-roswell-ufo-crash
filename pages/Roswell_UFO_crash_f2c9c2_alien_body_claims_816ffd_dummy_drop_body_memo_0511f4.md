@@ -280,11 +280,11 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_dr
 
 ## Introduction
 
-One of the most controversial parts of the U.S. Air Force’s explanation for Roswell [body stories]({{ 'body-stories/' | relative_url }}) was not about the 1947 debris at all. In its 1997 report *The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})*, the Air Force argued that many later accounts of small humanoid bodies were the result of memories becoming blended across different events that occurred years after 1947. According to this explanation, witnesses may have combined recollections of anthropomorphic test dummies, high-altitude balloon recoveries, aircraft accidents, and other military activities into a single narrative later associated with Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
+One of the most controversial parts of the U.S. Air Force’s explanation for Roswell [body stories]({{ 'body-stories/' | relative_url }}) was not about the 1947 debris at all. In its 1997 report *The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})*, the Air Force argued that many later accounts of small humanoid bodies were the result of memories becoming blended across different events that occurred years after 1947. According to this explanation, witnesses may have combined recollections of anthropomorphic test dummies, high-altitude balloon recoveries, aircraft accidents, and other military activities into a single narrative later associated with Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-1-dark.svg" | relative_url }}" alt="Dummy Drops illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The significance of this argument is that it attempts to explain why body stories became prominent decades after the original incident even though contemporary 1947 records contain no documented reports of recovered extraterrestrial bodies. Rather than alleging widespread fabrication, the [Air Force]({{ 'air-force/' | relative_url }}) proposed a mechanism of memory distortion and time compression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
+The significance of this argument is that it attempts to explain why body stories became prominent decades after the original incident even though contemporary 1947 records contain no documented reports of recovered extraterrestrial bodies. Rather than alleging widespread fabrication, the [Air Force]({{ 'air-force/' | relative_url }}) proposed a mechanism of memory distortion and time compression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
@@ -293,238 +293,238 @@ The significance of this argument is that it attempts to explain why body storie
 
 ### Anthropomorphic test dummies and balloon recoveries
 
-The centrepiece of the Air Force explanation was a series of high-altitude research programmes conducted in New Mexico during the 1950s. These projects, including operations such as High Dive and related tests, used life-sized anthropomorphic dummies designed to study the effects of high-altitude ejection and parachute systems. The dummies were carried aloft by balloons and later recovered by military teams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
+The centrepiece of the Air Force explanation was a series of high-altitude research programmes conducted in New Mexico during the 1950s. These projects, including operations such as High Dive and related tests, used life-sized anthropomorphic dummies designed to study the effects of high-altitude ejection and parachute systems. The dummies were carried aloft by balloons and later recovered by military teams.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
 
-Air Force investigators noted that many features reported in later Roswell body accounts resembled these dummies. Witness descriptions sometimes referred to small, hairless figures with unusual facial features, synthetic-looking skin, and flight clothing. The report argued that such characteristics matched the appearance of the test devices more closely than they matched claims of biological extraterrestrials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
+Air Force investigators noted that many features reported in later Roswell body accounts resembled these dummies. Witness descriptions sometimes referred to small, hairless figures with unusual facial features, synthetic-looking skin, and flight clothing. The report argued that such characteristics matched the appearance of the test devices more closely than they matched claims of biological extraterrestrials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
 
-Officials also pointed to recovery procedures. Dummies were frequently transported on stretchers, placed in protective bags, or shipped in crate-like containers. Witnesses who later recalled seeing “body bags”, “coffins”, or military recovery operations may have been remembering genuine recovery missions involving these tests rather than a single 1947 event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Officials also pointed to recovery procedures. Dummies were frequently transported on stretchers, placed in protective bags, or shipped in crate-like containers. Witnesses who later recalled seeing “body bags”, “coffins”, or military recovery operations may have been remembering genuine recovery missions involving these tests rather than a single 1947 event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The Air Force further observed that some dummies were damaged by impact, weather exposure, or long periods in the desert before recovery. Missing fingers, distorted limbs, or deteriorated surfaces could have made them appear strange to casual observers. Investigators specifically noted that reports of beings with fewer than five fingers were consistent with damaged test dummies found during retrieval operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+The Air Force further observed that some dummies were damaged by impact, weather exposure, or long periods in the desert before recovery. Missing fingers, distorted limbs, or deteriorated surfaces could have made them appear strange to casual observers. Investigators specifically noted that reports of beings with fewer than five fingers were consistent with damaged test dummies found during retrieval operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AlFuucsLIVk" title="Were Alien Bodies Found At Roswell&#x27;s UFO Crash?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer">Were Alien Bodies Found At Roswell&#x27;s UFO Crash?</a></p><p class="youtube-embed-meta">Channel: The Rest Is Classified &middot; Views: 4.4K &middot; Uploaded: June 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AlFuucsLIVk">Open on YouTube</a></p></div></div></div>
 
 ## Why officials also cited aircraft and manned balloon mishaps
 
-The dummy explanation was only part of the Air Force’s argument. The report also examined military accidents that produced genuine casualties in the Southwest during the 1950s and later years. Officials suggested that some accounts of burned, injured, or deceased [bodies]({{ 'bodies/' | relative_url }}) may have originated from real aviation incidents rather than from a supposed extraterrestrial crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+The dummy explanation was only part of the Air Force’s argument. The report also examined military accidents that produced genuine casualties in the Southwest during the 1950s and later years. Officials suggested that some accounts of burned, injured, or deceased [bodies]({{ 'bodies/' | relative_url }}) may have originated from real aviation incidents rather than from a supposed extraterrestrial crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-According to the report, witnesses sometimes described scenes involving medical personnel, emergency vehicles, security cordons, and body recovery procedures. These elements were common in aircraft accidents and experimental flight programmes. Over time, separate memories of such events could have become attached to the increasingly famous Roswell story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+According to the report, witnesses sometimes described scenes involving medical personnel, emergency vehicles, security cordons, and body recovery procedures. These elements were common in aircraft accidents and experimental flight programmes. Over time, separate memories of such events could have become attached to the increasingly famous Roswell story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-The Air Force did not claim that every witness saw the same event. Instead, investigators argued that different people may have remembered different incidents—dummy recoveries, balloon operations, aviation accidents, or routine military activities—and later connected them to Roswell when recounting events decades afterward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
+The Air Force did not claim that every witness saw the same event. Instead, investigators argued that different people may have remembered different incidents—dummy recoveries, balloon operations, aviation accidents, or routine military activities—and later connected them to Roswell when recounting events decades afterward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-2-dark.svg" | relative_url }}" alt="Dummy Drops illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The memory-compression explanation
 
-The most distinctive aspect of the Air Force position was its reliance on memory rather than deception. Investigators concluded that many witnesses were probably describing real experiences, but that those experiences had been compressed and reorganised in memory over long periods of time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
+The most distinctive aspect of the Air Force position was its reliance on memory rather than deception. Investigators concluded that many witnesses were probably describing real experiences, but that those experiences had been compressed and reorganised in memory over long periods of time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
 
-The report argued that events occurring over many years were retrospectively merged into a single dramatic episode. In this model, a person who saw unusual military debris, later observed a dummy recovery, heard stories about aircraft accidents, and then encountered growing Roswell publicity might eventually remember those experiences as parts of one coherent event in 1947. The Air Force described this process as a consolidation of separate occurrences into a simplified narrative. U.S. Department of War+2Project Gutenberg <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
+The report argued that events occurring over many years were retrospectively merged into a single dramatic episode. In this model, a person who saw unusual military debris, later observed a dummy recovery, heard stories about aircraft accidents, and then encountered growing Roswell publicity might eventually remember those experiences as parts of one coherent event in 1947. The Air Force described this process as a consolidation of separate occurrences into a simplified narrative. U.S. Department of War+2Project Gutenberg<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
 
-Supporters of the Air Force explanation note that many body stories emerged decades after the incident and often differed on basic details such as the number of bodies, their appearance, and the location of recovery. They argue that such inconsistencies are consistent with reconstructed memories rather than observations of a single event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Supporters of the Air Force explanation note that many body stories emerged decades after the incident and often differed on basic details such as the number of bodies, their appearance, and the location of recovery. They argue that such inconsistencies are consistent with reconstructed memories rather than observations of a single event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-Critics, however, have challenged the theory by pointing out that the dummy drops occurred in the 1950s rather than in 1947. They argue that this chronology creates difficulties for explaining every body-related account through dummy recoveries alone. As a result, the Air Force explanation remains one of the most debated elements of the official Roswell reviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aliens or dummies</span><span class="citation-popover-snippet">Aliens or Dummies23 Jun 1997 — According to “The Roswell Report, Case Closed,” life-sized latex and aluminum test dummies were used i...</span></span></span>
+Critics, however, have challenged the theory by pointing out that the dummy drops occurred in the 1950s rather than in 1947. They argue that this chronology creates difficulties for explaining every body-related account through dummy recoveries alone. As a result, the Air Force explanation remains one of the most debated elements of the official Roswell reviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aliens or dummies</span><span class="citation-popover-snippet">Aliens or Dummies23 Jun 1997 — According to “The Roswell Report, Case Closed,” life-sized latex and aluminum test dummies were used i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tCr9ft4yWaI" title="Official Reports on the Roswell UFO Incident | USAF Documentary | 1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer">Official Reports on the Roswell UFO Incident | USAF Documentary | 1997</a></p><p class="youtube-embed-meta">Channel: The Best Film Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tCr9ft4yWaI">Open on YouTube</a></p></div></div></div>
 
 ## What the dummy-drop theory was meant to explain
 
-The Air Force did not present the dummy-drop hypothesis as an explanation for the original debris recovery. Its purpose was narrower: to account for the later emergence of stories involving alien bodies, military ambulances, autopsies, body bags, and small humanoid figures. In the official interpretation, those narratives were products of [memory compression]({{ 'memory-merge/' | relative_url }}) involving genuine military activities that occurred years after the Roswell debris incident itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+The Air Force did not present the dummy-drop hypothesis as an explanation for the original debris recovery. Its purpose was narrower: to account for the later emergence of stories involving alien bodies, military ambulances, autopsies, body bags, and small humanoid figures. In the official interpretation, those narratives were products of [memory compression]({{ 'memory-merge/' | relative_url }}) involving genuine military activities that occurred years after the Roswell debris incident itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-Whether one accepts that conclusion or not, the dummy-drop explanation became the Air Force’s principal answer to a longstanding question: if no extraterrestrial bodies were recovered in 1947, why did so many later witnesses remember seeing them? The official response was that the memories may have been real, but the date, context, and meaning attached to them had shifted over time. U.S. Department of War+2Encyclopedia Britannica <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
+Whether one accepts that conclusion or not, the dummy-drop explanation became the Air Force’s principal answer to a longstanding question: if no extraterrestrial bodies were recovered in 1947, why did so many later witnesses remember seeing them? The official response was that the memories may have been real, but the date, context, and meaning attached to them had shifted over time. U.S. Department of War+2Encyclopedia Britannica<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-3-dark.svg" | relative_url }}" alt="Dummy Drops illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_dummy_drop_body_memo_0511f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were later accidents remembered as aliens?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were later accidents remembered as aliens?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Places Roswell within the broader development of UFO mythology and competing explanations for reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Roswell within the broader development of UFO mythology and competing explanations for reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly examines how the Roswell story evolved, including witness testimony, memory formation, folklore, and later body narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how the Roswell story evolved, including witness testimony, memory formation, folklore, and later body narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains memory distortion, self-justification, and retrospective belief formation, themes central to the Air Force memory-compression ex...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains memory distortion, self-justification, and retrospective belief formation, themes central to the Air Force memory-compression ex...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating extraordinary claims, memory errors, and popular paranormal narratives such as UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating extraordinary claims, memory errors, and popular paranormal narratives such as UFO stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW"><img src="{{ '/assets/images/marketplace-covers/ec4353094c9cf1052c62.jpg' | relative_url }}" alt="Listing image for Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW"><img src="{{ '/assets/images/marketplace-covers/ec4353094c9cf1052c62.jpg' | relative_url }}" alt="Listing image for Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/15ea60a70867040ea0d4.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/15ea60a70867040ea0d4.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien figure" data-ebay-reference="dummy-drops-were-later-accidents-remembered-as-aliens-roswell-ufo-crash-roswell-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ Whether one accepts that conclusion or not, the dummy-drop explanation became th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ Whether one accepts that conclusion or not, the dummy-drop explanation became th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ Whether one accepts that conclusion or not, the dummy-drop explanation became th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ Whether one accepts that conclusion or not, the dummy-drop explanation became th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ Whether one accepts that conclusion or not, the dummy-drop explanation became th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,138 +730,138 @@ Whether one accepts that conclusion or not, the dummy-drop explanation became th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;• &quot;Aliens&quot; observed in the New Mexico desert were probably anthropomorp...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — The report proposed that the witnesses “consoli...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — The report proposed that the witnesses “consoli...</p></details>
    Published: May 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
    Title: aliens or dummies  
-   Link: <a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens or Dummies23 Jun 1997 — According to “The Roswell Report, Case Closed,” life-sized latex and aluminum test dummies were used i...</p></details>
+   Link:<a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens or Dummies23 Jun 1997 — According to “The Roswell Report, Case Closed,” life-sized latex and aluminum test dummies were used i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...“Aliens” observed in the New Mexico desert were probably anthropo...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...“Aliens” observed in the New Mexico desert were probably anthropo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: people.com  
    Title: "Unsolved Mysteries": The True Story of the Roswell UFO Incident  
-   Link: <a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
+   Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/63659/pg63659-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/63659/pg63659-images.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>oft by U.S. Air Force high altitude balloons for...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/63659/pg63659-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/63659/pg63659-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oft by U.S. Air Force high altitude balloons for...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — In some cases, the “alien” bodies were in reality anthropo...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — In some cases, the “alien” bodies were in reality anthropo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/Roswell/Response%20To%20Case%20Close.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/Roswell/Response%20To%20Case%20Close.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case ClosedFact: There is no reason for witnesses to be confused by a balloon and dummy recovery that took place mile...</p></details>
+   Link:<a href="https://cufos.org/PDFs/Roswell/Response%20To%20Case%20Close.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/Roswell/Response%20To%20Case%20Close.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case ClosedFact: There is no reason for witnesses to be confused by a balloon and dummy recovery that took place mile...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AlFuucsLIVk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien bodies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AlFuucsLIVk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien bodies...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomIn 1997, the Air Force published a second report, The Roswell Report: Case Closed. It detailed...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomIn 1997, the Air Force published a second report, The Roswell Report: Case Closed. It detailed...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997Believers in this theory argued that officials had in fact retrieved several alien bodies fro...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997Believers in this theory argued that officials had in fact retrieved several alien bodies fro...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: roswell-nm.gov  
-   Link: <a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteRoswell Air Center is proud to announce its partnership with United Airlines to provide service to Denver I...</p></details>
+   Link:<a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteRoswell Air Center is proud to announce its partnership with United Airlines to provide service to Denver I...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...- Alien Bodies? Claims of alien bodies were dismissed as misidentified anthropomorphic te...</p></details>
+   Link:<a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...- Alien Bodies? Claims of alien bodies were dismissed as misidentified anthropomorphic te...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: deseret.com  
    Title: air force report says roswell aliens were just dummies  
-   Link: <a href="https://www.deseret.com/1997/6/24/19319696/air-force-report-says-roswell-aliens-were-just-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/6/24/19319696/air-force-report-says-roswell-aliens-were-just-dummies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force report says Roswell `aliens&#x27; were just dummies24 Jun 1997 — The life-size dummies were used in high-altitude parachute drops fr...</p></details>
+   Link:<a href="https://www.deseret.com/1997/6/24/19319696/air-force-report-says-roswell-aliens-were-just-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/6/24/19319696/air-force-report-says-roswell-aliens-were-just-dummies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force report says Roswell `aliens&#x27; were just dummies24 Jun 1997 — The life-size dummies were used in high-altitude parachute drops fr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/champcosheriff/posts/the-recently-released-ufo-photos-from-the-government-have-raised-a-lot-of-questi/1467915045362821/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/champcosheriff/posts/the-recently-released-ufo-photos-from-the-government-have-raised-a-lot-of-questi/1467915045362821/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Official reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) claimed it was a weather balloon—later revealed to be...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/champcosheriff/posts/the-recently-released-ufo-photos-from-the-government-have-raised-a-lot-of-questi/1467915045362821/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/champcosheriff/posts/the-recently-released-ufo-photos-from-the-government-have-raised-a-lot-of-questi/1467915045362821/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) claimed it was a weather balloon—later revealed to be...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: librivox.org  
    Title: the roswell report case closed by james mcandrew  
-   Link: <a href="https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/" target="_blank" rel="noopener noreferrer nofollow">https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed11 Feb 2021 — Flying Saucer Crashes and Alien Bodies, The &quot;Crash Sites,&quot; Scenarios, and Research Methods...</p></details>
+   Link:<a href="https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/" target="_blank" rel="noopener noreferrer nofollow">https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed11 Feb 2021 — Flying Saucer Crashes and Alien Bodies, The &quot;Crash Sites,&quot; Scenarios, and Research Methods...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: archive where no mannequin has been before 1997  
-   Link: <a href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the archive, 25 June 1997: Where no mannequin has...25 Jun 2010 — But the air force said yesterday that witnesses who claimed to ha...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the archive, 25 June 1997: Where no mannequin has...25 Jun 2010 — But the air force said yesterday that witnesses who claimed to ha...</p></details>
    Published: June 1997  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ies that were carried aloft by US Air Force high altitude balloons for...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ies that were carried aloft by US Air Force high altitude balloons for...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: leonarddavid.com  
    Title: roswell rebuke ufo symbol patches in the past  
-   Link: <a href="https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Rebuke: UFO Symbol Patches in the Past9 Mar 2024 — The alleged “alien” bodies reported by some in the New Mexico desert, the Air...</p></details>
+   Link:<a href="https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Rebuke: UFO Symbol Patches in the Past9 Mar 2024 — The alleged “alien” bodies reported by some in the New Mexico desert, the Air...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memor
 
 ## Introduction
 
-The Roswell case is often presented as a conflict between what people remembered and what documents recorded. A crucial question is whether witness memories collected decades after 1947 can reliably reconstruct what happened. Many of the most influential Roswell testimonies were not recorded until the late 1970s, 1980s, or 1990s, more than thirty years after the original event. That long gap matters because memory is not a fixed recording. Psychological research shows that recollections can change through repetition, suggestion, exposure to [media]({{ 'media/' | relative_url }}), and the blending of separate experiences into a single narrative. In Roswell, these mechanisms are especially important because witness accounts evolved over time while books, documentaries, and public discussion increasingly shaped the story itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Inquirer, which reported the former intelligence officer, Marcel, claimed...Read more...</span></span></span>
+The Roswell case is often presented as a conflict between what people remembered and what documents recorded. A crucial question is whether witness memories collected decades after 1947 can reliably reconstruct what happened. Many of the most influential Roswell testimonies were not recorded until the late 1970s, 1980s, or 1990s, more than thirty years after the original event. That long gap matters because memory is not a fixed recording. Psychological research shows that recollections can change through repetition, suggestion, exposure to [media]({{ 'media/' | relative_url }}), and the blending of separate experiences into a single narrative. In Roswell, these mechanisms are especially important because witness accounts evolved over time while books, documentaries, and public discussion increasingly shaped the story itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Inquirer, which reported the former intelligence officer, Marcel, claimed...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-1-dark.svg" | relative_url }}" alt="Memory Drift illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ The issue is not whether witnesses were sincere. Most researchers, including man
 
 Human memory is reconstructive rather than reproductive. People do not replay a perfect mental recording of past events. Instead, they rebuild memories from fragments, expectations, later knowledge, and repeated retellings. Over long periods, confidence in a memory can increase even as factual accuracy declines.
 
-Roswell provides an unusually clear example because the event occurred in 1947, but many famous interviews were conducted after decades of public debate. Retired intelligence officer Jesse [Marcel]({{ 'marcel/' | relative_url }}), whose later recollections became central to the revived Roswell story, did not publicly advance his extraterrestrial interpretation until the late 1970s. By that point, the flying saucer phenomenon had accumulated three decades of cultural influence, UFO literature, and evolving folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Inquirer, which reported the former intelligence officer, Marcel, claimed...Read more...</span></span></span>
+Roswell provides an unusually clear example because the event occurred in 1947, but many famous interviews were conducted after decades of public debate. Retired intelligence officer Jesse [Marcel]({{ 'marcel/' | relative_url }}), whose later recollections became central to the revived Roswell story, did not publicly advance his extraterrestrial interpretation until the late 1970s. By that point, the flying saucer phenomenon had accumulated three decades of cultural influence, UFO literature, and evolving folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Inquirer, which reported the former intelligence officer, Marcel, claimed...Read more...</span></span></span>
 
 Historians routinely treat such delays as significant because every additional year creates more opportunities for memory alteration, reinterpretation, and contamination from outside information.
 
@@ -318,19 +318,19 @@ These mechanisms do not prove that any specific Roswell account is false. They e
 
 Roswell's transformation from a largely forgotten 1947 incident into a global mystery created ideal conditions for memory contamination.
 
-The modern Roswell narrative was largely revived after interviews with Jesse Marcel and the publication of books in 1980. As the story gained attention, witnesses encountered increasingly detailed accounts of what was supposedly recovered, who was involved, and what had been hidden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Inquirer, which reported the former intelligence officer, Marcel, claimed...Read more...</span></span></span>
+The modern Roswell narrative was largely revived after interviews with Jesse Marcel and the publication of books in 1980. As the story gained attention, witnesses encountered increasingly detailed accounts of what was supposedly recovered, who was involved, and what had been hidden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Inquirer, which reported the former intelligence officer, Marcel, claimed...Read more...</span></span></span>
 
 This matters because later witnesses were not recalling events in isolation. They were recalling events after years of exposure to:
 
 * UFO books and magazines.
 * Television documentaries.
 * Newspaper features.
-* Interviews with other witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-[secrecy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">preserved by researchers decades later...</span></span></span>
+* Interviews with other witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-[secrecy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">preserved by researchers decades later...</span></span></span>
 * Public discussions about alleged alien [bodies]({{ 'bodies/' | relative_url }}) and crash debris.
 
-Researchers have noted that some later Roswell claims contained elements that were largely absent from early accounts but resembled themes already common in wider UFO crash stories. Reports of small humanoid bodies, unusual symbols, and extraordinary materials appeared more prominently as Roswell mythology expanded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">May 6, 2026 — The authors claimed to have interviewed over 90 witnesses, though the testimony of only 25 appears in the book. Only seven...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
+Researchers have noted that some later Roswell claims contained elements that were largely absent from early accounts but resembled themes already common in wider UFO crash stories. Reports of small humanoid bodies, unusual symbols, and extraordinary materials appeared more prominently as Roswell mythology expanded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">May 6, 2026 — The authors claimed to have interviewed over 90 witnesses, though the testimony of only 25 appears in the book. Only seven...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
 
-A frequently discussed example involves the emergence of body-recovery stories. Early reporting in 1947 focused on debris. Claims involving alien bodies became far more prominent decades later, after Roswell had already become a major UFO narrative. The timing does not automatically invalidate those accounts, but it raises questions about whether later memories incorporated information acquired after the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In the decades after the Roswell Incident there were many mor...</span></span></span>
+A frequently discussed example involves the emergence of body-recovery stories. Early reporting in 1947 focused on debris. Claims involving alien bodies became far more prominent decades later, after Roswell had already become a major UFO narrative. The timing does not automatically invalidate those accounts, but it raises questions about whether later memories incorporated information acquired after the event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In the decades after the Roswell Incident there were many mor...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-2-dark.svg" | relative_url }}" alt="Memory Drift illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,7 +340,7 @@ One reason Roswell remains controversial is that some witness accounts appear to
 
 Investigators comparing early and later interviews have identified instances where descriptions became more elaborate, where new details emerged years after earlier statements, or where the same witness appeared to emphasise different aspects of the event in different periods. Critics argue that such changes indicate memory drift. Supporters often respond that witnesses felt safer speaking openly later in life or remembered additional details after reflection.
 
-The debate surrounding Jesse Marcel illustrates the problem. His later interviews became foundational to Roswell literature, yet they were given more than thirty years after the incident. Researchers on different sides of the controversy have noted differences between contemporary records, early statements, and later recollections. The disagreement is not simply about what Marcel said; it is about how much evidential weight should be assigned to a memory recalled after decades of discussion and reinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+The debate surrounding Jesse Marcel illustrates the problem. His later interviews became foundational to Roswell literature, yet they were given more than thirty years after the incident. Researchers on different sides of the controversy have noted differences between contemporary records, early statements, and later recollections. The disagreement is not simply about what Marcel said; it is about how much evidential weight should be assigned to a memory recalled after decades of discussion and reinterpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
 Memory contamination does not require deliberate deception. A witness can honestly report a recollection that has gradually absorbed later information.
 
@@ -355,9 +355,9 @@ When multiple independent witnesses describe the same event without evidence of 
 
 However, corroboration becomes less powerful when witnesses have been exposed to the same books, interviews, rumours, or media narratives. In that situation, matching stories may reflect shared information rather than independent observation.
 
-Roswell researchers face exactly this challenge. Many interviews were conducted after decades of publicity. Determining whether similarities arose from genuine independent memories or from a common cultural narrative is often difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">May 6, 2026 — The authors claimed to have interviewed over 90 witnesses, though the testimony of only 25 appears in the book. Only seven...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
+Roswell researchers face exactly this challenge. Many interviews were conducted after decades of publicity. Determining whether similarities arose from genuine independent memories or from a common cultural narrative is often difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">May 6, 2026 — The authors claimed to have interviewed over 90 witnesses, though the testimony of only 25 appears in the book. Only seven...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
 
-Contemporary documents can sometimes help. If a witness recalls a detail that also appears in records created in 1947, that correspondence strengthens the claim. Conversely, when a dramatic memory appears only in late testimony and lacks support from contemporary evidence, historians generally treat it more cautiously. DAF History+2FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
+Contemporary documents can sometimes help. If a witness recalls a detail that also appears in records created in 1947, that correspondence strengthens the claim. Conversely, when a dramatic memory appears only in late testimony and lacks support from contemporary evidence, historians generally treat it more cautiously. DAF History+2FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-3-dark.svg" | relative_url }}" alt="Memory Drift illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_memory_contamination_435a0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -367,197 +367,197 @@ Memory contamination does not resolve the Roswell mystery by itself. It neither 
 
 Roswell became famous largely because retrospective testimony expanded the story far beyond what was documented in 1947. Understanding how memory changes over decades helps explain why witness accounts can grow more detailed, more dramatic, and sometimes more internally consistent over time. It also explains why historians and investigators often give greater weight to records created near the event while still considering later testimony as potentially valuable but less secure evidence.
 
-For the Roswell case specifically, the key lesson is methodological rather than ideological: the longer the gap between an event and its retelling, the more important it becomes to distinguish between original observation, later interpretation, and memories shaped by years of cultural exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[media.defense.gov+3DAF History+3NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
+For the Roswell case specifically, the key lesson is methodological rather than ideological: the longer the gap between an event and its retelling, the more important it becomes to distinguish between original observation, later interpretation, and memories shaped by years of cultural exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Roswell Memories Be Trusted Decades Later?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Roswell Memories Be Trusted Decades Later?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
-        </h4>
-        <p class="fr-book-author">By Daniel L. Schacter</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how memory changes over time, becomes distorted, and can grow more confident while becoming less accurate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
+</h4>
+<p class="fr-book-author">By Daniel L. Schacter</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains how memory changes over time, becomes distorted, and can grow more confident while becoming less accurate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uBlAU24-qsoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uBlAU24-qsoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus</p>
         
-        <p class="fr-book-desc">Directly addresses the reliability of witness recollections, suggestion effects, and post-event contamination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the reliability of witness recollections, suggestion effects, and post-event contamination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Shows how people unconsciously reshape beliefs and memories to preserve consistency and self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how people unconsciously reshape beliefs and memories to preserve consistency and self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Know What Isn&#x27;t So on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LURGkHCPAJEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Know What Isn&#x27;t So" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Know What Isn&#x27;t So">How We Know What Isn&#x27;t So</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Gilovich</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explains memory errors, hindsight, and belief formation, offering useful context for weighing late testimony against contemporary records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Know What Isn&#x27;t So on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LURGkHCPAJEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Know What Isn&#x27;t So" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Know What Isn&#x27;t So">How We Know What Isn&#x27;t So</a>
+</h4>
+<p class="fr-book-author">By Thomas Gilovich</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explains memory errors, hindsight, and belief formation, offering useful context for weighing late testimony against contemporary records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell"><img src="https://i.ebayimg.com/images/g/AHMAAeSwvQposFx1/s-l225.jpg" alt="Listing image for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;"><img src="https://i.ebayimg.com/images/g/~ZcAAeSwS~ZoktWy/s-l225.jpg" alt="Listing image for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled"><img src="https://i.ebayimg.com/images/g/iQcAAeSwJElqGhVs/s-l225.jpg" alt="Listing image for Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="memory-drift-can-roswell-memories-be-trusted-decades-later-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift"><img src="https://i.ebayimg.com/images/g/GIYAAOSw9VhmOghw/s-l225.jpg" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="can-roswell-memories-be-trusted-decades-later-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ For the Roswell case specifically, the key lesson is methodological rather than 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ For the Roswell case specifically, the key lesson is methodological rather than 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ For the Roswell case specifically, the key lesson is methodological rather than 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ For the Roswell case specifically, the key lesson is methodological rather than 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ For the Roswell case specifically, the key lesson is methodological rather than 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,122 +763,122 @@ For the Roswell case specifically, the key lesson is methodological rather than 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Inquirer, which reported the former intelligence officer, Marcel, claimed...Read more...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Inquirer, which reported the former intelligence officer, Marcel, claimed...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Jesse Marcel  
-   Link: <a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2026 — The authors claimed to have interviewed over 90 witnesses, though the testimony of only 25 appears in the book. Only seven...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2026 — The authors claimed to have interviewed over 90 witnesses, though the testimony of only 25 appears in the book. Only seven...</p></details>
    Published: May 6, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at Roswell...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at Roswell...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;In July 1994, the Office of the Secretary of the Air Force concluded an exhaustive search for...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;In July 1994, the Office of the Secretary of the Air Force concluded an exhaustive search for...</p></details>
    Published: July 1994  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Roswell (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blogs.library.unt.edu  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In the decades after the Roswell Incident there were many mor...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In the decades after the Roswell Incident there were many mor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/rw/d/ni1980pratt.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/rw/d/ni1980pratt.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 - first ufologists investigations - Patrick Gross28 Feb 1980 — Here is the transcription by Bob Pratt of his taped interview with Je...</p></details>
+   Link:<a href="https://www.ufologie.patrickgross.org/rw/d/ni1980pratt.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/rw/d/ni1980pratt.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 - first ufologists investigations - Patrick Gross28 Feb 1980 — Here is the transcription by Bob Pratt of his taped interview with Je...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-[secrecy" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-[secrecy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>preserved by researchers decades later...</p></details>
+   Link:<a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-[secrecy" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-[secrecy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>preserved by researchers decades later...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomIn 1978, retired Air Force officer Jesse Marcel revealed that the Army&#x27;s weather balloon claim...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomIn 1978, retired Air Force officer Jesse Marcel revealed that the Army&#x27;s weather balloon claim...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/changemyview/comments/1klhim/cmv_i_believe_an_alien_spacecraft_landed_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/1klhim/cmv_i_believe_an_alien_spacecraft_landed_at/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMV: I believe an alien spacecraft landed at Roswell.My view is this: if you were going merely on evidence, you&#x27;d have to accept the ide...</p></details>
+   Link:<a href="https://www.reddit.com/r/changemyview/comments/1klhim/cmv_i_believe_an_alien_spacecraft_landed_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/1klhim/cmv_i_believe_an_alien_spacecraft_landed_at/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMV: I believe an alien spacecraft landed at Roswell.My view is this: if you were going merely on evidence, you&#x27;d have to accept the ide...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RoswellA cute high-school student saves the life of a teenage waitress. Surrounded by cliques of clever, angst-filled classmates, the two...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/tv/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RoswellA cute high-school student saves the life of a teenage waitress. Surrounded by cliques of clever, angst-filled classmates, the two...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Witnesses SpeakThe report argued that witnesses recalling these events decades later simply misremembered the timeframe, conflati...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Witnesses SpeakThe report argued that witnesses recalling these events decades later simply misremembered the timeframe, conflati...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/81062075" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81062075</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Roswell, New MexicoAfter 10 years, a woman returns to her sleepy hometown and discovers her high-school crush is also an unusual fo...</p></details>
+   Link:<a href="https://www.netflix.com/title/81062075" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81062075</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Roswell, New MexicoAfter 10 years, a woman returns to her sleepy hometown and discovers her high-school crush is also an unusual fo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryEyewitness testimony is you experience something or you see something and that&#x27;s how...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryEyewitness testimony is you experience something or you see something and that&#x27;s how...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - First-Hand Roswell Witness Who Saw Non-Human Bodies Only. 1...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - First-Hand Roswell Witness Who Saw Non-Human Bodies Only. 1...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Witness accounts indicate that the 1947 Roswell Incident was spread...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Witness accounts indicate that the 1947 Roswell Incident was spread...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Roswell incident | Overview, Theories, Hoaxes, & Facts  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — The 1997 Air Force report suggested that stori...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — The 1997 Air Force report suggested that stori...</p></details>
    Published: May 8, 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>er displayed for the press, and he&#x27;s holding the swapped out Rawin debris...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er displayed for the press, and he&#x27;s holding the swapped out Rawin debris...</p></details>

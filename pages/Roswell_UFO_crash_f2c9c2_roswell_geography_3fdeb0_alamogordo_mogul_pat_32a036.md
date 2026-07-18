@@ -280,24 +280,24 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogor
 
 ## Introduction
 
-The key geographical question behind the [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation of the Roswell incident is surprisingly simple: could a [balloon train]({{ 'balloon-train/' | relative_url }}) launched from Alamogordo in southern New Mexico realistically travel far enough to deposit debris on ranch land near Corona? According to the U.S. Air Force's later investigations, the answer is yes. The Mogul theory depends not on a balloon drifting a few miles off course, but on a long-duration flight carried by upper-level winds across a large stretch of New Mexico. Flight records, meteorological data, and reconstruction efforts all became central pieces of evidence in the debate over whether the material recovered by rancher W. W. “Mac” Brazel originated from a secret military balloon programme rather than an unidentified craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+The key geographical question behind the [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation of the Roswell incident is surprisingly simple: could a [balloon train]({{ 'balloon-train/' | relative_url }}) launched from Alamogordo in southern New Mexico realistically travel far enough to deposit debris on ranch land near Corona? According to the U.S. Air Force's later investigations, the answer is yes. The Mogul theory depends not on a balloon drifting a few miles off course, but on a long-duration flight carried by upper-level winds across a large stretch of New Mexico. Flight records, meteorological data, and reconstruction efforts all became central pieces of evidence in the debate over whether the material recovered by rancher W. W. “Mac” Brazel originated from a secret military balloon programme rather than an unidentified craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-1-dark.svg" | relative_url }}" alt="Mogul Path illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Could a Balloon From Alamogordo Reach Corona?
 
-Alamogordo lies in south-central New Mexico near the White Sands region, while the Corona ranch area is roughly to the north-east. On a modern map the distance appears substantial, but Project [Mogul]({{ 'mogul/' | relative_url }}) balloons were not ordinary weather balloons released for short observations. They were long balloon trains consisting of multiple balloons, radar-reflector targets, and experimental equipment designed to remain aloft for extended periods while riding high-altitude air currents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+Alamogordo lies in south-central New Mexico near the White Sands region, while the Corona ranch area is roughly to the north-east. On a modern map the distance appears substantial, but Project [Mogul]({{ 'mogul/' | relative_url }}) balloons were not ordinary weather balloons released for short observations. They were long balloon trains consisting of multiple balloons, radar-reflector targets, and experimental equipment designed to remain aloft for extended periods while riding high-altitude air currents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
-The [Air Force]({{ 'air-force/' | relative_url }})'s Roswell investigations identified Mogul launches from Alamogordo Army Air Field as the most likely source of the debris recovered in 1947. Researchers focused particularly on an early June flight that was tracked moving east-north-east from Alamogordo toward the Corona region before contact was lost. The significance of this trajectory is that it linked the launch site and the recovery area through a plausible atmospheric route rather than requiring an extraordinary explanation for how the debris arrived there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+The [Air Force]({{ 'air-force/' | relative_url }})'s Roswell investigations identified Mogul launches from Alamogordo Army Air Field as the most likely source of the debris recovered in 1947. Researchers focused particularly on an early June flight that was tracked moving east-north-east from Alamogordo toward the Corona region before contact was lost. The significance of this trajectory is that it linked the launch site and the recovery area through a plausible atmospheric route rather than requiring an extraordinary explanation for how the debris arrived there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-Geographically, the Corona ranch area sat within the broad zone that prevailing winds could carry high-altitude balloon arrays across during the summer months. The debate therefore became less about raw distance and more about the details of individual launch records and flight reconstructions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4</span><span class="citation-popover-snippet">The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
+Geographically, the Corona ranch area sat within the broad zone that prevailing winds could carry high-altitude balloon arrays across during the summer months. The debate therefore became less about raw distance and more about the details of individual launch records and flight reconstructions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4</span><span class="citation-popover-snippet">The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/foJWblpzEjA" title="Ask an Expert: The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer">Ask an Expert: The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 300.9K &middot; Uploaded: April 2011 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=foJWblpzEjA">Open on YouTube</a></p></div></div></div>
 
 ## Why Balloon Trains Could Travel Long Distances
 
-Project Mogul was created to detect distant Soviet nuclear tests by carrying acoustic equipment high into the atmosphere. To achieve this, engineers needed balloon systems capable of remaining airborne for long periods at relatively stable altitudes. Early Mogul flights used clusters of meteorological balloons linked together into long trains that could stretch hundreds of feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+Project Mogul was created to detect distant Soviet nuclear tests by carrying acoustic equipment high into the atmosphere. To achieve this, engineers needed balloon systems capable of remaining airborne for long periods at relatively stable altitudes. Early Mogul flights used clusters of meteorological balloons linked together into long trains that could stretch hundreds of feet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 Several features made long-distance travel possible:
 
@@ -307,30 +307,30 @@ Several features made long-distance travel possible:
 * **Multiple balloons working together** increased lift and flight duration.
 * **High-altitude operation** exposed the system to stronger and more persistent winds than those near the ground.
 * **Lightweight construction** allowed large radar targets and instrumentation to be carried over considerable distances.
-* **Extended tracking missions** were expected as part of the programme's experimental nature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+* **Extended tracking missions** were expected as part of the programme's experimental nature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 </div>
 
-Because the balloon trains were designed to drift with atmospheric currents rather than follow a powered route, considerable travel distances were normal rather than exceptional. This is one reason Air Force investigators later considered a recovery site near Corona geographically compatible with a launch from Alamogordo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+Because the balloon trains were designed to drift with atmospheric currents rather than follow a powered route, considerable travel distances were normal rather than exceptional. This is one reason Air Force investigators later considered a recovery site near Corona geographically compatible with a launch from Alamogordo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-2-dark.svg" | relative_url }}" alt="Mogul Path illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the Debris Pattern Mattered
 
-Witnesses described material scattered across a broad area of ranch land. Supporters of the Mogul explanation argued that a balloon train breaking apart after a long flight could naturally distribute lightweight materials such as rubber, foil-covered radar-reflector components, tape, and wooden sticks across open terrain. Critics disputed whether the reported debris field matched such a failure pattern, but the geographical mechanism itself was considered plausible because of the balloon train's size and complexity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
+Witnesses described material scattered across a broad area of ranch land. Supporters of the Mogul explanation argued that a balloon train breaking apart after a long flight could naturally distribute lightweight materials such as rubber, foil-covered radar-reflector components, tape, and wooden sticks across open terrain. Critics disputed whether the reported debris field matched such a failure pattern, but the geographical mechanism itself was considered plausible because of the balloon train's size and complexity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VT128ElBWkM" title="The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VT128ElBWkM" target="_blank" rel="noopener noreferrer">The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: Incognito Mode</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VT128ElBWkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VT128ElBWkM">Open on YouTube</a></p></div></div></div>
 
 ## How Winds and Launch Records Became Evidence
 
-The strongest geographical evidence for the Mogul explanation comes from flight documentation and meteorological reconstruction rather than from the debris alone. Air Force researchers reviewing historical records concluded that an early June 1947 Mogul launch moved in the general direction of Corona and that contact with the system was eventually lost. This finding became a cornerstone of the official explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThe importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives from his description of Project MOG...</span></span></span>
+The strongest geographical evidence for the Mogul explanation comes from flight documentation and meteorological reconstruction rather than from the debris alone. Air Force researchers reviewing historical records concluded that an early June 1947 Mogul launch moved in the general direction of Corona and that contact with the system was eventually lost. This finding became a cornerstone of the official explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThe importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives from his description of Project MOG...</span></span></span>
 
-One of the most frequently cited candidates is Mogul Flight No. 4, launched on 4 June 1947. According to Air Force analyses and later summaries, tracking data showed the balloon train travelling east-north-east toward the Corona area before it could no longer be followed. Investigators argued that debris from this flight could have remained on the ranch for weeks before [Brazel]({{ 'brazel/' | relative_url }}) reported it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4</span><span class="citation-popover-snippet">The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
+One of the most frequently cited candidates is Mogul Flight No. 4, launched on 4 June 1947. According to Air Force analyses and later summaries, tracking data showed the balloon train travelling east-north-east toward the Corona area before it could no longer be followed. Investigators argued that debris from this flight could have remained on the ranch for weeks before [Brazel]({{ 'brazel/' | relative_url }}) reported it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4</span><span class="citation-popover-snippet">The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
 
-However, this is also where the geographical debate becomes more complicated. Critics of the Mogul explanation have questioned whether Flight No. 4 was launched exactly as later described and whether surviving records support the reconstruction. As a result, discussions about Roswell often focus not on whether winds could carry a balloon from Alamogordo to Corona, but on whether the specific flight identified by investigators actually existed in the form claimed decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The long held Mogul Balloon explanation for the Roswell...February 19, 2024 — The Mogul Balloon explanation is a theory that the D...</span><span class="citation-popover-meta">Published: February 19, 2024</span></span></span>
+However, this is also where the geographical debate becomes more complicated. Critics of the Mogul explanation have questioned whether Flight No. 4 was launched exactly as later described and whether surviving records support the reconstruction. As a result, discussions about Roswell often focus not on whether winds could carry a balloon from Alamogordo to Corona, but on whether the specific flight identified by investigators actually existed in the form claimed decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The long held Mogul Balloon explanation for the Roswell...February 19, 2024 — The Mogul Balloon explanation is a theory that the D...</span><span class="citation-popover-meta">Published: February 19, 2024</span></span></span>
 
-The important point for the geography of the case is that neither side generally argues that the route itself was impossible. The dispute centres on documentation, tracking records, and interpretation of historical evidence rather than on the basic capability of upper-atmosphere winds to transport a balloon train from Alamogordo into the Corona region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4</span><span class="citation-popover-snippet">The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
+The important point for the geography of the case is that neither side generally argues that the route itself was impossible. The dispute centres on documentation, tracking records, and interpretation of historical evidence rather than on the basic capability of upper-atmosphere winds to transport a balloon train from Alamogordo into the Corona region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4</span><span class="citation-popover-snippet">The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mBcYtSsPIuU" title="Project Mogul" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer">Project Mogul</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 2.6K &middot; Uploaded: July 2014 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mBcYtSsPIuU">Open on YouTube</a></p></div></div></div>
@@ -339,200 +339,200 @@ The important point for the geography of the case is that neither side generally
 
 Within the geography of the Roswell case, the Alamogordo-to-Corona route acts as a bridge between the recovery site and the military explanation. If a Mogul balloon train could plausibly follow that path, then the debris field fits within a known Cold War research programme operating in New Mexico. If the launch records or flight reconstruction are flawed, the geographical link becomes weaker.
 
-For that reason, maps showing Alamogordo, White Sands, Corona, and the surrounding ranch country continue to play an important role in Roswell research. The question is not merely where the debris was found, but whether the documented winds and balloon trajectories provide a credible path connecting the recovery area to a classified launch site hundreds of kilometres away. The Mogul explanation ultimately rests on that flight-path mechanism as much as on the debris itself. britannica.com+3Muller Lab+3U.S. Air Force <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+For that reason, maps showing Alamogordo, White Sands, Corona, and the surrounding ranch country continue to play an important role in Roswell research. The question is not merely where the debris was found, but whether the documented winds and balloon trajectories provide a credible path connecting the recovery area to a classified launch site hundreds of kilometres away. The Mogul explanation ultimately rests on that flight-path mechanism as much as on the debris itself. britannica.com+3Muller Lab+3U.S. Air Force<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-3-dark.svg" | relative_url }}" alt="Mogul Path illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0_alamogordo_mogul_pat_32a036-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could a Balloon From Alamogordo Reach Corona?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could a Balloon From Alamogordo Reach Corona?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Provides the leading pro-crash narrative and helps readers understand why balloon-flight geography became such a central debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the leading pro-crash narrative and helps readers understand why balloon-flight geography became such a central debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
-        </h4>
-        <p class="fr-book-author">By James McAndrew</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
+</h4>
+<p class="fr-book-author">By James McAndrew</p>
         
-        <p class="fr-book-desc">Directly addresses the Air Force case that links Roswell debris to Project Mogul balloon flights from Alamogordo and discusses flight-pat...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the Air Force case that links Roswell debris to Project Mogul balloon flights from Alamogordo and discusses flight-pat...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Foundational Roswell book whose claims were later challenged by the Project Mogul explanation discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational Roswell book whose claims were later challenged by the Project Mogul explanation discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Examines witness accounts and competing explanations, including whether recovered debris could have originated from balloon operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness accounts and competing explanations, including whether recovered debris could have originated from balloon operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/b6b9bdd489ae3c0b815e.jpg' | relative_url }}" alt="Listing image for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/b6b9bdd489ae3c0b815e.jpg' | relative_url }}" alt="Listing image for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/9eb183499e616d1d237a.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/9eb183499e616d1d237a.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/0766f5870481e1cb1479.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/0766f5870481e1cb1479.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mogul-path-could-a-balloon-from-alamogordo-reach-corona-roswell-ufo-crash-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For that reason, maps showing Alamogordo, White Sands, Corona, and the surroundi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For that reason, maps showing Alamogordo, White Sands, Corona, and the surroundi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For that reason, maps showing Alamogordo, White Sands, Corona, and the surroundi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For that reason, maps showing Alamogordo, White Sands, Corona, and the surroundi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For that reason, maps showing Alamogordo, White Sands, Corona, and the surroundi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,171 +738,171 @@ For that reason, maps showing Alamogordo, White Sands, Corona, and the surroundi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally repor...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally repor...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...February 19, 2024 — The Mogul Balloon explanation is a theory that the D...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...February 19, 2024 — The Mogul Balloon explanation is a theory that the D...</p></details>
    Published: February 19, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — Roswell incident, events surrounding the crash and recovery of a US Army Air Forces high...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — Roswell incident, events surrounding the crash and recovery of a US Army Air Forces high...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: So what actually happened at Roswell?: r/aliens Was it 👽 or was it a weather 🎈?  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1o5pmo8/so_what_actually_happened_at_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1o5pmo8/so_what_actually_happened_at_roswell/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1o5pmo8/so_what_actually_happened_at_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1o5pmo8/so_what_actually_happened_at_roswell/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Top Secret Project That Spawned the Roswell UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=h54XMccPH-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h54XMccPH-Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h54XMccPH-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h54XMccPH-Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=VT128ElBWkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VT128ElBWkM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ask an Expert: The Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VT128ElBWkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VT128ElBWkM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ask an Expert: The Roswell Incident...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Ask an Expert: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=foJWblpzEjA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=foJWblpzEjA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Project Mogul  
-   Link: <a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved - YouTube The Roswell Incident Mystery Finally Solved - YouTube BRIGHT SIDE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved - YouTube The Roswell Incident Mystery Finally Solved - YouTube BRIGHT SIDE...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThe importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives from his description of Project MOG...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThe importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives from his description of Project MOG...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths4  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research team launched NYU Flight #4 on June 4, 1947, from Alamogordo Army Air Field and tracked it flying east-northeast toward Coro...</p></details>
    Published: June 4, 1947  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</p></details>
    Published: July 5, 2017  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jhmovie.fandom.com  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomOn June 4, researchers at Alamogordo Army Air Field launched a long train of these balloons; t...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomOn June 4, researchers at Alamogordo Army Air Field launched a long train of these balloons; t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uapledger.com  
    Title: Roswell Incident  
-   Link: <a href="https://www.uapledger.com/cases/roswell-incident-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.uapledger.com/cases/roswell-incident-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP LedgerMay 31, 2026 — On June 4, 1947, researchers at Alamogordo Army Air Field launched Flight 4, a long train of balloons. They lost...</p></details>
+   Link:<a href="https://www.uapledger.com/cases/roswell-incident-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.uapledger.com/cases/roswell-incident-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP LedgerMay 31, 2026 — On June 4, 1947, researchers at Alamogordo Army Air Field launched Flight 4, a long train of balloons. They lost...</p></details>
    Published: May 31, 2026  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentDocumentation and eyewitness [testimony](&amp;#123;&amp;#123; &#x27;testimony/&#x27; | relative_url &amp;#125;&amp;#125;) proves that rancher William Ware “Mack” Brazel...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentDocumentation and eyewitness [testimony](&amp;#123;&amp;#123; &#x27;testimony/&#x27; | relative_url &amp;#125;&amp;#125;) proves that rancher William Ware “Mack” Brazel...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: mac brazel and the heavy price of the 1947 corona find while the name roswell is  
-   Link: <a href="https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mac Brazel and the Heavy Price of the 1947 Corona Find 🛸...Now, a forensic analysis of Marcel´s secret Roswell journal “could reveal” co...</p></details>
+   Link:<a href="https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mac Brazel and the Heavy Price of the 1947 Corona Find 🛸...Now, a forensic analysis of Marcel´s secret Roswell journal “could reveal” co...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: in july 1947 strange debris was discovered on a ranch near roswell after reports  
-   Link: <a href="https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force released reports attributing the debris to the secret Project Mogul, a classified balloon program designed to...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force released reports attributing the debris to the secret Project Mogul, a classified balloon program designed to...Read more...</p></details>
    Published: july 1947  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — The research team launched NYU Flight #4 on June 4, 1947, from Alamo...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — The research team launched NYU Flight #4 on June 4, 1947, from Alamo...</p></details>
    Published: June 4, 1947  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ng train of these balloons; they lost contact with the balloons...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ng train of these balloons; they lost contact with the balloons...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: stratocat.com.ar  
    Title: Holloman AFB, Alamogordo  
-   Link: <a href="https://stratocat.com.ar/bases/30e.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/bases/30e.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stratospheric balloon launchesMost of the launches were performed from the Walker Air Force Base (renamed after 1967 as Roswell Industria...</p></details>
+   Link:<a href="https://stratocat.com.ar/bases/30e.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/bases/30e.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stratospheric balloon launchesMost of the launches were performed from the Walker Air Force Base (renamed after 1967 as Roswell Industria...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ancestry.com  
    Title: ufo roswell new mexico  
-   Link: <a href="https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell New Mexico UFO CrashIn June 1947, a rancher named W.W. (Mac) Brazel discovered wreckage on his property near Corona, northwes...</p></details>
+   Link:<a href="https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell New Mexico UFO CrashIn June 1947, a rancher named W.W. (Mac) Brazel discovered wreckage on his property near Corona, northwes...</p></details>
    Published: June 1947  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wsmrmuseum.com  
-   Link: <a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryMogul balloon trains were launched in June 1947 from. Holloman and proved not very unsuccessful. They blew all over t...</p></details>
+   Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryMogul balloon trains were launched in June 1947 from. Holloman and proved not very unsuccessful. They blew all over t...</p></details>
    Published: June 1947  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: New video on the main channel in a few days. It's coming  
-   Link: <a href="https://www.youtube.com/watch?v=k4ygiQHSNDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4ygiQHSNDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Twitch: [https://www.twitch.tv/internethistorian...&quot;](https://www.twitch.tv/internethistorian...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k4ygiQHSNDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4ygiQHSNDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Twitch: [https://www.twitch.tv/internethistorian...&quot;](https://www.twitch.tv/internethistorian...&quot;)...</p></details>

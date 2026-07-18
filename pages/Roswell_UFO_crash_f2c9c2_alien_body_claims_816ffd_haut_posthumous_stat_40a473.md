@@ -280,7 +280,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_haut_pos
 
 ## Introduction
 
-[Walter Haut]({{ 'walter-haut/' | relative_url }}) occupies a unique place in the Roswell story because he was not a peripheral witness added decades later. He was the public information officer who issued the famous 8 July 1947 press release announcing that Roswell Army Air Field had recovered a “[flying disc]({{ 'flying-disc/' | relative_url }})”. That role is well documented and uncontested. The difficulty arises because the strongest claims associated with Haut—including descriptions of a recovered craft and non-human bodies—did not emerge publicly in 1947, or even in his early interviews, but in a sealed affidavit released after his death. This makes Haut one of the most important examples of a broader evidence problem in the Roswell debate: how much weight should be given to dramatic testimony that appears late, cannot be cross-examined, and is released only after the witness has died? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+[Walter Haut]({{ 'walter-haut/' | relative_url }}) occupies a unique place in the Roswell story because he was not a peripheral witness added decades later. He was the public information officer who issued the famous 8 July 1947 press release announcing that Roswell Army Air Field had recovered a “[flying disc]({{ 'flying-disc/' | relative_url }})”. That role is well documented and uncontested. The difficulty arises because the strongest claims associated with Haut—including descriptions of a recovered craft and non-human bodies—did not emerge publicly in 1947, or even in his early interviews, but in a sealed affidavit released after his death. This makes Haut one of the most important examples of a broader evidence problem in the Roswell debate: how much weight should be given to dramatic testimony that appears late, cannot be cross-examined, and is released only after the witness has died?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_haut_posthumous_stat_40a473-Illustration-1-dark.svg" | relative_url }}" alt="Haut Statement illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_haut_posthumous_stat_40a473-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_alien_body_claims_816ffd_haut_posthumous_stat_40a473-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ For supporters of the alien-crash interpretation, Haut’s statement is powerful
 
 ## Haut's Confirmed 1947 Press Role
 
-Walter Haut’s documented role in July 1947 was as the public information officer at Roswell Army Air Field. Acting under orders from base commander Colonel William Blanchard, he distributed the press release stating that military personnel had recovered a “flying disc”. The announcement quickly became international news before being replaced by a balloon explanation from higher headquarters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Seeroswell]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Walter Haut’s documented role in July 1947 was as the public information officer at Roswell Army Air Field. Acting under orders from base commander Colonel William Blanchard, he distributed the press release stating that military personnel had recovered a “flying disc”. The announcement quickly became international news before being replaced by a balloon explanation from higher headquarters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-What matters for evaluating later [body claims]({{ 'body-claims/' | relative_url }}) is that Haut’s original role was primarily administrative and public-relations related. Contemporary [records]({{ 'records/' | relative_url }}) establish that he issued the announcement, but they do not establish that he personally inspected a crashed craft, viewed bodies, or participated in recovery operations. The surviving 1947 documentation linked to his office contains no public mention of bodies or biological remains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+What matters for evaluating later [body claims]({{ 'body-claims/' | relative_url }}) is that Haut’s original role was primarily administrative and public-relations related. Contemporary [records]({{ 'records/' | relative_url }}) establish that he issued the announcement, but they do not establish that he personally inspected a crashed craft, viewed bodies, or participated in recovery operations. The surviving 1947 documentation linked to his office contains no public mention of bodies or biological remains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 This distinction is important because later discussions sometimes blur two separate questions:
 
@@ -306,11 +306,11 @@ His verified involvement gives his later statements significance, but it does no
 
 One of the most striking features of Haut’s record is how his public descriptions evolved over time.
 
-In interviews during the late 1970s and 1980s, Haut generally described himself as someone who issued the press release under orders and had limited direct knowledge of the recovered object. He expressed suspicion that something unusual had happened and indicated trust in Major Jesse [Marcel]({{ 'marcel/' | relative_url }})’s judgement, but he did not publicly present himself as a witness who had personally viewed alien bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+In interviews during the late 1970s and 1980s, Haut generally described himself as someone who issued the press release under orders and had limited direct knowledge of the recovered object. He expressed suspicion that something unusual had happened and indicated trust in Major Jesse [Marcel]({{ 'marcel/' | relative_url }})’s judgement, but he did not publicly present himself as a witness who had personally viewed alien bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
-A 1993 affidavit expanded on his views and emphasised his belief that senior officers would not have confused the recovered material with an ordinary weather balloon. Even then, the emphasis remained largely on confidence in military personnel and the possibility of a cover-up rather than on detailed first-hand descriptions of extraterrestrial remains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+A 1993 affidavit expanded on his views and emphasised his belief that senior officers would not have confused the recovered material with an ordinary weather balloon. Even then, the emphasis remained largely on confidence in military personnel and the possibility of a cover-up rather than on detailed first-hand descriptions of extraterrestrial remains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
-The major shift came with a sealed affidavit signed in 2002 and released after his death in 2005. In that document, Haut was presented as having seen far more than he had previously disclosed, including an unusual craft and bodies associated with the incident. The affidavit became a central element in later Roswell literature, particularly after publication in 2007. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+The major shift came with a sealed affidavit signed in 2002 and released after his death in 2005. In that document, Haut was presented as having seen far more than he had previously disclosed, including an unusual craft and bodies associated with the incident. The affidavit became a central element in later Roswell literature, particularly after publication in 2007.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
 The evidential challenge is that the strongest claims arrived roughly fifty-five years after the alleged events. Historians and memory researchers routinely treat such long delays with caution because memory is reconstructive rather than photographic. Over decades, recollections can be influenced by repeated retelling, exposure to other accounts, popular culture, and sincere attempts to make sense of incomplete memories. None of this requires dishonesty; it is simply a recognised limitation of retrospective testimony.
 
@@ -320,17 +320,17 @@ The evidential challenge is that the strongest claims arrived roughly fifty-five
 
 The most controversial aspect of the Haut affidavit is not merely what it says but how it entered the public record.
 
-According to accounts surrounding the document, the affidavit was prepared, signed and intentionally withheld until after Haut's death. Supporters argue that this arrangement allowed him to reveal information he felt unable to discuss publicly during his lifetime. Critics argue that the same arrangement removed many normal opportunities for scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+According to accounts surrounding the document, the affidavit was prepared, signed and intentionally withheld until after Haut's death. Supporters argue that this arrangement allowed him to reveal information he felt unable to discuss publicly during his lifetime. Critics argue that the same arrangement removed many normal opportunities for scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
 Several verification problems follow:
 
-**No possibility of follow-up questioning.** Once the affidavit became public, investigators could no longer ask Haut for clarification, explore inconsistencies, or probe specific details. A living witness can be interviewed repeatedly; a posthumous statement cannot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+**No possibility of follow-up questioning.** Once the affidavit became public, investigators could no longer ask Haut for clarification, explore inconsistencies, or probe specific details. A living witness can be interviewed repeatedly; a posthumous statement cannot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
-**Comparison with earlier statements becomes crucial.** Because the witness is unavailable, researchers must compare the affidavit against earlier interviews and affidavits. Where significant new details appear late, the question becomes why those details were absent from earlier accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+**Comparison with earlier statements becomes crucial.** Because the witness is unavailable, researchers must compare the affidavit against earlier interviews and affidavits. Where significant new details appear late, the question becomes why those details were absent from earlier accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
-**Limited independent corroboration.** The affidavit itself is testimony, not physical evidence. Its claims require support from documents, photographs, records, or multiple independent witnesses. Without such corroboration, the statement remains largely self-supporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
+**Limited independent corroboration.** The affidavit itself is testimony, not physical evidence. Its claims require support from documents, photographs, records, or multiple independent witnesses. Without such corroboration, the statement remains largely self-supporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
-**Potential influence of decades of Roswell mythology.** By 2002, Roswell had become one of the world's most famous UFO narratives. Numerous books, documentaries, witness claims, and theories were already in circulation. Any late recollection exists within that information environment, making it difficult to separate original memory from later influences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Under a two</span><span class="citation-popover-snippet">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...14 Nov 2023 — Walter Haut, to put out a press release: The US Army Air Fo...</span></span></span>
+**Potential influence of decades of Roswell mythology.** By 2002, Roswell had become one of the world's most famous UFO narratives. Numerous books, documentaries, witness claims, and theories were already in circulation. Any late recollection exists within that information environment, making it difficult to separate original memory from later influences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Under a two</span><span class="citation-popover-snippet">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...14 Nov 2023 — Walter Haut, to put out a press release: The US Army Air Fo...</span></span></span>
 
 These concerns do not prove the affidavit is false. They explain why historians generally regard posthumous testimony as a category of evidence that requires particularly strong corroboration.
 
@@ -341,9 +341,9 @@ These concerns do not prove the affidavit is false. They explain why historians 
 
 For readers focused specifically on alien body claims, the answer is largely no.
 
-The affidavit is often presented as a breakthrough because it appears to place a named 1947 insider closer to alleged bodies than he had publicly admitted before. Yet the document does not eliminate the fundamental evidence problems that surround Roswell [body stories]({{ 'body-stories/' | relative_url }}). There are still no contemporaneous 1947 records from Haut describing bodies, no verified medical documentation, no authenticated photographs of recovered remains, and no physical evidence directly linked to the claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The affidavit is often presented as a breakthrough because it appears to place a named 1947 insider closer to alleged bodies than he had publicly admitted before. Yet the document does not eliminate the fundamental evidence problems that surround Roswell [body stories]({{ 'body-stories/' | relative_url }}). There are still no contemporaneous 1947 records from Haut describing bodies, no verified medical documentation, no authenticated photographs of recovered remains, and no physical evidence directly linked to the claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-Moreover, the broader Roswell literature contains numerous body narratives that differ on key details such as location, number of bodies, appearance, and sequence of events. A late affidavit enters that already complicated landscape rather than resolving it. The U.S. Air Force's later investigations specifically highlighted the inconsistency and lateness of many body accounts when assessing their reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;It appears that UFO proponents have failed to establish the accurate da...</span></span></span>
+Moreover, the broader Roswell literature contains numerous body narratives that differ on key details such as location, number of bodies, appearance, and sequence of events. A late affidavit enters that already complicated landscape rather than resolving it. The U.S. Air Force's later investigations specifically highlighted the inconsistency and lateness of many body accounts when assessing their reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;It appears that UFO proponents have failed to establish the accurate da...</span></span></span>
 
 As a result, Haut's statement is best understood as an influential testimonial document rather than a decisive piece of evidence. It carries more weight than a rumour because it comes from a genuine participant in the original press announcement. Yet it remains constrained by the same limitations that affect many late Roswell body claims: the passage of time, the absence of direct contemporaneous documentation, and the impossibility of testing the witness after publication.
 
@@ -355,184 +355,184 @@ Walter Haut's story illustrates a recurring problem in the Roswell debate. The c
 
 His verified historical role makes him an important figure. His posthumously released affidavit makes him an influential one. But influence and evidential strength are not the same thing. The central question is not whether Haut believed what he signed. It is whether a late, untestable statement can bear the weight of proving one of the most extraordinary claims in the Roswell narrative.
 
-For most historians and evidence-based investigators, that burden remains unmet. Haut's affidavit remains a significant part of the Roswell story, but it is not, by itself, sufficient to establish that alien bodies were recovered in 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
+For most historians and evidence-based investigators, that burden remains unmet. Haut's affidavit remains a significant part of the Roswell story, but it is not, by itself, sufficient to establish that alien bodies were recovered in 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Haut</span><span class="citation-popover-snippet">Walter Haut</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5RueuqXrQE4" title="Roswell: The World’s Biggest Alien Cover-Up Finally Exposed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer">Roswell: The World’s Biggest Alien Cover-Up Finally Exposed</a></p><p class="youtube-embed-meta">Channel: Real Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5RueuqXrQE4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a posthumous statement carry Roswell?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a posthumous statement carry Roswell?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Examines how witness stories evolve and why dramatic claims emerge, closely matching the article&#x27;s discussion of posthumous testimony and...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how witness stories evolve and why dramatic claims emerge, closely matching the article&#x27;s discussion of posthumous testimony and...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Directly examines Roswell witnesses and credibility questions, making it highly relevant to evaluating late testimony such as Walter Haut...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines Roswell witnesses and credibility questions, making it highly relevant to evaluating late testimony such as Walter Haut...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides historical context for how Roswell claims entered popular culture and how later testimony became important to the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for how Roswell claims entered popular culture and how later testimony became important to the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality"><img src="{{ '/assets/images/marketplace-covers/fb66cd42a3176c6506ce.jpg' | relative_url }}" alt="Listing image for ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality"><img src="{{ '/assets/images/marketplace-covers/fb66cd42a3176c6506ce.jpg' | relative_url }}" alt="Listing image for ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">ROSWELL UFO ALIEN ALIEN UFO pin Badge Patch New High Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell"><img src="{{ '/assets/images/marketplace-covers/95d5ad10d27987559da1.jpg' | relative_url }}" alt="Listing image for Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell"><img src="{{ '/assets/images/marketplace-covers/95d5ad10d27987559da1.jpg' | relative_url }}" alt="Listing image for Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Alien woman pin badge. Flowers in her hair. Metal. Martian, Area 51 Roswell</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO"><img src="{{ '/assets/images/marketplace-covers/0a7e7fe02fbec99d74bc.jpg' | relative_url }}" alt="Listing image for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO"><img src="{{ '/assets/images/marketplace-covers/0a7e7fe02fbec99d74bc.jpg' | relative_url }}" alt="Listing image for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pin Badge Metal Vintage Retro Collectible - Roswell Alien"><img src="{{ '/assets/images/marketplace-covers/c99f006f180ea7e0aacb.jpg' | relative_url }}" alt="Listing image for Pin Badge Metal Vintage Retro Collectible - Roswell Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Pin Badge Metal Vintage Retro Collectible - Roswell Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pin Badge Metal Vintage Retro Collectible - Roswell Alien"><img src="{{ '/assets/images/marketplace-covers/c99f006f180ea7e0aacb.jpg' | relative_url }}" alt="Listing image for Pin Badge Metal Vintage Retro Collectible - Roswell Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">Pin Badge Metal Vintage Retro Collectible - Roswell Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien pin" data-ebay-reference="haut-statement-can-a-posthumous-statement-carry-roswell-roswell-ufo-crash-roswell-alien-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For most historians and evidence-based investigators, that burden remains unmet.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For most historians and evidence-based investigators, that burden remains unmet.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For most historians and evidence-based investigators, that burden remains unmet.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For most historians and evidence-based investigators, that burden remains unmet.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For most historians and evidence-based investigators, that burden remains unmet.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,137 +738,137 @@ For most historians and evidence-based investigators, that burden remains unmet.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Walter Haut  
-   Link: <a href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walter_Haut</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walter_Haut</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: seeroswell.com  
    Title: the 1947 roswell incident  
-   Link: <a href="https://seeroswell.com/the-1947-roswell-incident/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/the-1947-roswell-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Walter Haut issued a press release under orders from base commander Col. William Blanchard, which said basically that we have in our poss...</p></details>
+   Link:<a href="https://seeroswell.com/the-1947-roswell-incident/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/the-1947-roswell-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walter Haut issued a press release under orders from base commander Col. William Blanchard, which said basically that we have in our poss...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFOOn  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
    Published: July 8, 1947  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: Under a two  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...14 Nov 2023 — Walter Haut, to put out a press release: The US Army Air Fo...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...14 Nov 2023 — Walter Haut, to put out a press release: The US Army Air Fo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;It appears that UFO proponents have failed to establish the accurate da...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;It appears that UFO proponents have failed to establish the accurate da...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
    Title: DAF History The Roswell Report  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/pictures/roswell-66-years-of-alien-lore/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/pictures/roswell-66-years-of-alien-lore/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>66 years of alien lore8 Jul 2013 — Rumors that a UFO had crashed in the area, and that an alien body was recovered from the wreckage, spr...</p></details>
+   Link:<a href="https://www.cbsnews.com/pictures/roswell-66-years-of-alien-lore/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/pictures/roswell-66-years-of-alien-lore/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>66 years of alien lore8 Jul 2013 — Rumors that a UFO had crashed in the area, and that an alien body was recovered from the wreckage, spr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: imdb.com  
    Title: Walter Haut  
-   Link: <a href="https://www.imdb.com/name/nm0369650/bio/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm0369650/bio/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BiographyA former spokesman for the now-defunct Roswell Army Air Field, Haut was ordered by his commander Col. William Blanchard on 8 Jul...</p></details>
+   Link:<a href="https://www.imdb.com/name/nm0369650/bio/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm0369650/bio/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BiographyA former spokesman for the now-defunct Roswell Army Air Field, Haut was ordered by his commander Col. William Blanchard on 8 Jul...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: military-history.fandom.com  
    Title: Walter Haut  
-   Link: <a href="https://military-history.fandom.com/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Walter_Haut</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haut | Military Wiki - FandomIn December 2002, Haut also signed a sealed affidavit in which he went into more details about the craft, de...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/Walter_Haut" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Walter_Haut</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haut | Military Wiki - FandomIn December 2002, Haut also signed a sealed affidavit in which he went into about the craft, de...</p></details>
    Published: December 2002  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILES&#x27; From angels to aliens. One of the features of the UFO phenomenon that most concerned the Air. Ministry was visual...Read more...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILES&#x27; From angels to aliens. One of the features of the UFO phenomenon that most concerned the Air. Ministry was visual...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pdf.ai  
-   Link: <a href="https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c" target="_blank" rel="noopener noreferrer nofollow">https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Field as the Public Information Officer and received a call...Read more...</p></details>
+   Link:<a href="https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c" target="_blank" rel="noopener noreferrer nofollow">https://pdf.ai/share/clkkpk6ur000ajp0fozjkj58c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Field as the Public Information Officer and received a call...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAll of the accidents involved military aircraft and occurred after July 8, 1947--the date the RAAF public...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAll of the accidents involved military aircraft and occurred after July 8, 1947--the date the RAAF public...</p></details>
    Published: July 8, 1947  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deathbed affidavit written by Walter Haut, public...SEALED AFFIDAVIT OF WALTER HAUT DATE: December 26, 2002 WITNESS: Chris Xxxxx NOTARY...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ktk9lr/deathbed_affidavit_written_by_walter_haut_public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deathbed affidavit written by Walter Haut, public...SEALED AFFIDAVIT OF WALTER HAUT DATE: December 26, 2002 WITNESS: Chris Xxxxx NOTARY...</p></details>
    Published: December 26, 2002  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: castlefordacademy.com  
-   Link: <a href="https://www.castlefordacademy.com/wp-content/uploads/2021/10/Witnesses-Infosheets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.castlefordacademy.com/wp-content/uploads/2021/10/Witnesses-Infosheets.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WitnessThe day after the crash site was investigated by the army Lt. Haut made a press statement that said a “flying disc” had crashed an...</p></details>
+   Link:<a href="https://www.castlefordacademy.com/wp-content/uploads/2021/10/Witnesses-Infosheets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.castlefordacademy.com/wp-content/uploads/2021/10/Witnesses-Infosheets.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WitnessThe day after the crash site was investigated by the army Lt. Haut made a press statement that said a “flying disc” had crashed an...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cbs4local.com  
-   Link: <a href="https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii" target="_blank" rel="noopener noreferrer nofollow">https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO story still resonates around the world 77...Aug 2, 2024 — In my final story for CBS4, I explore why the Roswell Legend s...</p></details>
+   Link:<a href="https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii" target="_blank" rel="noopener noreferrer nofollow">https://cbs4local.com/news/local/the-roswell-ufo-story-still-resonates-around-the-world-77-years-later-new-mexico-nm-john-purvis-legend-incident-alien-donald-r-schmitt-reasearch-center-jesse-marcel-army-field-walker-walter-haut-flying-saucers-world-war-ii-wwii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO story still resonates around the world 77...Aug 2, 2024 — In my final story for CBS4, I explore why the Roswell Legend s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: on this day in 1947 the roswell army air field issued a press release claiming t  
-   Link: <a href="https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1947, the Roswell Army Air Field issued a...On July 8th, 1947, Roswell Army Air Field public information officer Walter H...</p></details>
+   Link:<a href="https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1947, the Roswell Army Air Field issued a...On July 8th, 1947, Roswell Army Air Field public information officer Walter H...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: neogaf.com  
-   Link: <a href="https://www.neogaf.com/threads/signed-affidavit-released-by-roswells-public-information-officer-about-1947-crash.167920/" target="_blank" rel="noopener noreferrer nofollow">https://www.neogaf.com/threads/signed-affidavit-released-by-roswells-public-information-officer-about-1947-crash.167920/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HAUT DATE: December 26, 2002. WITNESS: Chris Xxxxxx NOTARY: Beverlee Morgan (1) My name is Walter G. HautRead more...</p></details>
+   Link:<a href="https://www.neogaf.com/threads/signed-affidavit-released-by-roswells-public-information-officer-about-1947-crash.167920/" target="_blank" rel="noopener noreferrer nofollow">https://www.neogaf.com/threads/signed-affidavit-released-by-roswells-public-information-officer-about-1947-crash.167920/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HAUT DATE: December 26, 2002. WITNESS: Chris Xxxxxx NOTARY: Beverlee Morgan (1) My name is Walter G. HautRead more...</p></details>
    Published: December 26, 2002  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Walter Haut states in an allegedly signed affidavit he was stationed at Rosw...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Walter Haut states in an allegedly signed affidavit he was stationed at Rosw...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: standard.co.uk  
-   Link: <a href="https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sit · Exactly 60 years ago, a light aircraft was flying over the Cascade...Read more...</p></details>
+   Link:<a href="https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sit · Exactly 60 years ago, a light aircraft was flying over the Cascade...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: deathbed affidavit written by walter haut public  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1ktk70r/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1ktk70r/deathbed_affidavit_written_by_walter_haut_public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deathbed affidavit written by Walter Haut, public...In 2002 Haut wrote affidavit about what really happened that day in Roswell, however...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1ktk70r/deathbed_affidavit_written_by_walter_haut_public/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1ktk70r/deathbed_affidavit_written_by_walter_haut_public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deathbed affidavit written by Walter Haut, public...In 2002 Haut wrote affidavit about what really happened that day in Roswell, however...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: It's one of history's most famous conspiracies  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...But further evidence has emerged - notably a signed affidavit by Walter Haut, the Roswell Army Air Field public affairs off...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...But further evidence has emerged - notably a signed affidavit by Walter Haut, the Roswell Army Air Field public affairs off...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: edn.com  
    Title: roswell incident is first reported july 8 1947  
-   Link: <a href="https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident is first reported, July 8, 1947It was reported on July 8, 1947 that the Roswell Army Air Field issued a press release sa...</p></details>
+   Link:<a href="https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident is first reported, July 8, 1947It was reported on July 8, 1947 that the Roswell Army Air Field issued a press release sa...</p></details>
    Published: July 8, 1947  

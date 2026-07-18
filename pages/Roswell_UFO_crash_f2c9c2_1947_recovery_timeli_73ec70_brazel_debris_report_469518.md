@@ -280,13 +280,13 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_braze
 
 ## Introduction
 
-Mac Brazel’s discovery of scattered debris on a remote New Mexico ranch is the starting point of the Roswell story. Long before claims of alien [bodies]({{ 'bodies/' | relative_url }}), crashed spacecraft, or government conspiracies emerged, there was a rancher who found an unusual field of wreckage and waited before reporting it. That delay is one of the most important and often misunderstood parts of the 1947 [timeline]({{ 'timeline/' | relative_url }}). It helps explain why the incident developed the way it did: the debris was not recovered immediately after a dramatic crash, but instead sat on the ground for days or possibly weeks before reaching military authorities. The gap between discovery and reporting created uncertainty that later allowed competing interpretations to flourish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles no...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+Mac Brazel’s discovery of scattered debris on a remote New Mexico ranch is the starting point of the Roswell story. Long before claims of alien [bodies]({{ 'bodies/' | relative_url }}), crashed spacecraft, or government conspiracies emerged, there was a rancher who found an unusual field of wreckage and waited before reporting it. That delay is one of the most important and often misunderstood parts of the 1947 [timeline]({{ 'timeline/' | relative_url }}). It helps explain why the incident developed the way it did: the debris was not recovered immediately after a dramatic crash, but instead sat on the ground for days or possibly weeks before reaching military authorities. The gap between discovery and reporting created uncertainty that later allowed competing interpretations to flourish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles no...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_brazel_debris_report_469518-Illustration-1-dark.svg" | relative_url }}" alt="Brazel Find illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_brazel_debris_report_469518-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_brazel_debris_report_469518-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Brazel Reportedly Found on the Ranch
 
-Contemporary descriptions attributed to Brazel were surprisingly mundane compared with later Roswell mythology. According to [newspaper]({{ 'newspaper/' | relative_url }}) accounts and later summaries of his statements, he encountered a large area covered with lightweight debris rather than an intact vehicle or obvious aircraft wreck. The material was described as [rubber strips]({{ 'rubber-strips/' | relative_url }}), foil-like metallic paper, sticks, tape, and tough paper-like components scattered across a broad section of ranchland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Skeptical Inquirer+3Smithsonian Magazine+3Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles no...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+Contemporary descriptions attributed to Brazel were surprisingly mundane compared with later Roswell mythology. According to [newspaper]({{ 'newspaper/' | relative_url }}) accounts and later summaries of his statements, he encountered a large area covered with lightweight debris rather than an intact vehicle or obvious aircraft wreck. The material was described as [rubber strips]({{ 'rubber-strips/' | relative_url }}), foil-like metallic paper, sticks, tape, and tough paper-like components scattered across a broad section of ranchland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles no...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 
 Several details stand out:
 
@@ -296,18 +296,18 @@ Several details stand out:
 * The debris was spread over a wide area rather than concentrated around a visible impact point.
 * Brazel did not report seeing engines, machinery, occupants, or a recognisable craft.
 * The material appeared unusual enough to attract attention but not so extraordinary that he immediately treated it as a major event.
-* Some accounts suggest he collected pieces and kept samples before contacting authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORT&quot; Brazel subsequently went to Roswell on July 7 and contacted the Sheriff, who apparently notified Major...</span></span></span>
+* Some accounts suggest he collected pieces and kept samples before contacting authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORT&quot; Brazel subsequently went to Roswell on July 7 and contacted the Sheriff, who apparently notified Major...</span></span></span>
 
 </div>
 
-These descriptions became crucial decades later because they closely resemble components associated with balloon equipment, including materials later linked by Air Force investigations to Project Mogul, a classified balloon programme operating in 1947. Whether one accepts that explanation or not, the contemporary descriptions are notably different from later claims of exotic metal spacecraft wreckage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2DAFHISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</span></span></span>
+These descriptions became crucial decades later because they closely resemble components associated with balloon equipment, including materials later linked by Air Force investigations to Project Mogul, a classified balloon programme operating in 1947. Whether one accepts that explanation or not, the contemporary descriptions are notably different from later claims of exotic metal spacecraft wreckage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/foJWblpzEjA" title="Ask an Expert: The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer">Ask an Expert: The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 300.9K &middot; Uploaded: April 2011 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=foJWblpzEjA">Open on YouTube</a></p></div></div></div>
 
 ## Why the Report Was Delayed
 
-One reason Brazel's role remains important is that he did not rush to the authorities immediately after finding the debris. Accounts differ on exact dates, but many reconstructions place the initial discovery in mid-June 1947, while his approach to authorities occurred in early July. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles no...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+One reason Brazel's role remains important is that he did not rush to the authorities immediately after finding the debris. Accounts differ on exact dates, but many reconstructions place the initial discovery in mid-June 1947, while his approach to authorities occurred in early July.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles no...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 
 Several factors likely contributed to the delay.
 
@@ -315,33 +315,33 @@ Several factors likely contributed to the delay.
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_brazel_debris_report_469518-Illustration-2-dark.svg" | relative_url }}" alt="Brazel Find illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_brazel_debris_report_469518-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_brazel_debris_report_469518-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Ranch Was Extremely Remote
 
-Brazel worked on ranchland dozens of miles from Roswell. Travelling to town was not a routine daily activity. A scattered field of unfamiliar material did not necessarily justify an immediate journey, particularly if it did not appear dangerous or valuable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles no...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+Brazel worked on ranchland dozens of miles from Roswell. Travelling to town was not a routine daily activity. A scattered field of unfamiliar material did not necessarily justify an immediate journey, particularly if it did not appear dangerous or valuable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles no...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 
 ### The Debris Did Not Initially Look Revolutionary
 
-By his own reported descriptions, the material resembled lightweight scraps rather than the remains of a recognisable aircraft. A rancher encountering foil, sticks, paper, and rubber might reasonably view it as discarded equipment or debris rather than evidence of a major event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths What rancher W</span><span class="citation-popover-snippet">W. (Mac) Brazel reported finding on his ranch, sixty miles northwest of Roswell, was simply this: Debris consisting of a large number of...</span></span></span>
+By his own reported descriptions, the material resembled lightweight scraps rather than the remains of a recognisable aircraft. A rancher encountering foil, sticks, paper, and rubber might reasonably view it as discarded equipment or debris rather than evidence of a major event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths What rancher W</span><span class="citation-popover-snippet">W. (Mac) Brazel reported finding on his ranch, sixty miles northwest of Roswell, was simply this: Debris consisting of a large number of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
 
 ### The National “Flying Saucer” Craze Changed the Context
 
-The summer of 1947 saw widespread media attention focused on reports of mysterious [flying discs]({{ 'flying-disc/' | relative_url }}). According to several accounts, Brazel became more interested in what he had found after hearing discussions about flying saucers. The debris that had seemed merely odd began to appear potentially relevant to a national story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2HH History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORT&quot; Brazel subsequently went to Roswell on July 7 and contacted the Sheriff, who apparently notified Major...</span></span></span>
+The summer of 1947 saw widespread media attention focused on reports of mysterious [flying discs]({{ 'flying-disc/' | relative_url }}). According to several accounts, Brazel became more interested in what he had found after hearing discussions about flying saucers. The debris that had seemed merely odd began to appear potentially relevant to a national story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORT&quot; Brazel subsequently went to Roswell on July 7 and contacted the Sheriff, who apparently notified Major...</span></span></span>
 
-This sequence matters because it suggests the Roswell case did not begin with a witness believing he had found an alien craft. Instead, the idea that the debris might be connected to a “flying disc” appears to have developed after discovery, influenced by the wider public atmosphere of 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Brazel, discovered some unusual debris near Roswell, New Mexico, in June. The material included tinfoil, rubber strips, and sticks. The...</span></span></span>
+This sequence matters because it suggests the Roswell case did not begin with a witness believing he had found an alien craft. Instead, the idea that the debris might be connected to a “flying disc” appears to have developed after discovery, influenced by the wider public atmosphere of 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Brazel, discovered some unusual debris near Roswell, New Mexico, in June. The material included tinfoil, rubber strips, and sticks. The...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_brazel_debris_report_469518-Illustration-3-dark.svg" | relative_url }}" alt="Brazel Find illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_brazel_debris_report_469518-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1947_recovery_timeli_73ec70_brazel_debris_report_469518-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Report Reached Authorities
 
-When Brazel finally decided to act, he followed a practical local route. Rather than contacting newspapers or promoting a sensational claim, he went to Sheriff George Wilcox in Roswell. The sheriff then contacted personnel at Roswell Army Air Field, leading to military involvement and recovery of the debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lbl.gov">[Muller Lab+2Seeroswell]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul THE ROSWELL INCIDENT On</span><span class="citation-popover-snippet">Muller LabProject MogulTHE ROSWELL INCIDENT On July 7, 1947, W.W. (Mac) Brazel, a rancher from approximately 75 miles northwest of Roswel...</span></span></span>
+When Brazel finally decided to act, he followed a practical local route. Rather than contacting newspapers or promoting a sensational claim, he went to Sheriff George Wilcox in Roswell. The sheriff then contacted personnel at Roswell Army Air Field, leading to military involvement and recovery of the debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul THE ROSWELL INCIDENT On</span><span class="citation-popover-snippet">Muller LabProject MogulTHE ROSWELL INCIDENT On July 7, 1947, W.W. (Mac) Brazel, a rancher from approximately 75 miles northwest of Roswel...</span></span></span>
 
 This chain of events gave the case unusual credibility. Many UFO stories begin with eyewitness reports alone. Roswell began with physical material moving through identifiable channels:
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TV0Xm9ZgiKQ" title="8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer">8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 3.1K &middot; Uploaded: July 2017 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ">Open on YouTube</a></p></div></div></div>
 
-1. Brazel discovered debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">did aliens really land</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND?22 Jun 1997 — On the day Brazel chanced upon the strange debris, June 14, 1947, he was making his rounds at th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+1. Brazel discovered debris.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">did aliens really land</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND?22 Jun 1997 — On the day Brazel chanced upon the strange debris, June 14, 1947, he was making his rounds at th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 2. Brazel consulted local contacts and eventually the sheriff.
 3. The sheriff notified military authorities.
 4. Military personnel inspected and collected the material. [Muller Lab+2Blogs](https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html)
@@ -365,194 +365,194 @@ Brazel's discovery remains important because it anchors the Roswell narrative in
 That combination—a remote discovery, an interval before reporting, and a debris field described in relatively ordinary terms—created the foundation upon which every later Roswell claim was built. Without Brazel's delayed decision to report what he found, there would likely have been no Roswell incident as it is remembered today. [Muller Lab+2Blogs](https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Brazel&#x27;s Ranch Find Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Brazel&#x27;s Ranch Find Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Includes extensive discussion of Mac Brazel and debris accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes extensive discussion of Mac Brazel and debris accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Evaluates Brazel&#x27;s descriptions and reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Evaluates Brazel&#x27;s descriptions and reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jGXPQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jGXPQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Focuses on the debris field and recovery story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the debris field and recovery story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Retells the debris discovery that launched the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Retells the debris discovery that launched the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="https://i.ebayimg.com/images/g/4qcAAeSwSoFqDh-N/s-l225.jpg" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vTwAAeSw-2ppy~rQ/s-l225.jpg" alt="Listing image for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/1GEAAeSw3KdpYAOG/s-l225.jpg" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="brazel-find-why-brazel-s-ranch-find-still-matters-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Q1kAAeSw6Sxp1S37/s-l225.jpg" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-brazel-s-ranch-find-still-matters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="why-brazel-s-ranch-find-still-matters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ That combination—a remote discovery, an interval before reporting, and a debri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ That combination—a remote discovery, an interval before reporting, and a debri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ That combination—a remote discovery, an interval before reporting, and a debri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ That combination—a remote discovery, an interval before reporting, and a debri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ That combination—a remote discovery, an interval before reporting, and a debri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,162 +758,162 @@ That combination—a remote discovery, an interval before reporting, and a debri
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?22 Jun 1997 — On the day Brazel chanced upon the strange debris, June 14, 1947, he was making his rounds at th...</p></details>
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?22 Jun 1997 — On the day Brazel chanced upon the strange debris, June 14, 1947, he was making his rounds at th...</p></details>
    Published: June 14, 1947  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project [MOGUL balloon train](&amp;#123;&amp;#123; &#x27;balloon-train/&#x27; | relative_url &amp;#125;&amp;#125;) similar to one found on a ranch. 75 miles n...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project [MOGUL balloon train](&amp;#123;&amp;#123; &#x27;balloon-train/&#x27; | relative_url &amp;#125;&amp;#125;) similar to one found on a ranch. 75 miles n...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThe importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives from his description of Project MOGUL, the top-pri...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThe importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives from his description of Project MOGUL, the top-pri...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: seeroswell.com  
    Title: the 1947 roswell incident  
-   Link: <a href="https://seeroswell.com/the-1947-roswell-incident/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/the-1947-roswell-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They urged him to report his find to the authorities. On Sunday July 6, Brazel drove into Roswell bringing his story and some of the debr...</p></details>
+   Link:<a href="https://seeroswell.com/the-1947-roswell-incident/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/the-1947-roswell-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They urged him to report his find to the authorities. On Sunday July 6, Brazel drove into Roswell bringing his story and some of the debr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazel, discovered some unusual debris near Roswell, New Mexico, in June. The material included tinfoil, rubber strips, and sticks. The...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazel, discovered some unusual debris near Roswell, New Mexico, in June. The material included tinfoil, rubber strips, and sticks. The...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: CHANNEL ITALIAU.S  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
    Published: June 24, 1997  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles no...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland some 80 miles no...</p></details>
    Published: June 14, 1947  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORT&quot; Brazel subsequently went to Roswell on July 7 and contacted the Sheriff, who apparently notified Major...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORT&quot; Brazel subsequently went to Roswell on July 7 and contacted the Sheriff, who apparently notified Major...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skepticalinquirer.org  
    Title: roswell ufo strange metal mystery  
-   Link: <a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — The next day&#x27;s paper told how rancher “Mac” Brazel had described an area of the wreckage...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — The next day&#x27;s paper told how rancher “Mac” Brazel had described an area of the wreckage...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths What rancher W  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W. (Mac) Brazel reported finding on his ranch, sixty miles northwest of Roswell, was simply this: Debris consisting of a large number of...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. (Mac) Brazel reported finding on his ranch, sixty miles northwest of Roswell, was simply this: Debris consisting of a large number of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blogs.library.unt.edu  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</p></details>
    Published: July 7, 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy](&amp;#123;&amp;#123; &#x27;legacy/&#x27; | relative_url &amp;#125;&amp;#125;) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy](&amp;#123;&amp;#123; &#x27;legacy/&#x27; | relative_url &amp;#125;&amp;#125;) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hhhistory.com  
    Title: the roswell incident of 1947 whats it  
-   Link: <a href="https://www.hhhistory.com/2020/07/the-roswell-incident-of-1947-whats-it.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhhistory.com/2020/07/the-roswell-incident-of-1947-whats-it.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident of 1947: What&#x27;s it all about6 Jul 2020 — Sometime between mid-June and early July 1947, rancher WW “Mac” Brazel foun...</p></details>
+   Link:<a href="https://www.hhhistory.com/2020/07/the-roswell-incident-of-1947-whats-it.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhhistory.com/2020/07/the-roswell-incident-of-1947-whats-it.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident of 1947: What&#x27;s it all about6 Jul 2020 — Sometime between mid-June and early July 1947, rancher WW “Mac” Brazel foun...</p></details>
    Published: July 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/rw/p/roswelldailychronicle9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/roswelldailychronicle9jul1947.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell 1947 - newspapers in 194725 Mar 2005 — Brazel was brought here late yesterday by W.E. Whitmore, of radio station KGFL, ha...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/rw/p/roswelldailychronicle9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/roswelldailychronicle9jul1947.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell 1947 - newspapers in 194725 Mar 2005 — Brazel was brought here late yesterday by W.E. Whitmore, of radio station KGFL, ha...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: apple.com  
-   Link: <a href="https://www.apple.com/tr/mac/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/tr/mac/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple (TR)Şimdiye kadarki en güçlü Mac laptoplar ve masaüstü bilgisayarlar. Süper güçlü Apple çip. MacBook Neo, MacBook Air, MacBook Pro...</p></details>
+   Link:<a href="https://www.apple.com/tr/mac/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/tr/mac/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple (TR)Şimdiye kadarki en güçlü Mac laptoplar ve masaüstü bilgisayarlar. Süper güçlü Apple çip. MacBook Neo, MacBook Air, MacBook Pro...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uapledger.com  
    Title: Roswell Incident  
-   Link: <a href="https://www.uapledger.com/cases/roswell-incident-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.uapledger.com/cases/roswell-incident-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP LedgerMay 31, 2026 — On July 7, 1947, rancher W.W. &quot;Mac&quot; Brazel reported debris scattered across Foster Ranch near Corona, New Mexico...</p></details>
+   Link:<a href="https://www.uapledger.com/cases/roswell-incident-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.uapledger.com/cases/roswell-incident-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP LedgerMay 31, 2026 — On July 7, 1947, rancher W.W. &quot;Mac&quot; Brazel reported debris scattered across Foster Ranch near Corona, New Mexico...</p></details>
    Published: May 31, 2026  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: roswell-nm.gov  
-   Link: <a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteSeeRoswell app available. App features local things to do, shopping, dining, lodging, tours, events, trip p...</p></details>
+   Link:<a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteSeeRoswell app available. App features local things to do, shopping, dining, lodging, tours, events, trip p...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: studioremarkable.com  
-   Link: <a href="https://www.studioremarkable.com/early-non-fiction/the-roswell-ufo-incident/76/" target="_blank" rel="noopener noreferrer nofollow">https://www.studioremarkable.com/early-non-fiction/the-roswell-ufo-incident/76/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO IncidentWhat Brazel found on July 7th, was merely debris. What the Archeaologists and military found on the morning of Ju...</p></details>
+   Link:<a href="https://www.studioremarkable.com/early-non-fiction/the-roswell-ufo-incident/76/" target="_blank" rel="noopener noreferrer nofollow">https://www.studioremarkable.com/early-non-fiction/the-roswell-ufo-incident/76/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO IncidentWhat Brazel found on July 7th, was merely debris. What the Archeaologists and military found on the morning of Ju...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: in 1947 rancher mac brazel discovered unusual debris scattered over an area appr  
-   Link: <a href="https://www.facebook.com/curatoractual/posts/in-1947-rancher-mac-brazel-discovered-unusual-debris-scattered-over-an-area-appr/459443770134359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/curatoractual/posts/in-1947-rancher-mac-brazel-discovered-unusual-debris-scattered-over-an-area-appr/459443770134359/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1947, rancher Mac Brazel discovered unusual debris...In 1947, rancher Mac Brazel discovered unusual debris scattered over an area app...</p></details>
+   Link:<a href="https://www.facebook.com/curatoractual/posts/in-1947-rancher-mac-brazel-discovered-unusual-debris-scattered-over-an-area-appr/459443770134359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/curatoractual/posts/in-1947-rancher-mac-brazel-discovered-unusual-debris-scattered-over-an-area-appr/459443770134359/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1947, rancher Mac Brazel discovered unusual debris...In 1947, rancher Mac Brazel discovered unusual debris scattered over an area app...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s 1994 report was correct. Roswell&#x27;s &#x27;flying saucer&#x27; crash had just been debris from a top secret &#x27;Project Mogul...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s 1994 report was correct. Roswell&#x27;s &#x27;flying saucer&#x27; crash had just been debris from a top secret &#x27;Project Mogul...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: maccosmetics.com  
    Title: MA C Cosmetics | Beauty and Makeup Products  
-   Link: <a href="https://www.maccosmetics.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.maccosmetics.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MAC Cosmetics | Beauty and Makeup Products - Official SiteShop our iconic best-sellers, trending launches and exclusive collections. Limi...</p></details>
+   Link:<a href="https://www.maccosmetics.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.maccosmetics.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MAC Cosmetics | Beauty and Makeup Products - Official SiteShop our iconic best-sellers, trending launches and exclusive collections. Limi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1216hoh/what_are_your_thoughts_on_the_roswell_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1216hoh/what_are_your_thoughts_on_the_roswell_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Series. Have an idea for a question we could ask? Let us know...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1216hoh/what_are_your_thoughts_on_the_roswell_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1216hoh/what_are_your_thoughts_on_the_roswell_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Series. Have an idea for a question we could ask? Let us know...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: tjhs.dpsk12.org  
    Title: the unsolved facade of roswell  
-   Link: <a href="https://tjhs.dpsk12.org/the-unsolved-facade-of-roswell/" target="_blank" rel="noopener noreferrer nofollow">https://tjhs.dpsk12.org/the-unsolved-facade-of-roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Facade Of RoswellDec 4, 2019 — In 1947, a local rancher named Mac Brazel found himself in this situation.... Mac Brazel visited...</p></details>
+   Link:<a href="https://tjhs.dpsk12.org/the-unsolved-facade-of-roswell/" target="_blank" rel="noopener noreferrer nofollow">https://tjhs.dpsk12.org/the-unsolved-facade-of-roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Facade Of RoswellDec 4, 2019 — In 1947, a local rancher named Mac Brazel found himself in this situation.... Mac Brazel visited...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ihstattler.com  
-   Link: <a href="https://ihstattler.com/blog/2023/06/from-the-archives-excerpts-from-the-tattler-issues-of-yesteryear-6/" target="_blank" rel="noopener noreferrer nofollow">https://ihstattler.com/blog/2023/06/from-the-archives-excerpts-from-the-tattler-issues-of-yesteryear-6/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Archives: Excerpts from The Tattler Issues of...In the summer of 1947, William Ware “Mack” Brazel encountered a strange pile of...</p></details>
+   Link:<a href="https://ihstattler.com/blog/2023/06/from-the-archives-excerpts-from-the-tattler-issues-of-yesteryear-6/" target="_blank" rel="noopener noreferrer nofollow">https://ihstattler.com/blog/2023/06/from-the-archives-excerpts-from-the-tattler-issues-of-yesteryear-6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the Archives: Excerpts from The Tattler Issues of...In the summer of 1947, William Ware “Mack” Brazel encountered a strange pile of...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: jimmyakin.com  
    Title: Happy Roswell Incident Day!  
-   Link: <a href="https://jimmyakin.com/2005/07/happy_roswell_i.html" target="_blank" rel="noopener noreferrer nofollow">https://jimmyakin.com/2005/07/happy_roswell_i.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Akin3 Jul 2005 — Today, July 3 in 1947, Rancher Mack Brazel of New Mexico (left) was out riding with a neighbor kid and ran across...</p></details>
+   Link:<a href="https://jimmyakin.com/2005/07/happy_roswell_i.html" target="_blank" rel="noopener noreferrer nofollow">https://jimmyakin.com/2005/07/happy_roswell_i.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Akin3 Jul 2005 — Today, July 3 in 1947, Rancher Mack Brazel of New Mexico (left) was out riding with a neighbor kid and ran across...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: skyatnightmagazine.com  
    Title: roswell ufo incident  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>facts and historyJun 26, 2025 — On 7 July a local rancher named &#x27;Mac&#x27; Brazel contacted the sheriff in Roswell to say he&#x27;d discovered stra...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>facts and historyJun 26, 2025 — On 7 July a local rancher named &#x27;Mac&#x27; Brazel contacted the sheriff in Roswell to say he&#x27;d discovered stra...</p></details>

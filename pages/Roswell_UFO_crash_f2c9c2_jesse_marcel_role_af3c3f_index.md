@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-jesse-marcel/
 description: Focused pages that expand on Marcel.
-date: '2026-06-20'
+date: '2026'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f
 parent_title: Marcel
@@ -16,7 +16,7 @@ parent_permalink: /marcel/
 
 # Explore Topics in Marcel
 
-The following pages expand on the main **[Marcel]({{ '/marcel/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Marcel]({{ '/marcel/' | relative_url }})** page and cover its key branches in.
 
 - [Photo Dispute]({{ '/photo-dispute/' | relative_url }})
 - [Credibility]({{ '/credibility/' | relative_url }})

@@ -280,7 +280,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_b
 
 ## Introduction
 
-One of the less-discussed parts of the U.S. Air Force’s 1997 attempt to explain Roswell “alien body” stories was not the famous crash-test dummies at all. It was a real aircraft disaster. In *The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})*, Air Force investigators argued that some of the most graphic claims about bodies, hospital activity, unusual remains and autopsy procedures may have been influenced by memories of a fatal 1956 KC-97 Stratotanker crash near Roswell rather than by events in July 1947. According to the report, later witnesses may have merged details from several genuine military incidents into a single Roswell narrative, a process the Air Force described as [memory compression]({{ 'memory-merge/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;most likely a combination of two separate incidents: 1) a 1956 KC-97 ai...</span></span></span>
+One of the less-discussed parts of the U.S. Air Force’s 1997 attempt to explain Roswell “alien body” stories was not the famous crash-test dummies at all. It was a real aircraft disaster. In *The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})*, Air Force investigators argued that some of the most graphic claims about bodies, hospital activity, unusual remains and autopsy procedures may have been influenced by memories of a fatal 1956 KC-97 Stratotanker crash near Roswell rather than by events in July 1947. According to the report, later witnesses may have merged details from several genuine military incidents into a single Roswell narrative, a process the Air Force described as [memory compression]({{ 'memory-merge/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;most likely a combination of two separate incidents: 1) a 1956 KC-97 ai...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_body_claims_546af3-Illustration-1-dark.svg" | relative_url }}" alt="KC 97 Crash illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_body_claims_546af3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_body_claims_546af3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,11 +291,11 @@ The [KC-97]({{ 'kc-97/' | relative_url }}) case matters because it addresses a s
 
 ## What Happened Near Walker Air Force Base
 
-On 26 June 1956, a Boeing KC-97 Stratotanker assigned to operations at Walker [Air Force]({{ 'air-force/' | relative_url }}) Base near Roswell crashed shortly after take-off. The aircraft caught fire, crashed roughly nine miles south of the base and exploded, killing all eleven crew members aboard. Contemporary reports described a fiery crash with wreckage scattered across the impact area. usdeadlyevents.com+2Bureau of Aircraft Accidents Archives <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usdeadlyevents.com">[usdeadlyevents.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usdeadlyevents.com</span><span class="citation-popover-snippet">takeoff in an open field ten miles south of nearby Walker Air Force base...Read more...</span></span></span>
+On 26 June 1956, a Boeing KC-97 Stratotanker assigned to operations at Walker [Air Force]({{ 'air-force/' | relative_url }}) Base near Roswell crashed shortly after take-off. The aircraft caught fire, crashed roughly nine miles south of the base and exploded, killing all eleven crew members aboard. Contemporary reports described a fiery crash with wreckage scattered across the impact area. usdeadlyevents.com+2Bureau of Aircraft Accidents Archives<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usdeadlyevents.com">[usdeadlyevents.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usdeadlyevents.com</span><span class="citation-popover-snippet">takeoff in an open field ten miles south of nearby Walker Air Force base...Read more...</span></span></span>
 
-The accident was a major local military tragedy. Walker Air Force Base was one of the most important Strategic Air Command installations in the United States during the Cold War, and the loss of an entire crew generated extensive recovery and identification efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usdeadlyevents.com">[usdeadlyevents.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usdeadlyevents.com</span><span class="citation-popover-snippet">takeoff in an open field ten miles south of nearby Walker Air Force base...Read more...</span></span></span>
+The accident was a major local military tragedy. Walker Air Force Base was one of the most important Strategic Air Command installations in the United States during the Cold War, and the loss of an entire crew generated extensive recovery and identification efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usdeadlyevents.com">[usdeadlyevents.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usdeadlyevents.com</span><span class="citation-popover-snippet">takeoff in an open field ten miles south of nearby Walker Air Force base...Read more...</span></span></span>
 
-For Roswell researchers, the significance of the crash lies less in the accident itself than in what happened afterwards. Recovery teams collected badly burned remains, identification procedures were conducted on the base, and some victims underwent autopsy examinations. These are precisely the kinds of activities that later appeared in stories about recovered non-human bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</span><span class="citation-popover-meta">Published: June 26, 1956</span></span></span>
+For Roswell researchers, the significance of the crash lies less in the accident itself than in what happened afterwards. Recovery teams collected badly burned remains, identification procedures were conducted on the base, and some victims underwent autopsy examinations. These are precisely the kinds of activities that later appeared in stories about recovered non-human bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</span><span class="citation-popover-meta">Published: June 26, 1956</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AlFuucsLIVk" title="Were Alien Bodies Found At Roswell&#x27;s UFO Crash?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer">Were Alien Bodies Found At Roswell&#x27;s UFO Crash?</a></p><p class="youtube-embed-meta">Channel: The Rest Is Classified &middot; Views: 4.4K &middot; Uploaded: June 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AlFuucsLIVk">Open on YouTube</a></p></div></div></div>
@@ -304,241 +304,241 @@ For Roswell researchers, the significance of the crash lies less in the accident
 
 The Air Force's 1997 investigation focused heavily on claims made by Roswell witnesses who described strange medical activity, body storage and autopsies.
 
-A central figure in many Roswell body narratives was mortician [Glenn Dennis]({{ 'glenn-dennis/' | relative_url }}). Dennis claimed that he received unusual inquiries from military personnel, encountered reports of strange bodies and heard stories involving autopsies at the Roswell base hospital. His account became one of the most influential sources for later alien-body claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</span><span class="citation-popover-meta">Published: June 26, 1956</span></span></span>
+A central figure in many Roswell body narratives was mortician [Glenn Dennis]({{ 'glenn-dennis/' | relative_url }}). Dennis claimed that he received unusual inquiries from military personnel, encountered reports of strange bodies and heard stories involving autopsies at the Roswell base hospital. His account became one of the most influential sources for later alien-body claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</span><span class="citation-popover-meta">Published: June 26, 1956</span></span></span>
 
 When Air Force researchers examined records connected to the 1956 KC-97 crash, they found several striking parallels:
 
 * Eleven airmen were killed in the accident.
-* Initial identification procedures involved the Walker Air Force Base hospital. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Walker_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walker Air Force Base</span><span class="citation-popover-snippet">Walker Air Force Base</span></span></span>
+* Initial identification procedures involved the Walker Air Force Base hospital.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Walker_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walker Air Force Base</span><span class="citation-popover-snippet">Walker Air Force Base</span></span></span>
 * The hospital lacked adequate mortuary facilities for handling multiple fatalities.
 * The remains were later moved to facilities with refrigeration capability.
 * Three of the victims underwent autopsies.
-* Those autopsies were conducted at Ballard Funeral Home in Roswell, the same funeral home associated with Dennis's later claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</span><span class="citation-popover-meta">Published: June 26, 1956</span></span></span>
+* Those autopsies were conducted at Ballard Funeral Home in Roswell, the same funeral home associated with Dennis's later claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</span><span class="citation-popover-meta">Published: June 26, 1956</span></span></span>
 
-The report also noted that personnel involved in processing the victims remembered a powerful odour associated with the remains. Investigators considered this significant because unusual smells appear repeatedly in later Roswell body accounts. According to the Air Force reconstruction, the bodies were initially brought to the base hospital, but identification work was moved because the odour became overwhelming. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</span><span class="citation-popover-meta">Published: June 26, 1956</span></span></span>
+The report also noted that personnel involved in processing the victims remembered a powerful odour associated with the remains. Investigators considered this significant because unusual smells appear repeatedly in later Roswell body accounts. According to the Air Force reconstruction, the bodies were initially brought to the base hospital, but identification work was moved because the odour became overwhelming.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</span><span class="citation-popover-meta">Published: June 26, 1956</span></span></span>
 
-The Air Force did not argue that witnesses deliberately fabricated stories. Instead, it suggested that genuine memories of a highly unusual military fatality event could later have been recalled in a different context and attached to the already-famous Roswell story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;most likely a combination of two separate incidents: 1) a 1956 KC-97 ai...</span></span></span>
+The Air Force did not argue that witnesses deliberately fabricated stories. Instead, it suggested that genuine memories of a highly unusual military fatality event could later have been recalled in a different context and attached to the already-famous Roswell story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;most likely a combination of two separate incidents: 1) a 1956 KC-97 ai...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_body_claims_546af3-Illustration-2-dark.svg" | relative_url }}" alt="KC 97 Crash illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_body_claims_546af3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_body_claims_546af3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Accident Memories Could Migrate
 
-The KC-97 explanation forms part of the broader memory-compression model proposed in *Case Closed*. The report argued that [body stories]({{ 'body-stories/' | relative_url }}) emerged decades after the original 1947 debris recovery and often contained details more consistent with later military events than with anything documented in 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report&quot;Aliens&quot; observed in the New Mexico desert were actually anthropomorphic test dummies that were carried a...</span></span></span>
+The KC-97 explanation forms part of the broader memory-compression model proposed in *Case Closed*. The report argued that [body stories]({{ 'body-stories/' | relative_url }}) emerged decades after the original 1947 debris recovery and often contained details more consistent with later military events than with anything documented in 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report&quot;Aliens&quot; observed in the New Mexico desert were actually anthropomorphic test dummies that were carried a...</span></span></span>
 
 Under this interpretation, several separate experiences could become blended:
 
 * The 1947 recovery of unusual military debris.
 * High-altitude dummy recovery operations during the 1950s.
 * The 1956 KC-97 fatal crash and its medical aftermath.
-* Other later military incidents involving injured personnel or recovery operations. U.S. Department of War+2U.S. Air Force <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media](&amp;#123;&amp;#123; &#x27;media/&#x27; &#124; relative_url &amp;#125;&amp;#125;). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;most likely a combination of two separate incidents: 1) a 1956 KC-97 ai...</span></span></span>
+* Other later military incidents involving injured personnel or recovery operations. U.S. Department of War+2U.S. Air Force<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[[media]({{ &#x27;media/&#x27; | relative_url }}). defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;most likely a combination of two separate incidents: 1) a 1956 KC-97 ai...</span></span></span>
 
-Psychologists have long documented that memories are reconstructive rather than perfect recordings. When events share locations, military personnel, secrecy, recovery operations and strong emotional impact, details can migrate between memories over time. The Air Force's argument relied on this mechanism rather than on a claim that witnesses literally observed the wrong event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report&quot;Aliens&quot; observed in the New Mexico desert were actually anthropomorphic test dummies that were carried a...</span></span></span>
+Psychologists have long documented that memories are reconstructive rather than perfect recordings. When events share locations, military personnel, secrecy, recovery operations and strong emotional impact, details can migrate between memories over time. The Air Force's argument relied on this mechanism rather than on a claim that witnesses literally observed the wrong event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell Report&quot;Aliens&quot; observed in the New Mexico desert were actually anthropomorphic test dummies that were carried a...</span></span></span>
 
-The location factor is especially important. The KC-97 crash occurred in the Roswell area and involved the same military community that later became associated with UFO stories. For witnesses recalling events decades later, separate incidents could become linked through place, personnel and repeated retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usdeadlyevents.com">[usdeadlyevents.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usdeadlyevents.com</span><span class="citation-popover-snippet">takeoff in an open field ten miles south of nearby Walker Air Force base...Read more...</span></span></span>
+The location factor is especially important. The KC-97 crash occurred in the Roswell area and involved the same military community that later became associated with UFO stories. For witnesses recalling events decades later, separate incidents could become linked through place, personnel and repeated retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usdeadlyevents.com">[usdeadlyevents.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usdeadlyevents.com</span><span class="citation-popover-snippet">takeoff in an open field ten miles south of nearby Walker Air Force base...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
 
 ## How Convincing Is the KC-97 Explanation?
 
-The KC-97 crash provides one of the strongest components of the Air Force's explanation for hospital and autopsy-related Roswell claims because it is based on a documented event rather than speculation. Records confirm the crash, the fatalities, the handling of remains, and the involvement of local facilities later mentioned in Roswell narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usdeadlyevents.com">[usdeadlyevents.com+2Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usdeadlyevents.com</span><span class="citation-popover-snippet">takeoff in an open field ten miles south of nearby Walker Air Force base...Read more...</span></span></span>
+The KC-97 crash provides one of the strongest components of the Air Force's explanation for hospital and autopsy-related Roswell claims because it is based on a documented event rather than speculation. Records confirm the crash, the fatalities, the handling of remains, and the involvement of local facilities later mentioned in Roswell narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usdeadlyevents.com">[usdeadlyevents.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usdeadlyevents.com</span><span class="citation-popover-snippet">takeoff in an open field ten miles south of nearby Walker Air Force base...Read more...</span></span></span>
 
-However, critics of the Air Force report have argued that similarities do not necessarily prove that specific witnesses confused one event with another. They note that the crash occurred nine years after the original Roswell incident and that some witnesses insisted they were describing events from 1947 rather than later memories. The dispute therefore centres on memory reliability rather than on whether the KC-97 accident actually happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Case Closed:by BD GILDENBERG · 1998 · Cited by 1 — The only dummies are the Air Force people who thought we&#x27;d buy this yarn!&quot; The fact th...</span></span></span>
+However, critics of the Air Force report have argued that similarities do not necessarily prove that specific witnesses confused one event with another. They note that the crash occurred nine years after the original Roswell incident and that some witnesses insisted they were describing events from 1947 rather than later memories. The dispute therefore centres on memory reliability rather than on whether the KC-97 accident actually happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Case Closed:by BD GILDENBERG · 1998 · Cited by 1 — The only dummies are the Air Force people who thought we&#x27;d buy this yarn!&quot; The fact th...</span></span></span>
 
-Even so, the KC-97 crash remains a key piece of the Air Force's case because it addresses details that dummy drops alone could not explain. Burned bodies, mortuary procedures, autopsies, hospital activity and strong odours all existed in a documented Roswell-area event from 1956. Whether that event genuinely influenced later witness accounts remains debated, but it offers a concrete historical source for some of the most vivid elements of the Roswell body stories. Project Gutenberg+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[gutenberg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</span><span class="citation-popover-meta">Published: June 26, 1956</span></span></span>
+Even so, the KC-97 crash remains a key piece of the Air Force's case because it addresses details that dummy drops alone could not explain. Burned bodies, mortuary procedures, autopsies, hospital activity and strong odours all existed in a documented Roswell-area event from 1956. Whether that event genuinely influenced later witness accounts remains debated, but it offers a concrete historical source for some of the most vivid elements of the Roswell body stories. Project Gutenberg+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[gutenberg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</span><span class="citation-popover-meta">Published: June 26, 1956</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_body_claims_546af3-Illustration-3-dark.svg" | relative_url }}" alt="KC 97 Crash illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_body_claims_546af3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b_kc97_body_claims_546af3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Real Crash Behind Some Body Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Real Crash Behind Some Body Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
-        </h4>
-        <p class="fr-book-author">By James McAndrew</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
+</h4>
+<p class="fr-book-author">By James McAndrew</p>
         
-        <p class="fr-book-desc">Directly addresses the KC-97 crash, test dummies, witness memories, and the Air Force&#x27;s memory-compression argument.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the KC-97 crash, test dummies, witness memories, and the Air Force&#x27;s memory-compression argument.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines witness testimony, memory issues, and mundane explanations for body-recovery stories associated with Roswell.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness testimony, memory issues, and mundane explanations for body-recovery stories associated with Roswell.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Represents the influential body-recovery narrative that later investigations attempted to explain and rebut.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the influential body-recovery narrative that later investigations attempted to explain and rebut.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Provides the witness-based claims about bodies and recovery operations that are central to the debate discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the witness-based claims about bodies and recovery operations that are central to the debate discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist"><img src="{{ '/assets/images/marketplace-covers/dc95e94cc92f8066d056.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist"><img src="{{ '/assets/images/marketplace-covers/dc95e94cc92f8066d056.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible"><img src="{{ '/assets/images/marketplace-covers/2e5350de14f0cddd4919.jpg' | relative_url }}" alt="Listing image for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible"><img src="{{ '/assets/images/marketplace-covers/2e5350de14f0cddd4919.jpg' | relative_url }}" alt="Listing image for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel"><img src="{{ '/assets/images/marketplace-covers/fb1b88ca2b2890a74e31.jpg' | relative_url }}" alt="Listing image for Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel"><img src="{{ '/assets/images/marketplace-covers/fb1b88ca2b2890a74e31.jpg' | relative_url }}" alt="Listing image for Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir"><img src="{{ '/assets/images/marketplace-covers/fe53f32627aa3a3a0f21.jpg' | relative_url }}" alt="Listing image for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir"><img src="{{ '/assets/images/marketplace-covers/fe53f32627aa3a3a0f21.jpg' | relative_url }}" alt="Listing image for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="kc-97-crash-the-real-crash-behind-some-body-stories-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Even so, the KC-97 crash remains a key piece of the Air Force's case because it 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Even so, the KC-97 crash remains a key piece of the Air Force's case because it 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Even so, the KC-97 crash remains a key piece of the Air Force's case because it 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ Even so, the KC-97 crash remains a key piece of the Air Force's case because it 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ Even so, the KC-97 crash remains a key piece of the Air Force's case because it 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,123 +744,123 @@ Even so, the KC-97 crash remains a key piece of the Air Force's case because it 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;most likely a combination of two separate incidents: 1) a 1956 KC-97 ai...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;most likely a combination of two separate incidents: 1) a 1956 KC-97 ai...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: usdeadlyevents.com  
-   Link: <a href="https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>takeoff in an open field ten miles south of nearby Walker Air Force base...Read more...</p></details>
+   Link:<a href="https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.usdeadlyevents.com/1956-june-26-usaf-kc-97-tanker-fire-crash-after-takeoff-10m-walker-afb-nm-all-11/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>takeoff in an open field ten miles south of nearby Walker Air Force base...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...Three of the 11 Air Force members killed in the June 26, 1956 KC...</p></details>
    Published: June 26, 1956  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Closed:by BD GILDENBERG · 1998 · Cited by 1 — The only [dummies](&amp;#123;&amp;#123; &#x27;dummies/&#x27; | relative_url &amp;#125;&amp;#125;) are the Air Force people who thought we&#x27;d buy this yarn!&quot; The fact th...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case Closed:by BD GILDENBERG · 1998 · Cited by 1 — The only [dummies](&amp;#123;&amp;#123; &#x27;dummies/&#x27; | relative_url &amp;#125;&amp;#125;) are the Air Force people who thought we&#x27;d buy this yarn!&quot; The fact th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: time.com  
    Title: aliens or dummies  
-   Link: <a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jun 1997 — According to “The Roswell Report, Case Closed,” life-sized latex and aluminum test dummies were used in high-altitude parac...</p></details>
+   Link:<a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jun 1997 — According to “The Roswell Report, Case Closed,” life-sized latex and aluminum test dummies were used in high-altitude parac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell Report&quot;Aliens&quot; observed in the New Mexico desert were actually anthropomorphic test dummies that were carried a...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell Report&quot;Aliens&quot; observed in the New Mexico desert were actually anthropomorphic test dummies that were carried a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: baaa-acro.com  
    Title: crash archives  
-   Link: <a href="https://www.baaa-acro.com/crash-archives?field_crash_city_target_id=Walker+AFB+%28Roswell%29+%2827772%29" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/crash-archives?field_crash_city_target_id=Walker+AFB+%28Roswell%29+%2827772%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Aircraft Accidents ArchivesAccident ArchivesJun 26, 1956, Boeing KC-97 Stratotanker, Walker AFB (Roswell), New Mexico; Feb 18...</p></details>
+   Link:<a href="https://www.baaa-acro.com/crash-archives?field_crash_city_target_id=Walker+AFB+%28Roswell%29+%2827772%29" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/crash-archives?field_crash_city_target_id=Walker+AFB+%28Roswell%29+%2827772%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Aircraft Accidents ArchivesAccident ArchivesJun 26, 1956, Boeing KC-97 Stratotanker, Walker AFB (Roswell), New Mexico; Feb 18...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Walker Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Walker_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walker_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Walker_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walker_Air_Force_Base</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 days ago — The 1997 Air Force report suggested that storie...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 days ago — The 1997 Air Force report suggested that storie...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident... dummies, as suggested by the Air Force in their 1997 report. Pflock argues that proponents of the crashed-saucer e...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident... dummies, as suggested by the Air Force in their 1997 report. Pflock argues that proponents of the crashed-saucer e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but dummies used...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but dummies used...</p></details>
    Published: June 24, 1997  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of accidents and incidents involving military aircraft (1955–1959)  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_military_aircraft_%281955%E2%80%931959%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_military_aircraft_%281955%E2%80%931959%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of accidents and incidents involving military aircraft...This is a list of notable accidents and incidents involving military ai...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_military_aircraft_%281955%E2%80%931959%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_military_aircraft_%281955%E2%80%931959%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of accidents and incidents involving military aircraft...This is a list of notable accidents and incidents involving military ai...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ies that were carried aloft by US Air Force high altitude balloons for...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ies that were carried aloft by US Air Force high altitude balloons for...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: librivox.org  
    Title: the roswell report case closed by james mcandrew  
-   Link: <a href="https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/" target="_blank" rel="noopener noreferrer nofollow">https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed11 Feb 2021 —... alien bodies associated with the “Roswell Incident.” This report discusses the results o...</p></details>
+   Link:<a href="https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/" target="_blank" rel="noopener noreferrer nofollow">https://librivox.org/the-roswell-report-case-closed-by-james-mcandrew/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed11 Feb 2021 —... alien bodies associated with the “Roswell Incident.” This report discusses the results o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: leonarddavid.com  
    Title: roswell rebuke ufo symbol patches in the past  
-   Link: <a href="https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Rebuke: UFO Symbol Patches in the Past9 Mar 2024 — The alleged “alien” bodies reported by some in the New Mexico desert, the Air...</p></details>
+   Link:<a href="https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Rebuke: UFO Symbol Patches in the Past9 Mar 2024 — The alleged “alien” bodies reported by some in the New Mexico desert, the Air...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spokesman.com  
-   Link: <a href="https://www.spokesman.com/stories/1997/jun/25/dummies-tell-no-tales-air-force-tries-to-close/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/1997/jun/25/dummies-tell-no-tales-air-force-tries-to-close/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>live, are not being held at secret U.S. military installations...</p></details>
+   Link:<a href="https://www.spokesman.com/stories/1997/jun/25/dummies-tell-no-tales-air-force-tries-to-close/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/1997/jun/25/dummies-tell-no-tales-air-force-tries-to-close/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>live, are not being held at secret U.S. military installations...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: latimes.com  
    Title: la xpm 1997 jul 03 me 9429 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1997-jul-03-me-9429-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1997-jul-03-me-9429-story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Report, Crash Test Dummies3 Jul 1997 — All we knew at the time was that a “huge meteor” had crashed somewhere in the New Mexi...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1997-jul-03-me-9429-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1997-jul-03-me-9429-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Report, Crash Test Dummies3 Jul 1997 — All we knew at the time was that a “huge meteor” had crashed somewhere in the New Mexi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: what really happened at roswell  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1keqjsk/what_really_happened_at_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1keqjsk/what_really_happened_at_roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/ufoThe reported bodies were test dummies. In 1997, for some reason, the Air Force had to issue another Roswell report, except strangely...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1keqjsk/what_really_happened_at_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1keqjsk/what_really_happened_at_roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/ufoThe reported bodies were test dummies. In 1997, for some reason, the Air Force had to issue another Roswell report, except strangely...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AlFuucsLIVk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>even human-like forms dropped from the sky. Was it a...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AlFuucsLIVk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>even human-like forms dropped from the sky. Was it a...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aviationarchaeology.com  
-   Link: <a href="https://www.aviationarchaeology.com/listpages/airforce/asp/AF56_Years56-59.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationarchaeology.com/listpages/airforce/asp/AF56_Years56-59.asp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Accident Reports 1956-1959AAIR, Aviation Archaeological Investigation &amp; Research, is a source of U. S. military aircraft accident re...</p></details>
+   Link:<a href="https://www.aviationarchaeology.com/listpages/airforce/asp/AF56_Years56-59.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationarchaeology.com/listpages/airforce/asp/AF56_Years56-59.asp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Accident Reports 1956-1959AAIR, Aviation Archaeological Investigation &amp; Research, is a source of U. S. military aircraft accident re...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: koreanwar.org  
    Title: Air Force BBS Results  
-   Link: <a href="https://www.koreanwar.org/html/bbs_air_force_2.html?threadid=1512" target="_blank" rel="noopener noreferrer nofollow">https://www.koreanwar.org/html/bbs_air_force_2.html?threadid=1512</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kc97 Crash June 26 1956 Walker...Dec 19, 2016 — Air Force Bulletin Board Results - KC97 CRASH JUNE 26 1956 WALKER AFB. 11 DIED - Korean...</p></details>
+   Link:<a href="https://www.koreanwar.org/html/bbs_air_force_2.html?threadid=1512" target="_blank" rel="noopener noreferrer nofollow">https://www.koreanwar.org/html/bbs_air_force_2.html?threadid=1512</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kc97 Crash June 26 1956 Walker...Dec 19, 2016 — Air Force Bulletin Board Results - KC97 CRASH JUNE 26 1956 WALKER AFB. 11 DIED - Korean...</p></details>

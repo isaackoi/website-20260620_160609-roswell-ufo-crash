@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-roswell/
 description: Focused pages that expand on Places.
-date: '2026-06-20'
+date: '2026'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_roswell_geography_3fdeb0
 parent_title: Places
@@ -16,7 +16,7 @@ parent_permalink: /places/
 
 # Explore Topics in Places
 
-The following pages expand on the main **[Places]({{ '/places/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Places]({{ '/places/' | relative_url }})** page and cover its key branches in.
 
 - [Mogul Path]({{ '/mogul-path/' | relative_url }})
 - [Corona Field]({{ '/corona-field/' | relative_url }})

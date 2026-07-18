@@ -274,29 +274,29 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_b
 
 ## Introduction
 
-The earliest account of the Roswell debris discovery does not describe Mac [Brazel]({{ 'brazel/' | relative_url }}) as being alone. According to the contemporary [newspaper]({{ 'newspaper/' | relative_url }}) report published on 9 July 1947, Brazel said that his eight-year-old son, Vernon Brazel, was with him when the pair first encountered scattered debris on the Foster ranch on 14 June. That detail is easy to overlook because later Roswell narratives focused on military personnel, alleged cover-ups, and claims that emerged decades afterwards. Yet Vernon’s presence matters because it places a child at the very beginning of the story and anchors the original account in an ordinary ranching activity rather than a dramatic search for a crashed craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
+The earliest account of the Roswell debris discovery does not describe Mac [Brazel]({{ 'brazel/' | relative_url }}) as being alone. According to the contemporary [newspaper]({{ 'newspaper/' | relative_url }}) report published on 9 July 1947, Brazel said that his eight-year-old son, Vernon Brazel, was with him when the pair first encountered scattered debris on the Foster ranch on 14 June. That detail is easy to overlook because later Roswell narratives focused on military personnel, alleged cover-ups, and claims that emerged decades afterwards. Yet Vernon’s presence matters because it places a child at the very beginning of the story and anchors the original account in an ordinary ranching activity rather than a dramatic search for a crashed craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_brazel_witnes_8f902c-Illustration-1-dark.svg" | relative_url }}" alt="Vernon Brazel illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_brazel_witnes_8f902c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_brazel_witnes_8f902c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the evidence surrounding the Roswell incident, Vernon occupies a narrow but important role: he is the only named witness accompanying Brazel during the initial discovery described in the earliest published version of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+Within the evidence surrounding the Roswell incident, Vernon occupies a narrow but important role: he is the only named witness accompanying Brazel during the initial discovery described in the earliest published version of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LdBu36XkQLw" title="The Roswell Incident That Shocked the World (S1) | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer">The Roswell Incident That Shocked the World (S1) | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 20.8K &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LdBu36XkQLw">Open on YouTube</a></p></div></div></div>
 
 ## The June 14 Ranch Discovery with Vernon
 
-The key source is the Roswell Daily Record interview with Mac Brazel, published on 9 July 1947 and later reproduced in government reports and historical summaries. In that account, Brazel stated that on 14 June he and his son Vernon were about seven or eight miles from the ranch house when they came upon a large area of debris scattered across the range. The material was described as rubber strips, tinfoil-like pieces, tough paper, and sticks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency+2Cipher Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+The key source is the Roswell Daily Record interview with Mac Brazel, published on 9 July 1947 and later reproduced in government reports and historical summaries. In that account, Brazel stated that on 14 June he and his son Vernon were about seven or eight miles from the ranch house when they came upon a large area of debris scattered across the range. The material was described as rubber strips, tinfoil-like pieces, tough paper, and sticks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 
 Several points stand out:
 
 * Vernon was present at the first encounter with the debris field.
 * He was identified as eight years old at the time.
 * The discovery occurred during routine ranch work rather than a deliberate investigation.
-* Neither father nor son appears to have treated the find as extraordinary at first. Brazel said he was in a hurry and paid little attention to it initially. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciphermysteries.com">[Cipher Mysteries+2National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciphermysteries.com</span><span class="citation-popover-snippet">Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Brazel related that on June 14 he and 8-year-old so...</span></span></span>
+* Neither father nor son appears to have treated the find as extraordinary at first. Brazel said he was in a hurry and paid little attention to it initially.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciphermysteries.com">[ciphermysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciphermysteries.com</span><span class="citation-popover-snippet">Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Brazel related that on June 14 he and 8-year-old so...</span></span></span>
 
-The original account therefore presents Vernon not as an investigator or later commentator, but as a companion witness during a chance discovery. The image conveyed is of a father and son crossing remote grazing land and encountering unfamiliar debris that did not immediately seem important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
+The original account therefore presents Vernon not as an investigator or later commentator, but as a companion witness during a chance discovery. The image conveyed is of a father and son crossing remote grazing land and encountering unfamiliar debris that did not immediately seem important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
 
-Another detail often missed is that Vernon appears twice in the chronology. After the initial sighting, Brazel later returned to the location with members of his family, including Vernon, to collect some of the material. This means Vernon was reportedly present both at the first discovery and during the family's later recovery of debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciphermysteries.com">[Cipher Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciphermysteries.com</span><span class="citation-popover-snippet">Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Brazel related that on June 14 he and 8-year-old so...</span></span></span>
+Another detail often missed is that Vernon appears twice in the chronology. After the initial sighting, Brazel later returned to the location with members of his family, including Vernon, to collect some of the material. This means Vernon was reportedly present both at the first discovery and during the family's later recovery of debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciphermysteries.com">[Cipher Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciphermysteries.com</span><span class="citation-popover-snippet">Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Brazel related that on June 14 he and 8-year-old so...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbtvxBXEHVw" title="Roswell - UFO Crash in New Mexico | Free Documentary History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer">Roswell - UFO Crash in New Mexico | Free Documentary History</a></p><p class="youtube-embed-meta">Channel: Free Documentary - History &middot; Views: 88.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbtvxBXEHVw">Open on YouTube</a></p></div></div></div>
@@ -305,11 +305,11 @@ Another detail often missed is that Vernon appears twice in the chronology. Afte
 
 Many later Roswell discussions rely on memories recorded decades after 1947. Vernon’s role, however, comes from one of the closest surviving sources to the event itself.
 
-The newspaper account does not attribute any dramatic observations to the child. There is no quotation from Vernon, no claim that he saw a spacecraft, and no suggestion that he interpreted the debris as alien technology. Instead, the article simply [places]({{ 'places/' | relative_url }}) him beside his father when the material was found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciphermysteries.com">[Cipher Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciphermysteries.com</span><span class="citation-popover-snippet">Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Brazel related that on June 14 he and 8-year-old so...</span></span></span>
+The newspaper account does not attribute any dramatic observations to the child. There is no quotation from Vernon, no claim that he saw a spacecraft, and no suggestion that he interpreted the debris as alien technology. Instead, the article simply [places]({{ 'places/' | relative_url }}) him beside his father when the material was found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciphermysteries.com">[Cipher Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciphermysteries.com</span><span class="citation-popover-snippet">Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Brazel related that on June 14 he and 8-year-old so...</span></span></span>
 
-That restraint is significant because later Roswell literature often expanded the story far beyond the contents of the original reporting. The earliest account remains comparatively mundane. The debris was scattered over a broad area, lightweight, and composed of materials such as foil, paper, rubber, tape, and sticks. The report emphasised the absence of engines, propellers, or substantial metal components. Cipher Mysteries+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciphermysteries.com">[ciphermysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciphermysteries.com</span><span class="citation-popover-snippet">Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Brazel related that on June 14 he and 8-year-old so...</span></span></span>
+That restraint is significant because later Roswell literature often expanded the story far beyond the contents of the original reporting. The earliest account remains comparatively mundane. The debris was scattered over a broad area, lightweight, and composed of materials such as foil, paper, rubber, tape, and sticks. The report emphasised the absence of engines, propellers, or substantial metal components. Cipher Mysteries+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciphermysteries.com">[ciphermysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciphermysteries.com</span><span class="citation-popover-snippet">Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Brazel related that on June 14 he and 8-year-old so...</span></span></span>
 
-Within that contemporary narrative, Vernon serves mainly as corroborating context. His presence helps establish that the discovery was not an isolated, unobserved event known only to Mac Brazel. At the same time, the surviving record does not preserve any independent testimony from Vernon himself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+Within that contemporary narrative, Vernon serves mainly as corroborating context. His presence helps establish that the discovery was not an isolated, unobserved event known only to Mac Brazel. At the same time, the surviving record does not preserve any independent testimony from Vernon himself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_brazel_witnes_8f902c-Illustration-2-dark.svg" | relative_url }}" alt="Vernon Brazel illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_brazel_witnes_8f902c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_brazel_witnes_8f902c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,11 +319,11 @@ Vernon’s presence creates an interesting historical problem. On one hand, havi
 
 Several factors complicate the issue:
 
-**No known contemporary statement from Vernon.** The 1947 reporting identifies him as present but does not record his observations. Researchers therefore depend almost entirely on his father's account of the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+**No known contemporary statement from Vernon.** The 1947 reporting identifies him as present but does not record his observations. Researchers therefore depend almost entirely on his father's account of the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 
-**The passage of time.** Much of the Roswell mythology developed decades later. By then, memories could be influenced by publicity, retellings, and changing narratives surrounding the incident. The original newspaper reference to Vernon predates those later developments and is therefore valuable, but it remains brief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+**The passage of time.** Much of the Roswell mythology developed decades later. By then, memories could be influenced by publicity, retellings, and changing narratives surrounding the incident. The original newspaper reference to Vernon predates those later developments and is therefore valuable, but it remains brief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-**A witness versus an interpreter.** The evidence shows Vernon was present. It does not show that he offered an independent interpretation of what was found. As a result, his role is best understood as part of the documented discovery scene rather than as a source for [later claims]({{ 'later-claims/' | relative_url }}) about the nature of the debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+**A witness versus an interpreter.** The evidence shows Vernon was present. It does not show that he offered an independent interpretation of what was found. As a result, his role is best understood as part of the documented discovery scene rather than as a source for [later claims]({{ 'later-claims/' | relative_url }}) about the nature of the debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 
 This distinction matters because many Roswell debates revolve around the reliability of witnesses. Vernon is among the earliest named participants in the story, yet the historical record preserves remarkably little from him directly. That absence leaves later researchers with a paradox: one of the first people at the debris field is also one of the least documented.
 
@@ -332,202 +332,202 @@ This distinction matters because many Roswell debates revolve around the reliabi
 
 ## What Vernon’s Presence Tells Us About the Original Roswell Story
 
-When stripped of later embellishments, Vernon Brazel’s role highlights the ordinary beginnings of the Roswell incident. The first reported encounter was not a military recovery operation or a dramatic UFO investigation. It was a rancher and his young son coming across unfamiliar debris while travelling across isolated grazing land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
+When stripped of later embellishments, Vernon Brazel’s role highlights the ordinary beginnings of the Roswell incident. The first reported encounter was not a military recovery operation or a dramatic UFO investigation. It was a rancher and his young son coming across unfamiliar debris while travelling across isolated grazing land.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
 
-For historians, Vernon’s importance lies less in what he said and more in what his presence reveals about the earliest version of events. The contemporary record places him at the discovery site from the beginning, making him part of the foundation of the Roswell story. Yet because no substantial independent testimony from him survives in the original sources, his role remains that of a quiet witness standing beside his father at the moment the famous debris field entered history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency+2Cipher Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
+For historians, Vernon’s importance lies less in what he said and more in what his presence reveals about the earliest version of events. The contemporary record places him at the discovery site from the beginning, making him part of the foundation of the Roswell story. Yet because no substantial independent testimony from him survives in the original sources, his role remains that of a quiet witness standing beside his father at the moment the famous debris field entered history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">National Security Agencyreport of air force research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</span><span class="citation-popover-meta">Published: June 14, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_brazel_witnes_8f902c-Illustration-3-dark.svg" | relative_url }}" alt="Vernon Brazel illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_brazel_witnes_8f902c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_vernon_brazel_witnes_8f902c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Was With Brazel When He Found Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Was With Brazel When He Found Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Covers individuals connected to the original discovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers individuals connected to the original discovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Analyzes early accounts including family recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes early accounts including family recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jGXPQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jGXPQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Provides witness-focused discussion of the debris find.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides witness-focused discussion of the debris find.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Retells the original discovery story involving Brazel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Retells the original discovery story involving Brazel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster"><img src="https://i.ebayimg.com/images/g/T1AAAeSwtiBptWKN/s-l225.jpg" alt="Listing image for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art"><img src="https://i.ebayimg.com/images/g/h8QAAOSwe29jfmch/s-l225.jpg" alt="Listing image for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="https://i.ebayimg.com/images/g/PhwAAOSwMplk~jrt/s-l225.jpg" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="vernon-brazel-who-was-with-brazel-when-he-found-debris-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster, Many Sizes; Roswell UFO crash debris"><img src="https://i.ebayimg.com/images/g/wlkAAOSw3NRkl0vL/s-l225.jpg" alt="Listing image for Poster, Many Sizes; Roswell UFO crash debris" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Poster, Many Sizes; Roswell UFO crash debris</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-was-with-brazel-when-he-found-debris-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-was-with-brazel-when-he-found-debris-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ For historians, Vernon’s importance lies less in what he said and more in what
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ For historians, Vernon’s importance lies less in what he said and more in what
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ For historians, Vernon’s importance lies less in what he said and more in what
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ For historians, Vernon’s importance lies less in what he said and more in what
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ For historians, Vernon’s importance lies less in what he said and more in what
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,125 +733,125 @@ For historians, Vernon’s importance lies less in what he said and more in what
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?22 Jun 1997 — On the day Brazel chanced upon the strange debris, June 14, 1947, he was making his rounds at the J.B. Foster sheep ranch...</p></details>
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?22 Jun 1997 — On the day Brazel chanced upon the strange debris, June 14, 1947, he was making his rounds at the J.B. Foster sheep ranch...</p></details>
    Published: June 14, 1947  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;At the time Brazel was in a sign of any propellers of any kind. hurry t...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;At the time Brazel was in a sign of any propellers of any kind. hurry t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Roswell Incident (1980 book)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident That Shocked the World (S1) | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident That Shocked the World (S1) | Ancient Aliens...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 5, 2017 — 5 Jul 2017 — On June 14, 1947, a rancher named W.W. “Mac” Brazel and his son Vernon were driving across their ranchland so...</p></details>
    Published: July 5, 2017  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of [air force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of [air force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</p></details>
    Published: June 14, 1947  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ciphermysteries.com  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Brazel related that on June 14 he and 8-year-old so...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Brazel related that on June 14 he and 8-year-old so...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(“Mac”) Brazel discovered the debris. What was the true origin of the debris found near Roswell? The debris was from...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(“Mac”) Brazel discovered the debris. What was the true origin of the debris found near Roswell? The debris was from...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort information regarding an alleged crash of an unidentified flying object (UFO) that oc...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort information regarding an alleged crash of an unidentified flying object (UFO) that oc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: before area 51 there was americas first ufo conspiracy in july 1947 when a ranch  
-   Link: <a href="https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Area 51, there was America&#x27;s first UFO conspiracy...Before Area 51, there was America&#x27;s first UFO conspiracy in July 1947 when a...</p></details>
+   Link:<a href="https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before Area 51, there was America&#x27;s first UFO conspiracy...Before Area 51, there was America&#x27;s first UFO conspiracy in July 1947 when a...</p></details>
    Published: july 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: mac brazel and the heavy price of the 1947 corona find while the name roswell is  
-   Link: <a href="https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mac Brazel and the Heavy Price of the 1947 Corona Find 🛸...In July 1947, rancher Mac Brazel discovered strange debris near Roswell, New...</p></details>
+   Link:<a href="https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mac Brazel and the Heavy Price of the 1947 Corona Find 🛸...In July 1947, rancher Mac Brazel discovered strange debris near Roswell, New...</p></details>
    Published: July 1947  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blogs.library.unt.edu  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — On July 7, 1947, while interest in UFOs was at its height, W.W...</p></details>
    Published: July 7, 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On June 14, 1947, William “Mac” Brazel rode out on the...Next morning a rancher, Mac Brazel, discovered strange wreckage in a field...</p></details>
+   Link:<a href="https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On June 14, 1947, William “Mac” Brazel rode out on the...Next morning a rancher, Mac Brazel, discovered strange wreckage in a field...</p></details>
    Published: June 14, 1947  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: georgehbalazs.com  
    Title: 1981 1996 Part 1 of 2 GHB Rosswell File  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2024/03/1981-1996-Part-1-of-2-GHB-Rosswell-File.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2024/03/1981-1996-Part-1-of-2-GHB-Rosswell-File.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 29, 1996going down north of Roswell. 11:30 p.m.. Saturday. July 5. Military begins retrieval and cordons nearby roads. Mac Brazel fi...</p></details>
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2024/03/1981-1996-Part-1-of-2-GHB-Rosswell-File.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2024/03/1981-1996-Part-1-of-2-GHB-Rosswell-File.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 29, 1996going down north of Roswell. 11:30 p.m.. Saturday. July 5. Military begins retrieval and cordons nearby roads. Mac Brazel fi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
    Title: DY5l5YIPQz B  
-   Link: <a href="https://www.instagram.com/reel/DY5l5YIPQzB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY5l5YIPQzB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>​THE ROSWELL INCIDENT (1947): What Actually...Rancher Mac Brazel found strange wreckage scattered across his land. Witnesses claimed the...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DY5l5YIPQzB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY5l5YIPQzB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>​THE ROSWELL INCIDENT (1947): What Actually...Rancher Mac Brazel found strange wreckage scattered across his land. Witnesses claimed the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
    Title: DYA1Wy kbpy  
-   Link: <a href="https://www.instagram.com/p/DYA1Wy_kbpy/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYA1Wy_kbpy/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 1947, strange debris was discovered on a ranch...In July 1947, strange debris was discovered on a ranch near Roswell after repor...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYA1Wy_kbpy/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYA1Wy_kbpy/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In July 1947, strange debris was discovered on a ranch...In July 1947, strange debris was discovered on a ranch near Roswell after repor...</p></details>
    Published: July 1947  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jpost.com  
    Title: article 868202  
-   Link: <a href="https://www.jpost.com/omg/article-868202" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/article-868202</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W. Brazel found unusual debris on his land north of Roswell. Intelligence officer Major Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) later described...Read more...</p></details>
+   Link:<a href="https://www.jpost.com/omg/article-868202" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/article-868202</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Brazel found unusual debris on his land north of Roswell. Intelligence officer Major Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) later described...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1777966729093283/posts/4375423546014242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1777966729093283/posts/4375423546014242/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Roswell incident part of Konflikt &#x27;47 lore?Is the Roswell Incident from June 1947 already part of the Lore or might it be in the n...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1777966729093283/posts/4375423546014242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1777966729093283/posts/4375423546014242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Roswell incident part of Konflikt &#x27;47 lore?Is the Roswell Incident from June 1947 already part of the Lore or might it be in the n...</p></details>
    Published: June 1947  

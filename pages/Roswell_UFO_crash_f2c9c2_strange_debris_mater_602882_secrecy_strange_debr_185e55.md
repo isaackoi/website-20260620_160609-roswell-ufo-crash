@@ -280,15 +280,15 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secre
 
 ## Introduction
 
-One reason the Roswell debris became mysterious was not the material itself but the information that surrounded it. The fragments described in 1947—foil-like material, paper, rubber, sticks, tape and lightweight structural parts—fit the kind of equipment used in [Project Mogul]({{ 'project-mogul/' | relative_url }}), a classified balloon programme intended to detect evidence of Soviet nuclear tests. Yet the military could not openly discuss that mission. Instead, officials offered a simpler explanation involving a weather balloon. That explanation was not entirely false, because Mogul used balloon technology, but it omitted the most important part: why the balloons existed and why they carried unusual equipment. The result was a [credibility]({{ 'credibility/' | relative_url }}) gap. Ordinary debris was interpreted through a veil of secrecy, and that missing context helped transform scraps of Cold War hardware into one of the most famous mysteries in UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — Records were located and thoroughly explored concerning a the...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+One reason the Roswell debris became mysterious was not the material itself but the information that surrounded it. The fragments described in 1947—foil-like material, paper, rubber, sticks, tape and lightweight structural parts—fit the kind of equipment used in [Project Mogul]({{ 'project-mogul/' | relative_url }}), a classified balloon programme intended to detect evidence of Soviet nuclear tests. Yet the military could not openly discuss that mission. Instead, officials offered a simpler explanation involving a weather balloon. That explanation was not entirely false, because Mogul used balloon technology, but it omitted the most important part: why the balloons existed and why they carried unusual equipment. The result was a [credibility]({{ 'credibility/' | relative_url }}) gap. Ordinary debris was interpreted through a veil of secrecy, and that missing context helped transform scraps of Cold War hardware into one of the most famous mysteries in UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — Records were located and thoroughly explored concerning a the...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secrecy_strange_debr_185e55-Illustration-1-dark.svg" | relative_url }}" alt="Secret context illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secrecy_strange_debr_185e55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secrecy_strange_debr_185e55-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Public Was Not Told About Mogul's Mission
 
-Roswell occurred at the beginning of the [Cold War]({{ 'cold-war/' | relative_url }}), when military secrecy was often treated as a strategic necessity. Project Mogul was designed to detect acoustic signatures from potential Soviet atomic tests by using long [balloon trains]({{ 'balloon-train/' | relative_url }}) carrying specialised equipment at high altitude. The programme was classified because revealing its purpose would have exposed American intelligence capabilities and priorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+Roswell occurred at the beginning of the [Cold War]({{ 'cold-war/' | relative_url }}), when military secrecy was often treated as a strategic necessity. Project Mogul was designed to detect acoustic signatures from potential Soviet atomic tests by using long [balloon trains]({{ 'balloon-train/' | relative_url }}) carrying specialised equipment at high altitude. The programme was classified because revealing its purpose would have exposed American intelligence capabilities and priorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
-When debris was recovered from a New Mexico ranch, officials therefore faced a dilemma. They needed a public explanation that would not reveal the existence of a sensitive surveillance effort. The solution was to identify the wreckage as a weather balloon. Later Air Force research acknowledged that this explanation served to divert attention from the classified project. Contemporary accounts and later investigations both indicate that the military deliberately avoided discussing Mogul's true purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+When debris was recovered from a New Mexico ranch, officials therefore faced a dilemma. They needed a public explanation that would not reveal the existence of a sensitive surveillance effort. The solution was to identify the wreckage as a weather balloon. Later Air Force research acknowledged that this explanation served to divert attention from the classified project. Contemporary accounts and later investigations both indicate that the military deliberately avoided discussing Mogul's true purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 This decision solved an immediate security problem but created a long-term interpretive one. People were given a technically related explanation while being denied the broader context that would have made the debris understandable.
 
@@ -297,7 +297,7 @@ This decision solved an immediate security problem but created a long-term inter
 
 ## How a Technically Close Explanation Still Misled Readers
 
-The weather-balloon explanation is often portrayed as completely unrelated to what was found, but the reality is more complicated. Project [Mogul]({{ 'mogul/' | relative_url }}) employed meteorological balloons as part of a larger system. In that narrow sense, describing the debris as balloon-related was not inaccurate. However, the explanation concealed the scale and purpose of the equipment train attached to those balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+The weather-balloon explanation is often portrayed as completely unrelated to what was found, but the reality is more complicated. Project [Mogul]({{ 'mogul/' | relative_url }}) employed meteorological balloons as part of a larger system. In that narrow sense, describing the debris as balloon-related was not inaccurate. However, the explanation concealed the scale and purpose of the equipment train attached to those balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 For someone hearing only the public story, several features of the debris could seem inconsistent with an ordinary weather observation balloon:
 
@@ -307,7 +307,7 @@ For someone hearing only the public story, several features of the debris could 
 * Multiple connected balloons rather than a single small balloon.
 * Radar-reflector assemblies made from foil-backed materials and lightweight frames.
 * Experimental instrumentation associated with a classified programme.
-* A debris field larger and more complex than many people expected from routine meteorological equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
+* A debris field larger and more complex than many people expected from routine meteorological equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
 
 </div>
 
@@ -319,11 +319,11 @@ A useful way to understand the issue is that the military offered an explanation
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secrecy_strange_debr_185e55-Illustration-2-dark.svg" | relative_url }}" alt="Secret context illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secrecy_strange_debr_185e55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secrecy_strange_debr_185e55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Missing Context Shaped Later Roswell Interpretations
 
-Once [secrecy]({{ 'secrecy/' | relative_url }}) became part of the story, it altered how later generations interpreted the evidence. People learned that the original public explanation had concealed a classified programme. That discovery demonstrated that the government had withheld important information. For many observers, this did not simply explain Roswell; it reinforced the belief that additional secrets might also exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[National Association of Science Writers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</span></span></span>
+Once [secrecy]({{ 'secrecy/' | relative_url }}) became part of the story, it altered how later generations interpreted the evidence. People learned that the original public explanation had concealed a classified programme. That discovery demonstrated that the government had withheld important information. For many observers, this did not simply explain Roswell; it reinforced the belief that additional secrets might also exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[National Association of Science Writers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</span></span></span>
 
-This created a paradox. The eventual disclosure of Project Mogul showed that there really had been a cover story, but the concealed subject was a Cold War intelligence project rather than an extraterrestrial craft. Critics of official accounts argued that if one explanation had been incomplete, later explanations might also be incomplete. Supporters of the Mogul interpretation countered that the newly revealed programme explained exactly why secrecy existed in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[National Association of Science Writers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</span></span></span>
+This created a paradox. The eventual disclosure of Project Mogul showed that there really had been a cover story, but the concealed subject was a Cold War intelligence project rather than an extraterrestrial craft. Critics of official accounts argued that if one explanation had been incomplete, later explanations might also be incomplete. Supporters of the Mogul interpretation countered that the newly revealed programme explained exactly why secrecy existed in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[National Association of Science Writers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</span></span></span>
 
-The psychological effect was significant. People often treat secrecy as evidence that something extraordinary is being hidden. In Roswell's case, classified military activity created an environment in which ordinary materials acquired extraordinary meanings. Foil became mysterious metal. Decorative markings on tape became alleged symbols. Lightweight structural components became evidence of advanced technology. The suspicious quality arose not primarily from the objects themselves, but from the absence of a publicly available explanation that fully accounted for them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The psychological effect was significant. People often treat secrecy as evidence that something extraordinary is being hidden. In Roswell's case, classified military activity created an environment in which ordinary materials acquired extraordinary meanings. Foil became mysterious metal. Decorative markings on tape became alleged symbols. Lightweight structural components became evidence of advanced technology. The suspicious quality arose not primarily from the objects themselves, but from the absence of a publicly available explanation that fully accounted for them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5RueuqXrQE4" title="Roswell: The World’s Biggest Alien Cover-Up Finally Exposed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer">Roswell: The World’s Biggest Alien Cover-Up Finally Exposed</a></p><p class="youtube-embed-meta">Channel: Real Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5RueuqXrQE4">Open on YouTube</a></p></div></div></div>
@@ -333,202 +333,202 @@ The psychological effect was significant. People often treat secrecy as evidence
 
 ## The Lasting Lesson of the Secret Context
 
-The Roswell debris illustrates how secrecy can reshape the interpretation of otherwise mundane evidence. Project Mogul's classified mission meant that officials could not fully explain what had been recovered. The weather-balloon explanation contained part of the truth, but it omitted the crucial context that would have made unusual-looking debris appear ordinary. As later generations discovered that information had been withheld, the gap between the public story and the classified reality became a source of lasting suspicion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+The Roswell debris illustrates how secrecy can reshape the interpretation of otherwise mundane evidence. Project Mogul's classified mission meant that officials could not fully explain what had been recovered. The weather-balloon explanation contained part of the truth, but it omitted the crucial context that would have made unusual-looking debris appear ordinary. As later generations discovered that information had been withheld, the gap between the public story and the classified reality became a source of lasting suspicion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-Within the history of Roswell, this secret context helps explain why simple materials became enduring mysteries. The debris did not need to be exotic to seem suspicious. It only needed to be ordinary objects viewed through the lens of Cold War secrecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
+Within the history of Roswell, this secret context helps explain why simple materials became enduring mysteries. The debris did not need to be exotic to seem suspicious. It only needed to be ordinary objects viewed through the lens of Cold War secrecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secrecy_strange_debr_185e55-Illustration-3-dark.svg" | relative_url }}" alt="Secret context illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secrecy_strange_debr_185e55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_secrecy_strange_debr_185e55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Secrecy Turned Scraps Into Suspicion. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Secrecy Turned Scraps Into Suspicion. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly examines how secrecy, witness stories and missing context transformed Roswell into a modern myth, matching the page&#x27;s focus on s...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how secrecy, witness stories and missing context transformed Roswell into a modern myth, matching the page&#x27;s focus on s...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Explores the Roswell case in light of Project Mogul and examines why people continued to suspect a cover-up.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the Roswell case in light of Project Mogul and examines why people continued to suspect a cover-up.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Provides broader context for how UFO narratives developed, helping explain why incomplete official explanations fueled suspicion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for how UFO narratives developed, helping explain why incomplete official explanations fueled suspicion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Historically important because it helped popularize the Roswell mystery and the idea of a government cover-up.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Historically important because it helped popularize the Roswell mystery and the idea of a government cover-up.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="secret-context-how-secrecy-turned-scraps-into-suspicion-roswell-ufo-crash-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ Within the history of Roswell, this secret context helps explain why simple mate
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ Within the history of Roswell, this secret context helps explain why simple mate
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ Within the history of Roswell, this secret context helps explain why simple mate
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ Within the history of Roswell, this secret context helps explain why simple mate
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ Within the history of Roswell, this secret context helps explain why simple mate
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,103 +734,103 @@ Within the history of Roswell, this secret context helps explain why simple mate
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) were located and thoroughly explored concerning a the...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) were located and thoroughly explored concerning a the...</p></details>
    Published: March 24, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</p></details>
    Published: May 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sgp.fas.org  
    Title: Project on Government Secrecy GAO Report on Roswell, NM UFO Crash  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO Crash... project MOGUL balloon trains. At the time of the Roswell crash, project MOGUL was a highly classified...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO Crash... project MOGUL balloon trains. At the time of the Roswell crash, project MOGUL was a highly classified...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: open.icm.edu.pl  
    Title: It is a manifestation of the fear and rebellion inspired by  
-   Link: <a href="https://open.icm.edu.pl/bitstreams/c583b6b2-3bec-4669-9ee9-5083f1273b01/download" target="_blank" rel="noopener noreferrer nofollow">https://open.icm.edu.pl/bitstreams/c583b6b2-3bec-4669-9ee9-5083f1273b01/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Myth in the FBI Files: Aliens, UFOs, and the...It was precisely this atmosphere of secrecy and suspicion that dominated the year...</p></details>
+   Link:<a href="https://open.icm.edu.pl/bitstreams/c583b6b2-3bec-4669-9ee9-5083f1273b01/download" target="_blank" rel="noopener noreferrer nofollow">https://open.icm.edu.pl/bitstreams/c583b6b2-3bec-4669-9ee9-5083f1273b01/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Myth in the FBI Files: Aliens, UFOs, and the...It was precisely this atmosphere of secrecy and suspicion that dominated the year...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y balloon,&quot;Flight #4, crashed and not any kind of ET craft.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y balloon,&quot;Flight #4, crashed and not any kind of ET craft.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>clear Tests. The Debris Looked Alien Because Nobody Had Ever Seen...</p></details>
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>clear Tests. The Debris Looked Alien Because Nobody Had Ever Seen...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencefriday.com  
    Title: Science Friday The Real Roswell Cover-Up?  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: syfy.com  
    Title: ufo showtime docuseries jj abrams roswell  
-   Link: <a href="https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Was Roswell the result of a secret balloon experiment?19 Aug 2021 — The Roswell incident was nothing more than Project Mogul, an int...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Was Roswell the result of a secret balloon experiment?19 Aug 2021 — The Roswell incident was nothing more than Project Mogul, an int...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s. In Cold War times, they worked as low-tech top secret...</p></details>
+   Link:<a href="https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s. In Cold War times, they worked as low-tech top secret...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thespacereview.com  
-   Link: <a href="https://www.thespacereview.com/article/5169/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/5169/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All&#x27;s well that&#x27;s Roswell2 Mar 2026 — In 1947 there was a report of debris found by a rancher near Roswell, New Mexico. It was soon publi...</p></details>
+   Link:<a href="https://www.thespacereview.com/article/5169/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/5169/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All&#x27;s well that&#x27;s Roswell2 Mar 2026 — In 1947 there was a report of debris found by a rancher near Roswell, New Mexico. It was soon publi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Roswell: The World's Biggest Alien Cover-Up Finally Exposed  
-   Link: <a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RueuqXrQE4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RueuqXrQE4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jhmovie.fandom.com  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe initial 1994 USAF report admitted that the weather balloon explanation was a cover story...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe initial 1994 USAF report admitted that the weather balloon explanation was a cover story...</p></details>

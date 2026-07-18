@@ -448,17 +448,17 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-overv
 
 ## Introduction
 
-Sheriff George Wilcox mattered in the [Roswell UFO crash]({{ 'roswell-ufo-crash/' | relative_url }}) story because he was the first local official named in the reporting chain between rancher W. W. “Mac” [Brazel]({{ 'brazel/' | relative_url }}) and Roswell Army Air Field. Before the incident became a military press release, a national headline, or a decades-long UFO controversy, it passed through the Chaves County sheriff’s office. Brazel brought word of strange debris to Wilcox; Wilcox contacted the nearby Army air base; intelligence officer Major Jesse Marcel then became involved; and within a day the base announced that it had recovered a “flying saucer”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+Sheriff George Wilcox mattered in the [Roswell UFO crash]({{ 'roswell-ufo-crash/' | relative_url }}) story because he was the first local official named in the reporting chain between rancher W. W. “Mac” [Brazel]({{ 'brazel/' | relative_url }}) and Roswell Army Air Field. Before the incident became a military press release, a national headline, or a decades-long UFO controversy, it passed through the Chaves County sheriff’s office. Brazel brought word of strange debris to Wilcox; Wilcox contacted the nearby Army air base; intelligence officer Major Jesse Marcel then became involved; and within a day the base announced that it had recovered a “flying saucer”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-overview.webp" | relative_url }}" alt="Overview image for Sheriff" loading="eager" decoding="sync" fetchpriority="high">
-That chain is important for two reasons. First, it shows how a [remote ranch]({{ 'remote-ranch/' | relative_url }}) find could move quickly from local concern to military intelligence without needing a large conspiracy at the start. Second, it explains why Roswell’s earliest public story carried unusual [credibility]({{ 'credibility/' | relative_url }}): the report did not simply come from a rancher’s rumour, but from a sheriff-to-airfield referral that the military itself then turned into a public claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">Open source on unt.edu.</span></span></span>
+That chain is important for two reasons. First, it shows how a [remote ranch]({{ 'remote-ranch/' | relative_url }}) find could move quickly from local concern to military intelligence without needing a large conspiracy at the start. Second, it explains why Roswell’s earliest public story carried unusual [credibility]({{ 'credibility/' | relative_url }}): the report did not simply come from a rancher’s rumour, but from a sheriff-to-airfield referral that the military itself then turned into a public claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">Open source on unt.edu.</span></span></span>
 
 ## From ranch debris to the sheriff’s office
 
-The best-attested local sequence begins with Brazel finding unusual debris on the Foster Ranch, north-west of Roswell, and later taking the matter into town. Accounts vary over exact dates, but several modern summaries place the crucial visit to Sheriff Wilcox on 7 July 1947, after Brazel had heard about the wider “flying saucer” craze and wondered whether the material on the ranch might be connected. The National Archives’ Text Message blog describes Brazel taking some debris to Roswell, telling Sheriff George Wilcox, and Wilcox “immediately” reporting the encounter to the U.S. Army Air Forces base at Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span><span class="citation-popover-meta">Published: may 1948</span></span></span>
+The best-attested local sequence begins with Brazel finding unusual debris on the Foster Ranch, north-west of Roswell, and later taking the matter into town. Accounts vary over exact dates, but several modern summaries place the crucial visit to Sheriff Wilcox on 7 July 1947, after Brazel had heard about the wider “flying saucer” craze and wondered whether the material on the ranch might be connected. The National Archives’ Text Message blog describes Brazel taking some debris to Roswell, telling Sheriff George Wilcox, and Wilcox “immediately” reporting the encounter to the U.S. Army Air Forces base at Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span><span class="citation-popover-meta">Published: may 1948</span></span></span>
 
-The University of North Texas government-documents blog gives a similar chain: on 7 July, Brazel appeared at Wilcox’s office and described wreckage including tinfoil, broken wood beams, rubber strips, and thick paper, found on the Foster Ranch about 75 miles north-west of Roswell. It adds that Brazel had recently heard radio stories about UFO sightings and wondered whether his find might be related. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">Open source on unt.edu.</span></span></span>
+The University of North Texas government-documents blog gives a similar chain: on 7 July, Brazel appeared at Wilcox’s office and described wreckage including tinfoil, broken wood beams, rubber strips, and thick paper, found on the Foster Ranch about 75 miles north-west of Roswell. It adds that Brazel had recently heard radio stories about UFO sightings and wondered whether his find might be related.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">Open source on unt.edu.</span></span></span>
 
 The sheriff’s role was practical rather than investigative in the modern forensic sense. Brazel was a rancher with debris from open land; Wilcox was the local authority who could decide whether it was a law-enforcement problem, a safety issue, or something the military should inspect. In a rural county containing remote ranchland and lying near wartime and post-war military activity, contacting Roswell Army Air Field was a reasonable next step.
 
@@ -468,11 +468,11 @@ Some local-history accounts place Brazel’s visit on Sunday 6 July rather than 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-Illustration-1-dark.svg" | relative_url }}" alt="Sheriff illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Wilcox called Roswell Army Air Field
 
-Wilcox’s call made sense because Roswell Army Air Field was not just a nearby military installation. It was home to the 509th Bombardment Group, a highly significant unit in the early atomic age. The Smithsonian’s National Air and Space Museum notes that the sheriff contacted the local military base, the 509th Bombardment Group, after Brazel brought news and parts of what he had found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">reports ufos 1947 roswell incident</span></span></span>
+Wilcox’s call made sense because Roswell Army Air Field was not just a nearby military installation. It was home to the 509th Bombardment Group, a highly significant unit in the early atomic age. The Smithsonian’s National Air and Space Museum notes that the sheriff contacted the local military base, the 509th Bombardment Group, after Brazel brought news and parts of what he had found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">reports ufos 1947 roswell incident</span><span class="citation-popover-snippet">reports ufos 1947 roswell incident</span></span></span>
 
-Once the base was contacted, the matter left ordinary local law enforcement. Major Jesse Marcel, the intelligence officer of the 509th Bombardment Group, went to the sheriff’s home or office area to inspect or retrieve the debris, according to the National Archives account. Marcel then took the material to the airfield; either later that day or the next morning, Marcel and personnel from his office went to the ranch to recover more debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span><span class="citation-popover-meta">Published: may 1948</span></span></span>
+Once the base was contacted, the matter left ordinary local law enforcement. Major Jesse Marcel, the intelligence officer of the 509th Bombardment Group, went to the sheriff’s home or office area to inspect or retrieve the debris, according to the National Archives account. Marcel then took the material to the airfield; either later that day or the next morning, Marcel and personnel from his office went to the ranch to recover more debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span><span class="citation-popover-meta">Published: may 1948</span></span></span>
 
-This hand-off is one of the most concrete parts of the Roswell story. The Roswell [Daily Record]({{ 'daily-record/' | relative_url }})’s 8 July 1947 article reported that, according to information released by the intelligence office, the “disk” was recovered after an unidentified rancher notified Sheriff Geo. Wilcox that he had found the instrument on his premises. It then stated that Major Marcel and a detail from his department went to the ranch and recovered it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+This hand-off is one of the most concrete parts of the Roswell story. The Roswell [Daily Record]({{ 'daily-record/' | relative_url }})’s 8 July 1947 article reported that, according to information released by the intelligence office, the “disk” was recovered after an unidentified rancher notified Sheriff Geo. Wilcox that he had found the instrument on his premises. It then stated that Major Marcel and a detail from his department went to the ranch and recovered it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
 That wording shows the sheriff’s office functioning as a validation point. The rancher’s report became actionable not because Wilcox identified the debris, but because he relayed it to the institution with aircraft, intelligence staff, and command authority. The later Roswell legend often begins with the military press release, but the implementation path starts one step earlier: local official receives report, local official calls base, base intelligence responds.
 
@@ -481,11 +481,11 @@ That wording shows the sheriff’s office functioning as a validation point. The
 
 ## The press release preserved the local chain
 
-The clearest reason Wilcox remains central is that the original public claim explicitly credited the sheriff’s office. The Roswell Daily Record reported at noon on 8 July that the intelligence office of the 509th Bombardment Group had announced possession of a flying saucer. It named Wilcox in the chain of custody: rancher to sheriff, sheriff’s notification to military, Marcel’s recovery, inspection at Roswell Army Air Field, and transfer to “higher headquarters”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+The clearest reason Wilcox remains central is that the original public claim explicitly credited the sheriff’s office. The Roswell Daily Record reported at noon on 8 July that the intelligence office of the 509th Bombardment Group had announced possession of a flying saucer. It named Wilcox in the chain of custody: rancher to sheriff, sheriff’s notification to military, Marcel’s recovery, inspection at Roswell Army Air Field, and transfer to “higher headquarters”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
-The National Archives reproduces the press-release wording in which the 509th said it gained possession of a “disk” through the cooperation of “one of the local ranchers and the sheriff’s office of Chaves county”. That phrase is revealing. It treated the sheriff’s office not as a bystander but as a cooperating intermediary whose involvement helped legitimise the recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span><span class="citation-popover-meta">Published: may 1948</span></span></span>
+The National Archives reproduces the press-release wording in which the 509th said it gained possession of a “disk” through the cooperation of “one of the local ranchers and the sheriff’s office of Chaves county”. That phrase is revealing. It treated the sheriff’s office not as a bystander but as a cooperating intermediary whose involvement helped legitimise the recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span><span class="citation-popover-meta">Published: may 1948</span></span></span>
 
-The later newspaper follow-up also kept Wilcox in view. The Roswell Daily Record’s 9 July article on Brazel stated that Associated Press equipment had been set up in the Record office to send out photographs of Brazel and Sheriff George Wilcox, “to whom Brazel originally gave the information of his find”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/brazel.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[priory-of-sion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-title">Harassed Rancher Who Located &#x27;Saucer&#x27; Sorry He Told About It</span><span class="citation-popover-snippet">Harassed Rancher Who Located &#x27;Saucer&#x27; Sorry He Told About It</span></span></span>
+The later newspaper follow-up also kept Wilcox in view. The Roswell Daily Record’s 9 July article on Brazel stated that Associated Press equipment had been set up in the Record office to send out photographs of Brazel and Sheriff George Wilcox, “to whom Brazel originally gave the information of his find”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/brazel.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[priory-of-sion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-title">Harassed Rancher Who Located &#x27;Saucer&#x27; Sorry He Told About It</span><span class="citation-popover-snippet">Harassed Rancher Who Located &#x27;Saucer&#x27; Sorry He Told About It</span></span></span>
 
 This is why the local chain matters for evidence assessment. Wilcox is not an ornamental character added by later UFO writers; he appears in the original reporting infrastructure. The strongest claim supported by early evidence is modest but important: Brazel’s report reached the military through the sheriff’s office before the airfield made its famous public statement.
 
@@ -493,9 +493,9 @@ This is why the local chain matters for evidence assessment. Wilcox is not an or
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-Illustration-2-dark.svg" | relative_url }}" alt="Sheriff illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What changed once the military took over
 
-After Wilcox contacted the base, control of the story shifted rapidly. The debris was no longer mainly a local puzzle; it became a military intelligence and public-information problem. The Daily Record’s first story attributed the announcement to the intelligence office, under Major Marcel’s authority, and said the object had been flown to “higher headquarters”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+After Wilcox contacted the base, control of the story shifted rapidly. The debris was no longer mainly a local puzzle; it became a military intelligence and public-information problem. The Daily Record’s first story attributed the announcement to the intelligence office, under Major Marcel’s authority, and said the object had been flown to “higher headquarters”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
-That phrase marks a sharp escalation. “Higher headquarters” meant the object was no longer being handled within the sheriff’s local orbit. Other accounts describe the material being moved through the chain toward Eighth Air Force headquarters at Fort Worth, where Brigadier General Roger Ramey soon identified the debris as a weather balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here’s the Proof There’s No Government Alien Conspiracy Around Roswell &#124; WIRED</span><span class="citation-popover-snippet">Here’s the Proof There’s No Government Alien Conspiracy Around Roswell &#124; WIRED</span></span></span>
+That phrase marks a sharp escalation. “Higher headquarters” meant the object was no longer being handled within the sheriff’s local orbit. Other accounts describe the material being moved through the chain toward Eighth Air Force headquarters at Fort Worth, where Brigadier General Roger Ramey soon identified the debris as a weather balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here’s the Proof There’s No Government Alien Conspiracy Around Roswell &#124; WIRED</span><span class="citation-popover-snippet">Here’s the Proof There’s No Government Alien Conspiracy Around Roswell &#124; WIRED</span></span></span>
 
 The sheriff’s office therefore sits at the hinge between two worlds. On one side were Brazel, the ranch, the county courthouse, local reporters, and the ordinary question of what had fallen on private land. On the other were base intelligence officers, a public-information office, Eighth Air Force headquarters, and [Cold War]({{ 'cold-war/' | relative_url }}) secrecy. Wilcox’s call did not create the military response, but it opened the channel through which the response happened.
 
@@ -508,13 +508,13 @@ That shift also helps explain why later retellings feel so abrupt. A rancher’s
 
 Wilcox’s role is small in screen time but large in structure. Without him, the Roswell story would lack a documented civilian-to-military bridge. With him, the early chronology has a plausible and traceable route:
 
-* **Ranch discovery:** Brazel found unusual lightweight debris on ranchland. * **Local report:** Brazel brought the matter to Sheriff George Wilcox in Roswell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/doc/165340407/Aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> * **Military contact:** Wilcox contacted Roswell Army Air Field. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">0708army announces roswell new mexico ufo sighting</span></span></span>
+* **Ranch discovery:** Brazel found unusual lightweight debris on ranchland. * **Local report:** Brazel brought the matter to Sheriff George Wilcox in Roswell.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/doc/165340407/Aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> * **Military contact:** Wilcox contacted Roswell Army Air Field.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">0708army announces roswell new mexico ufo sighting</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Intelligence response:** Major Jesse Marcel and others inspected and recovered the material.
 * **Public announcement:** The base announced that it had recovered a “flying saucer”.
-* **Higher-level reversal:** Eighth Air Force officials soon described the material as a weather balloon or balloon-related device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+* **Higher-level reversal:** Eighth Air Force officials soon described the material as a weather balloon or balloon-related device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
 </div>
 
@@ -526,7 +526,7 @@ Local intermediaries also affect how credibility should be judged. Wilcox does n
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-Illustration-3-dark.svg" | relative_url }}" alt="Sheriff illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheriff_wilcox_chain_973fbe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The limits of what Wilcox can tell us
 
-The Wilcox chain is strong evidence for how the report reached the military, not for what the debris ultimately was. Contemporary accounts describe the recovered material in ordinary terms: rubber, tinfoil, paper, sticks, and balloon-like components. Later official explanations linked the debris to [Project Mogul]({{ 'project-mogul/' | relative_url }}), a classified balloon programme designed to detect Soviet nuclear tests; Britannica notes that the original “weather balloon” claim was incomplete because the material was later identified as part of a top-secret spy-balloon effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/brazel.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[priory-of-sion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-title">Harassed Rancher Who Located &#x27;Saucer&#x27; Sorry He Told About It</span><span class="citation-popover-snippet">Harassed Rancher Who Located &#x27;Saucer&#x27; Sorry He Told About It</span></span></span>
+The Wilcox chain is strong evidence for how the report reached the military, not for what the debris ultimately was. Contemporary accounts describe the recovered material in ordinary terms: rubber, tinfoil, paper, sticks, and balloon-like components. Later official explanations linked the debris to [Project Mogul]({{ 'project-mogul/' | relative_url }}), a classified balloon programme designed to detect Soviet nuclear tests; Britannica notes that the original “weather balloon” claim was incomplete because the material was later identified as part of a top-secret spy-balloon effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/brazel.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[priory-of-sion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-title">Harassed Rancher Who Located &#x27;Saucer&#x27; Sorry He Told About It</span><span class="citation-popover-snippet">Harassed Rancher Who Located &#x27;Saucer&#x27; Sorry He Told About It</span></span></span>
 
 The sheriff’s office also became part of later witness lore. Some later accounts claim Wilcox and his family were threatened into silence, but those stories are second-hand and emerged long after the original incident. They belong to the later Roswell memory tradition rather than to the solid 1947 reporting chain. The careful distinction is this: Wilcox’s involvement as a reporting intermediary is well supported; dramatic claims about intimidation are much thinner.
 
@@ -534,7 +534,7 @@ This distinction improves rather than weakens the Roswell story as history. The 
 
 ## The local hand-off that made Roswell possible
 
-Sheriff George Wilcox’s place in the Roswell UFO crash is best understood as the first institutional link in the chain. Brazel’s discovery might have remained a ranch curiosity, or at most a local oddity, if it had not passed through the Chaves County sheriff’s office. Wilcox’s decision to contact Roswell Army Air Field put the debris in front of military intelligence officers, and the military’s own public statement then transformed a local report into the headline that still defines Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+Sheriff George Wilcox’s place in the Roswell UFO crash is best understood as the first institutional link in the chain. Brazel’s discovery might have remained a ranch curiosity, or at most a local oddity, if it had not passed through the Chaves County sheriff’s office. Wilcox’s decision to contact Roswell Army Air Field put the debris in front of military intelligence officers, and the military’s own public statement then transformed a local report into the headline that still defines Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
 That is the enduring value of the Wilcox episode. It keeps the story grounded in a specific mechanism rather than a vague myth: report, referral, recovery, announcement, reversal. The sheriff did not determine the final explanation, and he did not control the national narrative once the Army took over. But the Roswell reporting chain ran through his office, and that local hand-off is what carried the incident from the ranch gate to military headquarters within days.
 
@@ -543,194 +543,194 @@ That is the enduring value of the Wilcox episode. It keeps the story grounded in
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the Roswell Report Reached the Military. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the Roswell Report Reached the Military. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Covers the full Roswell chronology including the reporting chain from Brazel to Wilcox to the military.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the full Roswell chronology including the reporting chain from Brazel to Wilcox to the military.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Explores claims about what happened after the military became involved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores claims about what happened after the military became involved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Focuses on the original 1947 events and how the story reached national attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the original 1947 events and how the story reached national attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Examines witness testimony and the sequence of military involvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness testimony and the sequence of military involvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="https://i.ebayimg.com/images/g/7MQAAOSwQH1kdca~/s-l225.jpg" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 2 Lindberg 91004 Alien Model Kits 1/6 Scale Sealed New in Bag Roswell UFO"><img src="https://i.ebayimg.com/images/g/s6AAAeSwUEtp0d3v/s-l225.jpg" alt="Listing image for Lot of 2 Lindberg 91004 Alien Model Kits 1/6 Scale Sealed New in Bag Roswell UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Lot of 2 Lindberg 91004 Alien Model Kits 1/6 Scale Sealed New in Bag Roswell UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;"><img src="https://i.ebayimg.com/images/g/~ZcAAeSwS~ZoktWy/s-l225.jpg" alt="Listing image for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sheriff-how-the-roswell-report-reached-the-military-roswell-ufo-crash-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift"><img src="https://i.ebayimg.com/images/g/GIYAAOSw9VhmOghw/s-l225.jpg" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-the-roswell-report-reached-the-military-roswell-ufo-model-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -746,7 +746,7 @@ That is the enduring value of the Wilcox episode. It keeps the story grounded in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -766,7 +766,7 @@ That is the enduring value of the Wilcox episode. It keeps the story grounded in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -798,7 +798,7 @@ That is the enduring value of the Wilcox episode. It keeps the story grounded in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -850,7 +850,7 @@ That is the enduring value of the Wilcox episode. It keeps the story grounded in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -895,7 +895,7 @@ That is the enduring value of the Wilcox episode. It keeps the story grounded in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -936,132 +936,132 @@ That is the enduring value of the Wilcox episode. It keeps the story grounded in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: RAAF Captures Flying Saucer on Ranch in Roswell Region  
-   Link: <a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
+   Link:<a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
    Published: may 1948  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: priory-of-sion.com  
    Title: Harassed Rancher Who Located 'Saucer' Sorry He Told About It  
-   Link: <a href="https://priory-of-sion.com/biblios/links/brazel.html" target="_blank" rel="noopener noreferrer nofollow">https://priory-of-sion.com/biblios/links/brazel.html</a>  
+   Link:<a href="https://priory-of-sion.com/biblios/links/brazel.html" target="_blank" rel="noopener noreferrer nofollow">https://priory-of-sion.com/biblios/links/brazel.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: Here’s the Proof There’s No Government Alien Conspiracy Around Roswell | WIRED  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: obamawhitehouse.archives.gov  
    Title: Copyright Alliance  
-   Link: <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/IPEC/frn_comments/CopyrightAlliance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/sites/default/files/omb/IPEC/frn_comments/CopyrightAlliance.pdf</a>  
+   Link:<a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/IPEC/frn_comments/CopyrightAlliance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/sites/default/files/omb/IPEC/frn_comments/CopyrightAlliance.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: time.com  
    Title: roswell history  
-   Link: <a href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3916193/roswell-history/</a>  
+   Link:<a href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3916193/roswell-history/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
    Title: 0708army announces roswell new mexico ufo sighting  
-   Link: <a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/</a>  
+   Link:<a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: What Really Happened In The Roswell UFO Sighting?  
-   Link: <a href="https://www.youtube.com/watch?v=yPxTfkIc7BY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yPxTfkIc7BY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yPxTfkIc7BY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yPxTfkIc7BY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blogs.library.unt.edu  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airandspace.si.edu  
    Title: reports ufos 1947 roswell incident  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFO  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/165340407/Aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/165340407/Aliens</a>  
+   Link:<a href="https://www.scribd.com/doc/165340407/Aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/165340407/Aliens</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bahaistudies.net  
-   Link: <a href="https://www.bahaistudies.net/asma/roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/roswell.pdf</a>  
+   Link:<a href="https://www.bahaistudies.net/asma/roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/roswell.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: airandspace.si.edu  
    Title: roswell daily record newspaper ufo  
-   Link: <a href="https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo</a>  
+   Link:<a href="https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: picryl.com  
    Title: Roswell Daily Record  
-   Link: <a href="https://picryl.com/[media" target="_blank" rel="noopener noreferrer nofollow">https://picryl.com/[media</a>  
+   Link:<a href="https://picryl.com/[media" target="_blank" rel="noopener noreferrer nofollow">https://picryl.com/[media</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: georgehbalazs.com  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2024/04/1994-1996-George-H.-Balazs-Roswell-File.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2024/04/1994-1996-George-H.-Balazs-Roswell-File.pdf</a>  
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2024/04/1994-1996-George-H.-Balazs-Roswell-File.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2024/04/1994-1996-George-H.-Balazs-Roswell-File.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: historywiththeszilagyis.org  
-   Link: <a href="https://historywiththeszilagyis.org/hwts188" target="_blank" rel="noopener noreferrer nofollow">https://historywiththeszilagyis.org/hwts188</a>  
+   Link:<a href="https://historywiththeszilagyis.org/hwts188" target="_blank" rel="noopener noreferrer nofollow">https://historywiththeszilagyis.org/hwts188</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: commons.wikimedia.org  
    Title: File:Roswell Daily Record  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
    Published: July 8, 1947  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/</a>  
+   Link:<a href="https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/DebateReligion/comments/86i46w/roswell_aliens_and_early_christianity_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/86i46w/roswell_aliens_and_early_christianity_a/</a>  
+   Link:<a href="https://www.reddit.com/r/DebateReligion/comments/86i46w/roswell_aliens_and_early_christianity_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/86i46w/roswell_aliens_and_early_christianity_a/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6</a>  
+   Link:<a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: public-library.uk  
-   Link: <a href="https://public-library.uk/ebooks/83/45.pdf" target="_blank" rel="noopener noreferrer nofollow">https://public-library.uk/ebooks/83/45.pdf</a>  
+   Link:<a href="https://public-library.uk/ebooks/83/45.pdf" target="_blank" rel="noopener noreferrer nofollow">https://public-library.uk/ebooks/83/45.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See</a>  
+   Link:<a href="https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ancestry.com  
-   Link: <a href="https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico?geo-lang=es-MX" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico?geo-lang=es-MX</a>  
+   Link:<a href="https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico?geo-lang=es-MX" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.com/historical-insights/culture/event/ufo-roswell-new-mexico?geo-lang=es-MX</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  

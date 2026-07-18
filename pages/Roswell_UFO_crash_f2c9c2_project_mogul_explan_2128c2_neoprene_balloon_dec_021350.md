@@ -280,7 +280,7 @@ One of the less dramatic but more important questions in the Roswell debate conc
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_neoprene_balloon_dec_021350-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Decay illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_neoprene_balloon_dec_021350-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_neoprene_balloon_dec_021350-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Sunlight Did to Neoprene Balloons
 
-The balloon trains used in early Project Mogul launches included large rubber balloons. Contemporary descriptions of the Roswell debris field included references to grey or dark rubber fragments scattered across a wide area. Rancher Mac Brazel described smoky-grey rubber among the recovered material, a detail that aligns more closely with weathered balloon remnants than with an intact balloon fresh from launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The balloon trains used in early Project Mogul launches included large rubber balloons. Contemporary descriptions of the Roswell debris field included references to grey or dark rubber fragments scattered across a wide area. Rancher Mac Brazel described smoky-grey rubber among the recovered material, a detail that aligns more closely with weathered balloon remnants than with an intact balloon fresh from launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 Rubber materials exposed to the environment undergo several well-understood changes:
 
@@ -297,7 +297,7 @@ Rubber materials exposed to the environment undergo several well-understood chan
 
 Instead of retaining the appearance of a smooth balloon, weathered fragments often become wrinkled, stiff and irregular. Large sections can shred into strips or flakes that no longer resemble a balloon at all.
 
-This matters because the Roswell debris was not reportedly discovered immediately after landing. Under the Mogul scenario, the balloon train may have been exposed to the elements for an extended period before Brazel gathered pieces from the ranch. By that point, the material would not necessarily have looked like recognisable aviation equipment. The [Air Force]({{ 'air-force/' | relative_url }})'s later investigations specifically noted that the debris was consistent with balloon material and associated components from a Mogul flight rather than with an intact weather balloon recovered shortly after launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2Physics at SMU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
+This matters because the Roswell debris was not reportedly discovered immediately after landing. Under the Mogul scenario, the balloon train may have been exposed to the elements for an extended period before Brazel gathered pieces from the ranch. By that point, the material would not necessarily have looked like recognisable aviation equipment. The [Air Force]({{ 'air-force/' | relative_url }})'s later investigations specifically noted that the debris was consistent with balloon material and associated components from a Mogul flight rather than with an intact weather balloon recovered shortly after launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbtvxBXEHVw" title="Roswell - UFO Crash in New Mexico | Free Documentary History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer">Roswell - UFO Crash in New Mexico | Free Documentary History</a></p><p class="youtube-embed-meta">Channel: Free Documentary - History &middot; Views: 88.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbtvxBXEHVw">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ Here the passage of time becomes important. Fresh balloon rubber and aged balloo
 
 Environmental exposure can also produce odours associated with oxidation, ageing adhesives and decomposing rubber compounds. Such smells may be difficult to identify, especially for people who rarely encountered high-altitude research equipment.
 
-The Mogul explanation therefore does not require witnesses to mistake a pristine balloon for something exotic. Instead, it proposes that people encountered a mixture of weathered rubber, foil-backed materials, tape, wood and radar-reflector components that no longer looked or felt like their original manufactured forms. Project Mogul systems included extensive balloon material and [radar-target]({{ 'radar-target/' | relative_url }}) assemblies, creating a debris field composed of many different textures rather than a single recognisable object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The Mogul explanation therefore does not require witnesses to mistake a pristine balloon for something exotic. Instead, it proposes that people encountered a mixture of weathered rubber, foil-backed materials, tape, wood and radar-reflector components that no longer looked or felt like their original manufactured forms. Project Mogul systems included extensive balloon material and [radar-target]({{ 'radar-target/' | relative_url }}) assemblies, creating a debris field composed of many different textures rather than a single recognisable object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_neoprene_balloon_dec_021350-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Decay illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_neoprene_balloon_dec_021350-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_neoprene_balloon_dec_021350-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -328,7 +328,7 @@ The Mogul explanation therefore does not require witnesses to mistake a pristine
 
 A common misunderstanding is that balloon debris should have been instantly recognisable. However, Project Mogul hardware differed substantially from a small meteorological balloon.
 
-The programme used long balloon trains carrying radar reflectors and experimental equipment. Contemporary and later descriptions emphasised that these assemblies could stretch hundreds of feet and included numerous lightweight components. When broken apart, the result was not a single collapsed balloon but a scattered collection of rubber, foil, paper-backed materials, tape, cords and structural pieces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The programme used long balloon trains carrying radar reflectors and experimental equipment. Contemporary and later descriptions emphasised that these assemblies could stretch hundreds of feet and included numerous lightweight components. When broken apart, the result was not a single collapsed balloon but a scattered collection of rubber, foil, paper-backed materials, tape, cords and structural pieces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 After exposure outdoors, several effects would have made identification harder:
 
@@ -355,204 +355,204 @@ This combination helps explain why some observers focused on individual fragment
 
 The strongest role of balloon decay in the Roswell debate is not that it proves the Mogul explanation by itself. Rather, it offers a mechanism for understanding why descriptions became increasingly unusual over time.
 
-The earliest accounts from 1947 generally described relatively mundane materials: rubber, foil, paper, tape and sticks. Brazel's reported description fits that pattern particularly well. Later retellings often introduced more extraordinary features, including highly unusual materials and seemingly impossible properties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The earliest accounts from 1947 generally described relatively mundane materials: rubber, foil, paper, tape and sticks. Brazel's reported description fits that pattern particularly well. Later retellings often introduced more extraordinary features, including highly unusual materials and seemingly impossible properties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 Supporters of the Mogul explanation argue that weathered debris can appear strange when first encountered and even stranger when remembered decades later. A shredded rubber fragment that seemed unusual in 1947 might be recalled years afterwards as material unlike anything seen before. The same process could affect memories of texture, colour and smell.
 
-Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | relative_url }}) that they believe exceeds what degraded balloon material can explain. Yet even among researchers who disagree about Roswell's ultimate cause, there is broad recognition that the condition of the debris matters. The question is not simply what was launched from Alamogordo, but what remained after exposure to the New Mexico environment. Within the Project Mogul framework, neoprene balloon decay provides a practical mechanism linking ordinary balloon materials to reports of debris that looked unexpectedly strange. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
+Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | relative_url }}) that they believe exceeds what degraded balloon material can explain. Yet even among researchers who disagree about Roswell's ultimate cause, there is broad recognition that the condition of the debris matters. The question is not simply what was launched from Alamogordo, but what remained after exposure to the New Mexico environment. Within the Project Mogul framework, neoprene balloon decay provides a practical mechanism linking ordinary balloon materials to reports of debris that looked unexpectedly strange.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_neoprene_balloon_dec_021350-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Decay illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_neoprene_balloon_dec_021350-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_project_mogul_explan_2128c2_neoprene_balloon_dec_021350-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Balloon Rubber Could Look Alien. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Balloon Rubber Could Look Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly examines Roswell evidence, witness accounts, debris interpretations, and the Project Mogul explanation central to weathered ball...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines Roswell evidence, witness accounts, debris interpretations, and the Project Mogul explanation central to weathered ball...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Focuses heavily on the physical evidence and the Mogul explanation, making it highly relevant to questions about balloon debris and witne...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on the physical evidence and the Mogul explanation, making it highly relevant to questions about balloon debris and witne...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for readers evaluating extraordinary claims, secrecy narratives, and evidence standards surrounding Roswell and Project Mogul.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Useful for readers evaluating extraordinary claims, secrecy narratives, and evidence standards surrounding Roswell and Project Mogul.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Represents the classic pro-crash narrative that later skeptical and Mogul-based analyses respond to, providing important context for the...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the classic pro-crash narrative that later skeptical and Mogul-based analyses respond to, providing important context for the...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="balloon-decay-how-balloon-rubber-could-look-alien-roswell-ufo-crash-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,106 +758,106 @@ Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>he explanation for the “Roswell Incident.” the radar targets...</p></details>
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he explanation for the “Roswell Incident.” the radar targets...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAn Air Force official said there was no similar requirement to report a weather balloon crash. According t...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAn Air Force official said there was no similar requirement to report a weather balloon crash. According t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Project Mogul  
-   Link: <a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — The debris was from a weather balloon.” Of course, though... Typically, a Project Mogul balloon sent into high altitude str...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — The debris was from a weather balloon.” Of course, though... Typically, a Project Mogul balloon sent into high altitude str...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second si...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second si...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wsmrmuseum.com  
-   Link: <a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryIn this case the material was not from a weather bal- loon but similar balloon material and associated debris from. P...</p></details>
+   Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryIn this case the material was not from a weather bal- loon but similar balloon material and associated debris from. P...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: Decades later, documents reveal Project Mogul, a secret plan  
-   Link: <a href="https://www.instagram.com/reel/DYSKqeVk-rc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSKqeVk-rc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; crashes, then suddenly it&#x27;s just a...They swap the wreck for a shredded weather balloon and tell the worl...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYSKqeVk-rc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSKqeVk-rc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; crashes, then suddenly it&#x27;s just a...They swap the wreck for a shredded weather balloon and tell the worl...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — A 1947 Air Force report noted the recovery of a flying disk...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — A 1947 Air Force report noted the recovery of a flying disk...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...The 1994 Air Force report determined that project Mogul was respo...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...The 1994 Air Force report determined that project Mogul was respo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencefriday.com  
    Title: The Real Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;)?  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul.Read more...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newmexicomagazine.org  
    Title: roswell crash explained  
-   Link: <a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — The project, which involved flying microphones in high-altitude balloons, was used to determine w...</p></details>
+   Link:<a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — The project, which involved flying microphones in high-altitude balloons, was used to determine w...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skyatnightmagazine.com  
    Title: roswell ufo incident  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>facts and history26 Jun 2025 — The conclusion was that the culprit was indeed a high-altitude weather balloon, but that it had been carry...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>facts and history26 Jun 2025 — The conclusion was that the culprit was indeed a high-altitude weather balloon, but that it had been carry...</p></details>

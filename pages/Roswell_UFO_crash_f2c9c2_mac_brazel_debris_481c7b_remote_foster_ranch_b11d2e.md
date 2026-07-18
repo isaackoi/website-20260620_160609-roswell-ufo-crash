@@ -280,13 +280,13 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_remote_f
 
 ## Introduction
 
-The Foster ranch's remoteness is one of the most important and often overlooked factors in understanding the [Roswell UFO crash]({{ 'roswell-ufo-crash/' | relative_url }}) story. The earliest Roswell evidence did not come from a secured crash scene, police photographs or multiple independent observers. Instead, it came from [debris]({{ 'debris/' | relative_url }}) reportedly found on isolated grazing land in central New Mexico, far from towns, reporters and scientific investigators. That setting shaped almost every later dispute. It affected when the debris was discovered, how long it remained exposed, who saw it, what was collected, and why later accounts often conflicted. Whether one accepts the military explanation, extraterrestrial interpretations, or remains undecided, the geography of the Foster ranch helps explain why the evidence has remained so uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The Foster ranch's remoteness is one of the most important and often overlooked factors in understanding the [Roswell UFO crash]({{ 'roswell-ufo-crash/' | relative_url }}) story. The earliest Roswell evidence did not come from a secured crash scene, police photographs or multiple independent observers. Instead, it came from [debris]({{ 'debris/' | relative_url }}) reportedly found on isolated grazing land in central New Mexico, far from towns, reporters and scientific investigators. That setting shaped almost every later dispute. It affected when the debris was discovered, how long it remained exposed, who saw it, what was collected, and why later accounts often conflicted. Whether one accepts the military explanation, extraterrestrial interpretations, or remains undecided, the geography of the Foster ranch helps explain why the evidence has remained so uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_remote_foster_ranch_b11d2e-Illustration-1-dark.svg" | relative_url }}" alt="Remote Ranch illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_remote_foster_ranch_b11d2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_remote_foster_ranch_b11d2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Distance, Delay and Limited Witnesses
 
-Mac [Brazel]({{ 'brazel/' | relative_url }}) was working on the J. B. Foster ranch near Corona, New Mexico, an isolated livestock operation spread across large stretches of open range. The debris was reportedly found several miles from the ranch house itself, in country where routine travel was slow and infrequent. Contemporary accounts indicate that Brazel discovered the material in June 1947 but did not immediately report it. Only after hearing widespread discussion of "flying saucers" in early July did he decide the find might be significant enough to mention to authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night MagazineRoswell UFO incident facts and historyJune 26, 2025 — 26 Jun 2025 — On 7 July a local rancher named &#x27;Mac&#x27; Brazel con...</span><span class="citation-popover-meta">Published: June 26, 2025</span></span></span>
+Mac [Brazel]({{ 'brazel/' | relative_url }}) was working on the J. B. Foster ranch near Corona, New Mexico, an isolated livestock operation spread across large stretches of open range. The debris was reportedly found several miles from the ranch house itself, in country where routine travel was slow and infrequent. Contemporary accounts indicate that Brazel discovered the material in June 1947 but did not immediately report it. Only after hearing widespread discussion of "flying saucers" in early July did he decide the find might be significant enough to mention to authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night MagazineRoswell UFO incident facts and historyJune 26, 2025 — 26 Jun 2025 — On 7 July a local rancher named &#x27;Mac&#x27; Brazel con...</span><span class="citation-popover-meta">Published: June 26, 2025</span></span></span>
 
 The delay matters because it created a gap between the alleged arrival of the debris and the beginning of any official investigation. During that period:
 
@@ -296,18 +296,18 @@ The delay matters because it created a gap between the alleged arrival of the de
 * No photographs were taken at the discovery site.
 * No independent scientific examination occurred.
 * Weather, livestock and human activity could potentially alter the area.
-* Memory rather than documentation became the primary record of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
+* Memory rather than documentation became the primary record of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
 
 </div>
 
-The ranch's isolation also meant there were very few direct witnesses. Unlike an accident near a town, railway or highway, there was no crowd of observers whose accounts could be compared. As a result, later reconstructions relied heavily on Brazel, military personnel who visited the site, and witnesses interviewed years or even decades afterward. Critics of both the UFO and sceptical interpretations point out that a thin witness base makes historical reconstruction inherently difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The ranch's isolation also meant there were very few direct witnesses. Unlike an accident near a town, railway or highway, there was no crowd of observers whose accounts could be compared. As a result, later reconstructions relied heavily on Brazel, military personnel who visited the site, and witnesses interviewed years or even decades afterward. Critics of both the UFO and sceptical interpretations point out that a thin witness base makes historical reconstruction inherently difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbtvxBXEHVw" title="Roswell - UFO Crash in New Mexico | Free Documentary History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer">Roswell - UFO Crash in New Mexico | Free Documentary History</a></p><p class="youtube-embed-meta">Channel: Free Documentary - History &middot; Views: 88.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbtvxBXEHVw">Open on YouTube</a></p></div></div></div>
 
 ### A Discovery Made Outside Normal Information Networks
 
-The isolation of the ranch affected communication as well as observation. Accounts from later investigations note that Brazel lived and worked in conditions where news travelled slowly. Reports indicate he did not immediately hear about the national flying-[saucer craze]({{ 'saucer-craze/' | relative_url }}) because of the area's limited communications and distance from population centres. By the time he connected the debris to the broader public discussion, several weeks had passed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">did aliens really land</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND?22 Jun 1997 — But Brazel had no radio in his ranch shack and was unaware of the sightings until July 5, when h...</span></span></span>
+The isolation of the ranch affected communication as well as observation. Accounts from later investigations note that Brazel lived and worked in conditions where news travelled slowly. Reports indicate he did not immediately hear about the national flying-[saucer craze]({{ 'saucer-craze/' | relative_url }}) because of the area's limited communications and distance from population centres. By the time he connected the debris to the broader public discussion, several weeks had passed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">did aliens really land</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND?22 Jun 1997 — But Brazel had no radio in his ranch shack and was unaware of the sightings until July 5, when h...</span></span></span>
 
 This sequence created an enduring historical problem: the debris became famous only after a period in which crucial evidence had already gone undocumented.
 
@@ -315,7 +315,7 @@ This sequence created an enduring historical problem: the debris became famous o
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_remote_foster_ranch_b11d2e-Illustration-3-dark.svg" | relative_url }}" alt="Remote Ranch illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_remote_foster_ranch_b11d2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_mac_brazel_debris_481c7b_remote_foster_ranch_b11d2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Open Grazing Land Affected the Debris Field
 
-The Foster ranch was not a fenced crash site but open grazing country. According to early descriptions, the material was scattered across a sizeable area rather than concentrated in a single intact object. Later accounts likewise described fragments spread over a broad section of terrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night MagazineRoswell UFO incident facts and historyJune 26, 2025 — 26 Jun 2025 — On 7 July a local rancher named &#x27;Mac&#x27; Brazel con...</span><span class="citation-popover-meta">Published: June 26, 2025</span></span></span>
+The Foster ranch was not a fenced crash site but open grazing country. According to early descriptions, the material was scattered across a sizeable area rather than concentrated in a single intact object. Later accounts likewise described fragments spread over a broad section of terrain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night MagazineRoswell UFO incident facts and historyJune 26, 2025 — 26 Jun 2025 — On 7 July a local rancher named &#x27;Mac&#x27; Brazel con...</span><span class="citation-popover-meta">Published: June 26, 2025</span></span></span>
 
 Open range creates challenges for evidence preservation:
 
@@ -326,13 +326,13 @@ Open range creates challenges for evidence preservation:
 * Rain and storms can alter surface patterns.
 * Livestock can trample or move debris.
 * Ranch work can unintentionally disturb the scene.
-* There are few fixed landmarks for precise mapping. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
+* There are few fixed landmarks for precise mapping.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
 
 </div>
 
-These conditions help explain why later descriptions of the debris field vary. Witnesses often disagreed about its dimensions, density and exact location. Some accounts described a relatively compact area, while others recalled a much larger scatter pattern. Because no detailed survey was conducted before recovery operations began, later investigators were forced to rely on recollections rather than measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
+These conditions help explain why later descriptions of the debris field vary. Witnesses often disagreed about its dimensions, density and exact location. Some accounts described a relatively compact area, while others recalled a much larger scatter pattern. Because no detailed survey was conducted before recovery operations began, later investigators were forced to rely on recollections rather than measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
 
-The nature of the terrain also influenced interpretation. A field of lightweight fragments spread across open desert pasture could be seen as consistent with balloon equipment breaking apart over a wide area, an explanation later associated with [Project Mogul]({{ 'project-mogul/' | relative_url }}). Conversely, some UFO researchers argued that the unusual distribution suggested something more complex than an ordinary weather balloon. The crucial point is that the landscape itself made definitive reconstruction difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The nature of the terrain also influenced interpretation. A field of lightweight fragments spread across open desert pasture could be seen as consistent with balloon equipment breaking apart over a wide area, an explanation later associated with [Project Mogul]({{ 'project-mogul/' | relative_url }}). Conversely, some UFO researchers argued that the unusual distribution suggested something more complex than an ordinary weather balloon. The crucial point is that the landscape itself made definitive reconstruction difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odUSnDgU-oo" title="The Mysterious Roswell UFO Incident of 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer">The Mysterious Roswell UFO Incident of 1947</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 317.2K &middot; Uploaded: January 2012 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odUSnDgU-oo">Open on YouTube</a></p></div></div></div>
@@ -343,205 +343,205 @@ The nature of the terrain also influenced interpretation. A field of lightweight
 
 The Foster ranch's remoteness did more than complicate the original investigation; it magnified uncertainty for decades afterward.
 
-Because few people saw the debris before military recovery, later researchers had limited opportunities to cross-check testimony. Historical investigations repeatedly encountered a shortage of first-hand observers who could independently verify what was present on the ground. Even among people who claimed direct knowledge, recollections often differed on material composition, debris quantity and recovery procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Because few people saw the debris before military recovery, later researchers had limited opportunities to cross-check testimony. Historical investigations repeatedly encountered a shortage of first-hand observers who could independently verify what was present on the ground. Even among people who claimed direct knowledge, recollections often differed on material composition, debris quantity and recovery procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The absence of extensive contemporaneous records created space for competing narratives. Supporters of the Project Mogul explanation argue that the sparse evidence is exactly what would be expected from the recovery of classified balloon equipment on a remote ranch. UFO proponents counter that the same lack of documentation leaves room for the possibility that significant evidence was removed or misrepresented. Both positions derive part of their force from the same underlying fact: the original scene was isolated and poorly documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The absence of extensive contemporaneous records created space for competing narratives. Supporters of the Project Mogul explanation argue that the sparse evidence is exactly what would be expected from the recovery of classified balloon equipment on a remote ranch. UFO proponents counter that the same lack of documentation leaves room for the possibility that significant evidence was removed or misrepresented. Both positions derive part of their force from the same underlying fact: the original scene was isolated and poorly documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
-A more urban or accessible location would likely have produced photographs, additional witnesses, newspaper visits and faster official scrutiny. The Foster ranch produced none of those advantages. Instead, the Roswell case began with a delayed report from a lone rancher who found scattered debris in a remote landscape. That circumstance does not resolve what the material was, but it explains why the evidence remains so heavily dependent on memory, interpretation and later testimony rather than on a detailed contemporary record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night MagazineRoswell UFO incident facts and historyJune 26, 2025 — 26 Jun 2025 — On 7 July a local rancher named &#x27;Mac&#x27; Brazel con...</span><span class="citation-popover-meta">Published: June 26, 2025</span></span></span>
+A more urban or accessible location would likely have produced photographs, additional witnesses, newspaper visits and faster official scrutiny. The Foster ranch produced none of those advantages. Instead, the Roswell case began with a delayed report from a lone rancher who found scattered debris in a remote landscape. That circumstance does not resolve what the material was, but it explains why the evidence remains so heavily dependent on memory, interpretation and later testimony rather than on a detailed contemporary record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night MagazineRoswell UFO incident facts and historyJune 26, 2025 — 26 Jun 2025 — On 7 July a local rancher named &#x27;Mac&#x27; Brazel con...</span><span class="citation-popover-meta">Published: June 26, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Ranch Location Made Roswell Murkier. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Ranch Location Made Roswell Murkier. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Explores witness accounts and evidence questions that were shaped by the isolation of the Foster ranch area.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness accounts and evidence questions that were shaped by the isolation of the Foster ranch area.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Examines how geography, evidence gaps, witness limitations, and storytelling contributed to the Roswell legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how geography, evidence gaps, witness limitations, and storytelling contributed to the Roswell legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Provides one of the most influential extraterrestrial interpretations of the Roswell event and its alleged aftermath.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides one of the most influential extraterrestrial interpretations of the Roswell event and its alleged aftermath.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Directly covers the debris discovery, ranch setting, witnesses, and the origins of the Roswell controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the debris discovery, ranch setting, witnesses, and the origins of the Roswell controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="{{ '/assets/images/marketplace-covers/e11455c51dee68e7b691.jpg' | relative_url }}" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="{{ '/assets/images/marketplace-covers/e11455c51dee68e7b691.jpg' | relative_url }}" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art"><img src="{{ '/assets/images/marketplace-covers/e26a0ded611ab0b15dff.jpg' | relative_url }}" alt="Listing image for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art"><img src="{{ '/assets/images/marketplace-covers/e26a0ded611ab0b15dff.jpg' | relative_url }}" alt="Listing image for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/038d6a04cc3d84c32355.jpg' | relative_url }}" alt="Listing image for Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/038d6a04cc3d84c32355.jpg' | relative_url }}" alt="Listing image for Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c91e1b43f32f3d0bcde6.jpg' | relative_url }}" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c91e1b43f32f3d0bcde6.jpg' | relative_url }}" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="remote-ranch-why-the-ranch-location-made-roswell-murkier-roswell-ufo-crash-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ A more urban or accessible location would likely have produced photographs, addi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ A more urban or accessible location would likely have produced photographs, addi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ A more urban or accessible location would likely have produced photographs, addi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ A more urban or accessible location would likely have produced photographs, addi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ A more urban or accessible location would likely have produced photographs, addi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,102 +747,102 @@ A more urban or accessible location would likely have produced photographs, addi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?22 Jun 1997 — But Brazel had no radio in his ranch shack and was unaware of the sightings until July 5, when h...</p></details>
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?22 Jun 1997 — But Brazel had no radio in his ranch shack and was unaware of the sightings until July 5, when h...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Biggest Alien [Cover-Up](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) Finally Exposed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Biggest Alien [Cover-Up](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) Finally Exposed...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skyatnightmagazine.com  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineRoswell UFO incident facts and historyJune 26, 2025 — 26 Jun 2025 — On 7 July a local rancher named &#x27;Mac&#x27; Brazel con...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineRoswell UFO incident facts and historyJune 26, 2025 — 26 Jun 2025 — On 7 July a local rancher named &#x27;Mac&#x27; Brazel con...</p></details>
    Published: June 26, 2025  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: otd 1947 an object crashed on a ranch near roswell nm the army [air force](&#123;&#123; 'air-force/' | relative_url &#125;&#125;) identif  
-   Link: <a href="https://www.facebook.com/curatoractual/posts/otd-1947-an-object-crashed-on-a-ranch-near-roswell-nm-the-army-air-force-identif/248571091221629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/curatoractual/posts/otd-1947-an-object-crashed-on-a-ranch-near-roswell-nm-the-army-air-force-identif/248571091221629/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>#otd 1947 – An object crashed on a ranch near Roswell...The U.S. Army Air Force insisted it was a weather balloon, but eyewitness accoun...</p></details>
+   Link:<a href="https://www.facebook.com/curatoractual/posts/otd-1947-an-object-crashed-on-a-ranch-near-roswell-nm-the-army-air-force-identif/248571091221629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/curatoractual/posts/otd-1947-an-object-crashed-on-a-ranch-near-roswell-nm-the-army-air-force-identif/248571091221629/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#otd 1947 – An object crashed on a ranch near Roswell...The U.S. Army Air Force insisted it was a weather balloon, but eyewitness accoun...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: on june 14 1947 william mac brazel rode out on the jb foster ranch with his neig  
-   Link: <a href="https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On June 14, 1947, William “Mac” Brazel rode out on the...Foster ranch in Lincoln County, New Mexico... On this day in 1947, Mac Brazel...</p></details>
+   Link:<a href="https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On June 14, 1947, William “Mac” Brazel rode out on the...Foster ranch in Lincoln County, New Mexico... On this day in 1947, Mac Brazel...</p></details>
    Published: June 14, 1947  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: It's one of history's most famous conspiracies  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...The Roswell incident in 1947, was the recovery of balloon debris from a ranch near Corona, New Mexico by United States Army...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...The Roswell incident in 1947, was the recovery of balloon debris from a ranch near Corona, New Mexico by United States Army...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blm.gov  
    Title: Alleged UFO Skip Site  
-   Link: <a href="https://www.blm.gov/visit/alleged-ufo-skip-site" target="_blank" rel="noopener noreferrer nofollow">https://www.blm.gov/visit/alleged-ufo-skip-site</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New MexicoThe alleged UFO Skip Site is the place where some people believe an unidentified flying object containing aliens crashed near C...</p></details>
+   Link:<a href="https://www.blm.gov/visit/alleged-ufo-skip-site" target="_blank" rel="noopener noreferrer nofollow">https://www.blm.gov/visit/alleged-ufo-skip-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New MexicoThe alleged UFO Skip Site is the place where some people believe an unidentified flying object containing aliens crashed near C...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DL0xuXNtRLX/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DL0xuXNtRLX/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 14, 1947...On June 14, 1947, the rancher was driving. A farmer named Mac Brazel found strange metal debris scattered around his pro...</p></details>
+   Link:<a href="https://www.instagram.com/p/DL0xuXNtRLX/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DL0xuXNtRLX/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 14, 1947...On June 14, 1947, the rancher was driving. A farmer named Mac Brazel found strange metal debris scattered around his pro...</p></details>
    Published: June 14, 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tripadvisor.com  
    Title: Visiting the UFO Crash Site  
-   Link: <a href="https://www.tripadvisor.com/ShowTopic-g47182-i1645-k13241854-o30-Visiting_the_UFO_Crash_Site-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/ShowTopic-g47182-i1645-k13241854-o30-Visiting_the_UFO_Crash_Site-Roswell_New_Mexico.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Forum24 Feb 2020 — What is not disputed and there is documented evidence for, is that Mack Brazel, foreman of the Foster Ranch, (...</p></details>
+   Link:<a href="https://www.tripadvisor.com/ShowTopic-g47182-i1645-k13241854-o30-Visiting_the_UFO_Crash_Site-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/ShowTopic-g47182-i1645-k13241854-o30-Visiting_the_UFO_Crash_Site-Roswell_New_Mexico.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Forum24 Feb 2020 — What is not disputed and there is documented evidence for, is that Mack Brazel, foreman of the Foster Ranch, (...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: He found on the ranch  
-   Link: <a href="https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mac Brazel and the Heavy Price of the 1947 Corona Find 🛸...Foster ranch in Lincoln County, New Mexico, 75 miles (120 kilometers) north o...</p></details>
+   Link:<a href="https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mac Brazel and the Heavy Price of the 1947 Corona Find 🛸...Foster ranch in Lincoln County, New Mexico, 75 miles (120 kilometers) north o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;At the time Brazel was in a sign of any propellers of any kind. hurry t...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;At the time Brazel was in a sign of any propellers of any kind. hurry t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first description telephoned to the FBI on the day...Telephoned into the FBI, its states the object that crashed on 8th June in Rosw...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first description telephoned to the FBI on the day...Telephoned into the FBI, its states the object that crashed on 8th June in Rosw...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Roswell: The World's Biggest Alien Cover-Up Finally Exposed  
-   Link: <a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RueuqXrQE4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident That Shocked the World (S1) | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RueuqXrQE4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident That Shocked the World (S1) | Ancient Aliens...</p></details>

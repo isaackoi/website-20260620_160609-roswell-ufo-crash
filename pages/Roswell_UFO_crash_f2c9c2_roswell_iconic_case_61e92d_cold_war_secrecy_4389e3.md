@@ -280,30 +280,30 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_w
 
 ## Introduction
 
-Roswell became believable to many Americans not simply because something crashed in the New Mexico desert, but because the incident unfolded in a culture already accustomed to military [secrecy]({{ 'secrecy/' | relative_url }}). In 1947 the United States was entering the Cold War, protecting atomic research, developing new surveillance technologies, and withholding information about sensitive defence projects. When officials first announced that a “[flying disc]({{ 'flying-disc/' | relative_url }})” had been recovered and then quickly replaced that claim with a more mundane explanation, many people interpreted the reversal through a familiar lens: if the government kept major military programmes secret, perhaps it was hiding something here as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Roswell Hardware Man and Wife Report Disk Seen. The intelligence office of the 509th Bombardment group at Roswell...Read more...</span></span></span>
+Roswell became believable to many Americans not simply because something crashed in the New Mexico desert, but because the incident unfolded in a culture already accustomed to military [secrecy]({{ 'secrecy/' | relative_url }}). In 1947 the United States was entering the Cold War, protecting atomic research, developing new surveillance technologies, and withholding information about sensitive defence projects. When officials first announced that a “[flying disc]({{ 'flying-disc/' | relative_url }})” had been recovered and then quickly replaced that claim with a more mundane explanation, many people interpreted the reversal through a familiar lens: if the government kept major military programmes secret, perhaps it was hiding something here as well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Roswell Hardware Man and Wife Report Disk Seen. The intelligence office of the 509th Bombardment group at Roswell...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-1-dark.svg" | relative_url }}" alt="Cold War illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This context helps explain why Roswell grew into a lasting mystery while many other UFO reports faded away. The story arrived at the intersection of the flying-[saucer craze]({{ 'saucer-craze/' | relative_url }}), nuclear-age anxiety, and genuine classified activity. Even people who did not believe in extraterrestrials could recognise that secret military projects existed. That made [cover-up]({{ 'cover-up/' | relative_url }}) claims feel plausible in a way they might not have in a less secretive era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+This context helps explain why Roswell grew into a lasting mystery while many other UFO reports faded away. The story arrived at the intersection of the flying-[saucer craze]({{ 'saucer-craze/' | relative_url }}), nuclear-age anxiety, and genuine classified activity. Even people who did not believe in extraterrestrials could recognise that secret military projects existed. That made [cover-up]({{ 'cover-up/' | relative_url }}) claims feel plausible in a way they might not have in a less secretive era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
 ## The Flying Saucer Wave Before Roswell
 
-Roswell did not occur in a vacuum. By early July 1947, newspapers across the United States were already filled with reports of mysterious objects in the sky. The phenomenon began after pilot Kenneth Arnold's widely publicised sighting in June 1947, which helped popularise the term “flying saucer”. In the weeks that followed, hundreds of reports appeared nationwide, creating an atmosphere in which unusual aerial stories attracted intense attention. Estimates of public reports during the 1947 wave exceeded 800 and may have reached into the thousands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Roswell did not occur in a vacuum. By early July 1947, newspapers across the United States were already filled with reports of mysterious objects in the sky. The phenomenon began after pilot Kenneth Arnold's widely publicised sighting in June 1947, which helped popularise the term “flying saucer”. In the weeks that followed, hundreds of reports appeared nationwide, creating an atmosphere in which unusual aerial stories attracted intense attention. Estimates of public reports during the 1947 wave exceeded 800 and may have reached into the thousands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The public was also struggling to interpret what these objects might be. Newspapers carried speculation ranging from secret American technology to Soviet inventions. Military officers, scientists, journalists, and psychiatrists offered competing explanations. Some dismissed the sightings as misidentifications or mass excitement, while others suggested undisclosed government experiments. That last possibility is particularly important because it established a framework that made Roswell easier to believe. Even before the New Mexico debris story appeared, many Americans already suspected that unknown military projects might be operating beyond public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+The public was also struggling to interpret what these objects might be. Newspapers carried speculation ranging from secret American technology to Soviet inventions. Military officers, scientists, journalists, and psychiatrists offered competing explanations. Some dismissed the sightings as misidentifications or mass excitement, while others suggested undisclosed government experiments. That last possibility is particularly important because it established a framework that made Roswell easier to believe. Even before the New Mexico debris story appeared, many Americans already suspected that unknown military projects might be operating beyond public view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
-When Roswell Army Air Field announced on 8 July 1947 that it had obtained a “flying saucer”, the claim landed in a public environment primed to take such reports seriously. The announcement seemed less like an isolated oddity and more like a dramatic confirmation of a mystery that had been building for weeks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Roswell Hardware Man and Wife Report Disk Seen. The intelligence office of the 509th Bombardment group at Roswell...Read more...</span></span></span>
+When Roswell Army Air Field announced on 8 July 1947 that it had obtained a “flying saucer”, the claim landed in a public environment primed to take such reports seriously. The announcement seemed less like an isolated oddity and more like a dramatic confirmation of a mystery that had been building for weeks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Roswell Hardware Man and Wife Report Disk Seen. The intelligence office of the 509th Bombardment group at Roswell...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mBcYtSsPIuU" title="Project Mogul" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer">Project Mogul</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 2.6K &middot; Uploaded: July 2014 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mBcYtSsPIuU">Open on YouTube</a></p></div></div></div>
 
 ## Why Roswell's Military Setting Added Credibility
 
-One reason Roswell stood out from other UFO stories was the identity of the military unit involved. Roswell Army Air Field was home to the 509th Bomb Group, the unit associated with the atomic bomb missions against Hiroshima and Nagasaki. It was among the most prestigious and strategically important military organisations in the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wafbmuseum.org/history-of-walker-air-force-base/509th-composite-group/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wafbmuseum.org">[Walker Aviation Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wafbmuseum.org</span><span class="citation-popover-snippet">Open source on wafbmuseum.org.</span></span></span>
+One reason Roswell stood out from other UFO stories was the identity of the military unit involved. Roswell Army Air Field was home to the 509th Bomb Group, the unit associated with the atomic bomb missions against Hiroshima and Nagasaki. It was among the most prestigious and strategically important military organisations in the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wafbmuseum.org/history-of-walker-air-force-base/509th-composite-group/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wafbmuseum.org">[Walker Aviation Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wafbmuseum.org</span><span class="citation-popover-snippet">Open source on wafbmuseum.org.</span></span></span>
 
 For many observers, this mattered. If personnel from an ordinary base had made an error, it might have been dismissed more easily. But when an elite military installation connected to America's most secret wartime project became involved, the incident appeared more significant. The public knew little about many military activities in New Mexico, yet they understood that atomic-age installations handled sensitive information.
 
-The broader region reinforced that impression. New Mexico was home to major military research and testing activities linked to the nation's nuclear programme. The nearby history of the Manhattan Project had already demonstrated that the government could successfully conceal enormous scientific and military efforts from public knowledge. In that environment, the idea that authorities might hide another extraordinary discovery did not seem impossible to many citizens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+The broader region reinforced that impression. New Mexico was home to major military research and testing activities linked to the nation's nuclear programme. The nearby history of the Manhattan Project had already demonstrated that the government could successfully conceal enormous scientific and military efforts from public knowledge. In that environment, the idea that authorities might hide another extraordinary discovery did not seem impossible to many citizens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-2-dark.svg" | relative_url }}" alt="Cold War illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,222 +311,222 @@ The broader region reinforced that impression. New Mexico was home to major mili
 
 The strongest reason Cold War secrecy made Roswell believable is that officials really were hiding something—just not necessarily what UFO believers claimed.
 
-Later investigations identified the recovered debris as likely originating from [Project Mogul]({{ 'project-mogul/' | relative_url }}), a highly classified programme that used balloon-borne instruments to detect Soviet nuclear tests. The project's purpose was considered extremely sensitive because monitoring Soviet atomic development was a top national-security priority. Contemporary personnel could not simply explain the programme to reporters or local residents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+Later investigations identified the recovered debris as likely originating from [Project Mogul]({{ 'project-mogul/' | relative_url }}), a highly classified programme that used balloon-borne instruments to detect Soviet nuclear tests. The project's purpose was considered extremely sensitive because monitoring Soviet atomic development was a top national-security priority. Contemporary personnel could not simply explain the programme to reporters or local residents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
-This created a credibility problem. When the military replaced the “flying disc” story with a weather-balloon explanation, the public received a technically misleading account. The weather-balloon narrative concealed the true purpose of the equipment. Decades later, when the government acknowledged the existence of Project Mogul, many people interpreted that admission as proof that officials had lied from the beginning. Even though the disclosure was intended to explain the incident, it also validated suspicions that important information had been withheld. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+This created a credibility problem. When the military replaced the “flying disc” story with a weather-balloon explanation, the public received a technically misleading account. The weather-balloon narrative concealed the true purpose of the equipment. Decades later, when the government acknowledged the existence of Project Mogul, many people interpreted that admission as proof that officials had lied from the beginning. Even though the disclosure was intended to explain the incident, it also validated suspicions that important information had been withheld.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-From a psychological standpoint, this was powerful. A confirmed secret project can make a larger conspiracy seem more plausible. Once people learn that authorities concealed one fact, they may wonder what else remains hidden. Roswell therefore benefited from a paradox: the classified programme that helped explain the debris also strengthened the perception that a cover-up could exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+From a psychological standpoint, this was powerful. A confirmed secret project can make a larger conspiracy seem more plausible. Once people learn that authorities concealed one fact, they may wonder what else remains hidden. Roswell therefore benefited from a paradox: the classified programme that helped explain the debris also strengthened the perception that a cover-up could exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/foJWblpzEjA" title="Ask an Expert: The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer">Ask an Expert: The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 300.9K &middot; Uploaded: April 2011 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=foJWblpzEjA">Open on YouTube</a></p></div></div></div>
 
 ## The Difference Between Secrecy and Evidence
 
-Cold War secrecy explains why Roswell felt believable, but it does not automatically validate extraterrestrial claims. Historians and official investigations have generally concluded that the classified nature of Project Mogul, combined with the confused public statements of July 1947, created the conditions for decades of suspicion. The secrecy itself is well documented; the evidence for an alien spacecraft is not. DAF History+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
+Cold War secrecy explains why Roswell felt believable, but it does not automatically validate extraterrestrial claims. Historians and official investigations have generally concluded that the classified nature of Project Mogul, combined with the confused public statements of July 1947, created the conditions for decades of suspicion. The secrecy itself is well documented; the evidence for an alien spacecraft is not. DAF History+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
 
-What made Roswell unique was not merely that information was hidden. Governments routinely classify military projects. Rather, Roswell combined genuine secrecy with a public mistake, a sensational headline, and a cultural moment already filled with speculation about unknown objects in the sky. The existence of real classified programmes gave the cover-up narrative a foundation that many later UFO stories lacked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Roswell Hardware Man and Wife Report Disk Seen. The intelligence office of the 509th Bombardment group at Roswell...Read more...</span></span></span>
+What made Roswell unique was not merely that information was hidden. Governments routinely classify military projects. Rather, Roswell combined genuine secrecy with a public mistake, a sensational headline, and a cultural moment already filled with speculation about unknown objects in the sky. The existence of real classified programmes gave the cover-up narrative a foundation that many later UFO stories lacked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Roswell Hardware Man and Wife Report Disk Seen. The intelligence office of the 509th Bombardment group at Roswell...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-3-dark.svg" | relative_url }}" alt="Cold War illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_cold_war_secrecy_4389e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Story Endured
 
-Many UFO reports depend entirely on witness testimony. Roswell benefited from something more durable: documented evidence that the military initially said one thing and later said another. In the Cold War environment of 1947, that inconsistency naturally invited questions. The public knew that secret weapons programmes existed, that nuclear research was heavily protected, and that military officials sometimes concealed information for national-security reasons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Roswell Hardware Man and Wife Report Disk Seen. The intelligence office of the 509th Bombardment group at Roswell...Read more...</span></span></span>
+Many UFO reports depend entirely on witness testimony. Roswell benefited from something more durable: documented evidence that the military initially said one thing and later said another. In the Cold War environment of 1947, that inconsistency naturally invited questions. The public knew that secret weapons programmes existed, that nuclear research was heavily protected, and that military officials sometimes concealed information for national-security reasons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Roswell Hardware Man and Wife Report Disk Seen. The intelligence office of the 509th Bombardment group at Roswell...Read more...</span></span></span>
 
-As a result, Roswell became more than a question about unidentified debris. It evolved into a broader story about trust, secrecy, and government power. Whether people concluded that the crash involved a classified balloon project or something more extraordinary, the underlying reason the case remained persuasive was the same: the Cold War had already taught Americans that some of the most important activities in the country happened behind closed doors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+As a result, Roswell became more than a question about unidentified debris. It evolved into a broader story about trust, secrecy, and government power. Whether people concluded that the crash involved a classified balloon project or something more extraordinary, the underlying reason the case remained persuasive was the same: the Cold War had already taught Americans that some of the most important activities in the country happened behind closed doors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Roswell Felt Believable in 1947. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Roswell Felt Believable in 1947. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Connects Roswell to government investigations and secrecy themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects Roswell to government investigations and secrecy themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains why Cold War secrecy made extraordinary claims seem plausible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why Cold War secrecy made extraordinary claims seem plausible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Provides context on Cold War fears and the flying-saucer wave.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on Cold War fears and the flying-saucer wave.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Shows how secrecy and changing official explanations shaped the myth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how secrecy and changing official explanations shaped the myth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/120d85136d76b0aed0e5.jpg' | relative_url }}" alt="Listing image for Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/120d85136d76b0aed0e5.jpg' | relative_url }}" alt="Listing image for Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster"><img src="{{ '/assets/images/marketplace-covers/a407264bfe2c52f6bf58.jpg' | relative_url }}" alt="Listing image for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster"><img src="{{ '/assets/images/marketplace-covers/a407264bfe2c52f6bf58.jpg' | relative_url }}" alt="Listing image for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art"><img src="{{ '/assets/images/marketplace-covers/866c218a51ab745bd1a2.jpg' | relative_url }}" alt="Listing image for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art"><img src="{{ '/assets/images/marketplace-covers/866c218a51ab745bd1a2.jpg' | relative_url }}" alt="Listing image for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/12e40a807d593d2ba1f0.jpg' | relative_url }}" alt="Listing image for Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/12e40a807d593d2ba1f0.jpg' | relative_url }}" alt="Listing image for Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-why-roswell-felt-believable-in-1947-roswell-ufo-crash-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ As a result, Roswell became more than a question about unidentified debris. It e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ As a result, Roswell became more than a question about unidentified debris. It e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ As a result, Roswell became more than a question about unidentified debris. It e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ As a result, Roswell became more than a question about unidentified debris. It e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ As a result, Roswell became more than a question about unidentified debris. It e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,156 +732,156 @@ As a result, Roswell became more than a question about unidentified debris. It e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Hardware Man and Wife Report Disk Seen. The intelligence office of the 509th Bombardment group at Roswell...Read more...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Hardware Man and Wife Report Disk Seen. The intelligence office of the 509th Bombardment group at Roswell...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</p></details>
    Published: May 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Table of reports during the 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Such reports quickly spread throughout the United States, and some sources estimate...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Such reports quickly spread throughout the United States, and some sources estimate...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: 0708army announces roswell new mexico ufo sighting  
-   Link: <a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the milit...</p></details>
+   Link:<a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the milit...</p></details>
    Published: July 8, 1947  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wired.com  
    Title: Here's the Proof There's No Government Alien Conspiracy Around Roswell  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/509th_Operations_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/509th_Operations_Group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>509th Operations GroupThe 509th Operations Group (509 OG) is the flying component of the United States Air Force 509th Bomb Wing, stat...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/509th_Operations_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/509th_Operations_Group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>509th Operations GroupThe 509th Operations Group (509 OG) is the flying component of the United States Air Force 509th Bomb Wing, stat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Project-Mogul" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Mogul</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul | United States spy programRoswell incident …was part of the top-secret Project Mogul, which sought to detect Soviet nuclea...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Mogul" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul | United States spy programRoswell incident …was part of the top-secret Project Mogul, which sought to detect Soviet nuclea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kids.britannica.com  
    Title: Roswell Incident  
-   Link: <a href="https://kids.britannica.com/students/article/Roswell-Incident/313285" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Roswell-Incident/313285</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident - StudentsIn the midst of this “flying saucer” craze, some unusual material fell to the ground on or about July 4 near Roswell...</p></details>
+   Link:<a href="https://kids.britannica.com/students/article/Roswell-Incident/313285" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Roswell-Incident/313285</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident - StudentsIn the midst of this “flying saucer” craze, some unusual material fell to the ground on or about July 4 near Roswell...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Project Mogul  
-   Link: <a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wafbmuseum.org  
-   Link: <a href="https://www.wafbmuseum.org/history-of-walker-air-force-base/509th-composite-group/" target="_blank" rel="noopener noreferrer nofollow">https://www.wafbmuseum.org/history-of-walker-air-force-base/509th-composite-group/</a>  
+   Link:<a href="https://www.wafbmuseum.org/history-of-walker-air-force-base/509th-composite-group/" target="_blank" rel="noopener noreferrer nofollow">https://www.wafbmuseum.org/history-of-walker-air-force-base/509th-composite-group/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/pictures/roswell-66-years-of-alien-lore/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/pictures/roswell-66-years-of-alien-lore/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>66 years of alien lore8 Jul 2013 — Something crashed into the New Mexico desert in 1947, some still believe it was a flying saucer...</p></details>
+   Link:<a href="https://www.cbsnews.com/pictures/roswell-66-years-of-alien-lore/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/pictures/roswell-66-years-of-alien-lore/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>66 years of alien lore8 Jul 2013 — Something crashed into the New Mexico desert in 1947, some still believe it was a flying saucer...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army. Army Air Forces personnel from the RAAF&#x27;s 509th Bomb Group were credite...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army. Army Air Forces personnel from the RAAF&#x27;s 509th Bomb Group were credite...</p></details>
    Published: July 8, 1947  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulProject MOGUL was classified Top Secret and carried a priority level of lA. (5) It is Project MOGUL that provides...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulProject MOGUL was classified Top Secret and carried a priority level of lA. (5) It is Project MOGUL that provides...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: File:[Roswell Daily Record](&#123;&#123; 'newspaper/' | relative_url &#125;&#125;)  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...5 Nov 2023 — July 8, 1947. Article titled: &quot;RAAF Captures Flying Saucer On Ranch in Roswell Region&quot;. Flyin...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...5 Nov 2023 — July 8, 1947. Article titled: &quot;RAAF Captures Flying Saucer On Ranch in Roswell Region&quot;. Flyin...</p></details>
    Published: July 8, 1947  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: vintageaviationnews.com  
-   Link: <a href="https://vintageaviationnews.com/aviation-museum-news/legacy-walker-air-force-base.html" target="_blank" rel="noopener noreferrer nofollow">https://vintageaviationnews.com/aviation-museum-news/legacy-walker-air-force-base.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legacy Of Walker Air Force BaseThe 509th Composite Group led by then Colonel Paul Tibbets returned from its wartime base at Tinian an...</p></details>
+   Link:<a href="https://vintageaviationnews.com/aviation-museum-news/legacy-walker-air-force-base.html" target="_blank" rel="noopener noreferrer nofollow">https://vintageaviationnews.com/aviation-museum-news/legacy-walker-air-force-base.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Legacy Of Walker Air Force BaseThe 509th Composite Group led by then Colonel Paul Tibbets returned from its wartime base at Tinian an...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — A high-altitude balloon crash landed in Roswell. The aliens never left. Despite its persistence in popular culture, extrater...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — A high-altitude balloon crash landed in Roswell. The aliens never left. Despite its persistence in popular culture, extrater...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nashuatelegraph.com  
    Title: dispatch from 1947 offers another look at ufo incident  
-   Link: <a href="https://www.nashuatelegraph.com/archive/2022/07/04/dispatch-from-1947-offers-another-look-at-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.nashuatelegraph.com/archive/2022/07/04/dispatch-from-1947-offers-another-look-at-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Dispatch&#x27; from 1947 offers another look at UFO incident4 Jul 2022 — The Roswell incident has been one of the most thoroughly researched...</p></details>
+   Link:<a href="https://www.nashuatelegraph.com/archive/2022/07/04/dispatch-from-1947-offers-another-look-at-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.nashuatelegraph.com/archive/2022/07/04/dispatch-from-1947-offers-another-look-at-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Dispatch&#x27; from 1947 offers another look at UFO incident4 Jul 2022 — The Roswell incident has been one of the most thoroughly researched...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theweek.com  
    Title: [roswell ufo crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;) what really happened 67 years ago  
-   Link: <a href="https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO crash: what really happened 67 years ago?26 Jun 2018 — On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release st...</p></details>
+   Link:<a href="https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO crash: what really happened 67 years ago?26 Jun 2018 — On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release st...</p></details>
    Published: July 1947  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — The National Archives and Records Administration is actually home to several collections of documents pertaining to unident...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — The National Archives and Records Administration is actually home to several collections of documents pertaining to unident...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: It's one of history's most famous conspiracies  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...On this day in 1947, the “Daily Record” in Roswell, New Mexico reported that a flying saucer had crashed near Roswell Army...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...On this day in 1947, the “Daily Record” in Roswell, New Mexico reported that a flying saucer had crashed near Roswell Army...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
    Title: the original 1947 roswell article fascinating  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zgdb32/the_original_1947_roswell_article_fascinating/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zgdb32/the_original_1947_roswell_article_fascinating/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fascinating since in this...In this first version of the Roswell story, the Air Force conducts a crash retrieval of a flying saucer on a...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zgdb32/the_original_1947_roswell_article_fascinating/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zgdb32/the_original_1947_roswell_article_fascinating/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascinating since in this...In this first version of the Roswell story, the Air Force conducts a crash retrieval of a flying saucer on a...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_mogul
 
 ## Introduction
 
-[Project Mogul]({{ 'project-mogul/' | relative_url }}) is the reason the Roswell “weather balloon” reversal can be both credible and unsatisfying. The later official explanation was not simply that General Ramey’s headquarters had identified a normal weather balloon. It was that the debris probably came from a classified balloon-borne [Cold War]({{ 'cold-war/' | relative_url }}) project designed to monitor Soviet nuclear weapons research, using ordinary-looking materials for a secret intelligence purpose. That distinction matters because it explains why the Fort Worth story could sound technically plausible while still concealing the most important fact: the balloon was not just a weather instrument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
+[Project Mogul]({{ 'project-mogul/' | relative_url }}) is the reason the Roswell “weather balloon” reversal can be both credible and unsatisfying. The later official explanation was not simply that General Ramey’s headquarters had identified a normal weather balloon. It was that the debris probably came from a classified balloon-borne [Cold War]({{ 'cold-war/' | relative_url }}) project designed to monitor Soviet nuclear weapons research, using ordinary-looking materials for a secret intelligence purpose. That distinction matters because it explains why the Fort Worth story could sound technically plausible while still concealing the most important fact: the balloon was not just a weather instrument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_mogul_secrecy_balloo_a01653-Illustration-1-dark.svg" | relative_url }}" alt="Mogul Secrecy illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_mogul_secrecy_balloo_a01653-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_mogul_secrecy_balloo_a01653-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ In Roswell terms, Mogul secrecy changes the question. The issue is not only whet
 
 ## Why Mogul Balloon Trains Mattered in 1947
 
-Project Mogul belonged to the earliest Cold War intelligence problem: how could the United States detect Soviet atomic testing before it had reliable global monitoring systems? The Air Force’s later account described Mogul as a highly classified effort to determine the state of Soviet nuclear weapons research using balloons carrying radar reflectors and acoustic sensors. The idea was to place listening equipment high in the atmosphere, where sound waves from distant nuclear explosions might travel over long distances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
+Project Mogul belonged to the earliest Cold War intelligence problem: how could the United States detect Soviet atomic testing before it had reliable global monitoring systems? The Air Force’s later account described Mogul as a highly classified effort to determine the state of Soviet nuclear weapons research using balloons carrying radar reflectors and acoustic sensors. The idea was to place listening equipment high in the atmosphere, where sound waves from distant nuclear explosions might travel over long distances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
 
 That mission makes the “weather balloon” label incomplete. Mogul used balloon technology, and some components looked like meteorological or radar-tracking equipment. But the purpose was not routine weather observation. The balloon train was part of a surveillance system, launched from the New Mexico test environment at a time when the United States was trying to understand Soviet capabilities without revealing how it was listening.
 
-The equipment itself also helps explain the original confusion. These were not necessarily the small, familiar balloons many readers imagine. Later accounts of the New York University balloon assemblies describe long trains of balloons, radar reflectors and instruments, with one Skeptical Inquirer discussion citing Charles Moore’s description of arrays extending roughly 700 to 800 feet and including multiple radar reflectors and two dozen balloons. That makes “weather balloon” a serious understatement, even if the materials were terrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+The equipment itself also helps explain the original confusion. These were not necessarily the small, familiar balloons many readers imagine. Later accounts of the New York University balloon assemblies describe long trains of balloons, radar reflectors and instruments, with one Skeptical Inquirer discussion citing Charles Moore’s description of arrays extending roughly 700 to 800 feet and including multiple radar reflectors and two dozen balloons. That makes “weather balloon” a serious understatement, even if the materials were terrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 This is the narrow but important point behind the Mogul explanation: an intelligence device could leave behind foil, sticks, rubber, tape and radar-target fragments without being an aircraft, spacecraft or conventional weapon. The [debris]({{ 'debris/' | relative_url }}) could look strange to a rancher or even to personnel not briefed on the project, while still being made from ordinary materials.
 
@@ -303,9 +303,9 @@ This is the narrow but important point behind the Mogul explanation: an intellig
 
 The public story after Ramey’s reversal had to do two jobs at once. It had to stop the “flying disc” story from spreading, and it had to avoid exposing a classified programme. “Weather balloon” achieved both. It gave reporters a familiar explanation, avoided mentioning Soviet nuclear monitoring, and made the incident sound like an embarrassing local misunderstanding rather than a national security matter.
 
-The 1995 Government Accountability Office review captured the official record trail clearly. It found that only two government records from 1947 concerning Roswell had been recovered: a July 1947 509th Bomb Group and Roswell Army Air Field history report, and an FBI teletype dated 8 July 1947. The unit history said the object reported as a “flying disc” turned out to be a radar-tracking balloon; the FBI message said the military had reported an object resembling a high-altitude weather balloon with a radar reflector. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
+The 1995 Government Accountability Office review captured the official record trail clearly. It found that only two government records from 1947 concerning Roswell had been recovered: a July 1947 509th Bomb Group and Roswell Army Air Field history report, and an FBI teletype dated 8 July 1947. The unit history said the object reported as a “flying disc” turned out to be a radar-tracking balloon; the FBI message said the military had reported an object resembling a high-altitude weather balloon with a radar reflector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
 
-That FBI teletype is especially important because it shows the balloon-and-reflector explanation appearing in the contemporary record, not only in later Air Force reports. According to the GAO’s summary, an Eighth Air Force official told the FBI’s Dallas office that a hexagonal-shaped disc had been suspended from a large balloon by cable, and that it resembled a high-altitude weather balloon with a radar reflector. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
+That FBI teletype is especially important because it shows the balloon-and-reflector explanation appearing in the contemporary record, not only in later Air Force reports. According to the GAO’s summary, an Eighth Air Force official told the FBI’s Dallas office that a hexagonal-shaped disc had been suspended from a large balloon by cable, and that it resembled a high-altitude weather balloon with a radar reflector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
 
 But the same record also shows the limit of disclosure. The explanation named the visible form of the object, not the secret purpose behind it. To the public, “weather balloon” sounded like the whole answer. In governance terms, it was closer to a controlled simplification: accurate enough to deflect attention from a flying saucer claim, but misleading because it omitted the classified intelligence context.
 
@@ -313,11 +313,11 @@ But the same record also shows the limit of disclosure. The explanation named th
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_mogul_secrecy_balloo_a01653-Illustration-2-dark.svg" | relative_url }}" alt="Mogul Secrecy illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_mogul_secrecy_balloo_a01653-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_mogul_secrecy_balloo_a01653-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Cover Story Was Plausible but Misleading
 
-Mogul [secrecy]({{ 'secrecy/' | relative_url }}) made the cover story unusually resilient because it rested on a real physical resemblance. Radar reflectors, balloon fragments and lightweight structural materials genuinely fit the descriptions in some early accounts. Later investigators also connected odd details, such as unusual markings on reinforcing tape, to mundane manufacturing sources rather than alien writing; one account reports Charles Moore explaining that the tape came from a New York toy factory and carried abstract flower-like designs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+Mogul [secrecy]({{ 'secrecy/' | relative_url }}) made the cover story unusually resilient because it rested on a real physical resemblance. Radar reflectors, balloon fragments and lightweight structural materials genuinely fit the descriptions in some early accounts. Later investigators also connected odd details, such as unusual markings on reinforcing tape, to mundane manufacturing sources rather than alien writing; one account reports Charles Moore explaining that the tape came from a New York toy factory and carried abstract flower-like designs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 That matters because a cover story works best when it is not pure invention. If Irving Newton or other weather-trained personnel saw rubber, foil and radar-target material, their identification could be honest at the level of components. What they could not necessarily know, or could not publicly say, was the classified role those components had played.
 
-The misleading part was therefore not necessarily the claim that balloon material was present. It was the narrowing of the story to routine weather activity. The later Air Force position, echoed in the GAO summary, was that the most likely source of the wreckage was a Project Mogul balloon train. That version accepts the balloon evidence while adding the missing Cold War intelligence purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
+The misleading part was therefore not necessarily the claim that balloon material was present. It was the narrowing of the story to routine weather activity. The later Air Force position, echoed in the GAO summary, was that the most likely source of the wreckage was a Project Mogul balloon train. That version accepts the balloon evidence while adding the missing Cold War intelligence purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
 
 This is why Mogul complicates both sceptical and pro-UFO readings. For sceptics, it offers a coherent non-alien explanation for the debris and the secrecy. For Roswell believers, it confirms that the original weather balloon story was not fully candid. The dispute then shifts from “was there a cover story?” to “what exactly was being covered?”
 
@@ -328,7 +328,7 @@ This is why Mogul complicates both sceptical and pro-UFO readings. For sceptics,
 
 When the Air Force tied Roswell to Project Mogul in the 1990s, it strengthened the official explanation but also admitted a crucial point: the 1947 public wording had hidden the true purpose of the balloon work. That admission did not end the controversy, because decades of silence had already allowed Roswell to grow from a debris story into a much larger cultural myth.
 
-The GAO review added another complication. It found no air accident report requirement for a weather balloon crash, but it also noted that some Roswell Army Air Field records had been destroyed and that the available forms did not show clearly who authorised the destruction or when. That does not prove an alien recovery, but it does explain why record gaps remained useful to sceptics of the official account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
+The GAO review added another complication. It found no air accident report requirement for a weather balloon crash, but it also noted that some Roswell Army Air Field records had been destroyed and that the available forms did not show clearly who authorised the destruction or when. That does not prove an alien recovery, but it does explain why record gaps remained useful to sceptics of the official account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
 
 The timing also hurt the official explanation. By the time Mogul was publicly foregrounded, Roswell had already been reshaped by books, witnesses, television and wider mistrust of government secrecy. A classified balloon programme was exactly the kind of delayed revelation that could be read two ways: either as the missing mundane explanation, or as another layer of managed disclosure.
 
@@ -349,194 +349,194 @@ Project Mogul therefore sits at the centre of the Ramey reversal. It gives the o
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Secret Project Behind the Balloon Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Secret Project Behind the Balloon Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Helps readers understand the culture of military secrecy that made Project Mogul and Roswell debates persist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the culture of military secrecy that made Project Mogul and Roswell debates persist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places Roswell within the broader history of official investigations and military reporting on UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Roswell within the broader history of official investigations and military reporting on UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZ-MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
-        </h4>
-        <p class="fr-book-author">By John Lewis Gaddis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZ-MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
+</h4>
+<p class="fr-book-author">By John Lewis Gaddis</p>
         
-        <p class="fr-book-desc">Provides essential context for understanding why intelligence projects such as Project Mogul were developed and kept secret.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential context for understanding why intelligence projects such as Project Mogul were developed and kept secret.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Directly addresses Roswell, the official explanations, and the controversy surrounding government accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses Roswell, the official explanations, and the controversy surrounding government accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift"><img src="{{ '/assets/images/marketplace-covers/5c7f71a427d151101571.jpg' | relative_url }}" alt="Listing image for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift"><img src="{{ '/assets/images/marketplace-covers/5c7f71a427d151101571.jpg' | relative_url }}" alt="Listing image for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40"><img src="{{ '/assets/images/marketplace-covers/680c97145281fe8dd9f6.jpg' | relative_url }}" alt="Listing image for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40"><img src="{{ '/assets/images/marketplace-covers/680c97145281fe8dd9f6.jpg' | relative_url }}" alt="Listing image for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="mogul-secrecy-5af406-the-secret-project-behind-the-balloon-story-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ Project Mogul therefore sits at the centre of the Ramey reversal. It gives the o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ Project Mogul therefore sits at the centre of the Ramey reversal. It gives the o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ Project Mogul therefore sits at the centre of the Ramey reversal. It gives the o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ Project Mogul therefore sits at the centre of the Ramey reversal. It gives the o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ Project Mogul therefore sits at the centre of the Ramey reversal. It gives the o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,82 +742,82 @@ Project Mogul therefore sits at the centre of the Ramey reversal. It gives the o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: govinfo.gov  
    Title: GAOREPORTS NSIAD 95 187  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFO  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/</a>  
+   Link:<a href="https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThe &quot;unusual&quot; military activities in the New Mexico desert were high altitude research balloon launch and recovery oper...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThe &quot;unusual&quot; military activities in the New Mexico desert were high altitude research balloon launch and recovery oper...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Ro...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Ro...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=vP43ny3q0V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vP43ny3q0V8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vP43ny3q0V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vP43ny3q0V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Bizarre Details About Roswell That Still Don't Make Sense  
-   Link: <a href="https://www.youtube.com/watch?v=-HoQFNIwm5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-HoQFNIwm5c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO: What Really Happened? Conspiracy Theory Section I...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-HoQFNIwm5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-HoQFNIwm5c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO: What Really Happened? Conspiracy Theory Section I...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheWorldsofDavidDarling/photos/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746282520927/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/photos/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746282520927/</a>  
+   Link:<a href="https://www.facebook.com/TheWorldsofDavidDarling/photos/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746282520927/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/photos/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746282520927/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tajeuo/the_first_description_telephoned_to_the_fbi_on/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Ask an Expert: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=foJWblpzEjA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Details About Roswell That Still Don&#x27;t Make Sense...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=foJWblpzEjA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Details About Roswell That Still Don&#x27;t Make Sense...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: the [roswell ufo crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;) was a classified balloon program designed to spy on soviet  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  

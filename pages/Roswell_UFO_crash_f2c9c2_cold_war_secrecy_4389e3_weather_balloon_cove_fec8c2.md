@@ -279,227 +279,227 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_b
 
 ## Introduction
 
-The weather balloon explanation worked because it was not entirely false. The debris found near Roswell in 1947 contained materials that genuinely resembled balloon equipment, yet the military explanation concealed the classified purpose behind that equipment. In the early Cold War, officials often protected sensitive intelligence programmes by offering a public account that described visible facts while omitting the secret mission. In Roswell’s case, the explanation pointed observers toward familiar balloon hardware and away from Project [Mogul]({{ 'mogul/' | relative_url }}), a highly classified effort to detect Soviet nuclear activity. That combination of truth and omission made the story both believable and durable. FAS Project on Government Secrecy+2DAF History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
+The weather balloon explanation worked because it was not entirely false. The debris found near Roswell in 1947 contained materials that genuinely resembled balloon equipment, yet the military explanation concealed the classified purpose behind that equipment. In the early Cold War, officials often protected sensitive intelligence programmes by offering a public account that described visible facts while omitting the secret mission. In Roswell’s case, the explanation pointed observers toward familiar balloon hardware and away from Project [Mogul]({{ 'mogul/' | relative_url }}), a highly classified effort to detect Soviet nuclear activity. That combination of truth and omission made the story both believable and durable. FAS Project on Government Secrecy+2DAF History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-1-dark.svg" | relative_url }}" alt="Cover Story illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Visible Balloon Components
 
-The strongest reason the explanation sounded plausible was that witnesses really were looking at balloon-related debris. Contemporary descriptions referred to rubber material, foil-like fragments, tape, paper and lightweight wooden pieces scattered across a ranch. Those items matched components commonly associated with balloons and radar reflectors rather than engines, weapons or conventional aircraft wreckage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The strongest reason the explanation sounded plausible was that witnesses really were looking at balloon-related debris. Contemporary descriptions referred to rubber material, foil-like fragments, tape, paper and lightweight wooden pieces scattered across a ranch. Those items matched components commonly associated with balloons and radar reflectors rather than engines, weapons or conventional aircraft wreckage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-Project Mogul equipment was especially well suited to a weather-balloon cover because it shared many physical characteristics with ordinary meteorological devices. The programme used balloon trains, radar reflectors and lightweight experimental hardware. To someone examining scattered debris without knowledge of the mission, the distinction between a weather balloon and a classified balloon project was not obvious. Even some military personnel who were not cleared into the programme would have recognised the materials as balloon-related without knowing their true purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+Project Mogul equipment was especially well suited to a weather-balloon cover because it shared many physical characteristics with ordinary meteorological devices. The programme used balloon trains, radar reflectors and lightweight experimental hardware. To someone examining scattered debris without knowledge of the mission, the distinction between a weather balloon and a classified balloon project was not obvious. Even some military personnel who were not cleared into the programme would have recognised the materials as balloon-related without knowing their true purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
-The explanation also benefited from simplicity. A weather balloon was a familiar object that the public already understood. By contrast, explaining an experimental system designed to listen for distant Soviet nuclear tests would have required revealing information the military considered highly sensitive. A simple explanation was easier for journalists, local officials and the public to accept than a complicated classified one. Smithsonian Magazine+2National Air and Space Museum <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 Jul 2017 — Although much of the documentation about Project Mogul has now been declassified, Launius says that civilian access to infor...</span></span></span>
+The explanation also benefited from simplicity. A weather balloon was a familiar object that the public already understood. By contrast, explaining an experimental system designed to listen for distant Soviet nuclear tests would have required revealing information the military considered highly sensitive. A simple explanation was easier for journalists, local officials and the public to accept than a complicated classified one. Smithsonian Magazine+2National Air and Space Museum<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 Jul 2017 — Although much of the documentation about Project Mogul has now been declassified, Launius says that civilian access to infor...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-2-dark.svg" | relative_url }}" alt="Cover Story illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Public Was Not Told
 
-The key omission was not the balloon itself but the mission attached to it. Project Mogul was created to detect evidence of Soviet atomic tests by using high-altitude balloon systems carrying specialised equipment. At the time, monitoring Soviet nuclear development was a major intelligence priority, and programme details were closely guarded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
+The key omission was not the balloon itself but the mission attached to it. Project Mogul was created to detect evidence of Soviet atomic tests by using high-altitude balloon systems carrying specialised equipment. At the time, monitoring Soviet nuclear development was a major intelligence priority, and programme details were closely guarded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
 
-This meant that officials could truthfully point to balloon material while withholding the reason that the balloon existed. The cover story redirected attention from questions about intelligence gathering, surveillance technology and American detection capabilities. From a security perspective, the goal was not merely to identify debris but to prevent outsiders from understanding how the United States was attempting to monitor a potential nuclear rival. FAS Project on Government Secrecy+2DAF History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
+This meant that officials could truthfully point to balloon material while withholding the reason that the balloon existed. The cover story redirected attention from questions about intelligence gathering, surveillance technology and American detection capabilities. From a security perspective, the goal was not merely to identify debris but to prevent outsiders from understanding how the United States was attempting to monitor a potential nuclear rival. FAS Project on Government Secrecy+2DAF History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
 
-The approach reflected a broader Cold War pattern. Sensitive programmes were often hidden behind explanations that contained a visible truth. Anyone examining the wreckage could see balloon-like materials, so the public explanation did not have to invent an entirely different object. It only had to stop people from asking what those materials were really being used for. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+The approach reflected a broader Cold War pattern. Sensitive programmes were often hidden behind explanations that contained a visible truth. Anyone examining the wreckage could see balloon-like materials, so the public explanation did not have to invent an entirely different object. It only had to stop people from asking what those materials were really being used for.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-3-dark.svg" | relative_url }}" alt="Cover Story illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Story Endured
 
-The weather balloon explanation endured because it resolved the immediate mystery while preserving [secrecy]({{ 'secrecy/' | relative_url }}). For many people in 1947, the debris looked ordinary enough that the explanation seemed adequate. News coverage moved on quickly, and the military had provided a concrete object that people could understand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+The weather balloon explanation endured because it resolved the immediate mystery while preserving [secrecy]({{ 'secrecy/' | relative_url }}). For many people in 1947, the debris looked ordinary enough that the explanation seemed adequate. News coverage moved on quickly, and the military had provided a concrete object that people could understand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
-Ironically, the same qualities that made the story effective also created problems later. Once Project Mogul became publicly known decades afterwards, it confirmed that the original explanation had been incomplete. The government really had concealed something, even if later investigations concluded that the secret involved Cold War surveillance rather than extraterrestrial technology. That revelation encouraged suspicion among some observers because it demonstrated that officials had deliberately hidden part of the truth. National Association of Science Writers+2JH Movie Fandom <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[nasw.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</span></span></span>
+Ironically, the same qualities that made the story effective also created problems later. Once Project Mogul became publicly known decades afterwards, it confirmed that the original explanation had been incomplete. The government really had concealed something, even if later investigations concluded that the secret involved Cold War surveillance rather than extraterrestrial technology. That revelation encouraged suspicion among some observers because it demonstrated that officials had deliberately hidden part of the truth. National Association of Science Writers+2JH Movie Fandom<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[nasw.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</span></span></span>
 
-The durability of the cover story therefore rested on a simple mechanism: it matched the visible evidence while concealing the invisible purpose. People could look at the debris and see balloon-related materials, yet they could not see the classified intelligence mission behind them. By describing what was visible and suppressing what was sensitive, the weather balloon explanation achieved exactly what a Cold War cover story was designed to do. FAS Project on Government Secrecy+2DAF History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
+The durability of the cover story therefore rested on a simple mechanism: it matched the visible evidence while concealing the invisible purpose. People could look at the debris and see balloon-related materials, yet they could not see the classified intelligence mission behind them. By describing what was visible and suppressing what was sensitive, the weather balloon explanation achieved exactly what a Cold War cover story was designed to do. FAS Project on Government Secrecy+2DAF History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Weather Balloon Explanation Sounded Plausible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Weather Balloon Explanation Sounded Plausible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Presents arguments against the balloon explanation, helping readers compare views.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents arguments against the balloon explanation, helping readers compare views.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
-        </h4>
-        <p class="fr-book-author">By James McAndrew</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
+</h4>
+<p class="fr-book-author">By James McAndrew</p>
         
-        <p class="fr-book-desc">Details the weather-balloon and Mogul interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the weather-balloon and Mogul interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Shows how mundane public explanations often concealed classified programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how mundane public explanations often concealed classified programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the contrasting narrative that made the cover story controversial.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the contrasting narrative that made the cover story controversial.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift"><img src="{{ '/assets/images/marketplace-covers/58c360064e1a0c1216b5.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift"><img src="{{ '/assets/images/marketplace-covers/58c360064e1a0c1216b5.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover"><img src="{{ '/assets/images/marketplace-covers/5659f868652380819bd5.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover"><img src="{{ '/assets/images/marketplace-covers/5659f868652380819bd5.jpg' | relative_url }}" alt="Listing image for UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model Cow Abduction Alien Decoration Area 51 UFO Lamp Spacecraft Space Lover</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell"><img src="{{ '/assets/images/marketplace-covers/cf8447edbd9e5fa1ebe9.jpg' | relative_url }}" alt="Listing image for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell"><img src="{{ '/assets/images/marketplace-covers/cf8447edbd9e5fa1ebe9.jpg' | relative_url }}" alt="Listing image for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/0bd99f962f54072d69eb.jpg' | relative_url }}" alt="Listing image for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/0bd99f962f54072d69eb.jpg' | relative_url }}" alt="Listing image for Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model 1980 | 3D Printed Britain Roswell Replica 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-d54fb1-why-the-weather-balloon-explanation-sounded-plausible-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -515,7 +515,7 @@ The durability of the cover story therefore rested on a simple mechanism: it mat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -535,7 +535,7 @@ The durability of the cover story therefore rested on a simple mechanism: it mat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -567,7 +567,7 @@ The durability of the cover story therefore rested on a simple mechanism: it mat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -619,7 +619,7 @@ The durability of the cover story therefore rested on a simple mechanism: it mat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -664,7 +664,7 @@ The durability of the cover story therefore rested on a simple mechanism: it mat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,118 +705,118 @@ The durability of the cover story therefore rested on a simple mechanism: it mat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: Here's the Proof There's No Government Alien Conspiracy Around Roswell  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jhmovie.fandom.com  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JH Movie FandomRoswell incident | JH Wiki Collection Wiki - FandomThe initial 1994 USAF report admitted that the weather balloon explanat...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JH Movie FandomRoswell incident | JH Wiki Collection Wiki - FandomThe initial 1994 USAF report admitted that the weather balloon explanat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... project of balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interes...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... project of balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interes...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: airandspace.si.edu  
    Title: reports ufos 1947 roswell incident  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of UFOs: 1947 Roswell Incident20 Oct 2016 — What they found was actually a high-altitude weather balloon. aimed to find out if the Soviet...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of UFOs: 1947 Roswell Incident20 Oct 2016 — What they found was actually a high-altitude weather balloon. aimed to find out if the Soviet...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Although much of the documentation about Project Mogul has now been declassified, Launius says that civilian access to infor...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Although much of the documentation about Project Mogul has now been declassified, Launius says that civilian access to infor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military records for informatio...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentThese involve (a) strides to clarify the operational and logistical details of &#x27;Proje...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentThese involve (a) strides to clarify the operational and logistical details of &#x27;Proje...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: daviddarling.info  
-   Link: <a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
+   Link:<a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wxii12.com  
-   Link: <a href="https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499" target="_blank" rel="noopener noreferrer nofollow">https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was the main part of Project Mogul&#x27;s plan to use high altitude balloons at a part of the Earth&#x27;s atmosphere...Read more...</p></details>
+   Link:<a href="https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499" target="_blank" rel="noopener noreferrer nofollow">https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was the main part of Project Mogul&#x27;s plan to use high altitude balloons at a part of the Earth&#x27;s atmosphere...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;) noted was similar to the [neoprene balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) used to carry equipment aloft...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;) noted was similar to the [neoprene balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) used to carry equipment aloft...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t really was a balloon, there was definitely a reason to keep the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t really was a balloon, there was definitely a reason to keep the...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y balloon,&quot;Flight #4, crashed and not any kind of ET craft.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y balloon,&quot;Flight #4, crashed and not any kind of ET craft.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: syfy.com  
    Title: ufo showtime docuseries jj abrams roswell  
-   Link: <a href="https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Was Roswell the result of a secret balloon experiment?19 Aug 2021 — The Roswell incident was nothing more than Project Mogul, an int...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-showtime-docuseries-jj-abrams-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Was Roswell the result of a secret balloon experiment?19 Aug 2021 — The Roswell incident was nothing more than Project Mogul, an int...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencefriday.com  
    Title: Science Friday The Real Roswell Cover-Up?  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surfaces that helped...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surfaces that helped...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skepticalinquirer.org  
    Title: roswell ufo strange metal mystery  
-   Link: <a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we now know, it was a...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we now know, it was a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: newmexicomagazine.org  
    Title: roswell crash explained  
-   Link: <a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — Explore three leading explanations for the 1947 Roswell incident, from weather balloons to UFO cl...</p></details>
+   Link:<a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — Explore three leading explanations for the 1947 Roswell incident, from weather balloons to UFO cl...</p></details>

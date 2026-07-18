@@ -280,7 +280,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_rubbe
 
 ## Introduction
 
-One of the most frequently overlooked details in the Roswell debris accounts is that the material was not described solely as metallic-looking foil and wooden sticks. Rancher W.W. “Mac” Brazel also reported finding smoky-grey rubber fragments scattered across a broad area of his ranch. In contemporary descriptions, the rubber was spread over roughly 200 yards and formed a substantial portion of the recovered debris. Rather than pointing to a large crashed machine, this pattern is consistent with the failure of high-altitude balloon materials exposed to weather, sunlight and mechanical stress. Contemporary accounts, later [Air Force]({{ 'air-force/' | relative_url }}) investigations and [Project Mogul]({{ 'project-mogul/' | relative_url }}) reconstructions all identify balloon components as a key source of the rubber-like debris reported at Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+One of the most frequently overlooked details in the Roswell debris accounts is that the material was not described solely as metallic-looking foil and wooden sticks. Rancher W.W. “Mac” Brazel also reported finding smoky-grey rubber fragments scattered across a broad area of his ranch. In contemporary descriptions, the rubber was spread over roughly 200 yards and formed a substantial portion of the recovered debris. Rather than pointing to a large crashed machine, this pattern is consistent with the failure of high-altitude balloon materials exposed to weather, sunlight and mechanical stress. Contemporary accounts, later [Air Force]({{ 'air-force/' | relative_url }}) investigations and [Project Mogul]({{ 'project-mogul/' | relative_url }}) reconstructions all identify balloon components as a key source of the rubber-like debris reported at Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_rubber_balloon_fragm_034d67-Illustration-1-dark.svg" | relative_url }}" alt="Rubber strips illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_rubber_balloon_fragm_034d67-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_rubber_balloon_fragm_034d67-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,7 +291,7 @@ Understanding why lightweight rubber strips could be distributed across such a w
 
 ## How Rubber Meteorological Balloons Failed After Exposure
 
-The balloon systems associated with Project Mogul were not built from rigid aircraft materials. They relied on large rubber or [neoprene balloons]({{ 'balloon-decay/' | relative_url }}) connected in long trains that carried instruments and radar targets aloft. When these balloons burst, collapsed or degraded after prolonged exposure, they did not leave behind a single intact envelope. Instead, they fragmented into irregular strips and sheets. Skeptical Inquirer+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A balloon origin.">[A balloon origin.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A balloon origin.</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+The balloon systems associated with Project Mogul were not built from rigid aircraft materials. They relied on large rubber or [neoprene balloons]({{ 'balloon-decay/' | relative_url }}) connected in long trains that carried instruments and radar targets aloft. When these balloons burst, collapsed or degraded after prolonged exposure, they did not leave behind a single intact envelope. Instead, they fragmented into irregular strips and sheets. Skeptical Inquirer+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A balloon origin.">[A balloon origin.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A balloon origin.</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 High-altitude balloon materials faced several stresses:
 
@@ -305,9 +305,9 @@ High-altitude balloon materials faced several stresses:
 
 </div>
 
-These conditions could leave rubber brittle, stretched and partially shredded before it ever reached the ground. Once a balloon train came down, remaining pieces could continue to deteriorate under desert conditions, breaking into smaller fragments that no longer resembled a complete balloon. The result would be scattered strips rather than a recognisable envelope. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A balloon origin.">[Skeptical Inquirer+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A balloon origin.</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+These conditions could leave rubber brittle, stretched and partially shredded before it ever reached the ground. Once a balloon train came down, remaining pieces could continue to deteriorate under desert conditions, breaking into smaller fragments that no longer resembled a complete balloon. The result would be scattered strips rather than a recognisable envelope.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A balloon origin.">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A balloon origin.</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
-This helps explain why Brazel described smoky-grey rubber spread over a large area rather than reporting the discovery of a single giant balloon skin lying intact on the ranch. His newspaper account specifically noted grey rubber distributed across a broad zone, alongside paper, foil and sticks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+This helps explain why Brazel described smoky-grey rubber spread over a large area rather than reporting the discovery of a single giant balloon skin lying intact on the ranch. His newspaper account specifically noted grey rubber distributed across a broad zone, alongside paper, foil and sticks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mBcYtSsPIuU" title="Project Mogul" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer">Project Mogul</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 2.6K &middot; Uploaded: July 2014 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mBcYtSsPIuU">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ This helps explain why Brazel described smoky-grey rubber spread over a large ar
 
 A common assumption is that a crash site should produce a compact pile of wreckage. That expectation fits a heavy aircraft or vehicle but not a balloon train composed largely of extremely light materials.
 
-Project Mogul launches consisted of multiple balloons and attached equipment spread along a lengthy assembly. When such a structure descended, different components could detach at different times. Wind could then carry the lightest pieces well beyond the point where heavier parts landed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Project Mogul launches consisted of multiple balloons and attached equipment spread along a lengthy assembly. When such a structure descended, different components could detach at different times. Wind could then carry the lightest pieces well beyond the point where heavier parts landed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 Several factors encouraged wide dispersal:
 
@@ -326,9 +326,9 @@ Several factors encouraged wide dispersal:
 
 **Multiple break points.** A balloon train contains numerous connections and components. As the system fails, debris does not necessarily fall in one compact cluster.
 
-**Open ranch terrain.** The Roswell-area grazing land offered few obstacles to stop lightweight material from spreading across the surface. Fragments could remain visible long after the original descent. Science Friday+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefriday.com">[sciencefriday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefriday.com</span><span class="citation-popover-title">Science Friday The Real Roswell Cover-Up?</span><span class="citation-popover-snippet">Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac Brazel came across a trail of metal and...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
+**Open ranch terrain.** The Roswell-area grazing land offered few obstacles to stop lightweight material from spreading across the surface. Fragments could remain visible long after the original descent. Science Friday+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefriday.com">[sciencefriday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefriday.com</span><span class="citation-popover-title">Science Friday The Real Roswell Cover-Up?</span><span class="citation-popover-snippet">Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac Brazel came across a trail of metal and...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
 
-The result is a debris pattern that can look surprisingly extensive despite involving only a few pounds of material. Brazel estimated that all of the recovered debris together weighed only a small amount, even though it was distributed across a significant area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The result is a debris pattern that can look surprisingly extensive despite involving only a few pounds of material. Brazel estimated that all of the recovered debris together weighed only a small amount, even though it was distributed across a significant area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_rubber_balloon_fragm_034d67-Illustration-2-dark.svg" | relative_url }}" alt="Rubber strips illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_rubber_balloon_fragm_034d67-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_strange_debris_mater_602882_rubber_balloon_fragm_034d67-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,7 +336,7 @@ The result is a debris pattern that can look surprisingly extensive despite invo
 
 The rubber fragments were unusual not because they displayed advanced technology but because they appeared out of context.
 
-Most ranchers in 1947 were familiar with ordinary weather balloons. Project Mogul, however, involved larger and more complex balloon arrays combined with radar targets and experimental equipment. The mixture of rubber strips, foil-backed materials, tape and lightweight structural pieces created a debris field that did not immediately resemble any everyday object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+Most ranchers in 1947 were familiar with ordinary weather balloons. Project Mogul, however, involved larger and more complex balloon arrays combined with radar targets and experimental equipment. The mixture of rubber strips, foil-backed materials, tape and lightweight structural pieces created a debris field that did not immediately resemble any everyday object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 Contemporary descriptions repeatedly mention:
 
@@ -345,13 +345,13 @@ Contemporary descriptions repeatedly mention:
 
 * Rubber strips.
 * Foil or “tinfoil”.
-* Tough paper-like material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">razel said in an...Read more...</span></span></span>
+* Tough paper-like material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">razel said in an...Read more...</span></span></span>
 * Wooden sticks.
-* Tape and eyelets. Wikipedia+2Facebook(https://en.wikipedia.org/wiki/Roswell_incident) <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+* Tape and eyelets. Wikipedia+2Facebook(https://en.wikipedia.org/wiki/Roswell_incident)<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 </div>
 
-The rubber component is especially important because it reinforces the impression that witnesses were dealing with a balloon-related system rather than fragments of a metallic craft. Later investigators comparing surviving Mogul hardware with the reported debris noted that the neoprene balloon material matched the type of rubber Brazel described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A balloon origin.">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A balloon origin.</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+The rubber component is especially important because it reinforces the impression that witnesses were dealing with a balloon-related system rather than fragments of a metallic craft. Later investigators comparing surviving Mogul hardware with the reported debris noted that the neoprene balloon material matched the type of rubber Brazel described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A balloon origin.">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A balloon origin.</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yPxTfkIc7BY" title="What Really Happened In The Roswell UFO Sighting?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yPxTfkIc7BY" target="_blank" rel="noopener noreferrer">What Really Happened In The Roswell UFO Sighting?</a></p><p class="youtube-embed-meta">Channel: Real History &middot; Views: 13.1K &middot; Uploaded: November 2024 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yPxTfkIc7BY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yPxTfkIc7BY">Open on YouTube</a></p></div></div></div>
@@ -360,7 +360,7 @@ The rubber component is especially important because it reinforces the impressio
 
 The rubber fragments are significant because they help explain the overall character of the Roswell debris field.
 
-If the site had contained substantial remains of a large machine, investigators would expect evidence such as engines, heavy structural members, fuel systems or other dense components. Contemporary accounts instead emphasised lightweight materials: rubber, paper, foil, sticks and tape. Brazel specifically reported no engine, propeller or major metal structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+If the site had contained substantial remains of a large machine, investigators would expect evidence such as engines, heavy structural members, fuel systems or other dense components. Contemporary accounts instead emphasised lightweight materials: rubber, paper, foil, sticks and tape. Brazel specifically reported no engine, propeller or major metal structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 The presence of scattered rubber supports three features of the Mogul interpretation:
 
@@ -371,194 +371,194 @@ The presence of scattered rubber supports three features of the Mogul interpreta
 2. **A broad debris field.** Lightweight balloon fragments naturally disperse over large areas, especially in desert conditions. [Wikipedia](https://en.wikipedia.org/wiki/Roswell_incident)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Was Roswell Debris Spread So Widely?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Was Roswell Debris Spread So Widely?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Explains how balloon-related debris became controversial.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how balloon-related debris became controversial.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Provides the broader incident context behind debris interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader incident context behind debris interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Particularly relevant to balloon fragments, rubber debris and Project Mogul.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Particularly relevant to balloon fragments, rubber debris and Project Mogul.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Includes testimony about the scattered debris field.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes testimony about the scattered debris field.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo A1 Roswell Pits Ely/TL5480 Former clay pits now filled with water c2015"><img src="{{ '/assets/images/marketplace-covers/27ce4b40dc268292dd4d.jpg' | relative_url }}" alt="Listing image for Photo A1 Roswell Pits Ely/TL5480 Former clay pits now filled with water c2015" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo A1 Roswell Pits Ely/TL5480 Former clay pits now filled with water c2015</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Sugar Skull Enamel Pin Lapel Bag New Area 51 Roswell UFO Day Dead"><img src="https://i.ebayimg.com/images/g/kkwAAOSwSatiCEAk/s-l225.jpg" alt="Listing image for Green Alien Sugar Skull Enamel Pin Lapel Bag New Area 51 Roswell UFO Day Dead" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Green Alien Sugar Skull Enamel Pin Lapel Bag New Area 51 Roswell UFO Day Dead</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO ROSWELL PITS 2007"><img src="{{ '/assets/images/marketplace-covers/ce0cf840b72d89b7928b.jpg' | relative_url }}" alt="Listing image for PHOTO ROSWELL PITS 2007" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO ROSWELL PITS 2007</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist"><img src="https://i.ebayimg.com/images/g/j3MAAeSwoedpVDWO/s-l225.jpg" alt="Listing image for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 Roswell Pits Ely/TL5480 c2007"><img src="{{ '/assets/images/marketplace-covers/ddec31c83ca83c85a640.jpg' | relative_url }}" alt="Listing image for Photo 6x4 Roswell Pits Ely/TL5480 c2007" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 Roswell Pits Ely/TL5480 c2007</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel"><img src="https://i.ebayimg.com/images/g/I5kAAeSw2RtpwuT5/s-l225.jpg" alt="Listing image for Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2005 Foo Fighters VIP Concert Memorabilia - Roswell NM Private Show 06/18/2005"><img src="{{ '/assets/images/marketplace-covers/8e4225e16a893a093674.jpg' | relative_url }}" alt="Listing image for 2005 Foo Fighters VIP Concert Memorabilia - Roswell NM Private Show 06/18/2005" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2005 Foo Fighters VIP Concert Memorabilia - Roswell NM Private Show 06/18/2005</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="rubber-strips-why-was-roswell-debris-spread-so-widely-roswell-ufo-crash-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible"><img src="https://i.ebayimg.com/images/g/GmcAAOSwgFZnt~6d/s-l225.jpg" alt="Listing image for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-was-roswell-debris-spread-so-widely-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ The presence of scattered rubber supports three features of the Mogul interpreta
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ The presence of scattered rubber supports three features of the Mogul interpreta
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ The presence of scattered rubber supports three features of the Mogul interpreta
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ The presence of scattered rubber supports three features of the Mogul interpreta
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ The presence of scattered rubber supports three features of the Mogul interpreta
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,128 +764,128 @@ The presence of scattered rubber supports three features of the Mogul interpreta
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Prior to that, the incident was dismissed because the AAF ori...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Prior to that, the incident was dismissed because the AAF ori...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>razel said in an...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/krqenews/posts/if-you-had-to-pick-the-strangest-thing-new-mexico-is-known-for-it-would-be-the-i/1164765819031222/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>razel said in an...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...The debris included rubber strips, tinfoil, paper, and sticks. July 4, 1947 Brazel return...</p></details>
+   Link:<a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...The debris included rubber strips, tinfoil, paper, and sticks. July 4, 1947 Brazel return...</p></details>
    Published: July 4, 1947  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: What Really Happened In The Roswell UFO Sighting?  
-   Link: <a href="https://www.youtube.com/watch?v=yPxTfkIc7BY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yPxTfkIc7BY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yPxTfkIc7BY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yPxTfkIc7BY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Project Mogul  
-   Link: <a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportProject MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanat...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencefriday.com  
    Title: Science Friday The Real Roswell Cover-Up?  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac Brazel came across a trail of metal and...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac Brazel came across a trail of metal and...</p></details>
    Published: June 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skepticalinquirer.org  
    Title: roswell ufo strange metal mystery  
-   Link: <a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerRoswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerRoswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThey demonstrated balloon configurations that used many of the unusual configurations employed...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThey demonstrated balloon configurations that used many of the unusual configurations employed...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: daviddarling.info  
-   Link: <a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
+   Link:<a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsThere was a weather balloon with a radar reflector attached to it.... Not the debris fie...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsThere was a weather balloon with a radar reflector attached to it.... Not the debris fie...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe FBI message stated that the military had reported that an object...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe FBI message stated that the military had reported that an object...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wxii12.com  
-   Link: <a href="https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499" target="_blank" rel="noopener noreferrer nofollow">https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was the main part of Project Mogul&#x27;s plan to use high altitude balloons at a part of the Earth&#x27;s atmosphere...Read more...</p></details>
+   Link:<a href="https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499" target="_blank" rel="noopener noreferrer nofollow">https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was the main part of Project Mogul&#x27;s plan to use high altitude balloons at a part of the Earth&#x27;s atmosphere...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — It was, in Brazel&#x27;s words, “a large area of bright wreckage made up of rubber strips, tinfoil, and rather tough paper, and s...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — It was, in Brazel&#x27;s words, “a large area of bright wreckage made up of rubber strips, tinfoil, and rather tough paper, and s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
    Title: But balloons don't leave purple symbols behind. OCR  
-   Link: <a href="https://www.instagram.com/reel/DYSKqeVk-rc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSKqeVk-rc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; crashes, then suddenly it&#x27;s just a...Decades later, documents reveal Project Mogul, a secret plan to spy...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYSKqeVk-rc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSKqeVk-rc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; crashes, then suddenly it&#x27;s just a...Decades later, documents reveal Project Mogul, a secret plan to spy...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force used the news sensation to cover up the secret project.Read more...</p></details>
+   Link:<a href="https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40erikcbrown267/why-the-government-was-playing-with-balloons-around-the-roswell-crash-site-4ec419c7725f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force used the news sensation to cover up the secret project.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: forcesnews.com  
    Title: roswell military truth really out there  
-   Link: <a href="https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weather balloon and its &quot;kite&quot;, a nickname for a radar reflector used to track the balloons from the ground. Public attention was grabbed...</p></details>
+   Link:<a href="https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>weather balloon and its &quot;kite&quot;, a nickname for a radar reflector used to track the balloons from the ground. Public attention was grabbed...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
    Title: Let's start closer to the beginning  
-   Link: <a href="https://www.instagram.com/p/DL0xuXNtRLX/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DL0xuXNtRLX/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On June 14, 1947...He described it as “a large area of bright wreckage made up of rubber strips, tinfoil, and rather tough paper, and st...</p></details>
+   Link:<a href="https://www.instagram.com/p/DL0xuXNtRLX/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DL0xuXNtRLX/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On June 14, 1947...He described it as “a large area of bright wreckage made up of rubber strips, tinfoil, and rather tough paper, and st...</p></details>
    Published: June 14, 1947  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: newmexicomagazine.org  
    Title: roswell crash explained  
-   Link: <a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — The project, which involved flying microphones in high-altitude balloons, was used to determine w...</p></details>
+   Link:<a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — The project, which involved flying microphones in high-altitude balloons, was used to determine w...</p></details>

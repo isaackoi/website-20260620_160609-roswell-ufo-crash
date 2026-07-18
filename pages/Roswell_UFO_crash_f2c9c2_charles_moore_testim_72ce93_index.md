@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-charles-moore/
 description: Focused pages that expand on Moore.
-date: '2026-06-20'
+date: '2026'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_charles_moore_testim_72ce93
 parent_title: Moore
@@ -16,7 +16,7 @@ parent_permalink: /moore/
 
 # Explore Topics in Moore
 
-The following pages expand on the main **[Moore]({{ '/moore/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Moore]({{ '/moore/' | relative_url }})** page and cover its key branches in.
 
 - [Flight 4]({{ '/flight-4-d4d6b4/' | relative_url }})
 - [Record Gaps]({{ '/record-gaps-059cb0/' | relative_url }})

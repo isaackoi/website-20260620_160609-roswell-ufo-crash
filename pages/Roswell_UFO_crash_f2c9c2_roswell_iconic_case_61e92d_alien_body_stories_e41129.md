@@ -278,16 +278,16 @@ The most famous version of the Roswell story is not simply that unusual debris w
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-1-dark.svg" | relative_url }}" alt="Body Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Alien body stories gave Roswell an emotional element that debris alone could not provide. A crashed object raises questions; recovered occupants create a dramatic narrative of [secrecy]({{ 'secrecy/' | relative_url }}), mortality, and alleged government concealment. At the same time, the fact that most body accounts surfaced long after the event made them difficult to verify and opened a continuing debate about memory, [testimony]({{ 'testimony/' | relative_url }}), and alternative explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+Alien body stories gave Roswell an emotional element that debris alone could not provide. A crashed object raises questions; recovered occupants create a dramatic narrative of [secrecy]({{ 'secrecy/' | relative_url }}), mortality, and alleged government concealment. At the same time, the fact that most body accounts surfaced long after the event made them difficult to verify and opened a continuing debate about memory, [testimony]({{ 'testimony/' | relative_url }}), and alternative explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AlFuucsLIVk" title="Were Alien Bodies Found At Roswell&#x27;s UFO Crash?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer">Were Alien Bodies Found At Roswell&#x27;s UFO Crash?</a></p><p class="youtube-embed-meta">Channel: The Rest Is Classified &middot; Views: 4.4K &middot; Uploaded: June 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AlFuucsLIVk">Open on YouTube</a></p></div></div></div>
 
 ## When Body Claims Entered the Roswell Legend
 
-For many years after 1947, Roswell was largely a story about recovered wreckage rather than recovered beings. Interest in the incident revived dramatically during the late 1970s and early 1980s, particularly after renewed witness interviews and the publication of *The Roswell Incident* in 1980 by Charles Berlitz and William Moore. That book helped transform Roswell from a forgotten Cold War mystery into a major UFO case and encouraged wider discussion of alleged alien occupants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[WIRED+3Wikipedia+3Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Roswell Incident (1980 book</span><span class="citation-popover-snippet">edit · The Roswell Incident (1980 book) is located in New Mexico... The Roswell UFO Crash: What They Don&#x27;t Want You to Know. Prometheus...</span></span></span>
+For many years after 1947, Roswell was largely a story about recovered wreckage rather than recovered beings. Interest in the incident revived dramatically during the late 1970s and early 1980s, particularly after renewed witness interviews and the publication of *The Roswell Incident* in 1980 by Charles Berlitz and William Moore. That book helped transform Roswell from a forgotten Cold War mystery into a major UFO case and encouraged wider discussion of alleged alien occupants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Roswell Incident (1980 book</span><span class="citation-popover-snippet">edit · The Roswell Incident (1980 book) is located in New Mexico... The Roswell UFO Crash: What They Don&#x27;t Want You to Know. Prometheus...</span></span></span>
 
-As the story spread, additional witnesses and second-hand accounts appeared. Some described small humanoid bodies, military recovery operations, or activity at local medical facilities. These accounts varied considerably in detail, but together they shifted public attention from debris to biology. Roswell increasingly became known as a story about recovered extraterrestrials rather than an unexplained crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">These claims are further complicated by the. Page 6. fact that UFO researchers are not...Read more...</span></span></span>
+As the story spread, additional witnesses and second-hand accounts appeared. Some described small humanoid bodies, military recovery operations, or activity at local medical facilities. These accounts varied considerably in detail, but together they shifted public attention from debris to biology. Roswell increasingly became known as a story about recovered extraterrestrials rather than an unexplained crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">These claims are further complicated by the. Page 6. fact that UFO researchers are not...Read more...</span></span></span>
 
 This evolution mattered because body stories provided elements that conspiracy narratives often find compelling:
 
@@ -302,32 +302,32 @@ This evolution mattered because body stories provided elements that conspiracy n
 
 </div>
 
-Such themes made Roswell more memorable and emotionally engaging than many UFO sightings that involved only lights in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+Such themes made Roswell more memorable and emotionally engaging than many UFO sightings that involved only lights in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_DA-g94Ro1I" title="W. Glenn Dennis Interview, 11/19/1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_DA-g94Ro1I" target="_blank" rel="noopener noreferrer">W. Glenn Dennis Interview, 11/19/1990</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 6.5M &middot; Uploaded: July 2014 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_DA-g94Ro1I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_DA-g94Ro1I">Open on YouTube</a></p></div></div></div>
 
 ## Why Late Testimony Was Hard to Verify
 
-The strongest challenge facing Roswell body claims is that most emerged many years after the original event. By the time many witnesses spoke publicly, decades had passed, records were limited, key participants had died, and memories could no longer be independently checked against contemporary documentation. U.S. Air Force+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+The strongest challenge facing Roswell body claims is that most emerged many years after the original event. By the time many witnesses spoke publicly, decades had passed, records were limited, key participants had died, and memories could no longer be independently checked against contemporary documentation. U.S. Air Force+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-One frequently cited example is mortician Glenn Dennis, who claimed to have learned about unusual bodies connected to the Roswell Army Air Field hospital. His account became influential within Roswell literature and documentaries, yet researchers have long debated the reliability of specific details because supporting records and corroborating witnesses remain difficult to establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Glenn Dennis, alleged firsthand witness to events at Roswell Army Air Force Hospital concerning recovered alien...</span></span></span>
+One frequently cited example is mortician Glenn Dennis, who claimed to have learned about unusual bodies connected to the Roswell Army Air Field hospital. His account became influential within Roswell literature and documentaries, yet researchers have long debated the reliability of specific details because supporting records and corroborating witnesses remain difficult to establish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Glenn Dennis, alleged firsthand witness to events at Roswell Army Air Force Hospital concerning recovered alien...</span></span></span>
 
-Another difficulty is that witness stories often changed or expanded over time. Some accounts described a single crash site, others multiple sites. The reported number of bodies varied. Physical descriptions were not always consistent. The U.S. [Air Force]({{ 'air-force/' | relative_url }}) noted these discrepancies when reviewing Roswell claims during the 1990s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">These claims are further complicated by the. Page 6. fact that UFO researchers are not...Read more...</span></span></span>
+Another difficulty is that witness stories often changed or expanded over time. Some accounts described a single crash site, others multiple sites. The reported number of bodies varied. Physical descriptions were not always consistent. The U.S. [Air Force]({{ 'air-force/' | relative_url }}) noted these discrepancies when reviewing Roswell claims during the 1990s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">These claims are further complicated by the. Page 6. fact that UFO researchers are not...Read more...</span></span></span>
 
-This does not automatically prove that witnesses were dishonest. Memory researchers have long observed that recollections can evolve when people revisit old events, hear other accounts, consume media coverage, or attempt to reconstruct incomplete memories years later. Roswell became especially vulnerable to this problem because it had already become a famous mystery before many body stories were recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+This does not automatically prove that witnesses were dishonest. Memory researchers have long observed that recollections can evolve when people revisit old events, hear other accounts, consume media coverage, or attempt to reconstruct incomplete memories years later. Roswell became especially vulnerable to this problem because it had already become a famous mystery before many body stories were recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-2-dark.svg" | relative_url }}" alt="Body Stories illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Test Dummies and Accidents Complicated Memory
 
-One reason the body question remains controversial is that the official explanation does not simply deny the existence of unusual recoveries. Instead, Air Force investigators argued that later memories may have blended several separate events that occurred in New Mexico across different years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+One reason the body question remains controversial is that the official explanation does not simply deny the existence of unusual recoveries. Instead, Air Force investigators argued that later memories may have blended several separate events that occurred in New Mexico across different years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-In its 1997 report, the Air Force concluded that some accounts of small, human-like bodies could have been influenced by memories of anthropomorphic test dummies used in high-altitude and parachute experiments during the 1950s. Investigators argued that witnesses may have associated those later activities with the far more famous 1947 Roswell incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+In its 1997 report, the Air Force concluded that some accounts of small, human-like bodies could have been influenced by memories of anthropomorphic test dummies used in high-altitude and parachute experiments during the 1950s. Investigators argued that witnesses may have associated those later activities with the far more famous 1947 Roswell incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-The report also suggested that memories of aircraft accidents, military recovery operations, injured personnel, and other routine but dramatic events could have become mixed together over decades. According to that interpretation, witnesses were often recalling real experiences, but not necessarily experiences connected to the Roswell debris recovery itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+The report also suggested that memories of aircraft accidents, military recovery operations, injured personnel, and other routine but dramatic events could have become mixed together over decades. According to that interpretation, witnesses were often recalling real experiences, but not necessarily experiences connected to the Roswell debris recovery itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-Critics of the Air Force explanation argue that the dummy tests occurred years after 1947 and therefore cannot explain every body account. Supporters of the official view respond that the issue is not whether dummies existed in 1947, but whether later memories compressed events from different periods into a single narrative. That disagreement remains one of the central disputes in Roswell research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">u s air force reports on roswell</span><span class="citation-popover-snippet">Air Force reports on Roswell &#124; June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but dummies used...</span><span class="citation-popover-meta">Published: June 24, 1997</span></span></span>
+Critics of the Air Force explanation argue that the dummy tests occurred years after 1947 and therefore cannot explain every body account. Supporters of the official view respond that the issue is not whether dummies existed in 1947, but whether later memories compressed events from different periods into a single narrative. That disagreement remains one of the central disputes in Roswell research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">u s air force reports on roswell</span><span class="citation-popover-snippet">Air Force reports on Roswell &#124; June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but dummies used...</span><span class="citation-popover-meta">Published: June 24, 1997</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fe_NwCqfz6c" title="Nurse Who Saw Alien Autopsies In Roswell | Roswell: The Final Verdict" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fe_NwCqfz6c" target="_blank" rel="noopener noreferrer">Nurse Who Saw Alien Autopsies In Roswell | Roswell: The Final Verdict</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 2.3M &middot; Uploaded: March 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fe_NwCqfz6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fe_NwCqfz6c">Open on YouTube</a></p></div></div></div>
@@ -336,200 +336,200 @@ Critics of the Air Force explanation argue that the dummy tests occurred years a
 
 Roswell's body narratives endured because they transformed an ambiguous recovery into a human drama. Debris can be analysed, photographed, and explained. Alleged bodies raise deeper questions about life beyond Earth, government secrecy, and hidden knowledge.
 
-The result is that the body stories became the most emotionally charged part of the Roswell legend even though they are also among the least documented parts. Supporters see them as testimony that points toward a concealed reality. Skeptics view them as examples of how memories and rumours can grow around an already famous mystery. Either way, the emergence of alien body claims helped elevate Roswell from a disputed military incident into the defining UFO crash story of the modern era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident &#124; Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — The Roswell incident subsequently faded from th...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The result is that the body stories became the most emotionally charged part of the Roswell legend even though they are also among the least documented parts. Supporters see them as testimony that points toward a concealed reality. Skeptics view them as examples of how memories and rumours can grow around an already famous mystery. Either way, the emergence of alien body claims helped elevate Roswell from a disputed military incident into the defining UFO crash story of the modern era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident &#124; Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — The Roswell incident subsequently faded from th...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-3-dark.svg" | relative_url }}" alt="Body Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_iconic_case_61e92d_alien_body_stories_e41129-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Roswell Body Stories Became So Powerful. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Roswell Body Stories Became So Powerful. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Alien+Crash+at+Roswell+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alien Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GER3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Alien Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Alien+Crash+at+Roswell+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alien Crash at Roswell">Alien Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Jesse Marcel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Alien+Crash+at+Roswell+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alien Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GER3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Alien Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Alien+Crash+at+Roswell+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alien Crash at Roswell">Alien Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Jesse Marcel</p>
         
-        <p class="fr-book-desc">Focuses heavily on the extraterrestrial interpretation and occupant stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Alien+Crash+at+Roswell+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on the extraterrestrial interpretation and occupant stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Alien+Crash+at+Roswell+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Devotes substantial attention to alleged recovered occupants and related accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Devotes substantial attention to alleged recovered occupants and related accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Helped popularise occupant claims that later became central to the legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helped popularise occupant claims that later became central to the legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Covers body-recovery allegations as a central part of the Roswell story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers body-recovery allegations as a central part of the Roswell story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alien+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alien Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Alien+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alien Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel"><img src="{{ '/assets/images/marketplace-covers/fb1b88ca2b2890a74e31.jpg' | relative_url }}" alt="Listing image for Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel"><img src="{{ '/assets/images/marketplace-covers/fb1b88ca2b2890a74e31.jpg' | relative_url }}" alt="Listing image for Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage Roswell New Mexico Alien Pin NM Lapel Pin Collectible UFO Enamel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible"><img src="{{ '/assets/images/marketplace-covers/2e5350de14f0cddd4919.jpg' | relative_url }}" alt="Listing image for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible"><img src="{{ '/assets/images/marketplace-covers/2e5350de14f0cddd4919.jpg' | relative_url }}" alt="Listing image for UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Festival Roswell New Mexico July 2018 Pin Lapel Enamel Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir"><img src="{{ '/assets/images/marketplace-covers/fe53f32627aa3a3a0f21.jpg' | relative_url }}" alt="Listing image for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir"><img src="{{ '/assets/images/marketplace-covers/fe53f32627aa3a3a0f21.jpg' | relative_url }}" alt="Listing image for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin"><img src="{{ '/assets/images/marketplace-covers/1b6499acdd19a9e9a4c3.jpg' | relative_url }}" alt="Listing image for NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin"><img src="{{ '/assets/images/marketplace-covers/1b6499acdd19a9e9a4c3.jpg' | relative_url }}" alt="Listing image for NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="body-stories-why-roswell-body-stories-became-so-powerful-roswell-ufo-crash-roswell-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ The result is that the body stories became the most emotionally charged part of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ The result is that the body stories became the most emotionally charged part of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ The result is that the body stories became the most emotionally charged part of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ The result is that the body stories became the most emotionally charged part of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ The result is that the body stories became the most emotionally charged part of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,230 +735,230 @@ The result is that the body stories became the most emotionally charged part of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — The Roswell incident subsequently faded from th...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — The Roswell incident subsequently faded from th...</p></details>
    Published: May 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Roswell Incident ([1980 book](&#123;&#123; '1980-book/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>edit · The Roswell Incident (1980 book) is located in New Mexico... The Roswell UFO Crash: What They Don&#x27;t Want You to Know. Prometheus...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>edit · The Roswell Incident (1980 book) is located in New Mexico... The Roswell UFO Crash: What They Don&#x27;t Want You to Know. Prometheus...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: books.google.com  
    Title: Books The Roswell Incident  
-   Link: <a href="https://books.google.com/books/about/The_Roswell_Incident.html?id=AwPL_isJdjoC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Roswell_Incident.html?id=AwPL_isJdjoC</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MooreThis groundbreaking book not only explores every aspect of the mysterious UFO crash near Roswell, New Mexico, but also probes the bi...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Roswell_Incident.html?id=AwPL_isJdjoC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Roswell_Incident.html?id=AwPL_isJdjoC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MooreThis groundbreaking book not only explores every aspect of the mysterious UFO crash near Roswell, New Mexico, but also probes the bi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These claims are further complicated by the. Page 6. fact that UFO researchers are not...Read more...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These claims are further complicated by the. Page 6. fact that UFO researchers are not...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Dennis, alleged firsthand witness to events at Roswell Army Air Force Hospital concerning recovered alien...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Dennis, alleged firsthand witness to events at Roswell Army Air Force Hospital concerning recovered alien...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;It appears that UFO proponents have failed to establish the accurate da...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;It appears that UFO proponents have failed to establish the accurate da...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...It appears that UFO proponents have failed to establish the accur...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...It appears that UFO proponents have failed to establish the accur...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_DA-g94Ro1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_DA-g94Ro1I</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis Interview, 11/19/1990Glenn Dennis, alleged firsthand witness to events at Roswell Army Air Force Hospital concerni...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_DA-g94Ro1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_DA-g94Ro1I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis Interview, 11/19/1990Glenn Dennis, alleged firsthand witness to events at Roswell Army Air Force Hospital concerni...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but dummies used...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but dummies used...</p></details>
    Published: June 24, 1997  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: people.com  
    Title: "[Unsolved Mysteries](&#123;&#123; 'tv-suspense/' | relative_url &#125;&#125;)": The True Story of the Roswell UFO Incident  
-   Link: <a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
+   Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Glenn Dennis  
-   Link: <a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn DennisGlenn Dennis (March 24, 1925 – April 28, 2015) was a founder of the International UFO Museum and Research Center in Roswel...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn DennisGlenn Dennis (March 24, 1925 – April 28, 2015) was a founder of the International UFO Museum and Research Center in Roswel...</p></details>
    Published: March 24, 1925  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=H4AxRTzASxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H4AxRTzASxE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Roswell Incident (Full Episode) | Undercover History...On July 8th, 1947 the US army claimed to have found a &#x27;flying disk&#x27;. But with...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H4AxRTzASxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H4AxRTzASxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Roswell Incident (Full Episode) | Undercover History...On July 8th, 1947 the US army claimed to have found a &#x27;flying disk&#x27;. But with...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Reel America: "The Roswell Reports"  
-   Link: <a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1997 U.S. Air Force FilmIn 1995 and 1997, the U.S. Air Force published reports on the so-called 1947 &quot;Roswell Incident&quot; in the New Mexico...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1997 U.S. Air Force FilmIn 1995 and 1997, the U.S. Air Force published reports on the so-called 1947 &quot;Roswell Incident&quot; in the New Mexico...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KWP81Zr5-JQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KWP81Zr5-JQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>47. The official explanation was that those were test dummies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KWP81Zr5-JQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KWP81Zr5-JQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>47. The official explanation was that those were test dummies...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fe_NwCqfz6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fe_NwCqfz6c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=fe_NwCqfz6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fe_NwCqfz6c</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AlFuucsLIVk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>even human-like forms dropped from the sky. Was it a...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AlFuucsLIVk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>even human-like forms dropped from the sky. Was it a...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: content.time.com  
    Title: 0,33009,986565 3,00  
-   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENS REALLY LAND? - TIME23 Jun 1997 — The most notable of their sources was Glenn Dennis, who in 1947 was 22 and working as a mortician...</p></details>
+   Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENS REALLY LAND? - TIME23 Jun 1997 — The most notable of their sources was Glenn Dennis, who in 1947 was 22 and working as a mortician...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Were Alien Bodies Found At Roswell&#x27;s UFO Crash?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Were Alien Bodies Found At Roswell&#x27;s UFO Crash?...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Were there actually ALIEN bodies in Roswell?  
-   Link: <a href="https://www.youtube.com/watch?v=X45PXkFBtAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X45PXkFBtAA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident That Shocked the World (S1) | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X45PXkFBtAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X45PXkFBtAA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident That Shocked the World (S1) | Ancient Aliens...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Roswell Incident That Shocked the World (S1) | Ancient Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LdBu36XkQLw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Were Aliens Really Behind The Roswell Incident?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LdBu36XkQLw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Were Aliens Really Behind The Roswell Incident?...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Were Aliens Really Behind The Roswell Incident?  
-   Link: <a href="https://www.youtube.com/watch?v=IYlqImx9ikc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IYlqImx9ikc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=IYlqImx9ikc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IYlqImx9ikc</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident at 70: Facts, Not MythsSuch instrumented crash-test dummies were not familiar at that time, and the report suggests...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident at 70: Facts, Not MythsSuch instrumented crash-test dummies were not familiar at that time, and the report suggests...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: frieze.com  
    Title: roswell incident  
-   Link: <a href="https://www.frieze.com/article/roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.frieze.com/article/roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell IncidentIn July 1947, a US Army Air Base in Roswell, New Mexico, issued a statement saying that it had found the wreckage of...</p></details>
+   Link:<a href="https://www.frieze.com/article/roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.frieze.com/article/roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell IncidentIn July 1947, a US Army Air Base in Roswell, New Mexico, issued a statement saying that it had found the wreckage of...</p></details>
    Published: July 1947  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: science.howstuffworks.com  
    Title: history roswell incident  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/history-roswell-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/history-roswell-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Roswell UFO Incident... account so far, UFO Crash at Roswell (1991). From this research... Those who participated in recovering a...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/history-roswell-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/history-roswell-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Roswell UFO Incident... account so far, UFO Crash at Roswell (1991). From this research... Those who participated in recovering a...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pbs.org  
    Title: Life Beyond Earth  
-   Link: <a href="https://www.pbs.org/lifebeyondearth/listening/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/lifebeyondearth/listening/ufos.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOsThe Air Force report establishes that these were probably anthropomorphic test dummies carried in the high altitude balloons.... rep...</p></details>
+   Link:<a href="https://www.pbs.org/lifebeyondearth/listening/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/lifebeyondearth/listening/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOsThe Air Force report establishes that these were probably anthropomorphic test dummies carried in the high altitude balloons.... rep...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; began as the result of...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; began as the result of...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportIt appears after. Colonel Weaver&#x27;s final attachment, at the very end of this book.... alien beings and elusive vehicles wh...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportIt appears after. Colonel Weaver&#x27;s final attachment, at the very end of this book.... alien beings and elusive vehicles wh...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bookshop.org  
-   Link: <a href="https://bookshop.org/lists/roswell-the-complete-ufo-files-books-that-explore-america-s-greatest-mystery" target="_blank" rel="noopener noreferrer nofollow">https://bookshop.org/lists/roswell-the-complete-ufo-files-books-that-explore-america-s-greatest-mystery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: The Complete UFO Files — Books That Explore...Roswell: The Complete UFO Files — Books That Explore America&#x27;s Greatest Mystery...</p></details>
+   Link:<a href="https://bookshop.org/lists/roswell-the-complete-ufo-files-books-that-explore-america-s-greatest-mystery" target="_blank" rel="noopener noreferrer nofollow">https://bookshop.org/lists/roswell-the-complete-ufo-files-books-that-explore-america-s-greatest-mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: The Complete UFO Files — Books That Explore...Roswell: The Complete UFO Files — Books That Explore America&#x27;s Greatest Mystery...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: denofgeek.com  
    Title: how roswell new mexico gained its alien reputation  
-   Link: <a href="https://www.denofgeek.com/culture/how-roswell-new-mexico-gained-its-alien-reputation/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/culture/how-roswell-new-mexico-gained-its-alien-reputation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Roswell, New Mexico Gained Its Alien Reputation12 Jan 2019 — The CW&#x27;s new series Roswell, New Mexico has an extraterrestrial romance...</p></details>
+   Link:<a href="https://www.denofgeek.com/culture/how-roswell-new-mexico-gained-its-alien-reputation/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/culture/how-roswell-new-mexico-gained-its-alien-reputation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Roswell, New Mexico Gained Its Alien Reputation12 Jan 2019 — The CW&#x27;s new series Roswell, New Mexico has an extraterrestrial romance...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
    Title: w glenn dennis said in 1990 interview that nurse  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at Roswell...W. Glenn Dennis said in 1990 interview that nurse at Roswell alien autops...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at Roswell...W. Glenn Dennis said in 1990 interview that nurse at Roswell alien autops...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Title: archive where no mannequin has been before 1997  
-   Link: <a href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the archive, 25 June 1997: Where no mannequin has...25 Jun 2010 — But the air force said yesterday that witnesses who claimed to ha...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the archive, 25 June 1997: Where no mannequin has...25 Jun 2010 — But the air force said yesterday that witnesses who claimed to ha...</p></details>
    Published: June 1997  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/o7q4o1/why_do_i_keep_reminding_myself_today_that_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/o7q4o1/why_do_i_keep_reminding_myself_today_that_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dummies are so logical and easy, it&#x27;s likely they used them before that date, especially if they were doing testing. So t...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/o7q4o1/why_do_i_keep_reminding_myself_today_that_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/o7q4o1/why_do_i_keep_reminding_myself_today_that_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dummies are so logical and easy, it&#x27;s likely they used them before that date, especially if they were doing testing. So t...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: leonarddavid.com  
    Title: roswell rebuke ufo symbol patches in the past  
-   Link: <a href="https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Rebuke: UFO Symbol Patches in the Past9 Mar 2024 — The alleged “alien” bodies reported by some in the New Mexico desert, the Air...</p></details>
+   Link:<a href="https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/roswell-rebuke-ufo-symbol-patches-in-the-past/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Rebuke: UFO Symbol Patches in the Past9 Mar 2024 — The alleged “alien” bodies reported by some in the New Mexico desert, the Air...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
    Title: CIA and Air Force formed same day ~3 months after Roswell UFO Crash.Read more  
-   Link: <a href="https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re a UFO Expert and former CIA Operative investigating...r/aliens - Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), one of the witnesses to the Roswell incident...</p></details>
+   Link:<a href="https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re a UFO Expert and former CIA Operative investigating...r/aliens - Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), one of the witnesses to the Roswell incident...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: spokesman.com  
-   Link: <a href="https://www.spokesman.com/stories/1997/jun/25/dummies-tell-no-tales-air-force-tries-to-close/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/1997/jun/25/dummies-tell-no-tales-air-force-tries-to-close/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>live, are not being held at secret U.S. military installations...</p></details>
+   Link:<a href="https://www.spokesman.com/stories/1997/jun/25/dummies-tell-no-tales-air-force-tries-to-close/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/1997/jun/25/dummies-tell-no-tales-air-force-tries-to-close/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>live, are not being held at secret U.S. military installations...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/q8irfj/w_glenn_dennis_interview_roswell_mortician_who/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/q8irfj/w_glenn_dennis_interview_roswell_mortician_who/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>irms Alien bodies after crash This video recording contains an...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/q8irfj/w_glenn_dennis_interview_roswell_mortician_who/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/q8irfj/w_glenn_dennis_interview_roswell_mortician_who/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>irms Alien bodies after crash This video recording contains an...</p></details>

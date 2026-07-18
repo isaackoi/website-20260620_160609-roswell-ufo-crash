@@ -448,7 +448,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-overvi
 
 ## Introduction
 
-The crash-test-dummy explanation is not the Air Force’s answer to the whole [Roswell UFO crash]({{ 'roswell-ufo-crash/' | relative_url }}) story. It is a narrower claim about a later layer of the legend: stories of small bodies, body bags, military recovery crews and hospital autopsies that became attached to the 1947 debris incident decades after the event. In the 1997 report *The Roswell Report: Case Closed*, the Air Force argued that witnesses and later storytellers had compressed several real events from the 1950s into a false memory cluster dated to July 1947: high-altitude dummy drops, balloon-recovery operations, a fatal 1956 KC-97 aircraft crash, and a 1959 manned-[balloon mishap]({{ 'balloon-mishap/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
+The crash-test-dummy explanation is not the Air Force’s answer to the whole [Roswell UFO crash]({{ 'roswell-ufo-crash/' | relative_url }}) story. It is a narrower claim about a later layer of the legend: stories of small bodies, body bags, military recovery crews and hospital autopsies that became attached to the 1947 debris incident decades after the event. In the 1997 report *The Roswell Report: Case Closed*, the Air Force argued that witnesses and later storytellers had compressed several real events from the 1950s into a false memory cluster dated to July 1947: high-altitude dummy drops, balloon-recovery operations, a fatal 1956 KC-97 aircraft crash, and a 1959 manned-[balloon mishap]({{ 'balloon-mishap/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-overview.webp" | relative_url }}" alt="Overview image for Dummies" loading="eager" decoding="sync" fetchpriority="high">
@@ -456,11 +456,11 @@ That argument matters because it does two things at once. It offers a mundane ex
 
 ## What the Air Force Actually Claimed
 
-The 1997 Air Force report followed an earlier 1994 Air Force inquiry, prompted by a General Accounting Office review, which had concluded that the 1947 debris was most likely from Project Mogul, a balloon-borne Cold War research programme intended to detect Soviet nuclear tests. The 1994 report also said Air Force researchers found no records of recovered alien bodies or extraterrestrial material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
+The 1997 Air Force report followed an earlier 1994 Air Force inquiry, prompted by a General Accounting Office review, which had concluded that the 1947 debris was most likely from Project Mogul, a balloon-borne Cold War research programme intended to detect Soviet nuclear tests. The 1994 report also said Air Force researchers found no records of recovered alien bodies or extraterrestrial material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
 
-The 1997 report addressed a different problem: why, if the 1947 incident was debris from a balloon train, did later Roswell accounts include bodies, autopsies, military cordons and strange ambulance activity? Its answer was “memory compression”. The report’s core conclusion was that Air Force activities “which occurred over a period of many years” had been consolidated into a story said to have happened in two or three days in July 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
+The 1997 report addressed a different problem: why, if the 1947 incident was debris from a balloon train, did later Roswell accounts include bodies, autopsies, military cordons and strange ambulance activity? Its answer was “memory compression”. The report’s core conclusion was that Air Force activities “which occurred over a period of many years” had been consolidated into a story said to have happened in two or three days in July 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
 
-This is a crucial distinction. The Air Force did not claim that a witness in July 1947 watched a 1950s dummy drop. It claimed that the public Roswell narrative evolved after 1978, when claims about bodies became linked to the original Mogul debris recovery. In the report’s own reconstruction, the original Foster Ranch debris site was later joined by two additional alleged crash sites, and those later sites were distinguished by stories of bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+This is a crucial distinction. The Air Force did not claim that a witness in July 1947 watched a 1950s dummy drop. It claimed that the public Roswell narrative evolved after 1978, when claims about bodies became linked to the original Mogul debris recovery. In the report’s own reconstruction, the original Foster Ranch debris site was later joined by two additional alleged crash sites, and those later sites were distinguished by stories of bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
 The strongest version of the dummy argument therefore has three parts:
 
@@ -479,15 +479,15 @@ That makes the dummy explanation less absurd than the common caricature, but als
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-Illustration-1-dark.svg" | relative_url }}" alt="Dummies illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## High-Altitude Dummy Tests
 
-The dummies at the centre of the Air Force argument were not shop-window mannequins or modern car-crash figures. They were anthropomorphic test devices used in high-altitude escape research. The Air Force traced their role to projects such as High Dive and Excelsior, designed to study how a pilot or future astronaut might survive escape from extreme altitude by parachute. From 1953 to 1959, these projects used human-shaped dummies carried aloft by balloons and then released to fall before parachute deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The dummies at the centre of the Air Force argument were not shop-window mannequins or modern car-crash figures. They were anthropomorphic test devices used in high-altitude escape research. The Air Force traced their role to projects such as High Dive and Excelsior, designed to study how a pilot or future astronaut might survive escape from extreme altitude by parachute. From 1953 to 1959, these projects used human-shaped dummies carried aloft by balloons and then released to fall before parachute deployment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
-The report gives several details that explain why these recoveries could look eerie to civilians. Dummies were transported up to 98,000 feet by high-altitude balloons, released in free fall, and recovered across parts of New Mexico. Between June 1954 and February 1959, the Air Force documented 43 high-altitude balloon flights carrying 67 anthropomorphic dummies, with many impacts outside military reservations in eastern New Mexico, near Roswell and around the Tularosa Valley. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The report gives several details that explain why these recoveries could look eerie to civilians. Dummies were transported up to 98,000 feet by high-altitude balloons, released in free fall, and recovered across parts of New Mexico. Between June 1954 and February 1959, the Air Force documented 43 high-altitude balloon flights carrying 67 anthropomorphic dummies, with many impacts outside military reservations in eastern New Mexico, near Roswell and around the Tularosa Valley.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
-The dummies themselves also matched some later “alien body” imagery better than a casual reader might expect. “[Sierra Sam]({{ 'sierra-sam/' | relative_url }})”, developed after a 1949 proposal and delivered from 1950, stood about 72 inches tall, weighed about 200 pounds, and was designed with human-like weight distribution and instrumentation cavities. Later Sierra and Alderson dummies had metal skeletons, latex or plastic skin, cast aluminium skulls and internal spaces for gauges and sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The dummies themselves also matched some later “alien body” imagery better than a casual reader might expect. “[Sierra Sam]({{ 'sierra-sam/' | relative_url }})”, developed after a 1949 proposal and delivered from 1950, stood about 72 inches tall, weighed about 200 pounds, and was designed with human-like weight distribution and instrumentation cavities. Later Sierra and Alderson dummies had metal skeletons, latex or plastic skin, cast aluminium skulls and internal spaces for gauges and sensors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
-Yet there is an obvious complication: these were not the tiny grey aliens of popular culture. They were usually adult-human-sized test devices, often dressed as aircrew. The Air Force’s answer was that witness descriptions were not uniform. Some later accounts described “dummies”, plastic-doll-like bodies, one-piece grey suits, missing fingers, military handling equipment and recovery vehicles. Those features fit parts of the dummy-drop record better than they fit a coherent biological alien account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+Yet there is an obvious complication: these were not the tiny grey aliens of popular culture. They were usually adult-human-sized test devices, often dressed as aircrew. The Air Force’s answer was that witness descriptions were not uniform. Some later accounts described “dummies”, plastic-doll-like bodies, one-piece grey suits, missing fingers, military handling equipment and recovery vehicles. Those features fit parts of the dummy-drop record better than they fit a coherent biological alien account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
-The recovery operations are just as important as the dummies. According to the report, eight to twelve civilian and military personnel typically arrived after a dummy landing, using vehicles and aircraft such as wreckers, six-by-six trucks, weapons carriers, L-20 observation aircraft and C-47 transports. Witnesses in later Roswell stories described similar vehicles at alleged crash locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The recovery operations are just as important as the dummies. According to the report, eight to twelve civilian and military personnel typically arrived after a dummy landing, using vehicles and aircraft such as wreckers, six-by-six trucks, weapons carriers, L-20 observation aircraft and C-47 transports. Witnesses in later Roswell stories described similar vehicles at alleged crash locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
 That is the most persuasive part of the Air Force case. It does not require every witness to invent a story from nothing. It asks whether someone who saw a balloon-borne dummy recovery, or heard about one later, could honestly remember a strange humanoid object, a military team, unusual vehicles and a controlled recovery site — then attach that memory to Roswell after the case became famous.
 
@@ -498,11 +498,11 @@ That is the most persuasive part of the Air Force case. It does not require ever
 
 The dummy drops were not the only later events used in the 1997 explanation. The Air Force also argued that some hospital and autopsy claims drew on real accidents involving human airmen, especially a 1956 KC-97 crash and a 1959 manned-balloon mishap. This matters because some Roswell body stories involve not just figures in the desert, but hospital rooms, odours, autopsy-like procedures and transport to Wright-Patterson Air Force Base.
 
-The 1956 case was grim. A KC-97G aircraft from Walker Air Force Base crashed 8.8 miles south of the base on 26 June 1956, killing all 11 crewmen. The Air Force report says the aircraft suffered a propeller failure shortly after take-off, leading to an intense fire, loss of control and destruction of the aircraft. The remains were taken to the Walker Air Force Base hospital for identification; a Wright-Patterson identification specialist arrived the next day; some identification work was later moved to a refrigerated commissary compartment because of the condition of the remains and limitations of the hospital facility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The 1956 case was grim. A KC-97G aircraft from Walker Air Force Base crashed 8.8 miles south of the base on 26 June 1956, killing all 11 crewmen. The Air Force report says the aircraft suffered a propeller failure shortly after take-off, leading to an intense fire, loss of control and destruction of the aircraft. The remains were taken to the Walker Air Force Base hospital for identification; a Wright-Patterson identification specialist arrived the next day; some identification work was later moved to a refrigerated commissary compartment because of the condition of the remains and limitations of the hospital facility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
-The Air Force saw similarities between that tragedy and later Roswell hospital-body accounts: burned and mangled bodies, body bags, odour, outside specialists and autopsy-related activity. That does not make the KC-97 accident a Roswell event. It makes it a possible source for particular details that later migrated into the Roswell mythology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The Air Force saw similarities between that tragedy and later Roswell hospital-body accounts: burned and mangled bodies, body bags, odour, outside specialists and autopsy-related activity. That does not make the KC-97 accident a Roswell event. It makes it a possible source for particular details that later migrated into the Roswell mythology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
-The 1959 balloon incident served a different function in the report. During manned balloon training associated with high-altitude research, Captains Dan D. Fulgham and William C. Kaufman were injured. The Air Force argued that Fulgham’s unusual head injury, his treatment at Walker Air Force Base, and his later transport to Wright-Patterson could explain some claims about a large-headed body or unusual medical-security activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The 1959 balloon incident served a different function in the report. During manned balloon training associated with high-altitude research, Captains Dan D. Fulgham and William C. Kaufman were injured. The Air Force argued that Fulgham’s unusual head injury, his treatment at Walker Air Force Base, and his later transport to Wright-Patterson could explain some claims about a large-headed body or unusual medical-security activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
 This is also where the explanation is most vulnerable to sceptical challenge. The Air Force was not presenting a single clean substitution — one dummy equals one alien. It was building a composite explanation: this detail may come from High Dive, that detail from a hospital accident, another from a balloon mishap, and the 1947 date from the original debris recovery. That is plausible as folklore development, but it is harder to prove in the way a physical debris match can be proved.
 
@@ -510,13 +510,13 @@ This is also where the explanation is most vulnerable to sceptical challenge. Th
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-Illustration-2-dark.svg" | relative_url }}" alt="Dummies illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Memory-Compression Argument
 
-“Memory compression” is not a formal Roswell-only term, but the idea is familiar in memory research: people can misattribute the source, date or setting of remembered information, especially when memories are retold, discussed and reshaped over time. Psychologists call part of this problem “source monitoring”: the process by which people decide whether a memory came from direct experience, something heard from another person, something read, or something imagined. A major source-monitoring review describes the concept as a framework for understanding misattributed familiarity, eyewitness [testimony]({{ 'testimony/' | relative_url }}) and the incorporation of fiction into fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/8346328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Source monitoring</span><span class="citation-popover-snippet">Pub Med Source monitoring</span></span></span>
+“Memory compression” is not a formal Roswell-only term, but the idea is familiar in memory research: people can misattribute the source, date or setting of remembered information, especially when memories are retold, discussed and reshaped over time. Psychologists call part of this problem “source monitoring”: the process by which people decide whether a memory came from direct experience, something heard from another person, something read, or something imagined. A major source-monitoring review describes the concept as a framework for understanding misattributed familiarity, eyewitness [testimony]({{ 'testimony/' | relative_url }}) and the incorporation of fiction into fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/8346328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Source monitoring</span><span class="citation-popover-snippet">Pub Med Source monitoring</span></span></span>
 
 That framework fits the Air Force’s Roswell argument in a limited but useful way. A witness might remember a real military recovery in the desert but later misdate it. A relative might inherit a second-hand account and attach it to the most famous local UFO story. A researcher might interview multiple people, combine compatible fragments and reject contradictory ones. A published book, television programme or museum narrative can then feed back into later recollections, making the merged version feel older and more certain than it is.
 
-Eyewitness-memory research also shows why this does not require deliberate lying. The misinformation effect describes how later information can alter someone’s recall of an earlier event, particularly when post-event narratives supply labels, explanations or missing details. A contemporary overview notes that memory is reconstructive, integrating fragments of perception, inference and external input during retrieval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Eyewitness-memory research also shows why this does not require deliberate lying. The misinformation effect describes how later information can alter someone’s recall of an earlier event, particularly when post-event narratives supply labels, explanations or missing details. A contemporary overview notes that memory is reconstructive, integrating fragments of perception, inference and external input during retrieval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-Roswell is unusually exposed to this mechanism because of the long gap between the 1947 debris event and the body-rich versions of the story. The Air Force report stressed that claims about bodies became attached to Roswell after 1978, when the case was revived in UFO literature. It also noted that later crash scenarios multiplied the sites: the original Foster Ranch debris field, a site north of Roswell, and a site on or near the San Agustin Plains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+Roswell is unusually exposed to this mechanism because of the long gap between the 1947 debris event and the body-rich versions of the story. The Air Force report stressed that claims about bodies became attached to Roswell after 1978, when the case was revived in UFO literature. It also noted that later crash scenarios multiplied the sites: the original Foster Ranch debris field, a site north of Roswell, and a site on or near the San Agustin Plains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
 In that setting, memory compression can operate at several levels:
 
@@ -537,11 +537,11 @@ The Air Force’s 1997 report is strongest when read as an argument about this c
 
 ## Where the Dummy Explanation Is Strong
 
-The strongest evidence for the dummy explanation is the fit between specific later claims and documented 1950s operations. The Air Force did not merely say “people saw dummies”. It compared witness descriptions with test records, photographs, technical reports, vehicle types, launch and recovery procedures, and interviews with personnel involved in High Dive and Excelsior. It also identified documented dummy landing areas in New Mexico that overlapped with areas later associated with alleged crash sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The strongest evidence for the dummy explanation is the fit between specific later claims and documented 1950s operations. The Air Force did not merely say “people saw dummies”. It compared witness descriptions with test records, photographs, technical reports, vehicle types, launch and recovery procedures, and interviews with personnel involved in High Dive and Excelsior. It also identified documented dummy landing areas in New Mexico that overlapped with areas later associated with alleged crash sites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
-The procedural details are especially important. A civilian who stumbled into, or later heard about, a high-altitude dummy recovery might remember a striking combination: a humanoid figure, parachute gear, a military team, unusual trucks, aircraft circling overhead, restricted access and officials taking names. Those ingredients resemble later “crashed saucer recovery” stories more than the original 1947 [newspaper]({{ 'newspaper/' | relative_url }}) reports do. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The procedural details are especially important. A civilian who stumbled into, or later heard about, a high-altitude dummy recovery might remember a striking combination: a humanoid figure, parachute gear, a military team, unusual trucks, aircraft circling overhead, restricted access and officials taking names. Those ingredients resemble later “crashed saucer recovery” stories more than the original 1947 [newspaper]({{ 'newspaper/' | relative_url }}) reports do.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
-The explanation is also strengthened by the absence of body claims in the earliest public record of the Roswell incident. The 1947 story centred on debris, not alien corpses. The 1994 Air Force report said its records search found no evidence of recovered alien bodies or extraterrestrial materials, while the 1997 report argued that body claims became part of Roswell only after the case was revived decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security Agency</span></span></span>
+The explanation is also strengthened by the absence of body claims in the earliest public record of the Roswell incident. The 1947 story centred on debris, not alien corpses. The 1994 Air Force report said its records search found no evidence of recovered alien bodies or extraterrestrial materials, while the 1997 report argued that body claims became part of Roswell only after the case was revived decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security Agency</span></span></span>
 
 That chronological gap does not automatically disprove every later witness, but it does change the burden of interpretation. If a dramatic body story first appears decades after the event, after Roswell has become a famous UFO template, it needs stronger corroboration than a contemporary report would.
 
@@ -550,13 +550,13 @@ That chronological gap does not automatically disprove every later witness, but 
 
 ## Where the Explanation Remains Risky
 
-The main weakness is temporal. The best-known High Dive and Excelsior dummy drops were 1950s activities, while the Roswell debris recovery occurred in July 1947. Critics often seize on this point, and they are right about the narrow chronology: the 1950s dummy tests cannot be the physical thing recovered at the Foster Ranch in 1947. The Air Force’s own report effectively concedes that point by treating dummies as an explanation for later body stories, not for the original debris field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The main weakness is temporal. The best-known High Dive and Excelsior dummy drops were 1950s activities, while the Roswell debris recovery occurred in July 1947. Critics often seize on this point, and they are right about the narrow chronology: the 1950s dummy tests cannot be the physical thing recovered at the Foster Ranch in 1947. The Air Force’s own report effectively concedes that point by treating dummies as an explanation for later body stories, not for the original debris field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
 A second risk is overfitting. When investigators compare a large body of memories with a large body of military records, some details will match by chance or by broad similarity. “Military vehicles”, “body bags”, “ambulances” and “security” are not unique signatures. The Air Force case becomes more persuasive when several unusual details align in the same account, but weaker when it relies on generic similarities.
 
 A third risk is that memory compression can become unfalsifiable if used too loosely. Any mismatch can be explained as faulty memory; any match can be taken as confirmation. A careful use of the argument should therefore separate three categories: details well explained by documented dummy or accident records, details that are merely compatible with them, and details that remain unsupported or too vague to evaluate.
 
-The 1956 and 1959 accident explanations carry an additional ethical and evidential burden. They involve real human injuries and deaths. Using them to explain UFO lore is reasonable only when the comparison is specific and documented, not when tragedy is treated as a convenient catch-all for any hospital-body rumour. The Air Force did provide specific comparisons in its report, but readers should still distinguish between “a plausible source for some details” and “a complete explanation for all claims”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
+The 1956 and 1959 accident explanations carry an additional ethical and evidential burden. They involve real human injuries and deaths. Using them to explain UFO lore is reasonable only when the comparison is specific and documented, not when tragedy is treated as a convenient catch-all for any hospital-body rumour. The Air Force did provide specific comparisons in its report, but readers should still distinguish between “a plausible source for some details” and “a complete explanation for all claims”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The Roswell Report: Case Closed, by James McAndrew—A Project Gutenberg eBook...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-Illustration-3-dark.svg" | relative_url }}" alt="Dummies illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_test_dummies_memory_24363b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -571,194 +571,194 @@ The result is not simply “people mistook dummies for aliens”. The more caref
 For a reader assessing the Roswell UFO crash, the key question is therefore not whether dummies existed, or whether they were dropped in New Mexico. They did, and they were. The key question is whether the later alien-body stories are better explained by extraterrestrial recovery or by a mixture of documented military tests, accidents, second-hand testimony and memory compression. On the available record, the dummy-and-memory explanation is a strong account of the body-story layer, but not a standalone explanation of the entire Roswell case.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Test Dummies Become Roswell Aliens?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Test Dummies Become Roswell Aliens?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly examines how Roswell stories developed over time, including witness narratives, myth formation, and explanations for later alien...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how Roswell stories developed over time, including witness narratives, myth formation, and explanations for later alien...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Focuses heavily on witness accounts, making it useful for understanding claims later challenged by the Air Force&#x27;s memory-compression arg...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on witness accounts, making it useful for understanding claims later challenged by the Air Force&#x27;s memory-compression arg...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Provides a prominent body-recovery and extraterrestrial interpretation that contrasts sharply with the test-dummy explanation discussed o...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a prominent body-recovery and extraterrestrial interpretation that contrasts sharply with the test-dummy explanation discussed o...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Represents the influential pro-Roswell narrative that later claims about bodies and recovery operations were built upon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the influential pro-Roswell narrative that later claims about bodies and recovery operations were built upon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir"><img src="https://i.ebayimg.com/images/g/d8QAAeSw5V9pVDWQ/s-l225.jpg" alt="Listing image for New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">New Mexico UFO Alien Enamel Lapel Pin Roswell Style Souvenir</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist"><img src="https://i.ebayimg.com/images/g/j3MAAeSwoedpVDWO/s-l225.jpg" alt="Listing image for Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Cowboy UFO Lapel Pin Enamel Souvenir Tourist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ROSWELL New Mexico Incident Vintage Enamel Lapel Tack Pin Badge"><img src="https://i.ebayimg.com/images/g/HPEAAeSwFh9p2xKU/s-l225.jpg" alt="Listing image for UFO ROSWELL New Mexico Incident Vintage Enamel Lapel Tack Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">UFO ROSWELL New Mexico Incident Vintage Enamel Lapel Tack Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="dummies-did-test-dummies-become-roswell-aliens-roswell-ufo-crash-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin"><img src="https://i.ebayimg.com/images/g/4WMAAeSwR7JpHmD4/s-l225.jpg" alt="Listing image for NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">NASA Space Enamel Pin Lot Astronaut UFO Exploration Vintage Style Roswell pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="did-test-dummies-become-roswell-aliens-roswell-ufo-enamel-pin-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -774,7 +774,7 @@ For a reader assessing the Roswell UFO crash, the key question is therefore not 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -794,7 +794,7 @@ For a reader assessing the Roswell UFO crash, the key question is therefore not 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -826,7 +826,7 @@ For a reader assessing the Roswell UFO crash, the key question is therefore not 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -878,7 +878,7 @@ For a reader assessing the Roswell UFO crash, the key question is therefore not 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -923,7 +923,7 @@ For a reader assessing the Roswell UFO crash, the key question is therefore not 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -964,131 +964,131 @@ For a reader assessing the Roswell UFO crash, the key question is therefore not 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—A Project Gutenberg eBook...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—A Project Gutenberg eBook...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nsa.gov  
    Title: National Security Agency  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gutenberg.org  
    Title: 63659 h  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
    Title: aliens or dummies  
-   Link: <a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
+   Link:<a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Source monitoring  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8346328/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8346328/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/8346328/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8346328/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why “Listen” Is the Real Twist in Disclosure Day (2026) A Constantly Racing Mind · 12 [views](&amp;#123;&amp;#123; &#x27;views/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why “Listen” Is the Real Twist in Disclosure Day (2026) A Constantly Racing Mind · 12 [views](&amp;#123;&amp;#123; &#x27;views/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Reel America: "The Roswell Reports"  
-   Link: <a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed by James McAndrew (Full Audio book)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed by James McAndrew (Full Audio book)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Anthropomorphic dummy balloon drop test  
-   Link: <a href="https://www.youtube.com/watch?v=R-cVNVxXtOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R-cVNVxXtOs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official Reports on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R-cVNVxXtOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R-cVNVxXtOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official Reports on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/39064700_Memory_Conformity_Can_Eyewitnesses_Influence_Each_Other%27s_Memories_for_an_Event" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/39064700_Memory_Conformity_Can_Eyewitnesses_Influence_Each_Other%27s_Memories_for_an_Event</a>  
+   Link:<a href="https://www.researchgate.net/publication/39064700_Memory_Conformity_Can_Eyewitnesses_Influence_Each_Other%27s_Memories_for_an_Event" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/39064700_Memory_Conformity_Can_Eyewitnesses_Influence_Each_Other%27s_Memories_for_an_Event</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnsolvedMysteries/comments/1fug76p/netflix_vol_5_episode_4_the_roswell_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/1fug76p/netflix_vol_5_episode_4_the_roswell_ufo_incident/</a>  
+   Link:<a href="https://www.reddit.com/r/UnsolvedMysteries/comments/1fug76p/netflix_vol_5_episode_4_the_roswell_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/1fug76p/netflix_vol_5_episode_4_the_roswell_ufo_incident/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYPkxsIjVTd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYPkxsIjVTd/</a>  
+   Link:<a href="https://www.instagram.com/p/DYPkxsIjVTd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYPkxsIjVTd/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/teachpsych/posts/10161670327704349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/teachpsych/posts/10161670327704349/</a>  
+   Link:<a href="https://www.facebook.com/groups/teachpsych/posts/10161670327704349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/teachpsych/posts/10161670327704349/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/roswell</a>  
+   Link:<a href="https://www.rottentomatoes.com/tv/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/roswell</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/00006823-199307000-00001" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/00006823-199307000-00001</a>  
+   Link:<a href="https://www.ovid.com/00006823-199307000-00001" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/00006823-199307000-00001</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/source-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/source-monitoring</a>  
+   Link:<a href="https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/source-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/source-monitoring</a>  

@@ -274,33 +274,33 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavit
 
 ## Introduction
 
-Sheridan Cavitt’s testimony occupied a privileged position in the U.S. [Air Force]({{ 'air-force/' | relative_url }})’s 1994 Roswell investigation because he was one of the very few surviving individuals whom the report regarded as a direct participant in the original debris recovery. In a case dominated by decades-later recollections, rumours, and competing narratives, Air Force investigators treated Cavitt as a witness whose account could be compared directly with documentary evidence and with the known components of the classified [Project Mogul]({{ 'project-mogul/' | relative_url }}) balloon programme. As a result, his interview became one of the central pillars supporting the report’s conclusion that the recovered material was ordinary military equipment rather than the wreckage of an extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+Sheridan Cavitt’s testimony occupied a privileged position in the U.S. [Air Force]({{ 'air-force/' | relative_url }})’s 1994 Roswell investigation because he was one of the very few surviving individuals whom the report regarded as a direct participant in the original debris recovery. In a case dominated by decades-later recollections, rumours, and competing narratives, Air Force investigators treated Cavitt as a witness whose account could be compared directly with documentary evidence and with the known components of the classified [Project Mogul]({{ 'project-mogul/' | relative_url }}) balloon programme. As a result, his interview became one of the central pillars supporting the report’s conclusion that the recovered material was ordinary military equipment rather than the wreckage of an extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-1-dark.svg" | relative_url }}" alt="Air Force File illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The significance of Cavitt’s role lies less in the fact that he supported the balloon explanation and more in how the Air Force used his [testimony]({{ 'testimony/' | relative_url }}). Investigators repeatedly relied on his description of the debris, his identification of photographs associated with the case, and his rejection of later alien-crash claims when constructing the report’s ordinary-material account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+The significance of Cavitt’s role lies less in the fact that he supported the balloon explanation and more in how the Air Force used his [testimony]({{ 'testimony/' | relative_url }}). Investigators repeatedly relied on his description of the debris, his identification of photographs associated with the case, and his rejection of later alien-crash claims when constructing the report’s ordinary-material account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tK8oBA3X9uw" title="DECLASSIFIED ROSWELL REPORT 1994 Full Air Force Video |Mogul Balloons/Aliens– Holds Up in 2026?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tK8oBA3X9uw" target="_blank" rel="noopener noreferrer">DECLASSIFIED ROSWELL REPORT 1994 Full Air Force Video |Mogul Balloons/Aliens– Holds Up in 2026?</a></p><p class="youtube-embed-meta">Channel: The King Of UFOs</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tK8oBA3X9uw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tK8oBA3X9uw">Open on YouTube</a></p></div></div></div>
 
 ## Why Investigators Treated Cavitt as Central
 
-The 1994 report identified Cavitt as an unusually valuable witness because he was both accessible to investigators and widely acknowledged to have been present during the recovery operation. The report noted that, despite disagreements among Roswell authors about many details, there was broad acceptance that Cavitt accompanied intelligence officer Jesse Marcel to examine the debris field. This made him one of the few surviving first-hand participants rather than a second-hand storyteller. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+The 1994 report identified Cavitt as an unusually valuable witness because he was both accessible to investigators and widely acknowledged to have been present during the recovery operation. The report noted that, despite disagreements among Roswell authors about many details, there was broad acceptance that Cavitt accompanied intelligence officer Jesse Marcel to examine the debris field. This made him one of the few surviving first-hand participants rather than a second-hand storyteller.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-The Air Force also regarded Cavitt as important because his account had remained relatively stable. During interviews conducted for the report, he stated that he had previously spoken with civilian UFO researchers and had consistently described the material as balloon-related. According to the report, he denied being silenced by government secrecy agreements and rejected claims that he possessed hidden knowledge about alien technology or recovered bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+The Air Force also regarded Cavitt as important because his account had remained relatively stable. During interviews conducted for the report, he stated that he had previously spoken with civilian UFO researchers and had consistently described the material as balloon-related. According to the report, he denied being silenced by government secrecy agreements and rejected claims that he possessed hidden knowledge about alien technology or recovered bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-From a governance perspective, Cavitt offered investigators something especially valuable: a witness whose testimony could be tested against physical descriptions, archival records, and known military hardware. Rather than relying on speculation about lost evidence, the Air Force could compare his recollections to documented balloon components used in the late 1940s. That methodological fit explains why his interview received extensive attention in the report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+From a governance perspective, Cavitt offered investigators something especially valuable: a witness whose testimony could be tested against physical descriptions, archival records, and known military hardware. Rather than relying on speculation about lost evidence, the Air Force could compare his recollections to documented balloon components used in the late 1940s. That methodological fit explains why his interview received extensive attention in the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbtvxBXEHVw" title="Roswell - UFO Crash in New Mexico | Free Documentary History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer">Roswell - UFO Crash in New Mexico | Free Documentary History</a></p><p class="youtube-embed-meta">Channel: Free Documentary - History &middot; Views: 88.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbtvxBXEHVw">Open on YouTube</a></p></div></div></div>
 
 ## How His Statement Supported the Balloon Case
 
-The strongest contribution Cavitt made to the Air Force report was his detailed description of what he said he recovered. He recalled a reflective material resembling aluminium foil, thin bamboo-like sticks, and a small black instrument box that he believed was probably a radiosonde, a device commonly carried by weather and research balloons. He stated that he thought the debris was balloon-related at the time and continued to hold that view decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTHe stated unequivocally, however, that the material he recovered consisted of a reflective sort of mater...</span></span></span>
+The strongest contribution Cavitt made to the Air Force report was his detailed description of what he said he recovered. He recalled a reflective material resembling aluminium foil, thin bamboo-like sticks, and a small black instrument box that he believed was probably a radiosonde, a device commonly carried by weather and research balloons. He stated that he thought the debris was balloon-related at the time and continued to hold that view decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTHe stated unequivocally, however, that the material he recovered consisted of a reflective sort of mater...</span></span></span>
 
-These details were important because they aligned closely with the physical construction of [balloon trains]({{ 'balloon-train/' | relative_url }}) and radar targets associated with Project Mogul. Mogul systems used lightweight reflective materials, wooden or balsa support structures, paper-backed components, and instrumentation packages designed to collect atmospheric data. The Air Force therefore presented Cavitt’s description not as an isolated memory but as a witness account that matched the characteristics of a known classified programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+These details were important because they aligned closely with the physical construction of [balloon trains]({{ 'balloon-train/' | relative_url }}) and radar targets associated with Project Mogul. Mogul systems used lightweight reflective materials, wooden or balsa support structures, paper-backed components, and instrumentation packages designed to collect atmospheric data. The Air Force therefore presented Cavitt’s description not as an isolated memory but as a witness account that matched the characteristics of a known classified programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-An additional point that investigators emphasised was Cavitt’s reaction to the famous Fort Worth photographs taken after the recovery. Critics of the official explanation often argued that the material displayed in those images was substituted for more unusual wreckage. The Air Force reported that Cavitt reviewed the photographs and identified the visible debris as consistent with what he remembered recovering at the ranch. That statement directly supported the report’s rejection of a debris-switch theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTHe stated unequivocally, however, that the material he recovered consisted of a reflective sort of mater...</span></span></span>
+An additional point that investigators emphasised was Cavitt’s reaction to the famous Fort Worth photographs taken after the recovery. Critics of the official explanation often argued that the material displayed in those images was substituted for more unusual wreckage. The Air Force reported that Cavitt reviewed the photographs and identified the visible debris as consistent with what he remembered recovering at the ranch. That statement directly supported the report’s rejection of a debris-switch theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTHe stated unequivocally, however, that the material he recovered consisted of a reflective sort of mater...</span></span></span>
 
 The report therefore used Cavitt’s testimony in three interconnected ways:
 
@@ -309,7 +309,7 @@ The report therefore used Cavitt’s testimony in three interconnected ways:
 
 * To describe the debris as lightweight and ordinary rather than technologically exotic.
 * To connect the recovered material with known balloon and radiosonde equipment.
-* To support the authenticity of the debris shown in contemporary military photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTHe stated unequivocally, however, that the material he recovered consisted of a reflective sort of mater...</span></span></span>
+* To support the authenticity of the debris shown in contemporary military photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTHe stated unequivocally, however, that the material he recovered consisted of a reflective sort of mater...</span></span></span>
 
 </div>
 
@@ -319,213 +319,213 @@ Together, these points formed a key evidentiary chain within the Air Force’s P
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-2-dark.svg" | relative_url }}" alt="Air Force File illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the Report Still Left Disputes Open
 
-Although the Air Force leaned heavily on Cavitt’s testimony, his statement did not eliminate all controversy. One reason is that Roswell researchers have long pointed to [conflicts]({{ 'conflicts/' | relative_url }}) between Cavitt’s recollections and those of other witnesses, particularly Jesse Marcel’s later descriptions of unusual material properties. Critics argued that the report placed greater weight on witnesses whose accounts supported the Mogul hypothesis than on witnesses who described something more extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military-history.fandom.com">[Military Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military-history.fandom.com</span><span class="citation-popover-title">Military Wiki Air Force reports on the Roswell UFO incident</span><span class="citation-popover-snippet">Military WikiAir Force reports on the Roswell UFO incident - Military WikiThe two Air Force reports on the Roswell UFO incident, publishe...</span></span></span>
+Although the Air Force leaned heavily on Cavitt’s testimony, his statement did not eliminate all controversy. One reason is that Roswell researchers have long pointed to [conflicts]({{ 'conflicts/' | relative_url }}) between Cavitt’s recollections and those of other witnesses, particularly Jesse Marcel’s later descriptions of unusual material properties. Critics argued that the report placed greater weight on witnesses whose accounts supported the Mogul hypothesis than on witnesses who described something more extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military-history.fandom.com">[Military Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military-history.fandom.com</span><span class="citation-popover-title">Military Wiki Air Force reports on the Roswell UFO incident</span><span class="citation-popover-snippet">Military WikiAir Force reports on the Roswell UFO incident - Military WikiThe two Air Force reports on the Roswell UFO incident, publishe...</span></span></span>
 
-Another unresolved issue concerns the limits of memory. Cavitt’s interview occurred nearly half a century after the events of 1947. While the Air Force considered him credible, the passage of time inevitably raised questions about the precision of any witness recollection. Supporters of the official explanation viewed the consistency of his account as a strength; critics viewed the same delay as a reason for caution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+Another unresolved issue concerns the limits of memory. Cavitt’s interview occurred nearly half a century after the events of 1947. While the Air Force considered him credible, the passage of time inevitably raised questions about the precision of any witness recollection. Supporters of the official explanation viewed the consistency of his account as a strength; critics viewed the same delay as a reason for caution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-The report also depended on the assumption that Cavitt’s description accurately reflected the entirety of the debris field. Opponents of the Air Force conclusion argued that even if Cavitt recovered ordinary material, it did not necessarily prove that every reported item associated with Roswell was ordinary. The report acknowledged conflicting stories in the broader Roswell literature but concluded that Cavitt’s first-hand observations were more persuasive than later claims that lacked comparable documentation or direct involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+The report also depended on the assumption that Cavitt’s description accurately reflected the entirety of the debris field. Opponents of the Air Force conclusion argued that even if Cavitt recovered ordinary material, it did not necessarily prove that every reported item associated with Roswell was ordinary. The report acknowledged conflicting stories in the broader Roswell literature but concluded that Cavitt’s first-hand observations were more persuasive than later claims that lacked comparable documentation or direct involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/foJWblpzEjA" title="Ask an Expert: The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer">Ask an Expert: The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 300.9K &middot; Uploaded: April 2011 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=foJWblpzEjA">Open on YouTube</a></p></div></div></div>
 
 ## What Cavitt's Testimony Meant for the Official Roswell Narrative
 
-Within the 1994 Air Force report, Cavitt was more than a witness; he was a bridge between archival reconstruction and living testimony. Investigators relied on him because he appeared to satisfy two requirements simultaneously: he was close to the original event, and his recollections matched the material characteristics expected from a Project Mogul device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+Within the 1994 Air Force report, Cavitt was more than a witness; he was a bridge between archival reconstruction and living testimony. Investigators relied on him because he appeared to satisfy two requirements simultaneously: he was close to the original event, and his recollections matched the material characteristics expected from a Project Mogul device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDReport of Air Force Research Regarding the &quot;Roswell</span><span class="citation-popover-snippet">September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-As a result, the ordinary-material explanation presented by the Air Force was not built solely on recovered documents or engineering analysis. It also rested on Cavitt’s repeated assertion that the debris consisted of reflective sheets, bamboo-like structural pieces, and a small instrument package consistent with balloon equipment. Whether readers ultimately accept that conclusion or favour competing interpretations, the report’s case for Project Mogul depended heavily on treating Cavitt as its most important surviving first-hand witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTHe stated unequivocally, however, that the material he recovered consisted of a reflective sort of mater...</span></span></span>
+As a result, the ordinary-material explanation presented by the Air Force was not built solely on recovered documents or engineering analysis. It also rested on Cavitt’s repeated assertion that the debris consisted of reflective sheets, bamboo-like structural pieces, and a small instrument package consistent with balloon equipment. Whether readers ultimately accept that conclusion or favour competing interpretations, the report’s case for Project Mogul depended heavily on treating Cavitt as its most important surviving first-hand witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORTHe stated unequivocally, however, that the material he recovered consisted of a reflective sort of mater...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-3-dark.svg" | relative_url }}" alt="Air Force File illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_sheridan_cavitt_mate_cc7868_cavitt_air_force_rep_fa84ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Air Force Leaned on Cavitt. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Air Force Leaned on Cavitt. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Directly examines Roswell witness claims and the balloon-versus-UFO debate central to Cavitt&#x27;s role in later Air Force conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines Roswell witness claims and the balloon-versus-UFO debate central to Cavitt&#x27;s role in later Air Force conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Presents the witness-driven interpretation that challenges official accounts, providing context for disputes surrounding Cavitt&#x27;s testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents the witness-driven interpretation that challenges official accounts, providing context for disputes surrounding Cavitt&#x27;s testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Explores the Roswell recovery narrative and evaluates witness evidence that often conflicts with the Air Force&#x27;s reliance on Cavitt.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the Roswell recovery narrative and evaluates witness evidence that often conflicts with the Air Force&#x27;s reliance on Cavitt.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Essential background for understanding how later Roswell narratives developed and why Cavitt became such a significant counter-witness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Essential background for understanding how later Roswell narratives developed and why Cavitt became such a significant counter-witness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO"><img src="{{ '/assets/images/marketplace-covers/388c0fa476c3075dd2f1.jpg' | relative_url }}" alt="Listing image for WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO"><img src="{{ '/assets/images/marketplace-covers/388c0fa476c3075dd2f1.jpg' | relative_url }}" alt="Listing image for WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T"><img src="{{ '/assets/images/marketplace-covers/f9be57ff29ea9e4ecfd3.jpg' | relative_url }}" alt="Listing image for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T"><img src="{{ '/assets/images/marketplace-covers/f9be57ff29ea9e4ecfd3.jpg' | relative_url }}" alt="Listing image for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt"><img src="{{ '/assets/images/marketplace-covers/2d54ac48876e1957e123.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt"><img src="{{ '/assets/images/marketplace-covers/2d54ac48876e1957e123.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO T Shirt SMALL-2XL"><img src="{{ '/assets/images/marketplace-covers/3c6a60145439aea465d0.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO T Shirt SMALL-2XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO T Shirt SMALL-2XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO T Shirt SMALL-2XL"><img src="{{ '/assets/images/marketplace-covers/3c6a60145439aea465d0.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO T Shirt SMALL-2XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO T Shirt SMALL-2XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="air-force-file-why-the-air-force-leaned-on-cavitt-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ As a result, the ordinary-material explanation presented by the Air Force was no
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ As a result, the ordinary-material explanation presented by the Air Force was no
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ As a result, the ordinary-material explanation presented by the Air Force was no
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ As a result, the ordinary-material explanation presented by the Air Force was no
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ As a result, the ordinary-material explanation presented by the Air Force was no
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,95 +731,95 @@ As a result, the ordinary-material explanation presented by the Air Force was no
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: esd.whs.mil  
    Title: ESDReport of Air Force Research Regarding the "Roswell  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 26, 2012 — 27 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; be...</p></details>
    Published: September 26, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTHe stated unequivocally, however, that the material he recovered consisted of a reflective sort of mater...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTHe stated unequivocally, however, that the material he recovered consisted of a reflective sort of mater...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: military-history.fandom.com  
    Title: Military Wiki Air Force reports on the Roswell UFO incident  
-   Link: <a href="https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military WikiAir Force reports on the Roswell UFO incident - Military WikiThe two Air Force reports on the Roswell UFO incident, publishe...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military WikiAir Force reports on the Roswell UFO incident - Military WikiThe two Air Force reports on the Roswell UFO incident, publishe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: esd.whs.mil  
    Title: Roswell Report [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell report22 May 2017 — The &quot;Roswell Incident&quot; has assumed a central place in American folklore since the events of the 1940s in a re...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell report22 May 2017 — The &quot;Roswell Incident&quot; has assumed a central place in American folklore since the events of the 1940s in a re...</p></details>
    Published: May 2017  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Mogul [COVER-UP](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) That Created Roswell | EP56...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Mogul [COVER-UP](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) That Created Roswell | EP56...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/The-DAF-[Legacy" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/The-DAF-[Legacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact versus Fiction in the New Mexico...This project highlights the rich and storied history of both the Air Force and S...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/The-DAF-[Legacy" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/The-DAF-[Legacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact versus Fiction in the New Mexico...This project highlights the rich and storied history of both the Air Force and S...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: its one of historys most famous conspiracies did aliens really crash land at ros  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s one of history&#x27;s most famous conspiracies... did aliens...In 1994 the Air Force released a report saying the wreckage was part of a...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s one of history&#x27;s most famous conspiracies... did aliens...In 1994 the Air Force released a report saying the wreckage was part of a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ia601607.us.archive.org  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
    Title: The Roswell Report Fact vs Fiction in the New Mexico Desert  
-   Link: <a href="https://www.scribd.com/document/33094619/The-Roswell-Report-Fact-vs-Fiction-in-the-New-Mexico-Desert" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/33094619/The-Roswell-Report-Fact-vs-Fiction-in-the-New-Mexico-Desert</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact vs. Fiction 1994 | PDFThis report represents an effort to address the request made by Representative Steven H. Schif...</p></details>
+   Link:<a href="https://www.scribd.com/document/33094619/The-Roswell-Report-Fact-vs-Fiction-in-the-New-Mexico-Desert" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/33094619/The-Roswell-Report-Fact-vs-Fiction-in-the-New-Mexico-Desert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact vs. Fiction 1994 | PDFThis report represents an effort to address the request made by Representative Steven H. Schif...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident, focusing on eyewitness accounts and the materials discovered by...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident, focusing on eyewitness accounts and the materials discovered by...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>like aluminum foil, and some thin, bamboo-like sticks. He thought at the time, and continued to do so today, that what he found was a...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>like aluminum foil, and some thin, bamboo-like sticks. He thought at the time, and continued to do so today, that what he found was a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1216hoh/what_are_your_thoughts_on_the_roswell_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1216hoh/what_are_your_thoughts_on_the_roswell_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Series. Have an idea for a question we could ask? Let us know...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1216hoh/what_are_your_thoughts_on_the_roswell_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1216hoh/what_are_your_thoughts_on_the_roswell_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Series. Have an idea for a question we could ask? Let us know...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FoxNews/posts/the-us-air-force-released-its-second-public-report-about-the-roswell-incident-a-/861299212526609/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxNews/posts/the-us-air-force-released-its-second-public-report-about-the-roswell-incident-a-/861299212526609/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ident,&quot; a purported UFO crash in rural New Mexico in 1947...</p></details>
+   Link:<a href="https://www.facebook.com/FoxNews/posts/the-us-air-force-released-its-second-public-report-about-the-roswell-incident-a-/861299212526609/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxNews/posts/the-us-air-force-released-its-second-public-report-about-the-roswell-incident-a-/861299212526609/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ident,&quot; a purported UFO crash in rural New Mexico in 1947...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amazon.nl  
    Title: The Roswell Report: Fact vs  
-   Link: <a href="https://www.amazon.nl/-/en/Richard-L-Weaver-ebook/dp/B00AVYDJNK" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Richard-L-Weaver-ebook/dp/B00AVYDJNK</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiction in the New Mexico...The “Roswell Incident” is a UFO crash that supposedly occurred in the town of Roswell, NM, in July 1947. In...</p></details>
+   Link:<a href="https://www.amazon.nl/-/en/Richard-L-Weaver-ebook/dp/B00AVYDJNK" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Richard-L-Weaver-ebook/dp/B00AVYDJNK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiction in the New Mexico...The “Roswell Incident” is a UFO crash that supposedly occurred in the town of Roswell, NM, in July 1947. In...</p></details>
    Published: July 1947  

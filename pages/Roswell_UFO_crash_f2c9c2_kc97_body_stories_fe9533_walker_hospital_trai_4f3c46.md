@@ -280,7 +280,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_h
 
 ## Introduction
 
-Among the many Roswell body narratives that emerged decades after 1947, the most thoroughly documented chain involving actual human remains does not begin with a flying saucer claim at all. It begins with the aftermath of the fatal KC-97 tanker crash near Walker [Air Force]({{ 'air-force/' | relative_url }}) Base on 26 June 1956. According to military records examined during the U.S. Air Force’s Roswell investigation, the recovery and identification process followed a traceable route: remains were taken from the crash site to the Walker AFB hospital, identification work was shifted to refrigerated storage in the base commissary, and several autopsies were conducted at a Roswell funeral home. This sequence became important because many later Roswell [body stories]({{ 'body-stories/' | relative_url }}) were set in hospitals, morgues, and medical facilities and contained details that overlapped with the documented handling of crash victims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg+2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+Among the many Roswell body narratives that emerged decades after 1947, the most thoroughly documented chain involving actual human remains does not begin with a flying saucer claim at all. It begins with the aftermath of the fatal KC-97 tanker crash near Walker [Air Force]({{ 'air-force/' | relative_url }}) Base on 26 June 1956. According to military records examined during the U.S. Air Force’s Roswell investigation, the recovery and identification process followed a traceable route: remains were taken from the crash site to the Walker AFB hospital, identification work was shifted to refrigerated storage in the base commissary, and several autopsies were conducted at a Roswell funeral home. This sequence became important because many later Roswell [body stories]({{ 'body-stories/' | relative_url }}) were set in hospitals, morgues, and medical facilities and contained details that overlapped with the documented handling of crash victims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[gutenberg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-1-dark.svg" | relative_url }}" alt="Hospital Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,11 +291,11 @@ Rather than addressing the broader Roswell debris controversy, the hospital trai
 
 ## Why the remains went to the base hospital
 
-The KC-97G Stratofreighter crashed approximately 8.8 miles south of Walker Air Force Base after a catastrophic propeller failure that triggered a severe onboard fire. All eleven crew members were killed. Recovery personnel transported the remains from the crash scene to the 4036th USAF Hospital at Walker AFB, the installation’s medical facility, where identification efforts began. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+The KC-97G Stratofreighter crashed approximately 8.8 miles south of Walker Air Force Base after a catastrophic propeller failure that triggered a severe onboard fire. All eleven crew members were killed. Recovery personnel transported the remains from the crash scene to the 4036th USAF Hospital at Walker AFB, the installation’s medical facility, where identification efforts began.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
-From a practical standpoint, the hospital was the logical first destination. The victims had to be accounted for, examined, documented, and identified before their remains could be released to families. Air Force records cited in *The Roswell Report: Case Closed* indicate that hospital personnel participated directly in this process. An identification specialist from Wright-Patterson Air Force Base arrived the following day to assist with the difficult task of determining who was who among severely damaged remains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+From a practical standpoint, the hospital was the logical first destination. The victims had to be accounted for, examined, documented, and identified before their remains could be released to families. Air Force records cited in *The Roswell Report: Case Closed* indicate that hospital personnel participated directly in this process. An identification specialist from Wright-Patterson Air Force Base arrived the following day to assist with the difficult task of determining who was who among severely damaged remains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
-This detail matters because many later Roswell witnesses described unusual activity at a military hospital. The documented 1956 response demonstrates that the Walker hospital genuinely did become the centre of a major body-identification operation involving outside specialists, restricted access, and intensive medical work. The existence of such an event provides a verifiable source for memories of extraordinary activity at the base medical facility, regardless of whether one accepts the Air Force's broader explanation of Roswell body stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+This detail matters because many later Roswell witnesses described unusual activity at a military hospital. The documented 1956 response demonstrates that the Walker hospital genuinely did become the centre of a major body-identification operation involving outside specialists, restricted access, and intensive medical work. The existence of such an event provides a verifiable source for memories of extraordinary activity at the base medical facility, regardless of whether one accepts the Air Force's broader explanation of Roswell body stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_DA-g94Ro1I" title="W. Glenn Dennis Interview, 11/19/1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_DA-g94Ro1I" target="_blank" rel="noopener noreferrer">W. Glenn Dennis Interview, 11/19/1990</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 6.5M &middot; Uploaded: July 2014 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_DA-g94Ro1I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_DA-g94Ro1I">Open on YouTube</a></p></div></div></div>
@@ -304,15 +304,15 @@ This detail matters because many later Roswell witnesses described unusual activ
 
 One of the most distinctive features of the documented trail is that the identification effort did not remain in the hospital.
 
-According to Air Force records, investigators encountered a practical problem. The remains had been subjected to intense fire and were saturated with fuel. The resulting odour became overwhelming, and the relatively small hospital lacked suitable facilities for prolonged storage and examination. As a result, identification activities were transferred from the hospital to a refrigerated compartment inside the Walker AFB commissary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+According to Air Force records, investigators encountered a practical problem. The remains had been subjected to intense fire and were saturated with fuel. The resulting odour became overwhelming, and the relatively small hospital lacked suitable facilities for prolonged storage and examination. As a result, identification activities were transferred from the hospital to a refrigerated compartment inside the Walker AFB commissary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
 This move is significant for two reasons.
 
-First, it reflects the realities of military disaster management during the 1950s. Modern mortuary facilities with specialised disaster-response capabilities were not available at every installation. Refrigeration slowed decomposition and created a more workable environment for identification specialists. The commissary's cold-storage area therefore became a temporary substitute for facilities the hospital did not possess. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+First, it reflects the realities of military disaster management during the 1950s. Modern mortuary facilities with specialised disaster-response capabilities were not available at every installation. Refrigeration slowed decomposition and created a more workable environment for identification specialists. The commissary's cold-storage area therefore became a temporary substitute for facilities the hospital did not possess.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
-Second, the unusual relocation helps explain why memories of the event could later become fragmented. Bodies were associated not only with a hospital but also with another building on the base. Individuals who encountered different stages of the process might remember refrigerated rooms, restricted areas, military guards, or unusual transportation of remains without necessarily understanding the larger context. The Air Force investigation highlighted precisely this chain of events when assessing [later claims]({{ 'later-claims/' | relative_url }}) involving mysterious bodies and medical facilities at Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+Second, the unusual relocation helps explain why memories of the event could later become fragmented. Bodies were associated not only with a hospital but also with another building on the base. Individuals who encountered different stages of the process might remember refrigerated rooms, restricted areas, military guards, or unusual transportation of remains without necessarily understanding the larger context. The Air Force investigation highlighted precisely this chain of events when assessing [later claims]({{ 'later-claims/' | relative_url }}) involving mysterious bodies and medical facilities at Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
-The commissary stage is one of the strongest documented elements in the entire body-identification trail because it derives from specific Air Force records concerning the handling of the KC-97 victims rather than from retrospective witness recollections alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+The commissary stage is one of the strongest documented elements in the entire body-identification trail because it derives from specific Air Force records concerning the handling of the KC-97 victims rather than from retrospective witness recollections alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-2-dark.svg" | relative_url }}" alt="Hospital Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -320,11 +320,11 @@ The commissary stage is one of the strongest documented elements in the entire b
 
 The final stage moved beyond the base itself.
 
-Air Force records state that on 27 June 1956, a local Roswell pathologist performed autopsies on three of the crash victims. These examinations did not occur at Walker AFB. They were conducted at a local funeral home in Roswell. After identification and post-mortem procedures were completed, the remains were released for shipment to next of kin and burial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+Air Force records state that on 27 June 1956, a local Roswell pathologist performed autopsies on three of the crash victims. These examinations did not occur at Walker AFB. They were conducted at a local funeral home in Roswell. After identification and post-mortem procedures were completed, the remains were released for shipment to next of kin and burial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
-The funeral-home connection became especially important in later Roswell discussions because one of the most widely cited body witnesses was mortician Glenn Dennis, who worked at Ballard Funeral Home and later claimed knowledge of unusual bodies associated with the 1947 incident. Air Force investigators noted that the 1956 KC-97 disaster produced documented funeral-home involvement, including autopsies conducted there, creating a potential historical source for memories involving body examinations in Roswell mortuary settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine USAF and the UFOs</span><span class="citation-popover-snippet">formerly Roswell AAF). AFB, N.M. The autopsy of three of the casualties was performed at Ballard. Funeral Home...Read more...</span></span></span>
+The funeral-home connection became especially important in later Roswell discussions because one of the most widely cited body witnesses was mortician Glenn Dennis, who worked at Ballard Funeral Home and later claimed knowledge of unusual bodies associated with the 1947 incident. Air Force investigators noted that the 1956 KC-97 disaster produced documented funeral-home involvement, including autopsies conducted there, creating a potential historical source for memories involving body examinations in Roswell mortuary settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[airandspaceforces.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine USAF and the UFOs</span><span class="citation-popover-snippet">formerly Roswell AAF). AFB, N.M. The autopsy of three of the casualties was performed at Ballard. Funeral Home...Read more...</span></span></span>
 
-Critics and supporters of the Roswell extraterrestrial interpretation disagree sharply about how much explanatory weight should be given to this connection. Nevertheless, the underlying facts are comparatively well documented: bodies from the KC-97 crash entered a chain that extended from the crash site to the base hospital, then to refrigerated commissary storage, and finally to a Roswell funeral home where autopsies were performed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+Critics and supporters of the Roswell extraterrestrial interpretation disagree sharply about how much explanatory weight should be given to this connection. Nevertheless, the underlying facts are comparatively well documented: bodies from the KC-97 crash entered a chain that extended from the crash site to the base hospital, then to refrigerated commissary storage, and finally to a Roswell funeral home where autopsies were performed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MfFx24lLiI4" title="The Roswell Report: Case Closed by James McAndrew read by Aaron Bennett | Full Audio Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MfFx24lLiI4" target="_blank" rel="noopener noreferrer">The Roswell Report: Case Closed by James McAndrew read by Aaron Bennett | Full Audio Book</a></p><p class="youtube-embed-meta">Channel: LibriVox Audiobooks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MfFx24lLiI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MfFx24lLiI4">Open on YouTube</a></p></div></div></div>
@@ -347,185 +347,185 @@ Many Roswell body narratives involve recurring themes:
 
 </div>
 
-The 1956 KC-97 response contains all of these elements in a verifiable historical event. Air Force investigators therefore argued that memories of this disaster could have become blended with other experiences and stories over time, eventually contributing to accounts of alien bodies at Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg+2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+The 1956 KC-97 response contains all of these elements in a verifiable historical event. Air Force investigators therefore argued that memories of this disaster could have become blended with other experiences and stories over time, eventually contributing to accounts of alien bodies at Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[gutenberg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
-Whether one accepts that interpretation or not, the hospital-to-commissary-to-funeral-home sequence remains one of the clearest documentary trails connected to Roswell [body claims]({{ 'body-claims/' | relative_url }}). Unlike many elements of the wider controversy, it is anchored in military records, hospital involvement, identification reports, and documented post-mortem procedures. For that reason, the Walker AFB body-identification trail occupies a central place in any examination of how Roswell body stories developed and why medical settings became such a persistent feature of the legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg+2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
+Whether one accepts that interpretation or not, the hospital-to-commissary-to-funeral-home sequence remains one of the clearest documentary trails connected to Roswell [body claims]({{ 'body-claims/' | relative_url }}). Unlike many elements of the wider controversy, it is anchored in military records, hospital involvement, identification reports, and documented post-mortem procedures. For that reason, the Walker AFB body-identification trail occupies a central place in any examination of how Roswell body stories developed and why medical settings became such a persistent feature of the legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[gutenberg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">63659 h</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-3-dark.svg" | relative_url }}" alt="Hospital Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_kc97_body_stories_fe9533_walker_hospital_trai_4f3c46-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Inside the Walker AFB Body Identification Trail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Inside the Walker AFB Body Identification Trail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Covers hospital, mortuary, and body-handling claims from witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers hospital, mortuary, and body-handling claims from witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
-        </h4>
-        <p class="fr-book-author">By James McAndrew</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
+</h4>
+<p class="fr-book-author">By James McAndrew</p>
         
-        <p class="fr-book-desc">Details the movement of remains, autopsies, and the Walker AFB connection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the movement of remains, autopsies, and the Walker AFB connection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Useful for understanding how hospital stories became embedded in the myth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how hospital stories became embedded in the myth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="{{ '/assets/images/marketplace-covers/de21d59ef368bbab6f93.jpg' | relative_url }}" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="https://i.ebayimg.com/images/g/4qcAAeSwSoFqDh-N/s-l225.jpg" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank"><img src="https://i.ebayimg.com/images/g/T5EAAOSwG~9kAqk9/s-l225.jpg" alt="Listing image for Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="https://i.ebayimg.com/images/g/PhwAAOSwMplk~jrt/s-l225.jpg" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="hospital-trail-inside-the-walker-afb-body-identification-trail-roswell-ufo-crash-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Q1kAAeSw6Sxp1S37/s-l225.jpg" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-walker-afb-body-identification-trail-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="inside-the-walker-afb-body-identification-trail-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ Whether one accepts that interpretation or not, the hospital-to-commissary-to-fu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ Whether one accepts that interpretation or not, the hospital-to-commissary-to-fu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ Whether one accepts that interpretation or not, the hospital-to-commissary-to-fu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ Whether one accepts that interpretation or not, the hospital-to-commissary-to-fu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ Whether one accepts that interpretation or not, the hospital-to-commissary-to-fu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,117 +731,117 @@ Whether one accepts that interpretation or not, the hospital-to-commissary-to-fu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gutenberg.org  
    Title: 63659 h  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;4036th USAF Hospital, Walker AFB, N.M., 1956.... most likely a combina...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;4036th USAF Hospital, Walker AFB, N.M., 1956.... most likely a combina...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Glenn Dennis  
-   Link: <a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn DennisGlenn Dennis (March 24, 1925 – April 28, 2015) was a founder of the International [UFO Museum](&amp;#123;&amp;#123; &#x27;ufo-museum/&#x27; | relative_url &amp;#125;&amp;#125;) and Research Center in Roswel...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn DennisGlenn Dennis (March 24, 1925 – April 28, 2015) was a founder of the International [UFO Museum](&amp;#123;&amp;#123; &#x27;ufo-museum/&#x27; | relative_url &amp;#125;&amp;#125;) and Research Center in Roswel...</p></details>
    Published: March 24, 1925  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident... Air Force published a second report, The Roswell Report: Case Closed. It detailed how eyewitness accounts of milit...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident... Air Force published a second report, The Roswell Report: Case Closed. It detailed how eyewitness accounts of milit...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: content.time.com  
    Title: 0,33009,986565 3,00  
-   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENS REALLY LAND? - TIME23 Jun 1997 — The most notable of their sources was Glenn Dennis, who in 1947 was 22 and working as a mortician...</p></details>
+   Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENS REALLY LAND? - TIME23 Jun 1997 — The most notable of their sources was Glenn Dennis, who in 1947 was 22 and working as a mortician...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportClaims of &quot;alien bodies&quot; at the Roswell Army Air Field hospital were most likely a combination of two sep...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportClaims of &quot;alien bodies&quot; at the Roswell Army Air Field hospital were most likely a combination of two sep...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: airandspaceforces.com  
    Title: Air & Space Forces Magazine USAF and the UFOs  
-   Link: <a href="https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(formerly Roswell AAF). AFB, N.M. The autopsy of three of the casualties was performed at Ballard. Funeral Home...Read more...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(formerly Roswell AAF). AFB, N.M. The autopsy of three of the casualties was performed at Ballard. Funeral Home...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
    Published: June 24, 1997  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, repor...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, repor...</p></details>
    Published: July 8, 1947  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/639591167/Untitled" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/639591167/Untitled</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Untitled | PDF | Ufology | Unidentified Flying Object1. &quot;RAAF Captures Flying Saucer in Roswell Region,&quot; [Roswell Daily Record](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;), hlJy B, 19...</p></details>
+   Link:<a href="https://www.scribd.com/document/639591167/Untitled" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/639591167/Untitled</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Untitled | PDF | Ufology | Unidentified Flying Object1. &quot;RAAF Captures Flying Saucer in Roswell Region,&quot; [Roswell Daily Record](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;), hlJy B, 19...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: in 1950 the air force recovered three unidentified flying objects in new mexico  
-   Link: <a href="https://www.facebook.com/SciFiCinema.kimnguyen/posts/in-1950-the-air-force-recovered-three-unidentified-flying-objects-in-new-mexico-/379453214857533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SciFiCinema.kimnguyen/posts/in-1950-the-air-force-recovered-three-unidentified-flying-objects-in-new-mexico-/379453214857533/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1950, the Air Force recovered three unidentified flying...In 1950, the Air Force recovered three unidentified flying objects in New M...</p></details>
+   Link:<a href="https://www.facebook.com/SciFiCinema.kimnguyen/posts/in-1950-the-air-force-recovered-three-unidentified-flying-objects-in-new-mexico-/379453214857533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SciFiCinema.kimnguyen/posts/in-1950-the-air-force-recovered-three-unidentified-flying-objects-in-new-mexico-/379453214857533/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1950, the Air Force recovered three unidentified flying...In 1950, the Air Force recovered three unidentified flying objects in New M...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aviation-safety.net  
    Title: The blade slashed through the fuselage and hit the refueling tanks  
-   Link: <a href="https://aviation-safety.net/wikibase/334676" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/334676</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAccident Boeing KC-97G Stratofreighter 52-2700, Tuesday...The KC-97G air tanker lost a blade of the no.2 prop on...</p></details>
+   Link:<a href="https://aviation-safety.net/wikibase/334676" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/334676</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAccident Boeing KC-97G Stratofreighter 52-2700, Tuesday...The KC-97G air tanker lost a blade of the no.2 prop on...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: minutemanmissile.com  
    Title: Department of Defense [Legacy](&#123;&#123; 'legacy/' | relative_url &#125;&#125;) Resource Management Program  
-   Link: <a href="https://minutemanmissile.com/documents/DefendAndDeterLegacyOfTheColdWar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/documents/DefendAndDeterLegacyOfTheColdWar.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 97/01. November 1996. A study sponsored by the Department of Defense. Legacy Resource Management Program. Cold War Project. Page 3...</p></details>
+   Link:<a href="https://minutemanmissile.com/documents/DefendAndDeterLegacyOfTheColdWar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/documents/DefendAndDeterLegacyOfTheColdWar.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report 97/01. November 1996. A study sponsored by the Department of Defense. Legacy Resource Management Program. Cold War Project. Page 3...</p></details>
    Published: November 1996  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: collections.nlm.nih.gov  
    Title: nlm:nlmuid 60120460RX3 leaf  
-   Link: <a href="https://collections.nlm.nih.gov/ocr/nlm%3Anlmuid-60120460RX3-leaf" target="_blank" rel="noopener noreferrer nofollow">https://collections.nlm.nih.gov/ocr/nlm%3Anlmuid-60120460RX3-leaf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.gov[https://collections.nlm.nih.gov/ocr/nlm:nlmuid-601...Cumulative](https://collections.nlm.nih.gov/ocr/nlm:nlmuid-601...Cumulative) Index of Hospital Literature 1955-1959 Cumulative Index of Hospita...</p></details>
+   Link:<a href="https://collections.nlm.nih.gov/ocr/nlm%3Anlmuid-60120460RX3-leaf" target="_blank" rel="noopener noreferrer nofollow">https://collections.nlm.nih.gov/ocr/nlm%3Anlmuid-60120460RX3-leaf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.gov[https://collections.nlm.nih.gov/ocr/nlm:nlmuid-601...Cumulative](https://collections.nlm.nih.gov/ocr/nlm:nlmuid-601...Cumulative) Index of Hospital Literature 1955-1959 Cumulative Index of Hospita...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: w glenn dennis interview 11191990  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14oifuc/w_glenn_dennis_interview_11191990/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14oifuc/w_glenn_dennis_interview_11191990/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis Interview, 11/19/1990: r/aliensW. Glenn Dennis Interview: Roswell Mortician who was the first person to report alien bod...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14oifuc/w_glenn_dennis_interview_11191990/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14oifuc/w_glenn_dennis_interview_11191990/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis Interview, 11/19/1990: r/aliensW. Glenn Dennis Interview: Roswell Mortician who was the first person to report alien bod...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: primarysources.brillonline.com  
    Title: weapons of mass destruction  
-   Link: <a href="https://primarysources.brillonline.com/browse/weapons-of-mass-destruction" target="_blank" rel="noopener noreferrer nofollow">https://primarysources.brillonline.com/browse/weapons-of-mass-destruction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Mass DestructionThe American WMD programs remain cloaked in [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;), yet a substantial number of revealing documents have been quietly...</p></details>
+   Link:<a href="https://primarysources.brillonline.com/browse/weapons-of-mass-destruction" target="_blank" rel="noopener noreferrer nofollow">https://primarysources.brillonline.com/browse/weapons-of-mass-destruction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Mass DestructionThe American WMD programs remain cloaked in [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;), yet a substantial number of revealing documents have been quietly...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MfFx24lLiI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MfFx24lLiI4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official Reports on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MfFx24lLiI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MfFx24lLiI4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official Reports on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: governmentattic.org  
    Title: NPRC VIP List 2009  
-   Link: <a href="https://www.governmentattic.org/2docs/NPRC_VIP_List_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/2docs/NPRC_VIP_List_2009.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives National Personnel Records Center (...4 Jan 2010 — Roswell Report: Case Closed, as man with head injury causing him to...</p></details>
+   Link:<a href="https://www.governmentattic.org/2docs/NPRC_VIP_List_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/2docs/NPRC_VIP_List_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives National Personnel Records Center (...4 Jan 2010 — Roswell Report: Case Closed, as man with head injury causing him to...</p></details>

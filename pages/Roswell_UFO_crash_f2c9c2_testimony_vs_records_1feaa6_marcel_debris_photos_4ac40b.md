@@ -280,42 +280,42 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marce
 
 ## Introduction
 
-The argument over Jesse Marcel’s testimony and the famous Fort Worth photographs sits at the centre of the Roswell debate. Marcel, the intelligence officer who helped recover debris from the New Mexico ranch in July 1947, later became the most influential witness claiming that the material was not an ordinary balloon. Yet the strongest contemporary evidence against his later recollections was the set of photographs taken in Fort Worth showing him posing with debris that appeared consistent with balloon and [radar-target]({{ 'radar-target/' | relative_url }}) equipment. The dispute is therefore unusually focused: either the photographs captured the actual recovered material, or Marcel was correct when he later claimed that the debris displayed to reporters was not the same debris he had originally examined. The [credibility]({{ 'credibility/' | relative_url }}) of that substitution claim has become one of the key tests of whether later witness memory can outweigh contemporary records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
+The argument over Jesse Marcel’s testimony and the famous Fort Worth photographs sits at the centre of the Roswell debate. Marcel, the intelligence officer who helped recover debris from the New Mexico ranch in July 1947, later became the most influential witness claiming that the material was not an ordinary balloon. Yet the strongest contemporary evidence against his later recollections was the set of photographs taken in Fort Worth showing him posing with debris that appeared consistent with balloon and [radar-target]({{ 'radar-target/' | relative_url }}) equipment. The dispute is therefore unusually focused: either the photographs captured the actual recovered material, or Marcel was correct when he later claimed that the debris displayed to reporters was not the same debris he had originally examined. The [credibility]({{ 'credibility/' | relative_url }}) of that substitution claim has become one of the key tests of whether later witness memory can outweigh contemporary records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marcel_debris_photos_4ac40b-Illustration-1-dark.svg" | relative_url }}" alt="Marcel Debris illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marcel_debris_photos_4ac40b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marcel_debris_photos_4ac40b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Marcel Later Said
 
-More than three decades after the event, Marcel gave interviews in which he rejected the official explanation that the Roswell [debris]({{ 'debris/' | relative_url }}) came from a weather balloon. He described material that he considered highly unusual and claimed the public had not been shown the real wreckage. His recollections became widely known after interviews with ufologist Stanton Friedman and through the [1980 book]({{ '1980-book/' | relative_url }}) *The Roswell Incident*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+More than three decades after the event, Marcel gave interviews in which he rejected the official explanation that the Roswell [debris]({{ 'debris/' | relative_url }}) came from a weather balloon. He described material that he considered highly unusual and claimed the public had not been shown the real wreckage. His recollections became widely known after interviews with ufologist Stanton Friedman and through the [1980 book]({{ '1980-book/' | relative_url }}) *The Roswell Incident*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
-A central feature of Marcel’s later account was the assertion that the military displayed substitute debris at Fort Worth. According to this version of events, the material recovered in New Mexico was removed and replaced before journalists were allowed to inspect and photograph it. Marcel argued that the debris visible in the published photographs did not match what he had originally handled. This claim was important because the photographs otherwise appeared to support the official explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+A central feature of Marcel’s later account was the assertion that the military displayed substitute debris at Fort Worth. According to this version of events, the material recovered in New Mexico was removed and replaced before journalists were allowed to inspect and photograph it. Marcel argued that the debris visible in the published photographs did not match what he had originally handled. This claim was important because the photographs otherwise appeared to support the official explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
-Marcel’s later descriptions also became more detailed than the surviving 1947 accounts. He spoke of unusual foil-like material and characteristics that he believed could not be explained by conventional military equipment. These memories formed the foundation of many later Roswell narratives and strongly influenced public understanding of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+Marcel’s later descriptions also became more detailed than the surviving 1947 accounts. He spoke of unusual foil-like material and characteristics that he believed could not be explained by conventional military equipment. These memories formed the foundation of many later Roswell narratives and strongly influenced public understanding of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TywPwJSosgc" title="History&#x27;s Greatest Mysteries: Military Cleanup at Roswell Crash?! (S1, E6) | Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TywPwJSosgc" target="_blank" rel="noopener noreferrer">History&#x27;s Greatest Mysteries: Military Cleanup at Roswell Crash?! (S1, E6) | Full Episode</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TywPwJSosgc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TywPwJSosgc">Open on YouTube</a></p></div></div></div>
 
 ## What the Fort Worth Photos Show
 
-The Fort Worth photographs were taken on 8 July 1947 after Marcel transported debris to headquarters in Texas. They show Marcel alongside Brigadier General Roger Ramey and other officers examining fragments spread across the floor. The visible material includes foil, sticks, rubber-like components and what many researchers identify as parts of a radar target associated with balloon equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-Air-Force-is_fig1_228706129" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Brigadier General Roger M</span><span class="citation-popover-snippet">Ramey (left ), Commanding ...Ramey (left ), Commanding Officer of the Eighth Air Force, is photographed near the remains of a weather bal...</span></span></span>
+The Fort Worth photographs were taken on 8 July 1947 after Marcel transported debris to headquarters in Texas. They show Marcel alongside Brigadier General Roger Ramey and other officers examining fragments spread across the floor. The visible material includes foil, sticks, rubber-like components and what many researchers identify as parts of a radar target associated with balloon equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-Air-Force-is_fig1_228706129" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Brigadier General Roger M</span><span class="citation-popover-snippet">Ramey (left ), Commanding ...Ramey (left ), Commanding Officer of the Eighth Air Force, is photographed near the remains of a weather bal...</span></span></span>
 
-The significance of these photographs lies in their timing. Unlike memoirs or interviews recorded decades later, the images were created during the event itself. They therefore serve as a contemporary record of what military officials publicly presented as the recovered debris. For historians, this gives them evidential weight independent of later recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
+The significance of these photographs lies in their timing. Unlike memoirs or interviews recorded decades later, the images were created during the event itself. They therefore serve as a contemporary record of what military officials publicly presented as the recovered debris. For historians, this gives them evidential weight independent of later recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
-The photographs do not by themselves prove where the debris originated. They show only what was present during the press event. Nevertheless, they provide direct visual evidence that the material displayed to reporters resembled known balloon-related equipment rather than an obviously exotic object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-Air-Force-is_fig1_228706129" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Brigadier General Roger M</span><span class="citation-popover-snippet">Ramey (left ), Commanding ...Ramey (left ), Commanding Officer of the Eighth Air Force, is photographed near the remains of a weather bal...</span></span></span>
+The photographs do not by themselves prove where the debris originated. They show only what was present during the press event. Nevertheless, they provide direct visual evidence that the material displayed to reporters resembled known balloon-related equipment rather than an obviously exotic object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-Air-Force-is_fig1_228706129" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Brigadier General Roger M</span><span class="citation-popover-snippet">Ramey (left ), Commanding ...Ramey (left ), Commanding Officer of the Eighth Air Force, is photographed near the remains of a weather bal...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marcel_debris_photos_4ac40b-Illustration-2-dark.svg" | relative_url }}" alt="Marcel Debris illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marcel_debris_photos_4ac40b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marcel_debris_photos_4ac40b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Substitution Claim and Its Limits
 
-Marcel’s explanation for the apparent contradiction was straightforward: the debris in the photographs was not the debris he recovered. If true, the photographs would lose much of their value as evidence about the original find. The entire debate therefore turns on whether a substitution actually occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+Marcel’s explanation for the apparent contradiction was straightforward: the debris in the photographs was not the debris he recovered. If true, the photographs would lose much of their value as evidence about the original find. The entire debate therefore turns on whether a substitution actually occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
-One difficulty for the substitution theory is that it relies heavily on retrospective [testimony]({{ 'testimony/' | relative_url }}). No known contemporary document from July 1947 records a complaint by Marcel that the displayed material had been switched. Newspaper reports from the time quoted him describing the wreckage in terms broadly consistent with the balloon explanation then being presented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+One difficulty for the substitution theory is that it relies heavily on retrospective [testimony]({{ 'testimony/' | relative_url }}). No known contemporary document from July 1947 records a complaint by Marcel that the displayed material had been switched. Newspaper reports from the time quoted him describing the wreckage in terms broadly consistent with the balloon explanation then being presented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
-A second problem is that later versions of the substitution story were not always identical. Some accounts asserted that all photographed debris was replacement material, while others suggested that only part of the displayed debris had been substituted. In one later recollection attributed to Marcel, he claimed that an initial photograph may have included genuine debris before replacement material was brought in, a version that differs from the simpler claim that the entire display was staged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/l6lv51/jesse_marcel_stated_he_was_photographed_with_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Jesse Marcel stated he was photographed with the actual...January 28, 2021 — They took one picture of me on the floor holding up s...</span><span class="citation-popover-meta">Published: January 28, 2021</span></span></span>
+A second problem is that later versions of the substitution story were not always identical. Some accounts asserted that all photographed debris was replacement material, while others suggested that only part of the displayed debris had been substituted. In one later recollection attributed to Marcel, he claimed that an initial photograph may have included genuine debris before replacement material was brought in, a version that differs from the simpler claim that the entire display was staged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/l6lv51/jesse_marcel_stated_he_was_photographed_with_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Jesse Marcel stated he was photographed with the actual...January 28, 2021 — They took one picture of me on the floor holding up s...</span><span class="citation-popover-meta">Published: January 28, 2021</span></span></span>
 
-Critics of Marcel’s account also point out that multiple photographs from the Fort Worth session show the same general collection of debris. They argue that this continuity makes a large-scale substitution during the press event difficult to demonstrate. Supporters respond that the photographs only document what reporters were permitted to see and cannot exclude the possibility that other material had been removed beforehand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+Critics of Marcel’s account also point out that multiple photographs from the Fort Worth session show the same general collection of debris. They argue that this continuity makes a large-scale substitution during the press event difficult to demonstrate. Supporters respond that the photographs only document what reporters were permitted to see and cannot exclude the possibility that other material had been removed beforehand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
-The result is an evidential stalemate. Marcel’s testimony provides a direct explanation for why the photographs appear mundane, but the claim itself depends primarily on memories recorded decades after the event. The photographs, by contrast, are contemporary records but cannot independently establish whether any earlier material existed that was never shown to the press. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
+The result is an evidential stalemate. Marcel’s testimony provides a direct explanation for why the photographs appear mundane, but the claim itself depends primarily on memories recorded decades after the event. The photographs, by contrast, are contemporary records but cannot independently establish whether any earlier material existed that was never shown to the press.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b8Mp7vDBvN4" title="Was Roswell Really a Secret Government Experiment? | History&#x27;s Greatest Mysteries (S6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer">Was Roswell Really a Secret Government Experiment? | History&#x27;s Greatest Mysteries (S6)</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 76.8K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b8Mp7vDBvN4">Open on YouTube</a></p></div></div></div>
@@ -325,202 +325,202 @@ The result is an evidential stalemate. Marcel’s testimony provides a direct ex
 
 ## Why This Clash Matters
 
-The debate over Marcel and the photographs illustrates a broader historical problem: how to weigh a witness’s later recollections against records created at the time. Marcel was not a peripheral figure; he was the officer most closely associated with the recovered debris. His later testimony therefore carries obvious significance. Yet the Fort Worth photographs remain among the strongest surviving contemporary pieces of evidence from Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+The debate over Marcel and the photographs illustrates a broader historical problem: how to weigh a witness’s later recollections against records created at the time. Marcel was not a peripheral figure; he was the officer most closely associated with the recovered debris. His later testimony therefore carries obvious significance. Yet the Fort Worth photographs remain among the strongest surviving contemporary pieces of evidence from Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
-For believers in a cover-up, Marcel’s substitution claim explains why the photographic record appears ordinary. For sceptics, the photographs are a reminder that memories can change, expand, or become reinterpreted over decades. The disagreement remains unresolved because neither side possesses definitive proof. What makes the issue important is not merely whether the debris was unusual, but whether later witness testimony can successfully overturn a visual record created during the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
+For believers in a cover-up, Marcel’s substitution claim explains why the photographic record appears ordinary. For sceptics, the photographs are a reminder that memories can change, expand, or become reinterpreted over decades. The disagreement remains unresolved because neither side possesses definitive proof. What makes the issue important is not merely whether the debris was unusual, but whether later witness testimony can successfully overturn a visual record created during the event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marcel_debris_photos_4ac40b-Illustration-3-dark.svg" | relative_url }}" alt="Marcel Debris illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marcel_debris_photos_4ac40b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_testimony_vs_records_1feaa6_marcel_debris_photos_4ac40b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Photos Undercut Marcel&#x27;s Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Photos Undercut Marcel&#x27;s Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Know What Isn&#x27;t So on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LURGkHCPAJEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Know What Isn&#x27;t So" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Know What Isn&#x27;t So">How We Know What Isn&#x27;t So</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Gilovich</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explains memory errors, hindsight, and belief formation, offering useful context for weighing late testimony against contemporary records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Know What Isn&#x27;t So on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LURGkHCPAJEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Know What Isn&#x27;t So" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Know What Isn&#x27;t So">How We Know What Isn&#x27;t So</a>
+</h4>
+<p class="fr-book-author">By Thomas Gilovich</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explains memory errors, hindsight, and belief formation, offering useful context for weighing late testimony against contemporary records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So+by+Thomas+Gilovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Places Marcel&#x27;s account within the larger witness record and discusses challenges to official explanations and documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Marcel&#x27;s account within the larger witness record and discusses challenges to official explanations and documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Focuses heavily on contemporary records versus later testimony, making it highly relevant to the Marcel photographs controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on contemporary records versus later testimony, making it highly relevant to the Marcel photographs controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Directly covers Marcel&#x27;s recollections, the Fort Worth photographs, and the debate over whether the displayed debris matched the recovere...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers Marcel&#x27;s recollections, the Fort Worth photographs, and the debate over whether the displayed debris matched the recovere...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Know What Isn&#x27;t So</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Know+What+Isn%27t+So&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Know What Isn&#x27;t So</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="https://i.ebayimg.com/images/g/4qcAAeSwSoFqDh-N/s-l225.jpg" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="https://i.ebayimg.com/images/g/PhwAAOSwMplk~jrt/s-l225.jpg" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="https://i.ebayimg.com/images/g/p1gAAOSwlndnXwAd/s-l225.jpg" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="marcel-debris-did-the-photos-undercut-marcel-s-story-roswell-ufo-crash-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ao8AAeSw0HJp1S2n/s-l225.jpg" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-photos-undercut-marcel-s-story-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="did-the-photos-undercut-marcel-s-story-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ For believers in a cover-up, Marcel’s substitution claim explains why the phot
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ For believers in a cover-up, Marcel’s substitution claim explains why the phot
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ For believers in a cover-up, Marcel’s substitution claim explains why the phot
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ For believers in a cover-up, Marcel’s substitution claim explains why the phot
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ For believers in a cover-up, Marcel’s substitution claim explains why the phot
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,164 +726,164 @@ For believers in a cover-up, Marcel’s substitution claim explains why the phot
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Jesse Marcel  
-   Link: <a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentMarcel holding torn foil above packing paper. Papers nationwide published an image from Fort Worth Army Air Field of M...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentMarcel holding torn foil above packing paper. Papers nationwide published an image from Fort Worth Army Air Field of M...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?22 Jun 1997 — After quizzing Marcel, who still believed the debris he retrieved was extraterrestrial, Friedman reviewed the old stories...</p></details>
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?22 Jun 1997 — After quizzing Marcel, who still believed the debris he retrieved was extraterrestrial, Friedman reviewed the old stories...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Brigadier General Roger M  
-   Link: <a href="https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-[Air-Force" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-[Air-Force</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey (left), Commanding...Ramey (left), Commanding Officer of the Eighth Air Force, is photographed near the remains of a weather bal...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-[Air-Force" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-[Air-Force</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey (left), Commanding...Ramey (left), Commanding Officer of the Eighth Air Force, is photographed near the remains of a weather bal...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesAbout the Roswell Photo Collection | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather ballo...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesAbout the Roswell Photo Collection | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather ballo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/l6lv51/jesse_marcel_stated_he_was_photographed_with_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/l6lv51/jesse_marcel_stated_he_was_photographed_with_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse Marcel stated he was photographed with the actual...January 28, 2021 — They took one picture of me on the floor holding up s...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/l6lv51/jesse_marcel_stated_he_was_photographed_with_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/l6lv51/jesse_marcel_stated_he_was_photographed_with_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse Marcel stated he was photographed with the actual...January 28, 2021 — They took one picture of me on the floor holding up s...</p></details>
    Published: January 28, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: Here's the Proof There's No Government Alien Conspiracy Around Roswell  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roswell (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/4" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel (looking right) of Houma, LA holding foil debris from Roswell, New Mexico UFO crash site, July 1947. Major Marcel with Roswell deb...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/4" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel (looking right) of Houma, LA holding foil debris from Roswell, New Mexico UFO crash site, July 1947. Major Marcel with Roswell deb...</p></details>
    Published: July 1947  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: real photograph from roswell 1947 of the us  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zqyjme/real_photograph_from_roswell_1947_of_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zqyjme/real_photograph_from_roswell_1947_of_the_us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>photograph from Roswell 1947 of the US military trying to convince everybody that a flying saucer is a weather balloon...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zqyjme/real_photograph_from_roswell_1947_of_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zqyjme/real_photograph_from_roswell_1947_of_the_us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>photograph from Roswell 1947 of the US military trying to convince everybody that a flying saucer is a weather balloon...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ave observed. &#x27;s him in the picture with the weather balloon. Not the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ave observed. &#x27;s him in the picture with the weather balloon. Not the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zef4pj/this_is_a_real_photo_from_roswell_in_1947_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zef4pj/this_is_a_real_photo_from_roswell_in_1947_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They think we&#x27;re idiots.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zef4pj/this_is_a_real_photo_from_roswell_in_1947_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zef4pj/this_is_a_real_photo_from_roswell_in_1947_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They think we&#x27;re idiots.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HistoryPorn/comments/zx32ah/major_jesse_a_marcel_posing_with_extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoryPorn/comments/zx32ah/major_jesse_a_marcel_posing_with_extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel posing with &#x27;extraterrestrial&#x27; debris at...Major Jesse A. Marcel posing with &#x27;extraterrestrial&#x27; debris at Fort Worth Army Airfiel...</p></details>
+   Link:<a href="https://www.reddit.com/r/HistoryPorn/comments/zx32ah/major_jesse_a_marcel_posing_with_extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoryPorn/comments/zx32ah/major_jesse_a_marcel_posing_with_extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel posing with &#x27;extraterrestrial&#x27; debris at...Major Jesse A. Marcel posing with &#x27;extraterrestrial&#x27; debris at Fort Worth Army Airfiel...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dafhistory.af.mil  
    Title: DAF History The Roswell Report  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skyatnightmagazine.com  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineRoswell UFO incident facts and history26 Jun 2025 — A series of photos were published showing Ramey, Marcel, and oth...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineRoswell UFO incident facts and history26 Jun 2025 — A series of photos were published showing Ramey, Marcel, and oth...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAn Air Force official said there was no similar requirement to report a weather balloon crash. According t...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAn Air Force official said there was no similar requirement to report a weather balloon crash. According t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, alleged [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, alleged [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jhmovie.fandom.com  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomThe press release issued by Haut read: Marcel holding torn foil above packing paper At Fort Wo...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomThe press release issued by Haut read: Marcel holding torn foil above packing paper At Fort Wo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 the air force admitted that the recovered material was in real...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 the air force admitted that the recovered material was in real...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: roswell-nm.gov  
-   Link: <a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteRoswell Air Center is proud to announce its partnership with United Airlines to provide service to Denver I...</p></details>
+   Link:<a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteRoswell Air Center is proud to announce its partnership with United Airlines to provide service to Denver I...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: seeroswell.com  
-   Link: <a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
+   Link:<a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: on this day in 1947 the roswell army air field issued a press release claiming t  
-   Link: <a href="https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1947, the Roswell Army Air Field issued a...Major Marcel was the field&#x27;s intelligence officer and the only person known t...</p></details>
+   Link:<a href="https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SmithsonianChannel/posts/on-this-day-in-1947-the-roswell-army-air-field-issued-a-press-release-claiming-t/10159342477603357/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1947, the Roswell Army Air Field issued a...Major Marcel was the field&#x27;s intelligence officer and the only person known t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: artpike.fortunecity.ws  
-   Link: <a href="https://artpike.fortunecity.ws/ramey0.htm" target="_blank" rel="noopener noreferrer nofollow">https://artpike.fortunecity.ws/ramey0.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel holds the debris in General Ramey&#x27;s office at 8th Air Force HQ Fort Worth...Read more...</p></details>
+   Link:<a href="https://artpike.fortunecity.ws/ramey0.htm" target="_blank" rel="noopener noreferrer nofollow">https://artpike.fortunecity.ws/ramey0.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel holds the debris in General Ramey&#x27;s office at 8th Air Force HQ Fort Worth...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
-   Link: <a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...Jul 8, 2024 — Marcel claimed in an interview with ufologists (researchers of UF...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...Jul 8, 2024 — Marcel claimed in an interview with ufologists (researchers of UF...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bridgemanimages.com  
-   Link: <a href="https://www.bridgemanimages.com/en/noartistknown/jesse-marcel-who-initially-investigated-the-roswell-ufo-site/photo/asset/3586752" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgemanimages.com/en/noartistknown/jesse-marcel-who-initially-investigated-the-roswell-ufo-site/photo/asset/3586752</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO site, 1947 - High quality fine art images, pictures, photos and videos from...</p></details>
+   Link:<a href="https://www.bridgemanimages.com/en/noartistknown/jesse-marcel-who-initially-investigated-the-roswell-ufo-site/photo/asset/3586752" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgemanimages.com/en/noartistknown/jesse-marcel-who-initially-investigated-the-roswell-ufo-site/photo/asset/3586752</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO site, 1947 - High quality fine art images, pictures, photos and videos from...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gandalfddi.z19.web.core.windows.net  
    Title: Air Force Rosewell UFO Incident Investigation  
-   Link: <a href="https://gandalfddi.z19.web.core.windows.net/Shuttle/Misc_Space_Non-Shuttle/Air%20Force%20Rosewell%20UFO%20Incident%20Investigation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gandalfddi.z19.web.core.windows.net/Shuttle/Misc_Space_Non-Shuttle/Air%20Force%20Rosewell%20UFO%20Incident%20Investigation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incidentnewspaper photographs from General Ramey&#x27;s press conference in 1947 and descriptions in popular books by individuals who supposed...</p></details>
+   Link:<a href="https://gandalfddi.z19.web.core.windows.net/Shuttle/Misc_Space_Non-Shuttle/Air%20Force%20Rosewell%20UFO%20Incident%20Investigation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gandalfddi.z19.web.core.windows.net/Shuttle/Misc_Space_Non-Shuttle/Air%20Force%20Rosewell%20UFO%20Incident%20Investigation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incidentnewspaper photographs from General Ramey&#x27;s press conference in 1947 and descriptions in popular books by individuals who supposed...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
    Title: 7 strange facts about the Roswell incident  
-   Link: <a href="https://www.instagram.com/reel/DQ5hGvyjBep/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ5hGvyjBep/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pt.3 #roswell...Jesse Marcel because he&#x27;s in Fort Worth. After flying the debris, he did tell me not to talk about this to my mother, no...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQ5hGvyjBep/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ5hGvyjBep/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pt.3 #roswell...Jesse Marcel because he&#x27;s in Fort Worth. After flying the debris, he did tell me not to talk about this to my mother, no...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/detail/video/united-states-interview-with-jesse-marcel-about-the-news-footage/2240250716" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/detail/video/united-states-interview-with-jesse-marcel-about-the-news-footage/2240250716</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>estrial Origin. United States - Circa 1994: Interview with Jesse...</p></details>
+   Link:<a href="https://www.gettyimages.com/detail/video/united-states-interview-with-jesse-marcel-about-the-news-footage/2240250716" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/detail/video/united-states-interview-with-jesse-marcel-about-the-news-footage/2240250716</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>estrial Origin. United States - Circa 1994: Interview with Jesse...</p></details>

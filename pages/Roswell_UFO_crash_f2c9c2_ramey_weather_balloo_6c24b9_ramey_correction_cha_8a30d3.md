@@ -280,7 +280,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_ramey
 
 ## Introduction
 
-General Roger Ramey’s weather balloon correction changed Roswell because it transformed a brief military announcement into a long-running dispute about [credibility]({{ 'credibility/' | relative_url }}). On 8 July 1947, Roswell Army Air Field publicly stated that it had recovered a “flying saucer”. Within hours, Ramey, commander of the Eighth [Air Force]({{ 'air-force/' | relative_url }}) at Fort Worth, announced that the debris was actually balloon-related equipment. The immediate effect was to end the flying-saucer story in most newspapers. The long-term effect was very different: the sudden reversal created a contradiction that later became the centre of Roswell’s enduring controversy. Rather than debating only what crashed, people began debating why official accounts changed so quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">Roswell Region in the Roswell Daily Record on July 8, 1947. 4356970RAAF...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+General Roger Ramey’s weather balloon correction changed Roswell because it transformed a brief military announcement into a long-running dispute about [credibility]({{ 'credibility/' | relative_url }}). On 8 July 1947, Roswell Army Air Field publicly stated that it had recovered a “flying saucer”. Within hours, Ramey, commander of the Eighth [Air Force]({{ 'air-force/' | relative_url }}) at Fort Worth, announced that the debris was actually balloon-related equipment. The immediate effect was to end the flying-saucer story in most newspapers. The long-term effect was very different: the sudden reversal created a contradiction that later became the centre of Roswell’s enduring controversy. Rather than debating only what crashed, people began debating why official accounts changed so quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">Roswell Region in the Roswell Daily Record on July 8, 1947. 4356970RAAF...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_ramey_correction_cha_8a30d3-Illustration-1-dark.svg" | relative_url }}" alt="Ramey s Shift illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_ramey_correction_cha_8a30d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_ramey_correction_cha_8a30d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ General Roger Ramey’s weather balloon correction changed Roswell because it tr
 
 The importance of [Ramey]({{ 'ramey/' | relative_url }})’s intervention can only be understood by looking at what came before it. The original Roswell announcement was not a rumour from a witness or a sensational [newspaper]({{ 'newspaper/' | relative_url }}) invention. It came from the military itself.
 
-The Roswell Daily Record reported that the intelligence office of the 509th Bombardment Group had announced possession of a “flying saucer”. The wording presented the claim as an official military finding rather than public speculation. In the context of the 1947 flying-disc craze, this gave the story immediate national attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">Roswell Region in the Roswell Daily Record on July 8, 1947. 4356970RAAF...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+The Roswell Daily Record reported that the intelligence office of the 509th Bombardment Group had announced possession of a “flying saucer”. The wording presented the claim as an official military finding rather than public speculation. In the context of the 1947 flying-disc craze, this gave the story immediate national attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">Roswell Region in the Roswell Daily Record on July 8, 1947. 4356970RAAF...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 Had the military never issued that statement, Roswell might have remained a local curiosity. The later controversy depended on the fact that an authoritative institution first endorsed an extraordinary description and then withdrew it.
 
@@ -301,9 +301,9 @@ This sequence created a lasting question: if trained military personnel initiall
 
 Ramey’s correction did more than replace one explanation with another. He changed how reporters understood the entire event.
 
-At Fort Worth, journalists were shown debris that Ramey identified as the remains of a weather balloon and radar target. Associated Press reports described him as having “cleared up the mystery”, presenting the discovery as a routine misunderstanding rather than a major military find. The dramatic language of “flying saucer” was replaced by the familiar language of weather equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/rw/p/rdr9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">The Roswell Daily REcord,</span><span class="citation-popover-snippet">Ramey Empties Roswell Saucer. Ramey Says Excitement is Not Justified General Ramey Says Disk is Weather Balloon. Fort Worth, Texas, July...</span></span></span>
+At Fort Worth, journalists were shown debris that Ramey identified as the remains of a weather balloon and radar target. Associated Press reports described him as having “cleared up the mystery”, presenting the discovery as a routine misunderstanding rather than a major military find. The dramatic language of “flying saucer” was replaced by the familiar language of weather equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/rw/p/rdr9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">The Roswell Daily REcord,</span><span class="citation-popover-snippet">Ramey Empties Roswell Saucer. Ramey Says Excitement is Not Justified General Ramey Says Disk is Weather Balloon. Fort Worth, Texas, July...</span></span></span>
 
-The Fort Worth press session also produced the photographs that became central to later Roswell debates. Images showed Ramey and intelligence officer Major Jesse [Marcel]({{ 'marcel/' | relative_url }}) posing with balloon and radar-reflector material spread across an office floor. For newspapers in 1947, these photographs visually reinforced the official explanation and helped shift coverage away from speculation about unidentified craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Ramey (left), Commanding Officer of the Eighth Air Force, is photographed near the remains of a weather balloon and Rawin radar...Read more...</span></span></span>
+The Fort Worth press session also produced the photographs that became central to later Roswell debates. Images showed Ramey and intelligence officer Major Jesse [Marcel]({{ 'marcel/' | relative_url }}) posing with balloon and radar-reflector material spread across an office floor. For newspapers in 1947, these photographs visually reinforced the official explanation and helped shift coverage away from speculation about unidentified craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Ramey (left), Commanding Officer of the Eighth Air Force, is photographed near the remains of a weather balloon and Rawin radar...Read more...</span></span></span>
 
 The reframing worked because it offered a simple answer at a moment when editors were overwhelmed with flying-disc stories from across the United States. A weather balloon required no further investigation. An unexplained flying disc did.
 
@@ -313,11 +313,11 @@ The reframing worked because it offered a simple answer at a moment when editors
 
 Paradoxically, the correction outlived the original story because it created a credibility problem.
 
-In the short term, Ramey succeeded. Most newspapers accepted the balloon explanation, and public attention quickly moved elsewhere. Contemporary accounts show that the military’s revised version became the accepted explanation almost immediately. Roswell largely disappeared from national discussion for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+In the short term, Ramey succeeded. Most newspapers accepted the balloon explanation, and public attention quickly moved elsewhere. Contemporary accounts show that the military’s revised version became the accepted explanation almost immediately. Roswell largely disappeared from national discussion for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 Yet the reversal also left behind an unresolved contradiction. The military had issued two incompatible descriptions of the same debris within a single day. Later researchers and UFO writers did not need to prove that the debris was extraterrestrial to keep the story alive. They only needed to point to the inconsistency.
 
-As public trust in government declined during the 1970s and after events such as Watergate, the rapid shift from “flying saucer” to “weather balloon” began to look less like a correction and more like a possible concealment. Whether justified or not, the existence of two official narratives gave Roswell a structure that many other UFO reports lacked: a documented before-and-after story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+As public trust in government declined during the 1970s and after events such as Watergate, the rapid shift from “flying saucer” to “weather balloon” began to look less like a correction and more like a possible concealment. Whether justified or not, the existence of two official narratives gave Roswell a structure that many other UFO reports lacked: a documented before-and-after story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6u0F2_k2o4o" title="America’s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer">America’s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 29.3K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6u0F2_k2o4o">Open on YouTube</a></p></div></div></div>
@@ -326,9 +326,9 @@ As public trust in government declined during the 1970s and after events such as
 
 Another reason Ramey’s correction remained controversial is that later official investigations did not fully endorse the simple 1947 weather-balloon description.
 
-Air Force investigations in the 1990s concluded that the debris was most likely associated with the classified Project Mogul programme, which used [balloon trains]({{ 'balloon-train/' | relative_url }}) and radar reflectors to detect Soviet nuclear tests. While this finding supported a balloon-related explanation, it also showed that the full story in 1947 was more complicated than the public was told. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">March 24, 2018 — 21 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; began...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+Air Force investigations in the 1990s concluded that the debris was most likely associated with the classified Project Mogul programme, which used [balloon trains]({{ 'balloon-train/' | relative_url }}) and radar reflectors to detect Soviet nuclear tests. While this finding supported a balloon-related explanation, it also showed that the full story in 1947 was more complicated than the public was told.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">March 24, 2018 — 21 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; began...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-This distinction mattered. Critics argued that if the debris came from a secret military project, then the weather-balloon explanation was incomplete. Supporters of the official view responded that secrecy about Cold War surveillance technology, not extraterrestrial evidence, explains the confusing public statements. Either way, the later Project Mogul explanation ensured that Ramey’s correction remained part of the debate rather than settling it permanently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.lib.vt.edu">[VT Scholarly Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.lib.vt.edu</span><span class="citation-popover-snippet">VT Scholarly CommunicationROSWELL MYSTERY CONTINUESThe project was a highly classified effort to detect Soviet nuclear weapons using ball...</span></span></span>
+This distinction mattered. Critics argued that if the debris came from a secret military project, then the weather-balloon explanation was incomplete. Supporters of the official view responded that secrecy about Cold War surveillance technology, not extraterrestrial evidence, explains the confusing public statements. Either way, the later Project Mogul explanation ensured that Ramey’s correction remained part of the debate rather than settling it permanently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.lib.vt.edu">[VT Scholarly Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.lib.vt.edu</span><span class="citation-popover-snippet">VT Scholarly CommunicationROSWELL MYSTERY CONTINUESThe project was a highly classified effort to detect Soviet nuclear weapons using ball...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_ramey_correction_cha_8a30d3-Illustration-3-dark.svg" | relative_url }}" alt="Ramey s Shift illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_ramey_correction_cha_8a30d3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_ramey_correction_cha_8a30d3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,7 +336,7 @@ This distinction mattered. Critics argued that if the debris came from a secret 
 
 Ramey’s weather-balloon announcement changed Roswell because it altered the story’s meaning.
 
-Before Fort Worth, Roswell was a claim about a recovered flying disc. After Fort Worth, it became a case about conflicting official accounts. The correction successfully ended the original news cycle, but it also created the central mystery that later generations would revisit. The enduring question was no longer simply what fell near Roswell. It became why the military first described the debris one way and then another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">Roswell Region in the Roswell Daily Record on July 8, 1947. 4356970RAAF...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+Before Fort Worth, Roswell was a claim about a recovered flying disc. After Fort Worth, it became a case about conflicting official accounts. The correction successfully ended the original news cycle, but it also created the central mystery that later generations would revisit. The enduring question was no longer simply what fell near Roswell. It became why the military first described the debris one way and then another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">Roswell Region in the Roswell Daily Record on July 8, 1947. 4356970RAAF...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 That shift—from an unidentified object to a dispute over official credibility—is the reason Ramey’s correction remains one of the most consequential moments in the entire Roswell story.
 
@@ -345,194 +345,194 @@ That shift—from an unidentified object to a dispute over official credibility�
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Ramey&#x27;s Correction Changed Roswell. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Ramey&#x27;s Correction Changed Roswell. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Specifically analyzes the evolution of the Roswell story and changing public interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Specifically analyzes the evolution of the Roswell story and changing public interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Examines the witness accounts and official narrative changes that followed Ramey&#x27;s correction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the witness accounts and official narrative changes that followed Ramey&#x27;s correction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Explores claims that official explanations concealed a larger story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores claims that official explanations concealed a larger story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Central source for understanding how the original announcement and later reversal shaped the myth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central source for understanding how the original announcement and later reversal shaped the myth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T"><img src="{{ '/assets/images/marketplace-covers/f9be57ff29ea9e4ecfd3.jpg' | relative_url }}" alt="Listing image for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T"><img src="{{ '/assets/images/marketplace-covers/f9be57ff29ea9e4ecfd3.jpg' | relative_url }}" alt="Listing image for Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt Aliens T-Shirt Conspiracy The Roswell Incident Area 51 E.T</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt"><img src="{{ '/assets/images/marketplace-covers/2d54ac48876e1957e123.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt"><img src="{{ '/assets/images/marketplace-covers/2d54ac48876e1957e123.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - CONSPIRACY T Shirt - Roswell T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO"><img src="{{ '/assets/images/marketplace-covers/388c0fa476c3075dd2f1.jpg' | relative_url }}" alt="Listing image for WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO"><img src="{{ '/assets/images/marketplace-covers/388c0fa476c3075dd2f1.jpg' | relative_url }}" alt="Listing image for WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WELCOME TO ROSWELL A GREAT PLACE TO CRASH T-SHIRT - FREE UK P&amp;P - ALIENS - UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO T Shirt SMALL-2XL"><img src="{{ '/assets/images/marketplace-covers/3c6a60145439aea465d0.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO T Shirt SMALL-2XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO T Shirt SMALL-2XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO T Shirt SMALL-2XL"><img src="{{ '/assets/images/marketplace-covers/3c6a60145439aea465d0.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO T Shirt SMALL-2XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO T Shirt SMALL-2XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO t shirt" data-ebay-reference="ramey-s-shift-why-ramey-s-correction-changed-roswell-roswell-ufo-crash-roswell-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ That shift—from an unidentified object to a dispute over official credibility�
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ That shift—from an unidentified object to a dispute over official credibility�
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ That shift—from an unidentified object to a dispute over official credibility�
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ That shift—from an unidentified object to a dispute over official credibility�
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ That shift—from an unidentified object to a dispute over official credibility�
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,160 +738,160 @@ That shift—from an unidentified object to a dispute over official credibility�
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: RAAF Captures Flying Saucer on Ranch in Roswell Region  
-   Link: <a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Region in the Roswell Daily Record on July 8, 1947. 4356970RAAF...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Region in the Roswell Daily Record on July 8, 1947. 4356970RAAF...</p></details>
    Published: July 8, 1947  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
    Title: The Roswell Daily REcord,  
-   Link: <a href="https://ufologie.patrickgross.org/rw/p/rdr9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/rdr9jul1947.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey Empties Roswell Saucer. Ramey Says Excitement is Not Justified General Ramey Says Disk is Weather Balloon. Fort Worth, Texas, July...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/rw/p/rdr9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/rdr9jul1947.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey Empties Roswell Saucer. Ramey Says Excitement is Not Justified General Ramey Says Disk is Weather Balloon. Fort Worth, Texas, July...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeA rash of unidentified flying object reports in the United States were publicized in June and July 1947...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeA rash of unidentified flying object reports in the United States were publicized in June and July 1947...</p></details>
    Published: July 1947  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: 0708army announces roswell new mexico ufo sighting  
-   Link: <a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the milit...</p></details>
+   Link:<a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the milit...</p></details>
    Published: July 8, 1947  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey (left), Commanding Officer of the Eighth Air Force, is photographed near the remains of a weather balloon and Rawin radar...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey (left), Commanding Officer of the Eighth Air Force, is photographed near the remains of a weather balloon and Rawin radar...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: Here's the Proof There's No Government Alien Conspiracy Around Roswell  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_[Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_[Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the legacy of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_[Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_[Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the legacy of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Roswell (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Datei:Roswell Daily Record  
-   Link: <a href="https://de.wikipedia.org/wiki/Datei%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_front_page.jpg" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Datei%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_front_page.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...July 8, 1947. Full front page. Article titled: &quot;RAAF Captures Flying Saucer On Ranch in Roswell Region&quot;. T...</p></details>
+   Link:<a href="https://de.wikipedia.org/wiki/Datei%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_front_page.jpg" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Datei%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_front_page.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...July 8, 1947. Full front page. Article titled: &quot;RAAF Captures Flying Saucer On Ranch in Roswell Region&quot;. T...</p></details>
    Published: July 8, 1947  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Roswell Daily Record  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_Daily_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_Daily_Record</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Daily RecordRoswell Daily Record; July 8, 1947, issue, featuring a story announcing the Roswell Army Air Field &quot;capture&quot; of a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_Daily_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_Daily_Record</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Daily RecordRoswell Daily Record; July 8, 1947, issue, featuring a story announcing the Roswell Army Air Field &quot;capture&quot; of a...</p></details>
    Published: July 8, 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Daily Record, July 8, 1947, announcing the...Roswell Daily Record, July 8, 1947, announcing the capture of a flying saucer, Loca...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Daily Record, July 8, 1947, announcing the...Roswell Daily Record, July 8, 1947, announcing the capture of a flying saucer, Loca...</p></details>
    Published: July 8, 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jhmovie.fandom.com  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomAfter metallic and rubber debris was recovered by Roswell Army Air Field personnel, the United...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomAfter metallic and rubber debris was recovered by Roswell Army Air Field personnel, the United...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 24, 2018 — 21 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; began...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 24, 2018 — 21 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; began...</p></details>
    Published: March 24, 2018  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scholar.lib.vt.edu  
-   Link: <a href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm" target="_blank" rel="noopener noreferrer nofollow">https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VT Scholarly CommunicationROSWELL MYSTERY CONTINUESThe project was a highly classified effort to detect Soviet nuclear weapons using ball...</p></details>
+   Link:<a href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm" target="_blank" rel="noopener noreferrer nofollow">https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VT Scholarly CommunicationROSWELL MYSTERY CONTINUESThe project was a highly classified effort to detect Soviet nuclear weapons using ball...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Roswell Photo Collection | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather balloon at Fort Worth Ar...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Roswell Photo Collection | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather balloon at Fort Worth Ar...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lumsx-bbb.lums.edu.pk  
    Title: lums.edu.pk Roswell Daily Record  
-   Link: <a href="https://lumsx-bbb.lums.edu.pk/fast-dispatch/roswell-daily-record-july-8-1947-the-ufo-headline-1764804578" target="_blank" rel="noopener noreferrer nofollow">https://lumsx-bbb.lums.edu.pk/fast-dispatch/roswell-daily-record-july-8-1947-the-ufo-headline-1764804578</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Record: July 8, 1947 - The UFO Headline3 Dec 2025 — This isn&#x27;t just any old newspaper clipping; it&#x27;s the very document that first b...</p></details>
+   Link:<a href="https://lumsx-bbb.lums.edu.pk/fast-dispatch/roswell-daily-record-july-8-1947-the-ufo-headline-1764804578" target="_blank" rel="noopener noreferrer nofollow">https://lumsx-bbb.lums.edu.pk/fast-dispatch/roswell-daily-record-july-8-1947-the-ufo-headline-1764804578</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Record: July 8, 1947 - The UFO Headline3 Dec 2025 — This isn&#x27;t just any old newspaper clipping; it&#x27;s the very document that first b...</p></details>
    Published: July 8, 1947  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell report: [case closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;) / James McAndrewGeneral Accounting Office (GAO) inquiry of an event popularly known as the &quot;Roswell Incid...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell report: [case closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;) / James McAndrewGeneral Accounting Office (GAO) inquiry of an event popularly known as the &quot;Roswell Incid...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“RAAF Captures Flying Saucer on Ranch in Roswell Region, Roswell Daily Record, July 8, 1947, p. 1. “Army Declares Flying...Read more...</p></details>
+   Link:<a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“RAAF Captures Flying Saucer on Ranch in Roswell Region, Roswell Daily Record, July 8, 1947, p. 1. “Army Declares Flying...Read more...</p></details>
    Published: may 1948  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Vault Reveals UFO, Roswell Files&quot;The disc is hexagonal in shape and was suspended from a balloon by cable,&quot; the document said. &quot;The o...</p></details>
+   Link:<a href="https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Vault Reveals UFO, Roswell Files&quot;The disc is hexagonal in shape and was suspended from a balloon by cable,&quot; the document said. &quot;The o...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: commons.wikimedia.org  
    Title: File:Roswell Daily Record  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...5 Nov 2023 — July 8, 1947. Article titled: &quot;RAAF Captures Flying Saucer On Ranch in Roswell Region&quot;. Flyin...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...5 Nov 2023 — July 8, 1947. Article titled: &quot;RAAF Captures Flying Saucer On Ranch in Roswell Region&quot;. Flyin...</p></details>
    Published: July 8, 1947  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Report on Roswell, NM UFO CrashThe 509th- RAAF report noted the recovery of a &quot;flying disc&quot; that was later determined by military off...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Report on Roswell, NM UFO CrashThe 509th- RAAF report noted the recovery of a &quot;flying disc&quot; that was later determined by military off...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1n6jdg2/general_roger_ramey_with_roswell_debris/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n6jdg2/general_roger_ramey_with_roswell_debris/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Roger Ramey with Roswell Debris: r/UFOsMany people believe that it involved a crashed alien spacecraft (maybe even 2 saucers), a...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1n6jdg2/general_roger_ramey_with_roswell_debris/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n6jdg2/general_roger_ramey_with_roswell_debris/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Roger Ramey with Roswell Debris: r/UFOsMany people believe that it involved a crashed alien spacecraft (maybe even 2 saucers), a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1947, A High-Altitude Balloon Crash Landed in Roswell....5 Jul 2017 — Roswell&#x27;s morning newspaper debunked the story. ranch was the r...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1947, A High-Altitude Balloon Crash Landed in Roswell....5 Jul 2017 — Roswell&#x27;s morning newspaper debunked the story. ranch was the r...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wxii12.com  
-   Link: <a href="https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499" target="_blank" rel="noopener noreferrer nofollow">https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was the main part of Project Mogul&#x27;s plan to use high altitude balloons at a part of the Earth&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499" target="_blank" rel="noopener noreferrer nofollow">https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was the main part of Project Mogul&#x27;s plan to use high altitude balloons at a part of the Earth&#x27;s...Read more...</p></details>

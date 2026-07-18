@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-index/
 description: Focused pages that expand on Roswell UFO crash.
-date: '2026-06-20'
+date: '2026'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2
 parent_title: Roswell UFO crash
@@ -16,7 +16,7 @@ parent_permalink: /roswell-ufo-crash/
 
 # Explore Topics in Roswell UFO crash
 
-The following pages expand on the main **[Roswell UFO crash]({{ '/roswell-ufo-crash/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Roswell UFO crash]({{ '/roswell-ufo-crash/' | relative_url }})** page and cover its key branches in.
 
 - [Timeline]({{ '/timeline/' | relative_url }})
 - [Saucer Craze]({{ '/saucer-craze/' | relative_url }})

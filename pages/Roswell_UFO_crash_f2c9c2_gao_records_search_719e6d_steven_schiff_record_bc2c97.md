@@ -274,7 +274,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_
 
 ## Introduction
 
-Representative Steven H. Schiff of New Mexico played a unique role in the modern history of the Roswell UFO controversy. He did not claim to have solved the case, nor did he lead a congressional investigation into extraterrestrial life. Instead, his significance lay in forcing the federal government to conduct a formal [records]({{ 'records/' | relative_url }}) search. Through persistent inquiries in the early 1990s, Schiff transformed Roswell from a long-running public dispute into an official accountability question: if a major military incident occurred near Roswell in 1947, what records should exist, where were they, and why were some apparently missing? His efforts ultimately triggered investigations by both the General Accounting Office (GAO, now the Government Accountability Office) and the U.S. [Air Force]({{ 'air-force/' | relative_url }}), creating the most extensive government paper trail ever assembled on the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>(https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)
+Representative Steven H. Schiff of New Mexico played a unique role in the modern history of the Roswell UFO controversy. He did not claim to have solved the case, nor did he lead a congressional investigation into extraterrestrial life. Instead, his significance lay in forcing the federal government to conduct a formal [records]({{ 'records/' | relative_url }}) search. Through persistent inquiries in the early 1990s, Schiff transformed Roswell from a long-running public dispute into an official accountability question: if a major military incident occurred near Roswell in 1947, what records should exist, where were they, and why were some apparently missing? His efforts ultimately triggered investigations by both the General Accounting Office (GAO, now the Government Accountability Office) and the U.S. [Air Force]({{ 'air-force/' | relative_url }}), creating the most extensive government paper trail ever assembled on the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>(https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_schiff_record_bc2c97-Illustration-1-dark.svg" | relative_url }}" alt="Schiff Role illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_schiff_record_bc2c97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_schiff_record_bc2c97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Representative Steven H. Schiff of New Mexico played a unique role in the modern
 
 Schiff's involvement began not as an attempt to prove an alien crash but as a response to complaints from constituents and researchers who argued that official records relating to Roswell were difficult to locate. What particularly troubled him was the apparent absence of documentation that one might expect for an event that had generated national headlines in July 1947.
 
-According to contemporary reporting, Schiff became frustrated after learning that the National Archives held records from Project Blue Book—the Air Force's later UFO investigation programme—but did not appear to possess comparable Roswell records. He described being repeatedly redirected among agencies without obtaining clear answers, leading him to seek outside assistance from the GAO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostGAO TURNS TO ALIEN TURF IN PROBE13 Jan 1994 — However, Schiff said, Archives officials told him they did not have the...</span></span></span>
+According to contemporary reporting, Schiff became frustrated after learning that the National Archives held records from Project Blue Book—the Air Force's later UFO investigation programme—but did not appear to possess comparable Roswell records. He described being repeatedly redirected among agencies without obtaining clear answers, leading him to seek outside assistance from the GAO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostGAO TURNS TO ALIEN TURF IN PROBE13 Jan 1994 — However, Schiff said, Archives officials told him they did not have the...</span></span></span>
 
 The key issue for Schiff was administrative accountability rather than a predetermined conclusion about UFOs. If the military's explanation was correct, records should help demonstrate that fact. If records were missing, Congress needed to understand why. This approach gave the Roswell debate a governance dimension that had largely been absent from earlier public discussions.
 
@@ -296,11 +296,11 @@ Schiff asked the GAO to investigate two specific questions:
 1. What reporting requirements existed in 1947 for incidents comparable to the reported Roswell crash?
 2. What government records existed concerning the event?
 
-The framing was important. Rather than asking the GAO to determine whether aliens had visited Earth, Schiff requested an audit of government procedures, records retention practices, and documentary evidence. The inquiry therefore focused on whether records should have been created, whether they survived, and whether agencies could account for them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>(https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)
+The framing was important. Rather than asking the GAO to determine whether aliens had visited Earth, Schiff requested an audit of government procedures, records retention practices, and documentary evidence. The inquiry therefore focused on whether records should have been created, whether they survived, and whether agencies could account for them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>(https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)
 
-The resulting investigation became unusually broad. GAO investigators searched classified and unclassified records from numerous Department of Defense organisations as well as the FBI, CIA and National Security Council. The inquiry examined documents dating from 1947 through the 1950s and required multiple federal agencies to conduct formal searches of their holdings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>(https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)
+The resulting investigation became unusually broad. GAO investigators searched classified and unclassified records from numerous Department of Defense organisations as well as the FBI, CIA and National Security Council. The inquiry examined documents dating from 1947 through the 1950s and required multiple federal agencies to conduct formal searches of their holdings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>(https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)
 
-Schiff's request also had a secondary effect: it prompted the Air Force to undertake its own extensive review of historical records. The Air Force's 1994 Roswell report explicitly traced its involvement to the congressional and GAO inquiries that followed Schiff's actions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as t...</span></span></span>
+Schiff's request also had a secondary effect: it prompted the Air Force to undertake its own extensive review of historical records. The Air Force's 1994 Roswell report explicitly traced its involvement to the congressional and GAO inquiries that followed Schiff's actions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as t...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_schiff_record_bc2c97-Illustration-2-dark.svg" | relative_url }}" alt="Schiff Role illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_schiff_record_bc2c97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_schiff_record_bc2c97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -308,7 +308,7 @@ Schiff's request also had a secondary effect: it prompted the Air Force to under
 
 One reason Schiff's intervention mattered is that it changed the status of Roswell inside government bureaucracy. Prior to his request, Roswell was largely a subject of public speculation, journalism and private research. Once a member of Congress requested a GAO investigation, agencies were required to respond through formal oversight channels.
 
-The GAO report sent to Schiff documented searches across multiple institutions and recorded what was found, what was not found, and what records had been destroyed. Even the CIA conducted a specific search for Roswell-related material after the inquiry raised questions about whether such a search had ever been performed. The agency ultimately reported finding no Roswell crash documents in its databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn May 30, 1995, the CIA&#x27;s Executive Director informed us that a sear...</span><span class="citation-popover-meta">Published: May 30, 1995</span></span></span>
+The GAO report sent to Schiff documented searches across multiple institutions and recorded what was found, what was not found, and what records had been destroyed. Even the CIA conducted a specific search for Roswell-related material after the inquiry raised questions about whether such a search had ever been performed. The agency ultimately reported finding no Roswell crash documents in its databases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn May 30, 1995, the CIA&#x27;s Executive Director informed us that a sear...</span><span class="citation-popover-meta">Published: May 30, 1995</span></span></span>
 
 This process created something Roswell had lacked for decades: an official record of the government's search efforts themselves. Regardless of what one believes about the underlying incident, Schiff ensured that agencies had to state publicly what records existed and what records did not.
 
@@ -319,9 +319,9 @@ This process created something Roswell had lacked for decades: an official recor
 
 When the GAO delivered its findings in 1995, Schiff did not present the report as proof of an extraterrestrial event. Instead, he focused on what he considered a troubling records-management problem.
 
-The GAO discovered that important Roswell Army Air Field administrative records and outgoing message files covering periods that included the 1947 incident had been destroyed. The available disposition paperwork did not identify who authorised the destruction, when it occurred, or under what authority it was carried out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>(https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)
+The GAO discovered that important Roswell Army Air Field administrative records and outgoing message files covering periods that included the 1947 incident had been destroyed. The available disposition paperwork did not identify who authorised the destruction, when it occurred, or under what authority it was carried out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>(https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)
 
-Schiff publicly criticised this situation. He argued that documents which could have provided more information about the Roswell event were gone and that the military could not adequately explain their destruction. He also expressed concern that some of the missing materials appeared to have been permanent records that should have been retained. In particular, he noted that outgoing communications from the Roswell base might have revealed how local military personnel reported the incident to higher headquarters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-snippet">Deseret News`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — Schiff said the GAO estimates the information was destroyed more th...</span></span></span>
+Schiff publicly criticised this situation. He argued that documents which could have provided more information about the Roswell event were gone and that the military could not adequately explain their destruction. He also expressed concern that some of the missing materials appeared to have been permanent records that should have been retained. In particular, he noted that outgoing communications from the Roswell base might have revealed how local military personnel reported the incident to higher headquarters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-snippet">Deseret News`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — Schiff said the GAO estimates the information was destroyed more th...</span></span></span>
 
 Importantly, Schiff's criticism centred on accountability rather than certainty. The [missing records]({{ 'missing-records/' | relative_url }}) did not prove a [cover-up]({{ 'cover-up/' | relative_url }}), but they prevented investigators from fully reconstructing what information military officials possessed at the time.
 
@@ -329,203 +329,203 @@ Importantly, Schiff's criticism centred on accountability rather than certainty.
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_schiff_record_bc2c97-Illustration-3-dark.svg" | relative_url }}" alt="Schiff Role illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_schiff_record_bc2c97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_gao_records_search_719e6d_steven_schiff_record_bc2c97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Schiff's Lasting Impact on the Roswell Record
 
-The most enduring consequence of Schiff's involvement was procedural rather than evidentiary. His efforts compelled the federal government to conduct searches that otherwise might never have occurred. Those searches produced the 1995 GAO report, contributed to the Air Force's Roswell investigations, documented the destruction of certain records, and established an official chronology of what agencies could and could not locate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
+The most enduring consequence of Schiff's involvement was procedural rather than evidentiary. His efforts compelled the federal government to conduct searches that otherwise might never have occurred. Those searches produced the 1995 GAO report, contributed to the Air Force's Roswell investigations, documented the destruction of certain records, and established an official chronology of what agencies could and could not locate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>
 
-As a result, Schiff occupies a distinctive place in Roswell history. He neither confirmed nor disproved extraordinary claims. Instead, he forced the question into the realm of congressional oversight, records retention, and government accountability. The paper trail that modern researchers examine today exists largely because a congressman insisted that federal agencies explain what happened to the documents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>(https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)
+As a result, Schiff occupies a distinctive place in Roswell history. He neither confirmed nor disproved extraordinary claims. Instead, he forced the question into the realm of congressional oversight, records retention, and government accountability. The paper trail that modern researchers examine today exists largely because a congressman insisted that federal agencies explain what happened to the documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Government Records</span><span class="citation-popover-snippet">U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</span><span class="citation-popover-meta">Published: March 24, 2018</span></span></span>(https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ddQbUSTB_l0" title="Congressman Steven Schiff Accuses Pentagon of Roswell Cover-Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ddQbUSTB_l0" target="_blank" rel="noopener noreferrer">Congressman Steven Schiff Accuses Pentagon of Roswell Cover-Up</a></p><p class="youtube-embed-meta">Channel: Old Broadcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ddQbUSTB_l0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ddQbUSTB_l0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Congressman Who Forced the Paper Trail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Congressman Who Forced the Paper Trail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Covers witness testimony and the evolution of the Roswell debate that framed the demand for official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness testimony and the evolution of the Roswell debate that framed the demand for official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Useful for understanding the evidentiary and records-based disputes surrounding the official investigations Schiff helped trigger.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding the evidentiary and records-based disputes surrounding the official investigations Schiff helped trigger.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides essential background to the controversy that ultimately prompted Steven Schiff&#x27;s records inquiries and the later GAO review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential background to the controversy that ultimately prompted Steven Schiff&#x27;s records inquiries and the later GAO review.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Explains the claims and evidence that led researchers and constituents to seek congressional attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the claims and evidence that led researchers and constituents to seek congressional attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1"><img src="{{ '/assets/images/marketplace-covers/d3eaaec8c4918077178f.jpg' | relative_url }}" alt="Listing image for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1"><img src="{{ '/assets/images/marketplace-covers/d3eaaec8c4918077178f.jpg' | relative_url }}" alt="Listing image for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40"><img src="{{ '/assets/images/marketplace-covers/680c97145281fe8dd9f6.jpg' | relative_url }}" alt="Listing image for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40"><img src="{{ '/assets/images/marketplace-covers/680c97145281fe8dd9f6.jpg' | relative_url }}" alt="Listing image for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="schiff-role-the-congressman-who-forced-the-paper-trail-roswell-ufo-crash-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ As a result, Schiff occupies a distinctive place in Roswell history. He neither 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ As a result, Schiff occupies a distinctive place in Roswell history. He neither 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ As a result, Schiff occupies a distinctive place in Roswell history. He neither 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ As a result, Schiff occupies a distinctive place in Roswell history. He neither 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ As a result, Schiff occupies a distinctive place in Roswell history. He neither 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,100 +731,100 @@ As a result, Schiff occupies a distinctive place in Roswell history. He neither 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: U.S. Department of War Government Records  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</p></details>
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</p></details>
    Published: March 24, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as t...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn May 30, 1995, the CIA&#x27;s Executive Director informed us that a sear...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOn May 30, 1995, the CIA&#x27;s Executive Director informed us that a sear...</p></details>
    Published: May 30, 1995  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: deseret.com  
-   Link: <a href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret News`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — Schiff said the GAO estimates the information was destroyed more th...</p></details>
+   Link:<a href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret News`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — Schiff said the GAO estimates the information was destroyed more th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;In July 1994, the Office of the Secretary of the Air Force concluded an...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;In July 1994, the Office of the Secretary of the Air Force concluded an...</p></details>
    Published: July 1994  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostGAO TURNS TO ALIEN TURF IN PROBE13 Jan 1994 — However, Schiff said, Archives officials told him they did not have the...</p></details>
+   Link:<a href="https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostGAO TURNS TO ALIEN TURF IN PROBE13 Jan 1994 — However, Schiff said, Archives officials told him they did not have the...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: geoff cruickshank a former australian intelligence official on what is inside th  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/geoff-cruickshank-a-former-australian-intelligence-official-on-what-is-inside-th/973701515036866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/geoff-cruickshank-a-former-australian-intelligence-official-on-what-is-inside-th/973701515036866/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force released “The Roswell Report: Case Closed.” The 231-page report debunks claims that an alien spacecraft...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/geoff-cruickshank-a-former-australian-intelligence-official-on-what-is-inside-th/973701515036866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/geoff-cruickshank-a-former-australian-intelligence-official-on-what-is-inside-th/973701515036866/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force released “The Roswell Report: Case Closed.” The 231-page report debunks claims that an alien spacecraft...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
    Title: The Roswell Report Fact vs Fiction in the New Mexico Desert  
-   Link: <a href="https://www.scribd.com/document/33094619/The-Roswell-Report-Fact-vs-Fiction-in-the-New-Mexico-Desert" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/33094619/The-Roswell-Report-Fact-vs-Fiction-in-the-New-Mexico-Desert</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact vs. Fiction 1994 | PDFThis report represents an effort to address the request made by Representative Steven H. Schif...</p></details>
+   Link:<a href="https://www.scribd.com/document/33094619/The-Roswell-Report-Fact-vs-Fiction-in-the-New-Mexico-Desert" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/33094619/The-Roswell-Report-Fact-vs-Fiction-in-the-New-Mexico-Desert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact vs. Fiction 1994 | PDFThis report represents an effort to address the request made by Representative Steven H. Schif...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; began as the result of...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTAir Force involvement in the alleged UFO-related incident popularly known as the &quot;Roswell Incident&quot; began as the result of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The [Roswell UFO Crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=eSoRHwKWRxM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eSoRHwKWRxM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Steven Schiff GAO Congressman Steven Schiff - The Accidental Whistleblower The Future Past...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eSoRHwKWRxM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eSoRHwKWRxM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Steven Schiff GAO Congressman Steven Schiff - The Accidental Whistleblower The Future Past...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Reel America: "The Roswell Reports"  
-   Link: <a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressman Steven Schiff Accuses Pentagon of Roswell Cover-Up...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congressman Steven Schiff Accuses Pentagon of Roswell Cover-Up...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentAfter metallic and rubber [debris](&amp;#123;&amp;#123; &#x27;debris/&#x27; | relative_url &amp;#125;&amp;#125;) was recovered by Roswell Army Air Field personnel, the United States Army Air Forces...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentAfter metallic and rubber [debris](&amp;#123;&amp;#123; &#x27;debris/&#x27; | relative_url &amp;#125;&amp;#125;) was recovered by Roswell Army Air Field personnel, the United States Army Air Forces...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Truth about Roswell: Decoding Decades of Deception  
-   Link: <a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reel America: &quot;The Roswell Reports&quot; - 1997 U.S. Air Force Film...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reel America: &quot;The Roswell Reports&quot; - 1997 U.S. Air Force Film...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Congressman Steven Schiff  
-   Link: <a href="https://www.youtube.com/watch?v=J0-itHJNgbY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J0-itHJNgbY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J0-itHJNgbY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J0-itHJNgbY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gutenberg.org  
    Title: 63659 h  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...In July 1994, the Office of the Secretary of the Air Force concluded an exhaustive...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...In July 1994, the Office of the Secretary of the Air Force concluded an exhaustive...</p></details>
    Published: July 1994  

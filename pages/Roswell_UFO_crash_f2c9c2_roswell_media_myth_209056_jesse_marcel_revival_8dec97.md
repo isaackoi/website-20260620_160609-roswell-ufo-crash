@@ -280,43 +280,43 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_m
 
 ## Introduction
 
-The modern Roswell story began not in 1947 but in 1978, when retired Army [Air Forces]({{ 'air-force/' | relative_url }}) intelligence officer Jesse Marcel gave a series of interviews that transformed a largely forgotten incident into one of the world's best-known UFO mysteries. Marcel had been involved in the original recovery of [debris]({{ 'debris/' | relative_url }}) near Roswell and, three decades later, told researcher Stanton Friedman that the material he handled was unlike anything he knew from military service. Those recollections became the foundation on which later books, documentaries and television programmes rebuilt Roswell as a story of crashed extraterrestrial technology and official concealment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — Marcel was the first military officer tasked with investigating the 1947 Roswell incident, where supposed &quot;flying disc&quot; de...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+The modern Roswell story began not in 1947 but in 1978, when retired Army [Air Forces]({{ 'air-force/' | relative_url }}) intelligence officer Jesse Marcel gave a series of interviews that transformed a largely forgotten incident into one of the world's best-known UFO mysteries. Marcel had been involved in the original recovery of [debris]({{ 'debris/' | relative_url }}) near Roswell and, three decades later, told researcher Stanton Friedman that the material he handled was unlike anything he knew from military service. Those recollections became the foundation on which later books, documentaries and television programmes rebuilt Roswell as a story of crashed extraterrestrial technology and official concealment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — Marcel was the first military officer tasked with investigating the 1947 Roswell incident, where supposed &quot;flying disc&quot; de...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_marcel_revival_8dec97-Illustration-1-dark.svg" | relative_url }}" alt="Marcel Revival illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_marcel_revival_8dec97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_marcel_revival_8dec97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What made Marcel's interviews so influential was not that they provided new physical evidence. Rather, they supplied a first-person witness from inside the military whose account appeared to challenge the official explanation. In the history of Roswell mythmaking, Marcel's [testimony]({{ 'testimony/' | relative_url }}) was the spark that reignited public interest and gave later authors a central character around whom to build a much larger narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Roswell Incident (1980 book</span><span class="citation-popover-snippet">The Roswell story gained significant attention in 1978 when retired lieutenant colonel Jesse Marcel... Alien bodies. edit · The Roswell...</span></span></span>
+What made Marcel's interviews so influential was not that they provided new physical evidence. Rather, they supplied a first-person witness from inside the military whose account appeared to challenge the official explanation. In the history of Roswell mythmaking, Marcel's [testimony]({{ 'testimony/' | relative_url }}) was the spark that reignited public interest and gave later authors a central character around whom to build a much larger narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Roswell Incident (1980 book</span><span class="citation-popover-snippet">The Roswell story gained significant attention in 1978 when retired lieutenant colonel Jesse Marcel... Alien bodies. edit · The Roswell...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_marcel_revival_8dec97-Illustration-3-dark.svg" | relative_url }}" alt="Marcel Revival illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_marcel_revival_8dec97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_marcel_revival_8dec97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Marcel Added Decades After 1947
 
-For more than thirty years after the original Roswell headlines, the incident occupied only a minor place in UFO literature. That changed when nuclear physicist and UFO investigator Stanton Friedman located and interviewed Marcel in 1978. During those conversations, Marcel stated that the debris he recovered in 1947 did not resemble ordinary balloon material and that he believed it was not of terrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — Marcel was the first military officer tasked with investigating the 1947 Roswell incident, where supposed &quot;flying disc&quot; de...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+For more than thirty years after the original Roswell headlines, the incident occupied only a minor place in UFO literature. That changed when nuclear physicist and UFO investigator Stanton Friedman located and interviewed Marcel in 1978. During those conversations, Marcel stated that the debris he recovered in 1947 did not resemble ordinary balloon material and that he believed it was not of terrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — Marcel was the first military officer tasked with investigating the 1947 Roswell incident, where supposed &quot;flying disc&quot; de...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 Several elements of Marcel's account became especially important:
 
 * He claimed the material possessed unusual physical properties.
 * He described lightweight debris that resisted damage.
 * He recalled strange markings on some pieces.
-* He argued that the material shown in widely published military photographs was not the same material he had originally recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2The Tattler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">roswell aliens fermi paradox</span><span class="citation-popover-snippet">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...Nov 14, 2023 — The Roswell Incident was largely built around testimony Fr...</span></span></span>
+* He argued that the material shown in widely published military photographs was not the same material he had originally recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">roswell aliens fermi paradox</span><span class="citation-popover-snippet">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...Nov 14, 2023 — The Roswell Incident was largely built around testimony Fr...</span></span></span>
 
-These claims introduced details that were largely absent from the public record in 1947. Later Roswell books repeatedly returned to Marcel's descriptions of unusual metal and mysterious symbols because they provided concrete imagery for readers. Instead of a vague dispute over debris, Roswell became a story populated with memorable objects that seemed to demand explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">roswell aliens fermi paradox</span><span class="citation-popover-snippet">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...Nov 14, 2023 — The Roswell Incident was largely built around testimony Fr...</span></span></span>
+These claims introduced details that were largely absent from the public record in 1947. Later Roswell books repeatedly returned to Marcel's descriptions of unusual metal and mysterious symbols because they provided concrete imagery for readers. Instead of a vague dispute over debris, Roswell became a story populated with memorable objects that seemed to demand explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">roswell aliens fermi paradox</span><span class="citation-popover-snippet">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...Nov 14, 2023 — The Roswell Incident was largely built around testimony Fr...</span></span></span>
 
-Equally important was timing. By the late 1970s, UFO culture had already absorbed decades of stories about flying saucers, government secrecy and recovered alien technology. Marcel's memories therefore entered a public environment far more receptive to such interpretations than the one that existed in 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/roswell-the-first-witness-history-channel.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">roswell the first witness history channel</span><span class="citation-popover-snippet">It&#x27;s the origin story of the UFO, the prospect of a government cover-up for alien...Read more...</span></span></span>
+Equally important was timing. By the late 1970s, UFO culture had already absorbed decades of stories about flying saucers, government secrecy and recovered alien technology. Marcel's memories therefore entered a public environment far more receptive to such interpretations than the one that existed in 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/roswell-the-first-witness-history-channel.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">roswell the first witness history channel</span><span class="citation-popover-snippet">It&#x27;s the origin story of the UFO, the prospect of a government cover-up for alien...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c87U_QspFeA" title="The Roswell Legacy: The Untold Story of the… by Jesse Marcel, Jr. · Audiobook preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c87U_QspFeA" target="_blank" rel="noopener noreferrer">The Roswell Legacy: The Untold Story of the… by Jesse Marcel, Jr. · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c87U_QspFeA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c87U_QspFeA">Open on YouTube</a></p></div></div></div>
 
 ## Why His Intelligence-Officer Status Carried Weight
 
-Many Roswell witnesses emerged over the years, but Marcel occupied a unique position. He was not presented as a casual observer. He had served as the intelligence officer at Roswell Army Air Field and was among the first military personnel involved in examining the debris. That background gave his statements an authority that later writers emphasised repeatedly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">intelligence agents investigate ufos roswell 7 jul 1947</span><span class="citation-popover-snippet">Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</span></span></span>
+Many Roswell witnesses emerged over the years, but Marcel occupied a unique position. He was not presented as a casual observer. He had served as the intelligence officer at Roswell Army Air Field and was among the first military personnel involved in examining the debris. That background gave his statements an authority that later writers emphasised repeatedly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">intelligence agents investigate ufos roswell 7 jul 1947</span><span class="citation-popover-snippet">Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</span></span></span>
 
 For supporters of the extraterrestrial interpretation, Marcel's credentials offered two advantages.
 
-First, he could be portrayed as someone familiar with military equipment, balloons and aircraft materials. If such a person said the debris seemed unusual, the claim appeared more significant than if it had come from an uninformed civilian. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16rez12/new_jesse_marcel_interview_released/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">New Jesse Marcel interview released: r/UFOs</span><span class="citation-popover-snippet">New Jesse Marcel interview released: r/UFOsSeptember 25, 2023 — Just saw a tweet that the National Archives (.gov) just released t...</span><span class="citation-popover-meta">Published: September 25, 2023</span></span></span>
+First, he could be portrayed as someone familiar with military equipment, balloons and aircraft materials. If such a person said the debris seemed unusual, the claim appeared more significant than if it had come from an uninformed civilian.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16rez12/new_jesse_marcel_interview_released/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">New Jesse Marcel interview released: r/UFOs</span><span class="citation-popover-snippet">New Jesse Marcel interview released: r/UFOsSeptember 25, 2023 — Just saw a tweet that the National Archives (.gov) just released t...</span><span class="citation-popover-meta">Published: September 25, 2023</span></span></span>
 
-Second, his role allowed authors to frame Roswell as an insider account. The story no longer depended solely on rumours from outside the military. Instead, it centred on a former intelligence officer who said that the official explanation did not match his experience. That contrast between insider testimony and official statements became one of the defining themes of Roswell literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">did aliens really land</span><span class="citation-popover-snippet">TimeDID ALIENS REALLY LAND?22 Jun 1997 — After quizzing Marcel, who still believed the debris he retrieved was extraterrestrial, Friedman...</span></span></span>
+Second, his role allowed authors to frame Roswell as an insider account. The story no longer depended solely on rumours from outside the military. Instead, it centred on a former intelligence officer who said that the official explanation did not match his experience. That contrast between insider testimony and official statements became one of the defining themes of Roswell literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">did aliens really land</span><span class="citation-popover-snippet">TimeDID ALIENS REALLY LAND?22 Jun 1997 — After quizzing Marcel, who still believed the debris he retrieved was extraterrestrial, Friedman...</span></span></span>
 
-Critics, however, have noted that Marcel's recollections were being recorded more than thirty years after the event and that aspects of Roswell testimony evolved over time. Skeptical analyses and later Air Force investigations argued that memory, retelling and the classified nature of [Cold War]({{ 'cold-war/' | relative_url }}) projects offered more ordinary explanations for discrepancies in witness accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</span></span></span>
+Critics, however, have noted that Marcel's recollections were being recorded more than thirty years after the event and that aspects of Roswell testimony evolved over time. Skeptical analyses and later Air Force investigations argued that memory, retelling and the classified nature of [Cold War]({{ 'cold-war/' | relative_url }}) projects offered more ordinary explanations for discrepancies in witness accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_marcel_revival_8dec97-Illustration-2-dark.svg" | relative_url }}" alt="Marcel Revival illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_marcel_revival_8dec97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_jesse_marcel_revival_8dec97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -324,9 +324,9 @@ Critics, however, have noted that Marcel's recollections were being recorded mor
 
 Marcel's interviews did not remain isolated oral history. They quickly became the cornerstone of a publishing and media revival.
 
-Researcher Stanton Friedman used Marcel's testimony as a starting point for further witness searches. That effort helped shape the 1980 book *The Roswell Incident* by Charles Berlitz and William Moore. The book presented Roswell not as a brief misunderstanding but as a hidden story involving extraordinary debris and a government cover-up. Marcel's recollections served as its central evidential anchor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Roswell Incident (1980 book</span><span class="citation-popover-snippet">The Roswell story gained significant attention in 1978 when retired lieutenant colonel Jesse Marcel... Alien bodies. edit · The Roswell...</span></span></span>
+Researcher Stanton Friedman used Marcel's testimony as a starting point for further witness searches. That effort helped shape the 1980 book *The Roswell Incident* by Charles Berlitz and William Moore. The book presented Roswell not as a brief misunderstanding but as a hidden story involving extraordinary debris and a government cover-up. Marcel's recollections served as its central evidential anchor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Roswell Incident (1980 book</span><span class="citation-popover-snippet">The Roswell story gained significant attention in 1978 when retired lieutenant colonel Jesse Marcel... Alien bodies. edit · The Roswell...</span></span></span>
 
-Once the book reached a mass audience, Marcel's story spread far beyond UFO research circles. Journalists interviewed him, magazines published his recollections, and television producers found in him a compelling witness who could speak directly about the event. Public fascination grew because viewers could now see and hear a participant rather than simply read second-hand summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14zx7a4/every_wonder_how_the_roswell_story_first_broke_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Every wonder how the Roswell Story first broke to the public?</span><span class="citation-popover-snippet">Every wonder how the Roswell Story first broke to the public?July 15, 2023 — Article in the National Enquirer Feb 26, 1980...</span><span class="citation-popover-meta">Published: July 15, 2023</span></span></span>
+Once the book reached a mass audience, Marcel's story spread far beyond UFO research circles. Journalists interviewed him, magazines published his recollections, and television producers found in him a compelling witness who could speak directly about the event. Public fascination grew because viewers could now see and hear a participant rather than simply read second-hand summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14zx7a4/every_wonder_how_the_roswell_story_first_broke_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Every wonder how the Roswell Story first broke to the public?</span><span class="citation-popover-snippet">Every wonder how the Roswell Story first broke to the public?July 15, 2023 — Article in the National Enquirer Feb 26, 1980...</span><span class="citation-popover-meta">Published: July 15, 2023</span></span></span>
 
 The process created a feedback loop:
 
@@ -358,194 +358,194 @@ His testimony supplied a narrative structure that books and television could eas
 As a result, Jesse Marcel became more than a witness. He became the pivotal figure through whom Roswell moved from an obscure 1947 incident into a continuing media phenomenon, ensuring that the mystery remained a recurring subject of books, documentaries and television for decades afterward. [Wikipedia+2LinkedIn](https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Jesse Marcel Restarted the Roswell Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Jesse Marcel Restarted the Roswell Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Closely tied to the Marcel revival era and Roswell reinvestigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely tied to the Marcel revival era and Roswell reinvestigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Builds heavily on witness testimony and Roswell memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds heavily on witness testimony and Roswell memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Marcel&#x27;s later recollections were central to its influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Marcel&#x27;s later recollections were central to its influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Further developed Marcel&#x27;s role as a key witness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Further developed Marcel&#x27;s role as a key witness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC"><img src="{{ '/assets/images/marketplace-covers/596a26a8e3477c349659.jpg' | relative_url }}" alt="Listing image for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC"><img src="{{ '/assets/images/marketplace-covers/596a26a8e3477c349659.jpg' | relative_url }}" alt="Listing image for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="{{ '/assets/images/marketplace-covers/6865112b86c68fe7b87d.jpg' | relative_url }}" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="{{ '/assets/images/marketplace-covers/6865112b86c68fe7b87d.jpg' | relative_url }}" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash"><img src="{{ '/assets/images/marketplace-covers/857135e26b0f86a73f55.jpg' | relative_url }}" alt="Listing image for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash"><img src="{{ '/assets/images/marketplace-covers/857135e26b0f86a73f55.jpg' | relative_url }}" alt="Listing image for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P"><img src="{{ '/assets/images/marketplace-covers/e6d3a6ed324d34756816.jpg' | relative_url }}" alt="Listing image for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P"><img src="{{ '/assets/images/marketplace-covers/e6d3a6ed324d34756816.jpg' | relative_url }}" alt="Listing image for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="marcel-revival-why-jesse-marcel-restarted-the-roswell-story-roswell-ufo-crash-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ As a result, Jesse Marcel became more than a witness. He became the pivotal figu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ As a result, Jesse Marcel became more than a witness. He became the pivotal figu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ As a result, Jesse Marcel became more than a witness. He became the pivotal figu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ As a result, Jesse Marcel became more than a witness. He became the pivotal figu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ As a result, Jesse Marcel became more than a witness. He became the pivotal figu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,172 +751,172 @@ As a result, Jesse Marcel became more than a witness. He became the pivotal figu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Jesse Marcel  
-   Link: <a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2026 — Marcel was the first military officer tasked with investigating the 1947 Roswell incident, where supposed &quot;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; de...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2026 — Marcel was the first military officer tasked with investigating the 1947 Roswell incident, where supposed &quot;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; de...</p></details>
    Published: May 10, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Roswell Incident (1980 book)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell story gained significant attention in 1978 when retired lieutenant colonel Jesse Marcel... Alien bodies. edit · The Roswell...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell story gained significant attention in 1978 when retired lieutenant colonel Jesse Marcel... Alien bodies. edit · The Roswell...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: roswell aliens fermi paradox  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...Nov 14, 2023 — The Roswell Incident was largely built around testimony Fr...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...Nov 14, 2023 — The Roswell Incident was largely built around testimony Fr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
-   Link: <a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: New Jesse Marcel interview released: r/UFOs  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16rez12/new_jesse_marcel_interview_released/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16rez12/new_jesse_marcel_interview_released/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jesse Marcel interview released: r/UFOsSeptember 25, 2023 — Just saw a tweet that the National Archives (.gov) just released t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16rez12/new_jesse_marcel_interview_released/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16rez12/new_jesse_marcel_interview_released/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Jesse Marcel interview released: r/UFOsSeptember 25, 2023 — Just saw a tweet that the National Archives (.gov) just released t...</p></details>
    Published: September 25, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: Every wonder how the Roswell Story first broke to the public?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14zx7a4/every_wonder_how_the_roswell_story_first_broke_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14zx7a4/every_wonder_how_the_roswell_story_first_broke_to/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Every wonder how the Roswell Story first broke to the public?July 15, 2023 — Article in the National Enquirer Feb 26, 1980...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14zx7a4/every_wonder_how_the_roswell_story_first_broke_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14zx7a4/every_wonder_how_the_roswell_story_first_broke_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every wonder how the Roswell Story first broke to the public?July 15, 2023 — Article in the National Enquirer Feb 26, 1980...</p></details>
    Published: July 15, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s one of history&#x27;s most famous conspiracies... did aliens...Interest in Roswell was rekindled after ufologist Stanton Friedma...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s one of history&#x27;s most famous conspiracies... did aliens...Interest in Roswell was rekindled after ufologist Stanton Friedma...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
    Title: how 1978 conversation revived roswell ufo story linked condhesc i3nwf  
-   Link: <a href="https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a 1978 conversation revived the Roswell UFO story...The 1978 meeting between Jesse Marcel and Stanton Friedman reignited a global co...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a 1978 conversation revived the Roswell UFO story...The 1978 meeting between Jesse Marcel and Stanton Friedman reignited a global co...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he good thing is that he admits this. You decide if you believe him...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ahwuqt/jesse_marcel_was_told_to_lie_about_the_roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he good thing is that he admits this. You decide if you believe him...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: Going back to Roswell in light of disclosure  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major Jesse...Major Jesse Marcel&#x27;s testimony and discussion: r/UFOs... Major Jesse Marcel with debris from [Roswell UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;). 1947 · r...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Jesse...Major Jesse Marcel&#x27;s testimony and discussion: r/UFOs... Major Jesse Marcel with debris from [Roswell UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;). 1947 · r...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: Who recovered the roswell  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/107u2a7/is_stanton_friedmans_interview_with_jesse_marcel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/107u2a7/is_stanton_friedmans_interview_with_jesse_marcel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is Stanton Friedmans interview with Jesse marcel recorded...So I&#x27;m only recently becoming interested in the ufo phenomenon, and apparent...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/107u2a7/is_stanton_friedmans_interview_with_jesse_marcel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/107u2a7/is_stanton_friedmans_interview_with_jesse_marcel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is Stanton Friedmans interview with Jesse marcel recorded...So I&#x27;m only recently becoming interested in the ufo phenomenon, and apparent...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/in-1947-major-jesse-marcel-was-photographed-examining-debris-recovered-from-the-/913668918319197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/in-1947-major-jesse-marcel-was-photographed-examining-debris-recovered-from-the-/913668918319197/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1947, Major Jesse Marcel was photographed examining...Major Marcel was the field&#x27;s intelligence officer and the only person known to...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/in-1947-major-jesse-marcel-was-photographed-examining-debris-recovered-from-the-/913668918319197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/in-1947-major-jesse-marcel-was-photographed-examining-debris-recovered-from-the-/913668918319197/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1947, Major Jesse Marcel was photographed examining...Major Marcel was the field&#x27;s intelligence officer and the only person known to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: time.com  
    Title: roswell history  
-   Link: <a href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3916193/roswell-history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Aliens in Roswell, New Mexico7 Jul 2015 — Marcel was convinced that Brazel stumbled upon nothing less than the remains of a flyi...</p></details>
+   Link:<a href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3916193/roswell-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Aliens in Roswell, New Mexico7 Jul 2015 — Marcel was convinced that Brazel stumbled upon nothing less than the remains of a flyi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ihstattler.com  
    Title: from the archives excerpts from the tattler issues of yesteryear 6  
-   Link: <a href="https://ihstattler.com/blog/2023/06/from-the-archives-excerpts-from-the-tattler-issues-of-yesteryear-6/" target="_blank" rel="noopener noreferrer nofollow">https://ihstattler.com/blog/2023/06/from-the-archives-excerpts-from-the-tattler-issues-of-yesteryear-6/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Archives: Excerpts from The Tattler Issues of...In 1978, Major Jesse Marcel, Intelligence Officer from the Roswell Army Air Fie...</p></details>
+   Link:<a href="https://ihstattler.com/blog/2023/06/from-the-archives-excerpts-from-the-tattler-issues-of-yesteryear-6/" target="_blank" rel="noopener noreferrer nofollow">https://ihstattler.com/blog/2023/06/from-the-archives-excerpts-from-the-tattler-issues-of-yesteryear-6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the Archives: Excerpts from The Tattler Issues of...In 1978, Major Jesse Marcel, Intelligence Officer from the Roswell Army Air Fie...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: livescience.com  
    Title: roswell the first witness history channel  
-   Link: <a href="https://www.livescience.com/roswell-the-first-witness-history-channel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/roswell-the-first-witness-history-channel.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;It&#x27;s the origin story of the UFO, the prospect of a government cover-up for alien...Read more...</p></details>
+   Link:<a href="https://www.livescience.com/roswell-the-first-witness-history-channel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/roswell-the-first-witness-history-channel.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;It&#x27;s the origin story of the UFO, the prospect of a government cover-up for alien...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman, William [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;), and the team of Kevin D. Randle and Donald R. Schmitt interviewed...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman, William [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;), and the team of Kevin D. Randle and Donald R. Schmitt interviewed...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Changed Roswell, Even Without Proof24 Feb 2005 — Jesse Marcel, the intelligence officer at the Army air base in Roswell, went to i...</p></details>
+   Link:<a href="https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Changed Roswell, Even Without Proof24 Feb 2005 — Jesse Marcel, the intelligence officer at the Army air base in Roswell, went to i...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: degruyterbrill.com  
-   Link: <a href="https://www.degruyterbrill.com/document/doi/10.12987/9780300132946-007/html?srsltid=AfmBOopwbDRSV2L8BFgrgYSWADc109K7totslLKMeYcrAfEm4GDWLOCY" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.12987/9780300132946-007/html?srsltid=AfmBOopwbDRSV2L8BFgrgYSWADc109K7totslLKMeYcrAfEm4GDWLOCY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 6. The Roswell IncidentJesse Marcel,the Roswell Army Air Field intelligence officer who had played... Jesse Marcel,they asked, h...</p></details>
+   Link:<a href="https://www.degruyterbrill.com/document/doi/10.12987/9780300132946-007/html?srsltid=AfmBOopwbDRSV2L8BFgrgYSWADc109K7totslLKMeYcrAfEm4GDWLOCY" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.12987/9780300132946-007/html?srsltid=AfmBOopwbDRSV2L8BFgrgYSWADc109K7totslLKMeYcrAfEm4GDWLOCY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 6. The Roswell IncidentJesse Marcel,the Roswell Army Air Field intelligence officer who had played... Jesse Marcel,they asked, h...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt31455007/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31455007/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel...MASHUP - Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel: The Roswell UFO Cr...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt31455007/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31455007/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel...MASHUP - Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel: The Roswell UFO Cr...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/detail/video/united-states-interview-with-jesse-marcel-about-the-news-footage/2240250716" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/detail/video/united-states-interview-with-jesse-marcel-about-the-news-footage/2240250716</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>estrial Origin. United States - Circa 1994: Interview with Jesse...</p></details>
+   Link:<a href="https://www.gettyimages.com/detail/video/united-states-interview-with-jesse-marcel-about-the-news-footage/2240250716" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/detail/video/united-states-interview-with-jesse-marcel-about-the-news-footage/2240250716</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>estrial Origin. United States - Circa 1994: Interview with Jesse...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ciphermysteries.com  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?Jan 15, 2026 — Jesse Marcel also features heavily, saying the mysterious material...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?Jan 15, 2026 — Jesse Marcel also features heavily, saying the mysterious material...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oXc5g0vqnVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oXc5g0vqnVI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Roswell (UFO Festival) &amp; Bottomless Lakes Adventure![https://www.youtube.com/watch?v=PWexOU1_zQs...&quot;](https://www.youtube.com/watch?v=PWexOU1_zQs...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oXc5g0vqnVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oXc5g0vqnVI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Roswell (UFO Festival) &amp; Bottomless Lakes Adventure![https://www.youtube.com/watch?v=PWexOU1_zQs...&quot;](https://www.youtube.com/watch?v=PWexOU1_zQs...&quot;)...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tjhs.dpsk12.org  
    Title: the unsolved facade of roswell  
-   Link: <a href="https://tjhs.dpsk12.org/the-unsolved-facade-of-roswell/" target="_blank" rel="noopener noreferrer nofollow">https://tjhs.dpsk12.org/the-unsolved-facade-of-roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Facade Of Roswell4 Dec 2019 — That is until 1978, when UFO researcher and nuclear physicist Stanton Friedman, interviewed now re...</p></details>
+   Link:<a href="https://tjhs.dpsk12.org/the-unsolved-facade-of-roswell/" target="_blank" rel="noopener noreferrer nofollow">https://tjhs.dpsk12.org/the-unsolved-facade-of-roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Facade Of Roswell4 Dec 2019 — That is until 1978, when UFO researcher and nuclear physicist Stanton Friedman, interviewed now re...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
    Title: roswell jesse marcel dies  
-   Link: <a href="https://www.theguardian.com/world/2013/aug/28/roswell-jesse-marcel-dies" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/aug/28/roswell-jesse-marcel-dies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell author who said he handled UFO crash debris...28 Aug 2013 — Jesse Marcel Jr, who said he handled debris from the 1947 crash of a...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2013/aug/28/roswell-jesse-marcel-dies" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/aug/28/roswell-jesse-marcel-dies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell author who said he handled UFO crash debris...28 Aug 2013 — Jesse Marcel Jr, who said he handled debris from the 1947 crash of a...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: area51aliencenter.net  
    Title: roswell incident part 2  
-   Link: <a href="https://area51aliencenter.net/investigations/roswell-incident-part-2/" target="_blank" rel="noopener noreferrer nofollow">https://area51aliencenter.net/investigations/roswell-incident-part-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident: Part 2May 13, 2022 — In February 1978, decades after the events of the Roswell Crash, a UFO researcher named Stanton Fr...</p></details>
+   Link:<a href="https://area51aliencenter.net/investigations/roswell-incident-part-2/" target="_blank" rel="noopener noreferrer nofollow">https://area51aliencenter.net/investigations/roswell-incident-part-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident: Part 2May 13, 2022 — In February 1978, decades after the events of the Roswell Crash, a UFO researcher named Stanton Fr...</p></details>
    Published: May 13, 2022  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=c87U_QspFeA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c87U_QspFeA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for the 509th Bomber Group 7045 Duration: 5 hr, 4 min...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c87U_QspFeA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c87U_QspFeA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for the 509th Bomber Group 7045 Duration: 5 hr, 4 min...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding theJul 21, 1994 — In this book they reported they interviewed a number of persons who claimed to h...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding theJul 21, 1994 — In this book they reported they interviewed a number of persons who claimed to h...</p></details>

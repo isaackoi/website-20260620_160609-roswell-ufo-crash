@@ -280,17 +280,17 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_a
 
 ## Introduction
 
-Few images shaped the modern Roswell legend more powerfully than the supposed alien autopsy footage first broadcast in 1995. For decades, Roswell had been sustained largely through witness accounts, books and competing interpretations of military [records]({{ 'records/' | relative_url }}). The autopsy film changed that dynamic by giving audiences something seemingly concrete to watch: a grainy black-and-white sequence showing figures in protective clothing dissecting a humanoid body. Even though the footage was later exposed as a fabrication, its visual impact became one of the most recognisable symbols associated with Roswell. The case demonstrates how memorable imagery can influence public belief and cultural memory long after questions about authenticity have been resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
+Few images shaped the modern Roswell legend more powerfully than the supposed alien autopsy footage first broadcast in 1995. For decades, Roswell had been sustained largely through witness accounts, books and competing interpretations of military [records]({{ 'records/' | relative_url }}). The autopsy film changed that dynamic by giving audiences something seemingly concrete to watch: a grainy black-and-white sequence showing figures in protective clothing dissecting a humanoid body. Even though the footage was later exposed as a fabrication, its visual impact became one of the most recognisable symbols associated with Roswell. The case demonstrates how memorable imagery can influence public belief and cultural memory long after questions about authenticity have been resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-1-dark.svg" | relative_url }}" alt="Alien Autopsy illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the autopsy image spread so widely
 
-The success of the autopsy footage rested on more than claims about extraterrestrials. It arrived at a moment when television audiences were highly receptive to paranormal subjects. Programmes such as *The X-Files* had popularised government-conspiracy narratives, while UFO culture was increasingly mainstream. Into that environment came a short, mysterious film that appeared to offer visual proof rather than [testimony]({{ 'testimony/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
+The success of the autopsy footage rested on more than claims about extraterrestrials. It arrived at a moment when television audiences were highly receptive to paranormal subjects. Programmes such as *The X-Files* had popularised government-conspiracy narratives, while UFO culture was increasingly mainstream. Into that environment came a short, mysterious film that appeared to offer visual proof rather than [testimony]({{ 'testimony/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
 
-Producer Ray Santilli claimed he had obtained film shot by a military cameraman after the alleged Roswell crash. The footage showed a medical examination of a strange humanoid body on what appeared to be a military operating table. Its low image quality, rather than weakening its appeal, actually helped many viewers perceive it as authentic. Grainy film stock concealed details that might otherwise have exposed the special effects and encouraged audiences to fill in the gaps themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
+Producer Ray Santilli claimed he had obtained film shot by a military cameraman after the alleged Roswell crash. The footage showed a medical examination of a strange humanoid body on what appeared to be a military operating table. Its low image quality, rather than weakening its appeal, actually helped many viewers perceive it as authentic. Grainy film stock concealed details that might otherwise have exposed the special effects and encouraged audiences to fill in the gaps themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
 
-The imagery quickly escaped the confines of UFO enthusiasts. Newspapers, television specials, magazines and talk shows reproduced still frames of the bulbous-headed figure. Even people who knew little about Roswell could recognise the image. In cultural terms, the autopsy scenes became a visual shorthand for the entire Roswell story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/news/39373555/grainy-alien-autopsy-vid-stoked-roswell-ufo-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-title">grainy alien autopsy vid stoked roswell ufo conspiracy</span><span class="citation-popover-snippet">British producers Ray Santilli and Gary Schofield claimed to have acquired the footage from a former U.S. Army Air Force cameraman. The f...</span></span></span>
+The imagery quickly escaped the confines of UFO enthusiasts. Newspapers, television specials, magazines and talk shows reproduced still frames of the bulbous-headed figure. Even people who knew little about Roswell could recognise the image. In cultural terms, the autopsy scenes became a visual shorthand for the entire Roswell story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/news/39373555/grainy-alien-autopsy-vid-stoked-roswell-ufo-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-title">grainy alien autopsy vid stoked roswell ufo conspiracy</span><span class="citation-popover-snippet">British producers Ray Santilli and Gary Schofield claimed to have acquired the footage from a former U.S. Army Air Force cameraman. The f...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nrLVpWBxHRA" title="Ross Coulthart weighs in on ‘Roswell Incident’ video | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer">Ross Coulthart weighs in on ‘Roswell Incident’ video | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 343.3K &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nrLVpWBxHRA">Open on YouTube</a></p></div></div></div>
@@ -299,13 +299,13 @@ The imagery quickly escaped the confines of UFO enthusiasts. Newspapers, televis
 
 Before 1995, Roswell imagery was relatively limited. Most visual representations relied on artists' impressions, photographs of [debris]({{ 'debris/' | relative_url }}) fields, or reconstructed scenes created for books and documentaries. The autopsy film supplied something different: a single image that could be replayed endlessly and detached from its original context.
 
-The operating-room setting, the silent medical procedures and the strange anatomy of the body created an instantly recognisable icon. Whether viewers believed it or not, the image gave Roswell a face. That mattered because visual memory often proves more durable than textual argument. Many people who could not recall the details of witness testimony could still remember the autopsy table and the humanoid figure lying upon it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
+The operating-room setting, the silent medical procedures and the strange anatomy of the body created an instantly recognisable icon. Whether viewers believed it or not, the image gave Roswell a face. That mattered because visual memory often proves more durable than textual argument. Many people who could not recall the details of witness testimony could still remember the autopsy table and the humanoid figure lying upon it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
 
 ## How Fox packaged fact-or-fiction uncertainty
 
-A crucial reason for the footage's influence was the way it was presented. In the United States, Fox aired a prime-time special titled *Alien Autopsy: Fact or Fiction?*, hosted by Jonathan Frakes. The programme adopted a format that neither fully endorsed nor definitively rejected the footage. Instead, it framed the question as an open investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=VTrIGyKxMCw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Alien Autopsy: Fact or Fiction? (1995) - Official TrailerFOX Network television special investigating The Alien Autopsy footage th...</span></span></span>
+A crucial reason for the footage's influence was the way it was presented. In the United States, Fox aired a prime-time special titled *Alien Autopsy: Fact or Fiction?*, hosted by Jonathan Frakes. The programme adopted a format that neither fully endorsed nor definitively rejected the footage. Instead, it framed the question as an open investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=VTrIGyKxMCw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Alien Autopsy: Fact or Fiction? (1995) - Official TrailerFOX Network television special investigating The Alien Autopsy footage th...</span></span></span>
 
-This approach created a powerful ambiguity. Experts appeared on screen, evidence was discussed, and viewers were encouraged to decide for themselves. Critics later argued that sceptical assessments were sometimes downplayed or presented alongside speculative claims in ways that suggested a more evenly balanced debate than actually existed. *Time* reported that some specialists who considered the film obviously fraudulent felt their conclusions were not clearly conveyed in the final programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6728224/autopsy-or-fraud-topsy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">autopsy or fraud topsy</span><span class="citation-popover-snippet">AUTOPSY OR FRAUD-TOPSY?26 Nov 1995 Randle believes that extraterrestrials did land there but that the alien-autopsy film is a hoax...</span></span></span>
+This approach created a powerful ambiguity. Experts appeared on screen, evidence was discussed, and viewers were encouraged to decide for themselves. Critics later argued that sceptical assessments were sometimes downplayed or presented alongside speculative claims in ways that suggested a more evenly balanced debate than actually existed. *Time* reported that some specialists who considered the film obviously fraudulent felt their conclusions were not clearly conveyed in the final programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6728224/autopsy-or-fraud-topsy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">autopsy or fraud topsy</span><span class="citation-popover-snippet">AUTOPSY OR FRAUD-TOPSY?26 Nov 1995 Randle believes that extraterrestrials did land there but that the alien-autopsy film is a hoax...</span></span></span>
 
 The programme's title itself was part of the strategy. By asking Fact or Fiction? rather than declaring a conclusion, the broadcast transformed uncertainty into entertainment. The question became more memorable than the evidence.
 
@@ -313,7 +313,7 @@ The programme's title itself was part of the strategy. By asking Fact or Fiction
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-2-dark.svg" | relative_url }}" alt="Alien Autopsy illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Television's visual advantage
 
-Books can describe a mystery, but television can repeatedly show it. Every replay of the autopsy sequence reinforced its place in public consciousness. Promotional trailers, news coverage and later documentaries frequently reused the same images, ensuring that the footage remained visible even as debates about authenticity continued. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=VTrIGyKxMCw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Alien Autopsy: Fact or Fiction? (1995) - Official TrailerFOX Network television special investigating The Alien Autopsy footage th...</span></span></span>
+Books can describe a mystery, but television can repeatedly show it. Every replay of the autopsy sequence reinforced its place in public consciousness. Promotional trailers, news coverage and later documentaries frequently reused the same images, ensuring that the footage remained visible even as debates about authenticity continued.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=VTrIGyKxMCw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Alien Autopsy: Fact or Fiction? (1995) - Official TrailerFOX Network television special investigating The Alien Autopsy footage th...</span></span></span>
 
 As a result, the autopsy film functioned less as evidence than as a cultural artefact. Its significance came not from what it proved but from how often it was seen.
 
@@ -321,16 +321,16 @@ As a result, the autopsy film functioned less as evidence than as a cultural art
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-3-dark.svg" | relative_url }}" alt="Alien Autopsy illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_media_myth_209056_alien_autopsy_imager_db15b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why debunked footage still affected the legend
 
-The most revealing aspect of the alien-autopsy story is that its influence survived its debunking. Investigations eventually identified the footage as a staged production created in London using a fabricated alien body and practical effects. In 2006, Santilli acknowledged that the film released in 1995 was not authentic footage, although he continued to argue that it had been based on supposedly genuine material that had deteriorated. Independent investigators and participants connected with the production described it as a reconstruction or outright hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien Autopsy (1995 film</span><span class="citation-popover-snippet">Multiple participants in Alien Autopsy stated that misleading editing had removed their opinions that the footage was a hoax.... Santill...</span></span></span>
+The most revealing aspect of the alien-autopsy story is that its influence survived its debunking. Investigations eventually identified the footage as a staged production created in London using a fabricated alien body and practical effects. In 2006, Santilli acknowledged that the film released in 1995 was not authentic footage, although he continued to argue that it had been based on supposedly genuine material that had deteriorated. Independent investigators and participants connected with the production described it as a reconstruction or outright hoax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien Autopsy (1995 film</span><span class="citation-popover-snippet">Multiple participants in Alien Autopsy stated that misleading editing had removed their opinions that the footage was a hoax.... Santill...</span></span></span>
 
-Subsequent reporting and legal testimony provided further details. Accounts from participants described a manufactured alien model, improvised set construction and the use of animal organs and other materials to create convincing internal anatomy. More recent documentary investigations and court proceedings have reinforced the conclusion that the released film was staged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theweek.com/culture-life/tv-radio/the-alien-autopsy-scandal-spinal-tap-territory-but-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[The Week+2The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-title">The Week The Alien Autopsy Scandal: &#x27;Spinal Tap territory</span><span class="citation-popover-snippet">First aired on television, the black-and-white video captivated global audiences, earning an estimated one billion views. The new miniser...</span></span></span>
+Subsequent reporting and legal testimony provided further details. Accounts from participants described a manufactured alien model, improvised set construction and the use of animal organs and other materials to create convincing internal anatomy. More recent documentary investigations and court proceedings have reinforced the conclusion that the released film was staged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theweek.com/culture-life/tv-radio/the-alien-autopsy-scandal-spinal-tap-territory-but-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[theweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-title">The Week The Alien Autopsy Scandal: &#x27;Spinal Tap territory</span><span class="citation-popover-snippet">First aired on television, the black-and-white video captivated global audiences, earning an estimated one billion views. The new miniser...</span></span></span>
 
 Yet exposing the fabrication did not erase its cultural effect. Several factors explain why:
 
-* **The image arrived before the debunking.** Millions saw the footage long before detailed investigations became widely known. First impressions proved difficult to reverse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
-* **The debunking became part of the story.** Rather than ending discussion, revelations about the hoax generated new debates over whether the film had copied genuine lost footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/postmortem-on-alien-autopsy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">postmortem on alien autopsy</span><span class="citation-popover-snippet">Skeptical InquirerPostmortem on &#x27;Alien Autopsy&#x27;1 Jun 2006 Santilli now claims the 1995 film was a recreation of genuine footage that be...</span></span></span>
-* **Visual symbols outlast factual corrections.** The image of an alien on an examination table remained useful to filmmakers, television producers and publishers even after its authenticity collapsed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theweek.com/culture-life/tv-radio/the-alien-autopsy-scandal-spinal-tap-territory-but-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-title">The Week The Alien Autopsy Scandal: &#x27;Spinal Tap territory</span><span class="citation-popover-snippet">First aired on television, the black-and-white video captivated global audiences, earning an estimated one billion views. The new miniser...</span></span></span>
-* **Roswell mythology thrives on uncertainty.** For believers, the exposure of one false piece of evidence did not necessarily invalidate broader claims about Roswell. The autopsy became one disputed episode within a much larger narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">sy hoax film. After the success of The X...</span></span></span>
+* **The image arrived before the debunking.** Millions saw the footage long before detailed investigations became widely known. First impressions proved difficult to reverse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
+* **The debunking became part of the story.** Rather than ending discussion, revelations about the hoax generated new debates over whether the film had copied genuine lost footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/postmortem-on-alien-autopsy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">postmortem on alien autopsy</span><span class="citation-popover-snippet">Skeptical InquirerPostmortem on &#x27;Alien Autopsy&#x27;1 Jun 2006 Santilli now claims the 1995 film was a recreation of genuine footage that be...</span></span></span>
+* **Visual symbols outlast factual corrections.** The image of an alien on an examination table remained useful to filmmakers, television producers and publishers even after its authenticity collapsed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theweek.com/culture-life/tv-radio/the-alien-autopsy-scandal-spinal-tap-territory-but-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-title">The Week The Alien Autopsy Scandal: &#x27;Spinal Tap territory</span><span class="citation-popover-snippet">First aired on television, the black-and-white video captivated global audiences, earning an estimated one billion views. The new miniser...</span></span></span>
+* **Roswell mythology thrives on uncertainty.** For believers, the exposure of one false piece of evidence did not necessarily invalidate broader claims about Roswell. The autopsy became one disputed episode within a much larger narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">sy hoax film. After the success of The X...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LdBu36XkQLw" title="The Roswell Incident That Shocked the World (S1) | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer">The Roswell Incident That Shocked the World (S1) | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 20.8K &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LdBu36XkQLw">Open on YouTube</a></p></div></div></div>
@@ -339,201 +339,201 @@ Yet exposing the fabrication did not erase its cultural effect. Several factors 
 
 The alien-autopsy footage failed as proof but succeeded as mythology. It did not establish that extraterrestrial [bodies]({{ 'bodies/' | relative_url }}) were recovered at Roswell. Instead, it created one of the most enduring visual associations in UFO culture.
 
-That paradox helps explain its lasting significance. The footage is remembered not because it settled the Roswell debate, but because it transformed an already famous story into something viewers could seemingly witness with their own eyes. Even after being exposed as fabricated, the images continued to shape how Roswell was imagined in documentaries, television specials and popular culture. The autopsy table, not the evidence behind it, became the lasting symbol. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
+That paradox helps explain its lasting significance. The footage is remembered not because it settled the Roswell debate, but because it transformed an already famous story into something viewers could seemingly witness with their own eyes. Even after being exposed as fabricated, the images continued to shape how Roswell was imagined in documentaries, television specials and popular culture. The autopsy table, not the evidence behind it, became the lasting symbol.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CtrR84jboT4" title="Video Footage Of An Alien Autopsy Sheds Light Over UFO Mystery | World&#x27;s Strangest UFO Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CtrR84jboT4" target="_blank" rel="noopener noreferrer">Video Footage Of An Alien Autopsy Sheds Light Over UFO Mystery | World&#x27;s Strangest UFO Stories</a></p><p class="youtube-embed-meta">Channel: DMAX UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CtrR84jboT4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CtrR84jboT4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Image That Changed Roswell Forever. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Image That Changed Roswell Forever. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps place sensational visual claims within broader UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps place sensational visual claims within broader UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Illustrates how witness testimony competed with visual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how witness testimony competed with visual evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the narrative framework later visual media built upon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the narrative framework later visual media built upon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for understanding why striking images can influence belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why striking images can influence belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b4b284b515fdc1f74c54.jpg' | relative_url }}" alt="Listing image for Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b4b284b515fdc1f74c54.jpg' | relative_url }}" alt="Listing image for Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare"><img src="{{ '/assets/images/marketplace-covers/c96f63b80d570049044d.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare"><img src="{{ '/assets/images/marketplace-covers/c96f63b80d570049044d.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New"><img src="{{ '/assets/images/marketplace-covers/c1331218a00ac90d30d0.jpg' | relative_url }}" alt="Listing image for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New"><img src="{{ '/assets/images/marketplace-covers/c1331218a00ac90d30d0.jpg' | relative_url }}" alt="Listing image for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS"><img src="{{ '/assets/images/marketplace-covers/fdc12669f852a22450a4.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS"><img src="{{ '/assets/images/marketplace-covers/fdc12669f852a22450a4.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="alien-autopsy-the-image-that-changed-roswell-forever-roswell-ufo-crash-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ That paradox helps explain its lasting significance. The footage is remembered n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ That paradox helps explain its lasting significance. The footage is remembered n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ That paradox helps explain its lasting significance. The footage is remembered n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ That paradox helps explain its lasting significance. The footage is remembered n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ That paradox helps explain its lasting significance. The footage is remembered n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,191 +739,191 @@ That paradox helps explain its lasting significance. The footage is remembered n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: time.com  
    Title: How an Alien Autopsy Hoax Captured the World's Imagination for a Decade  
-   Link: <a href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4376871/alien-autopsy-hoax-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</p></details>
+   Link:<a href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4376871/alien-autopsy-hoax-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Alien Autopsy (1995 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple participants in Alien Autopsy stated that misleading editing had removed their opinions that the footage was a hoax.... Santill...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple participants in Alien Autopsy stated that misleading editing had removed their opinions that the footage was a hoax.... Santill...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VTrIGyKxMCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VTrIGyKxMCw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy: Fact or Fiction? (1995) - Official TrailerFOX Network television special investigating The Alien Autopsy footage th...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VTrIGyKxMCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VTrIGyKxMCw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy: Fact or Fiction? (1995) - Official TrailerFOX Network television special investigating The Alien Autopsy footage th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: autopsy or fraud topsy  
-   Link: <a href="https://time.com/archive/6728224/autopsy-or-fraud-topsy/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6728224/autopsy-or-fraud-topsy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUTOPSY OR FRAUD-TOPSY?26 Nov 1995 Randle believes that extraterrestrials did land there but that the alien-autopsy film is a hoax...</p></details>
+   Link:<a href="https://time.com/archive/6728224/autopsy-or-fraud-topsy/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6728224/autopsy-or-fraud-topsy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUTOPSY OR FRAUD-TOPSY?26 Nov 1995 Randle believes that extraterrestrials did land there but that the alien-autopsy film is a hoax...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sy hoax film. After the success of The X...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sy hoax film. After the success of The X...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Alien Autopsy (2006 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_Autopsy_%282006_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_Autopsy_%282006_film%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy (2006 film) - WikipediaAlien Autopsy (1995 film) - Wikipedia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_Autopsy_%282006_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_Autopsy_%282006_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy (2006 film) - WikipediaAlien Autopsy (1995 film) - Wikipedia...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Alien (film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_%28film%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien (film)Alien is a 1979 science fiction horror film directed by Ridley Scott and written by Dan O&#x27;Bannon. Based on a story by O&#x27;Ba...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_%28film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien (film)Alien is a 1979 science fiction horror film directed by Ridley Scott and written by Dan O&#x27;Bannon. Based on a story by O&#x27;Ba...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Santilli Film  
-   Link: <a href="https://de.wikipedia.org/wiki/Santilli-Film" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Santilli-Film</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Santilli-FilmDer Santilli-Film, auch Alien Autopsy, ist ein geflschter Dokumentationsfilm, der die Obduktion eines Auerirdischen aus...</p></details>
+   Link:<a href="https://de.wikipedia.org/wiki/Santilli-Film" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Santilli-Film</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Santilli-FilmDer Santilli-Film, auch Alien Autopsy, ist ein geflschter Dokumentationsfilm, der die Obduktion eines Auerirdischen aus...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Roswell Mystery: Alien or Not?  
-   Link: <a href="https://www.youtube.com/watch?v=hLKNRRJ15Ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hLKNRRJ15Ag</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Greatest...Dive into one of history&#x27;s greatest hoaxes: the alleged 1947 Roswell alien autopsy. In this riveting history docume...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hLKNRRJ15Ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hLKNRRJ15Ag</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Greatest...Dive into one of history&#x27;s greatest hoaxes: the alleged 1947 Roswell alien autopsy. In this riveting history docume...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Vji H1Bb LCis  
-   Link: <a href="https://www.youtube.com/shorts/VjiH1BbLCis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/VjiH1BbLCis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Roswell May Never Be Known | The Alien...In 1995, 18 minutes of grainy film shocked the world and sparked one of the mos...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/VjiH1BbLCis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/VjiH1BbLCis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Roswell May Never Be Known | The Alien...In 1995, 18 minutes of grainy film shocked the world and sparked one of the mos...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b0UNZIcJwhw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b0UNZIcJwhw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real or Hoax? | The 1995 Alien Autopsy FilmReal or Hoax? | The 1995 Alien Autopsy Film | Full Documentary *Alien From Area 51: The Alien...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b0UNZIcJwhw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b0UNZIcJwhw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real or Hoax? | The 1995 Alien Autopsy FilmReal or Hoax? | The 1995 Alien Autopsy Film | Full Documentary *Alien From Area 51: The Alien...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Video Footage Of An Alien Autopsy Sheds Light Over UFO Mystery  
-   Link: <a href="https://www.youtube.com/watch?v=CtrR84jboT4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CtrR84jboT4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There | UNCOVERING THE ALIEN AUTOPSY | Full Paranormal Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CtrR84jboT4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CtrR84jboT4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There | UNCOVERING THE ALIEN AUTOPSY | Full Paranormal Documentary...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YaHqSU9yD8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YaHqSU9yD8E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Alien Autopsy Hoax Uncovered (Season 2) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YaHqSU9yD8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YaHqSU9yD8E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Alien Autopsy Hoax Uncovered (Season 2) | History...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Project Blue Book: Alien Autopsy Hoax Uncovered (Season 2) | History  
-   Link: <a href="https://www.youtube.com/watch?v=x4-hGxSJhjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x4-hGxSJhjI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident That Shocked the World (S1) | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x4-hGxSJhjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x4-hGxSJhjI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident That Shocked the World (S1) | Ancient Aliens...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Roswell Incident That Shocked the World (S1) | Ancient Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LdBu36XkQLw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart weighs in on &#x27;Roswell Incident&#x27; video | NewsNation Prime...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LdBu36XkQLw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart weighs in on &#x27;Roswell Incident&#x27; video | NewsNation Prime...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Ross Coulthart weighs in on 'Roswell Incident' video | News Nation Prime  
-   Link: <a href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nrLVpWBxHRA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nrLVpWBxHRA</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thesun.co.uk  
    Title: grainy alien autopsy vid stoked roswell ufo conspiracy  
-   Link: <a href="https://www.thesun.co.uk/news/39373555/grainy-alien-autopsy-vid-stoked-roswell-ufo-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/39373555/grainy-alien-autopsy-vid-stoked-roswell-ufo-conspiracy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British producers Ray Santilli and Gary Schofield claimed to have acquired the footage from a former U.S. Army [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) cameraman. The f...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/39373555/grainy-alien-autopsy-vid-stoked-roswell-ufo-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/39373555/grainy-alien-autopsy-vid-stoked-roswell-ufo-conspiracy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British producers Ray Santilli and Gary Schofield claimed to have acquired the footage from a former U.S. Army [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) cameraman. The f...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theweek.com  
    Title: The Week The Alien Autopsy Scandal: 'Spinal Tap territory  
-   Link: <a href="https://theweek.com/culture-life/tv-radio/the-alien-autopsy-scandal-spinal-tap-territory-but-real" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/culture-life/tv-radio/the-alien-autopsy-scandal-spinal-tap-territory-but-real</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First aired on television, the black-and-white video captivated global audiences, earning an estimated one billion [views](&amp;#123;&amp;#123; &#x27;views/&#x27; | relative_url &amp;#125;&amp;#125;). The new miniser...</p></details>
+   Link:<a href="https://theweek.com/culture-life/tv-radio/the-alien-autopsy-scandal-spinal-tap-territory-but-real" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/culture-life/tv-radio/the-alien-autopsy-scandal-spinal-tap-territory-but-real</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First aired on television, the black-and-white video captivated global audiences, earning an estimated one billion [views](&amp;#123;&amp;#123; &#x27;views/&#x27; | relative_url &amp;#125;&amp;#125;). The new miniser...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skepticalinquirer.org  
    Title: postmortem on alien autopsy  
-   Link: <a href="https://skepticalinquirer.org/newsletter/postmortem-on-alien-autopsy/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/postmortem-on-alien-autopsy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerPostmortem on &#x27;Alien Autopsy&#x27;1 Jun 2006 Santilli now claims the 1995 film was a recreation of genuine footage that be...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/postmortem-on-alien-autopsy/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/postmortem-on-alien-autopsy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerPostmortem on &#x27;Alien Autopsy&#x27;1 Jun 2006 Santilli now claims the 1995 film was a recreation of genuine footage that be...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thetimes.com  
-   Link: <a href="https://www.thetimes.com/uk/law/article/magician-court-louis-theroux-alien-autopsy-film-sgmcp7qhq" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/law/article/magician-court-louis-theroux-alien-autopsy-film-sgmcp7qhq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video, which purported to show an autopsy of extraterrestrials from the 1947 Roswell incident, has long been cited in UFO conspiracy...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/law/article/magician-court-louis-theroux-alien-autopsy-film-sgmcp7qhq" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/law/article/magician-court-louis-theroux-alien-autopsy-film-sgmcp7qhq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video, which purported to show an autopsy of extraterrestrials from the 1947 Roswell incident, has long been cited in UFO conspiracy...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: Alien Autopsy  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/16dg3s0/alien_autopsy_almost_30_years_later/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16dg3s0/alien_autopsy_almost_30_years_later/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Almost 30 Years LaterI thought they had said something about it was a film restoration. Meaning the most of it was fake based off the rea...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/16dg3s0/alien_autopsy_almost_30_years_later/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16dg3s0/alien_autopsy_almost_30_years_later/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Almost 30 Years LaterI thought they had said something about it was a film restoration. Meaning the most of it was fake based off the rea...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ripleys.com  
    Title: alien autopsy  
-   Link: <a href="https://www.ripleys.com/stories/alien-autopsy" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/alien-autopsy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Autopsy that Fooled the World3 Mar 2023 It wasn&#x27;t until 2006 that Santilli confessed that the video wasn&#x27;t really from 1947 a...</p></details>
+   Link:<a href="https://www.ripleys.com/stories/alien-autopsy" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/alien-autopsy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Autopsy that Fooled the World3 Mar 2023 It wasn&#x27;t until 2006 that Santilli confessed that the video wasn&#x27;t really from 1947 a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thetimes.com  
-   Link: <a href="https://www.thetimes.com/culture/tv-radio/article/alien-autopsy-scandal-review-sky-documentaries-vff9s7wqk" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/culture/tv-radio/article/alien-autopsy-scandal-review-sky-documentaries-vff9s7wqk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the famous footage of an alien autopsy in New Mexico adds further intrigue...</p></details>
+   Link:<a href="https://www.thetimes.com/culture/tv-radio/article/alien-autopsy-scandal-review-sky-documentaries-vff9s7wqk" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/culture/tv-radio/article/alien-autopsy-scandal-review-sky-documentaries-vff9s7wqk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the famous footage of an alien autopsy in New Mexico adds further intrigue...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... alien beings and elusive vehicles which never quite seem to manifest... hoax. There is no similar menti...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... alien beings and elusive vehicles which never quite seem to manifest... hoax. There is no similar menti...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: spacecentre.co.uk  
-   Link: <a href="https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Roswell Alien HeadFake Roswell Alien Head. This alien head prop was made to try and discredit the Roswell alien autopsy film that we...</p></details>
+   Link:<a href="https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Roswell Alien HeadFake Roswell Alien Head. This alien head prop was made to try and discredit the Roswell alien autopsy film that we...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/tv-and-radio/2026/jun/06/all-good-the-alien-autopsy-scandal-sky-documentaries" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2026/jun/06/all-good-the-alien-autopsy-scandal-sky-documentaries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Alien Autopsy Scandal,&quot; a Sky Documentaries feature, dives into the infamous 1995 hoax where a grainy film allegedly showing an alie...</p></details>
+   Link:<a href="https://www.theguardian.com/tv-and-radio/2026/jun/06/all-good-the-alien-autopsy-scandal-sky-documentaries" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2026/jun/06/all-good-the-alien-autopsy-scandal-sky-documentaries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Alien Autopsy Scandal,&quot; a Sky Documentaries feature, dives into the infamous 1995 hoax where a grainy film allegedly showing an alie...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/11urmbw/the_alien_autopsy_film_of_ray_santilli_might_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11urmbw/the_alien_autopsy_film_of_ray_santilli_might_be/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The alien autopsy film of Ray Santilli might be authenticThis film might be a strong and solid proof of the reality of the Roswell incide...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/11urmbw/the_alien_autopsy_film_of_ray_santilli_might_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11urmbw/the_alien_autopsy_film_of_ray_santilli_might_be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The alien autopsy film of Ray Santilli might be authenticThis film might be a strong and solid proof of the reality of the Roswell incide...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dreadcentral.com  
-   Link: <a href="https://www.dreadcentral.com/news/19884/ray-santilli-gary-shoefield-talk-the-real-alien-autopsy-and-the-new-film-of-the-same-name/" target="_blank" rel="noopener noreferrer nofollow">https://www.dreadcentral.com/news/19884/ray-santilli-gary-shoefield-talk-the-real-alien-autopsy-and-the-new-film-of-the-same-name/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ray Santilli, Gary Shoefield Talk the Real Alien Autopsy...30 Sept 2010 Winston and Randle said their observations were distorted in t...</p></details>
+   Link:<a href="https://www.dreadcentral.com/news/19884/ray-santilli-gary-shoefield-talk-the-real-alien-autopsy-and-the-new-film-of-the-same-name/" target="_blank" rel="noopener noreferrer nofollow">https://www.dreadcentral.com/news/19884/ray-santilli-gary-shoefield-talk-the-real-alien-autopsy-and-the-new-film-of-the-same-name/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ray Santilli, Gary Shoefield Talk the Real Alien Autopsy...30 Sept 2010 Winston and Randle said their observations were distorted in t...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: primevideo.com  
-   Link: <a href="https://www.primevideo.com/-/de/detail/0RQZCQW61AJD9R12KWDALOU69I" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/-/de/detail/0RQZCQW61AJD9R12KWDALOU69I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy: The Search for AnswersJoin Britain’s most renowned UFO investigator (Philip Mantle) as he recounts his lifelong investig...</p></details>
+   Link:<a href="https://www.primevideo.com/-/de/detail/0RQZCQW61AJD9R12KWDALOU69I" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/-/de/detail/0RQZCQW61AJD9R12KWDALOU69I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy: The Search for AnswersJoin Britain’s most renowned UFO investigator (Philip Mantle) as he recounts his lifelong investig...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
    Title: Alien Autopsy: Fact or Fiction was a pseudo-documentary  
-   Link: <a href="https://www.facebook.com/TheDizRadioShow/posts/alien-autopsy-fact-or-fiction-was-a-huge-successalien-autopsy-fact-or-fiction-wa/1018088976970740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDizRadioShow/posts/alien-autopsy-fact-or-fiction-was-a-huge-successalien-autopsy-fact-or-fiction-wa/1018088976970740/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy footage. Santilli admitted in 2006 that the film was a fake, though he continued to claim it was inspired by genuine footag...</p></details>
+   Link:<a href="https://www.facebook.com/TheDizRadioShow/posts/alien-autopsy-fact-or-fiction-was-a-huge-successalien-autopsy-fact-or-fiction-wa/1018088976970740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDizRadioShow/posts/alien-autopsy-fact-or-fiction-was-a-huge-successalien-autopsy-fact-or-fiction-wa/1018088976970740/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy footage. Santilli admitted in 2006 that the film was a fake, though he continued to claim it was inspired by genuine footag...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: welt.de  
    Title: Ray Santilli Wie das Alien aus Roswell aufgeschnitten wurde  
-   Link: <a href="https://www.welt.de/geschichte/kopf-des-tages/article230874027/Ray-Santilli-Wie-das-Alien-aus-Roswell-aufgeschnitten-wurde.html" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/geschichte/kopf-des-tages/article230874027/Ray-Santilli-Wie-das-Alien-aus-Roswell-aufgeschnitten-wurde.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ray Santilli: Wie das Alien aus Roswell aufgeschnitten wurde5 May 2021 Ray Santilli: Wie das Alien aus Roswell aufgeschnitten wurde...</p></details>
+   Link:<a href="https://www.welt.de/geschichte/kopf-des-tages/article230874027/Ray-Santilli-Wie-das-Alien-aus-Roswell-aufgeschnitten-wurde.html" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/geschichte/kopf-des-tages/article230874027/Ray-Santilli-Wie-das-Alien-aus-Roswell-aufgeschnitten-wurde.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ray Santilli: Wie das Alien aus Roswell aufgeschnitten wurde5 May 2021 Ray Santilli: Wie das Alien aus Roswell aufgeschnitten wurde...</p></details>
    Published: May 2021  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
    Title: the full original unedited alien autopsy footage  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14ypfd3/the_full_original_unedited_alien_autopsy_footage/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14ypfd3/the_full_original_unedited_alien_autopsy_footage/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The full original unedited Alien Autopsy footage... Alien Autopsy footage: r/aliens... In 2006, Santilli admitted the film was not a...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14ypfd3/the_full_original_unedited_alien_autopsy_footage/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14ypfd3/the_full_original_unedited_alien_autopsy_footage/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The full original unedited Alien Autopsy footage... Alien Autopsy footage: r/aliens... In 2006, Santilli admitted the film was not a...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
    Title: august 28 1995 fox aired alien autopsy fact or  
-   Link: <a href="https://www.reddit.com/r/90s/comments/1i8drns/august_28_1995_fox_aired_alien_autopsy_fact_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/90s/comments/1i8drns/august_28_1995_fox_aired_alien_autopsy_fact_or/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 1995 - Fox aired Alien Autopsy: Fact or Fiction....r/90s... it was so obviously fake that they parodied it on x files. 3...</p></details>
+   Link:<a href="https://www.reddit.com/r/90s/comments/1i8drns/august_28_1995_fox_aired_alien_autopsy_fact_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/90s/comments/1i8drns/august_28_1995_fox_aired_alien_autopsy_fact_or/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 1995 - Fox aired Alien Autopsy: Fact or Fiction....r/90s... it was so obviously fake that they parodied it on x files. 3...</p></details>
    Published: August 28, 1995  

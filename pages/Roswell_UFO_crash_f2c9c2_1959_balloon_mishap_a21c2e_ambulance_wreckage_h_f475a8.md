@@ -274,7 +274,7 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambula
 
 ## Introduction
 
-One of the more persistent Roswell claims involves witnesses who said they saw unusual wreckage inside or around military ambulances near the base hospital, including [debris]({{ 'debris/' | relative_url }}) marked with strange symbols that later became famous as “alien hieroglyphics”. The ambulance stories matter because they connect two separate strands of the Roswell legend: reports of mysterious debris and later accounts of military medical activity. The [Air Force]({{ 'air-force/' | relative_url }})'s later investigation argued that some of these memories may have been influenced by the 1959 balloon-gondola accident near Roswell, during which injured balloon crewmen, recovery vehicles, specialised equipment and unusual balloon materials were brought through Walker Air Force Base. According to that explanation, what later became remembered as exotic wreckage with alien writing may have originated from ordinary but unfamiliar balloon-recovery hardware and marked materials. WHS ESD+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+One of the more persistent Roswell claims involves witnesses who said they saw unusual wreckage inside or around military ambulances near the base hospital, including [debris]({{ 'debris/' | relative_url }}) marked with strange symbols that later became famous as “alien hieroglyphics”. The ambulance stories matter because they connect two separate strands of the Roswell legend: reports of mysterious debris and later accounts of military medical activity. The [Air Force]({{ 'air-force/' | relative_url }})'s later investigation argued that some of these memories may have been influenced by the 1959 balloon-gondola accident near Roswell, during which injured balloon crewmen, recovery vehicles, specialised equipment and unusual balloon materials were brought through Walker Air Force Base. According to that explanation, what later became remembered as exotic wreckage with alien writing may have originated from ordinary but unfamiliar balloon-recovery hardware and marked materials. WHS ESD+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-1-dark.svg" | relative_url }}" alt="Ambulance Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,20 +282,20 @@ One of the more persistent Roswell claims involves witnesses who said they saw u
 
 The ambulance-related stories emerged decades after 1947 and generally describe witnesses glimpsing debris being transported under military control. In some versions, the material was seen in ambulances parked near the hospital; in others, witnesses recalled military vehicles carrying unusual wreckage accompanied by heightened security.
 
-A recurring feature of these accounts is the claim that some pieces bore mysterious symbols. The best-known version came from later Roswell narratives describing lightweight structural members marked with purple or violet designs that were interpreted as a form of writing. These descriptions became a cornerstone of the extraterrestrial interpretation because they seemed to imply a non-human language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+A recurring feature of these accounts is the claim that some pieces bore mysterious symbols. The best-known version came from later Roswell narratives describing lightweight structural members marked with purple or violet designs that were interpreted as a form of writing. These descriptions became a cornerstone of the extraterrestrial interpretation because they seemed to imply a non-human language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The difficulty is that witness descriptions varied substantially. Different tellings placed the debris in different vehicles, at different locations and under different circumstances. As with many late-emerging Roswell stories, the accounts were recorded decades after the events they purported to describe, making it difficult to separate original observations from later interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+The difficulty is that witness descriptions varied substantially. Different tellings placed the debris in different vehicles, at different locations and under different circumstances. As with many late-emerging Roswell stories, the accounts were recorded decades after the events they purported to describe, making it difficult to separate original observations from later interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fAArhGRN5xk" title="Was the Crash in Roswell a Weather Balloon?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fAArhGRN5xk" target="_blank" rel="noopener noreferrer">Was the Crash in Roswell a Weather Balloon?</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fAArhGRN5xk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fAArhGRN5xk">Open on YouTube</a></p></div></div></div>
 
 ## How the Balloon Recovery Vehicles Were Used
 
-The [1959 balloon mishap]({{ '1959-mishap/' | relative_url }}) provides a concrete event involving ambulances, injured personnel and unusual equipment moving through the Roswell area. During the accident, recovery teams included medical support vehicles and ambulances that accompanied balloon operations. After the gondola overturned, injured crew members were transported for treatment at Walker Air Force Base hospital. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD+2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+The [1959 balloon mishap]({{ '1959-mishap/' | relative_url }}) provides a concrete event involving ambulances, injured personnel and unusual equipment moving through the Roswell area. During the accident, recovery teams included medical support vehicles and ambulances that accompanied balloon operations. After the gondola overturned, injured crew members were transported for treatment at Walker Air Force Base hospital.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
-The Air Force's 1997 *Roswell Report: Case Closed* specifically examined whether later witness memories could have blended details from this highly visible 1959 incident with stories about the 1947 debris recovery. The report noted that balloon operations involved polyethylene balloon material, support equipment, marked components and recovery vehicles that would have appeared unusual to casual observers. Photographs included in the report show ambulances and balloon equipment associated with these operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Stenciled Letters Described as &quot;Hieroglyphics.&quot; 22. A2C Ole Jorgeson in...</span></span></span>
+The Air Force's 1997 *Roswell Report: Case Closed* specifically examined whether later witness memories could have blended details from this highly visible 1959 incident with stories about the 1947 debris recovery. The report noted that balloon operations involved polyethylene balloon material, support equipment, marked components and recovery vehicles that would have appeared unusual to casual observers. Photographs included in the report show ambulances and balloon equipment associated with these operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Stenciled Letters Described as &quot;Hieroglyphics.&quot; 22. A2C Ole Jorgeson in...</span></span></span>
 
-This does not mean that every ambulance story can be traced directly to the balloon accident. Rather, the Air Force argued that the presence of ambulances, injured personnel and unusual-looking materials created a plausible source for memories that were later attached to the Roswell narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+This does not mean that every ambulance story can be traced directly to the balloon accident. Rather, the Air Force argued that the presence of ambulances, injured personnel and unusual-looking materials created a plausible source for memories that were later attached to the Roswell narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-2-dark.svg" | relative_url }}" alt="Ambulance Clues illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -303,11 +303,11 @@ This does not mean that every ambulance story can be traced directly to the ball
 
 The most famous “hieroglyphics” claim centres on markings allegedly seen on small beam-like pieces of debris. A key part of the conventional explanation involves the radar-reflector targets used in Project Mogul balloon arrays and related balloon equipment.
 
-Researchers investigating the debris found that some reflector materials incorporated decorative tape manufactured with printed patterns. Witnesses who later described purple symbols on structural pieces may have been recalling these printed markings rather than an unknown language. The Air Force report and subsequent sceptical analyses pointed to commercially produced tape carrying colourful designs as a likely source of the alleged hieroglyphics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Researchers investigating the debris found that some reflector materials incorporated decorative tape manufactured with printed patterns. Witnesses who later described purple symbols on structural pieces may have been recalling these printed markings rather than an unknown language. The Air Force report and subsequent sceptical analyses pointed to commercially produced tape carrying colourful designs as a likely source of the alleged hieroglyphics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 The visual effect is important. A person briefly seeing fragments covered with unusual coloured markings could easily describe them later as symbols rather than decoration, particularly if the material itself seemed unfamiliar. Once Roswell became associated with extraterrestrial technology, those remembered markings naturally acquired greater significance.
 
-Some accounts also refer to stencilled lettering or technical markings on balloon-related equipment. In an environment filled with military hardware, temporary storage areas and recovery vehicles, ordinary identification markings could appear cryptic to observers who did not know their purpose. The Air Force specifically discussed witness descriptions of stencilled letters that were later characterised as hieroglyphics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Stenciled Letters Described as &quot;Hieroglyphics.&quot; 22. A2C Ole Jorgeson in...</span></span></span>
+Some accounts also refer to stencilled lettering or technical markings on balloon-related equipment. In an environment filled with military hardware, temporary storage areas and recovery vehicles, ordinary identification markings could appear cryptic to observers who did not know their purpose. The Air Force specifically discussed witness descriptions of stencilled letters that were later characterised as hieroglyphics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Stenciled Letters Described as &quot;Hieroglyphics.&quot; 22. A2C Ole Jorgeson in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MfFx24lLiI4" title="The Roswell Report: Case Closed by James McAndrew read by Aaron Bennett | Full Audio Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MfFx24lLiI4" target="_blank" rel="noopener noreferrer">The Roswell Report: Case Closed by James McAndrew read by Aaron Bennett | Full Audio Book</a></p><p class="youtube-embed-meta">Channel: LibriVox Audiobooks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MfFx24lLiI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MfFx24lLiI4">Open on YouTube</a></p></div></div></div>
@@ -321,13 +321,13 @@ It helps account for:
 * Reports of military ambulances and medical activity near the base hospital.
 * Witness memories involving injured or physically unusual-looking individuals.
 * Claims that unusual debris was seen being transported under military control.
-* Descriptions of strange markings that may correspond to printed tape or stencilled identifiers. WHS ESD+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+* Descriptions of strange markings that may correspond to printed tape or stencilled identifiers. WHS ESD+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 However, it does not fully resolve every version of the hieroglyphics story.
 
-Several witnesses placed the debris in 1947 rather than the late 1950s. Others described materials that they believed possessed extraordinary properties unrelated to balloon equipment. Critics of the Air Force interpretation argue that [memory contamination]({{ 'memory-drift/' | relative_url }}) alone cannot explain every detail reported by later Roswell witnesses. Supporters of the conventional explanation counter that the accounts were recorded decades after the fact and often changed over time, making memory blending a significant factor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Several witnesses placed the debris in 1947 rather than the late 1950s. Others described materials that they believed possessed extraordinary properties unrelated to balloon equipment. Critics of the Air Force interpretation argue that [memory contamination]({{ 'memory-drift/' | relative_url }}) alone cannot explain every detail reported by later Roswell witnesses. Supporters of the conventional explanation counter that the accounts were recorded decades after the fact and often changed over time, making memory blending a significant factor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The key point is that the ambulance stories and the hieroglyphics detail are closely linked in the Air Force's reconstruction of how the Roswell legend evolved. Rather than treating them as evidence of alien technology, the official explanation views them as later memories shaped by real military activity, balloon-recovery operations and ordinary marked materials that gradually acquired extraordinary meaning within the broader Roswell narrative. WHS ESD+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+The key point is that the ambulance stories and the hieroglyphics detail are closely linked in the Air Force's reconstruction of how the Roswell legend evolved. Rather than treating them as evidence of alien technology, the official explanation views them as later memories shaped by real military activity, balloon-recovery operations and ordinary marked materials that gradually acquired extraordinary meaning within the broader Roswell narrative. WHS ESD+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Roswell Report Case Closed</span><span class="citation-popover-snippet">WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X9bdAR42_EM" title="👽 El INCIDENTE ROSWELL 🛸 Globos, aliens y cabos sueltos • #Datazo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X9bdAR42_EM" target="_blank" rel="noopener noreferrer">👽 El INCIDENTE ROSWELL 🛸 Globos, aliens y cabos sueltos • #Datazo</a></p><p class="youtube-embed-meta">Channel: Pablo Molinari</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X9bdAR42_EM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X9bdAR42_EM">Open on YouTube</a></p></div></div></div>
@@ -336,194 +336,194 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-3-dark.svg" | relative_url }}" alt="Ambulance Clues illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_1959_balloon_mishap_a21c2e_ambulance_wreckage_h_f475a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Roswell Hieroglyphics Inside an Ambulance?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Roswell Hieroglyphics Inside an Ambulance?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Focuses on witness testimony and alleged crash evidence central to debates about unusual debris and symbols.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness testimony and alleged crash evidence central to debates about unusual debris and symbols.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Examines the evolution of Roswell claims, including debris stories, memory issues, and competing explanations such as balloon-related mat...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the evolution of Roswell claims, including debris stories, memory issues, and competing explanations such as balloon-related mat...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Explores alleged government handling of recovered materials and became a major influence on later Roswell lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores alleged government handling of recovered materials and became a major influence on later Roswell lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Directly covers the debris, symbols, witness accounts, and core claims behind Roswell narratives, including stories related to unusual wr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the debris, symbols, witness accounts, and core claims behind Roswell narratives, including stories related to unusual wr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ambulance-clues-were-roswell-hieroglyphics-inside-an-ambulance-roswell-ufo-crash-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,88 +729,88 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: esd.whs.mil  
    Title: Roswell Report Case Closed  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Roswell report22 May 2017 — to the Balloon Mishap. The balloon mishap near Roswell on May 21,1959 provides the probable explan...</p></details>
    Published: May 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Stenciled Letters Described as &quot;Hieroglyphics.&quot; 22. A2C Ole Jorgeson in...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Stenciled Letters Described as &quot;Hieroglyphics.&quot; 22. A2C Ole Jorgeson in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
    Title: The Roswell Report  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell Report) a 1956 [KC-97](&amp;#123;&amp;#123; &#x27;kc-97/&#x27; | relative_url &amp;#125;&amp;#125;) aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell Report) a 1956 [KC-97](&amp;#123;&amp;#123; &#x27;kc-97/&#x27; | relative_url &amp;#125;&amp;#125;) aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident at 70: Facts, Not MythsThe reinforcing tape used on the NYU targets had curious markings; UFO believers later descri...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident at 70: Facts, Not MythsThe reinforcing tape used on the NYU targets had curious markings; UFO believers later descri...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1g2ul19/what_are_your_thoughts_on_the_alien_writing_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1g2ul19/what_are_your_thoughts_on_the_alien_writing_on/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thoughts on alien writing from Roswell I-BeamThese symbols were likely mistaken for alien writing due to the [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) surrounding the proj...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1g2ul19/what_are_your_thoughts_on_the_alien_writing_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1g2ul19/what_are_your_thoughts_on_the_alien_writing_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thoughts on alien writing from Roswell I-BeamThese symbols were likely mistaken for alien writing due to the [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) surrounding the proj...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — A high-altitude balloon crash landed in Roswell. The aliens never left. Despite its persistence in popular culture, extrater...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — A high-altitude balloon crash landed in Roswell. The aliens never left. Despite its persistence in popular culture, extrater...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: the kalahari incident of 1989 when aliens landedsouth africas roswell  
-   Link: <a href="https://www.facebook.com/lerato.hlongwa.5205/posts/the-kalahari-incident-of-1989-when-aliens-landedsouth-africas-roswell/1927410918207041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lerato.hlongwa.5205/posts/the-kalahari-incident-of-1989-when-aliens-landedsouth-africas-roswell/1927410918207041/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When aliens landed. South...The Roswell Incident refers to the 1947 event near Roswell, New Mexico, where an unidentified flying object...</p></details>
+   Link:<a href="https://www.facebook.com/lerato.hlongwa.5205/posts/the-kalahari-incident-of-1989-when-aliens-landedsouth-africas-roswell/1927410918207041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lerato.hlongwa.5205/posts/the-kalahari-incident-of-1989-when-aliens-landedsouth-africas-roswell/1927410918207041/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When aliens landed. South...The Roswell Incident refers to the 1947 event near Roswell, New Mexico, where an unidentified flying object...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: governmentattic.org  
    Title: Roswell Report: Case Closed, as man with head injury causing him to.Read more  
-   Link: <a href="https://www.governmentattic.org/2docs/NPRC_VIP_List_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/2docs/NPRC_VIP_List_2009.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives National Personnel [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) Center (...4 Jan 2010 — High altitude balloon pilot/parachutist written about in AF History...</p></details>
+   Link:<a href="https://www.governmentattic.org/2docs/NPRC_VIP_List_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/2docs/NPRC_VIP_List_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives National Personnel [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) Center (...4 Jan 2010 — High altitude balloon pilot/parachutist written about in AF History...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: military-history.fandom.com  
    Title: Air Force reports on the Roswell UFO incident  
-   Link: <a href="https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force reports on the Roswell UFO incident - Military WikiThe two Air Force reports on the Roswell UFO incident, published in 1994/5 and 1...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force reports on the Roswell UFO incident - Military WikiThe two Air Force reports on the Roswell UFO incident, published in 1994/5 and 1...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: avalonlibrary.net  
    Title: there were even symbols ofstrange geomet- ric  
-   Link: <a href="https://avalonlibrary.net/ebooks/Michael%20Hesemann%2C%20Philip%20Mantle%20-%20Beyond%20Roswell%20-%20The%20Alien%20Autopsy%20Film%2C%20Area%2051%20%26%20the%20U.S.%20Government%20Coverup%20of%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Michael%20Hesemann%2C%20Philip%20Mantle%20-%20Beyond%20Roswell%20-%20The%20Alien%20Autopsy%20Film%2C%20Area%2051%20%26%20the%20U.S.%20Government%20Coverup%20of%20UFOs.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Hesemann, Philip Mantle - Beyond Roswell - The...27 Jan 1993 — What I saw was a bewildering collection of metal-like foil, bakel...</p></details>
+   Link:<a href="https://avalonlibrary.net/ebooks/Michael%20Hesemann%2C%20Philip%20Mantle%20-%20Beyond%20Roswell%20-%20The%20Alien%20Autopsy%20Film%2C%20Area%2051%20%26%20the%20U.S.%20Government%20Coverup%20of%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Michael%20Hesemann%2C%20Philip%20Mantle%20-%20Beyond%20Roswell%20-%20The%20Alien%20Autopsy%20Film%2C%20Area%2051%20%26%20the%20U.S.%20Government%20Coverup%20of%20UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Hesemann, Philip Mantle - Beyond Roswell - The...27 Jan 1993 — What I saw was a bewildering collection of metal-like foil, bakel...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/IAmA/comments/aac7d/i_have_handled_material_from_the_roswell_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/aac7d/i_have_handled_material_from_the_roswell_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ou held it up to light it had what looked like a violet...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/IAmA/comments/aac7d/i_have_handled_material_from_the_roswell_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/aac7d/i_have_handled_material_from_the_roswell_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ou held it up to light it had what looked like a violet...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/239712223/roswell-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/239712223/roswell-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary of a report investigating the alleged crash of an unidentified flying object (UFO) in Roswell, New Mexico in 1947.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/239712223/roswell-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/239712223/roswell-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary of a report investigating the alleged crash of an unidentified flying object (UFO) in Roswell, New Mexico in 1947.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MfFx24lLiI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MfFx24lLiI4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 The Roswell Report: Case Closed | Official USAF Investigation 🚁...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MfFx24lLiI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MfFx24lLiI4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 The Roswell Report: Case Closed | Official USAF Investigation 🚁...</p></details>

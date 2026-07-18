@@ -274,17 +274,17 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_c
 
 ## Introduction
 
-Jesse Marcel occupies a unique place in the Roswell debate because he was not simply a witness who appeared decades later. He was the intelligence officer of the 509th Bomb Group at Roswell Army Air Field, one of the most strategically important military units in the United States in 1947. That background gives his [testimony]({{ 'testimony/' | relative_url }}) unusual weight: supporters argue that a trained intelligence officer should have been capable of distinguishing ordinary debris from something exceptional. Yet the same background creates a difficult tradeoff. The stronger Marcel’s professional credentials appear, the more readers expect contemporary reports, preserved evidence, or official documentation to support his [later claims]({{ 'later-claims/' | relative_url }}). Marcel’s intelligence role therefore strengthens his credibility as a witness while simultaneously raising the evidential standard he must meet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">intelligence agents investigate ufos roswell 7 jul 1947</span><span class="citation-popover-snippet">Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</span></span></span>
+Jesse Marcel occupies a unique place in the Roswell debate because he was not simply a witness who appeared decades later. He was the intelligence officer of the 509th Bomb Group at Roswell Army Air Field, one of the most strategically important military units in the United States in 1947. That background gives his [testimony]({{ 'testimony/' | relative_url }}) unusual weight: supporters argue that a trained intelligence officer should have been capable of distinguishing ordinary debris from something exceptional. Yet the same background creates a difficult tradeoff. The stronger Marcel’s professional credentials appear, the more readers expect contemporary reports, preserved evidence, or official documentation to support his [later claims]({{ 'later-claims/' | relative_url }}). Marcel’s intelligence role therefore strengthens his credibility as a witness while simultaneously raising the evidential standard he must meet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">intelligence agents investigate ufos roswell 7 jul 1947</span><span class="citation-popover-snippet">Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_credibility_t_0ed9a8-Illustration-1-dark.svg" | relative_url }}" alt="Credibility illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_credibility_t_0ed9a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_credibility_t_0ed9a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did the 509th and Intelligence Assignment Matter?
 
-The credibility debate begins with [Marcel]({{ 'marcel/' | relative_url }})’s position rather than his later statements. In July 1947 he served as the intelligence officer for the 509th Bomb Group, the military organisation associated with America’s nuclear strike capability. When rancher W. W. Brazel reported unusual debris, Marcel was among the personnel tasked with examining and recovering it. Contemporary reporting and later [official reviews]({{ 'official-reviews/' | relative_url }}) consistently identify him as the intelligence officer involved in the recovery process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — the Intelligence Officer of the 509th Bomb Group, stationed a...</span></span></span>
+The credibility debate begins with [Marcel]({{ 'marcel/' | relative_url }})’s position rather than his later statements. In July 1947 he served as the intelligence officer for the 509th Bomb Group, the military organisation associated with America’s nuclear strike capability. When rancher W. W. Brazel reported unusual debris, Marcel was among the personnel tasked with examining and recovering it. Contemporary reporting and later [official reviews]({{ 'official-reviews/' | relative_url }}) consistently identify him as the intelligence officer involved in the recovery process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — the Intelligence Officer of the 509th Bomb Group, stationed a...</span></span></span>
 
-His military background was more substantial than many casual accounts suggest. During the Second World War he worked in intelligence assignments, including photo interpretation and operational intelligence duties in the Pacific theatre. He received military decorations and continued serving in sensitive post-war assignments. This was not the profile of an inexperienced observer unfamiliar with military equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+His military background was more substantial than many casual accounts suggest. During the Second World War he worked in intelligence assignments, including photo interpretation and operational intelligence duties in the Pacific theatre. He received military decorations and continued serving in sensitive post-war assignments. This was not the profile of an inexperienced observer unfamiliar with military equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
-For Roswell researchers, that fact matters because witness evaluation often depends on expertise. A trained intelligence officer assessing unfamiliar material is generally considered more reliable than a member of the public making a quick observation. Marcel's supporters frequently argue that his professional role gave him experience with aircraft, military hardware, reports, reconnaissance material and intelligence analysis, making a simple misidentification less likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+For Roswell researchers, that fact matters because witness evaluation often depends on expertise. A trained intelligence officer assessing unfamiliar material is generally considered more reliable than a member of the public making a quick observation. Marcel's supporters frequently argue that his professional role gave him experience with aircraft, military hardware, reports, reconnaissance material and intelligence analysis, making a simple misidentification less likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b8Mp7vDBvN4" title="Was Roswell Really a Secret Government Experiment? | History&#x27;s Greatest Mysteries (S6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer">Was Roswell Really a Secret Government Experiment? | History&#x27;s Greatest Mysteries (S6)</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 76.8K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b8Mp7vDBvN4">Open on YouTube</a></p></div></div></div>
@@ -304,9 +304,9 @@ From a historical perspective, witness credibility often increases when three fa
 
 </div>
 
-Marcel can plausibly claim all three. He handled the debris directly, held an intelligence position, and maintained for decades that the material recovered near Roswell was not an ordinary weather balloon. Those characteristics make it difficult to dismiss him as someone repeating hearsay or local folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+Marcel can plausibly claim all three. He handled the debris directly, held an intelligence position, and maintained for decades that the material recovered near Roswell was not an ordinary weather balloon. Those characteristics make it difficult to dismiss him as someone repeating hearsay or local folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
-This helps explain why Marcel became so important when Roswell re-emerged in UFO literature during the late 1970s and early 1980s. Researchers did not merely find a witness; they found a witness who had occupied a position that seemed specifically relevant to evaluating unusual military material. His testimony provided a bridge between the brief 1947 incident and the much larger debate that followed decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+This helps explain why Marcel became so important when Roswell re-emerged in UFO literature during the late 1970s and early 1980s. Researchers did not merely find a witness; they found a witness who had occupied a position that seemed specifically relevant to evaluating unusual military material. His testimony provided a bridge between the brief 1947 incident and the much larger debate that followed decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
 A useful comparison is with eyewitness evidence in military history more generally. Historians routinely give greater initial weight to observations made by trained pilots, intelligence officers, engineers or investigators than to observations from untrained observers. Expertise does not guarantee accuracy, but it affects how testimony is evaluated. Marcel benefits from that principle.
 
@@ -319,9 +319,9 @@ The same facts that help Marcel also create the central weakness in his case.
 
 A witness can be highly qualified and still be mistaken. Historical investigations rarely treat expertise alone as decisive proof. Instead, expertise raises confidence in an observation while leaving the observation subject to verification.
 
-In Marcel’s case, critics note that his most extraordinary descriptions emerged decades after the event. The Roswell incident occurred in 1947, but the testimony that transformed the case into a major UFO controversy largely entered public discussion in the late 1970s and beyond. That time gap inevitably raises questions about memory, reconstruction and the influence of later interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+In Marcel’s case, critics note that his most extraordinary descriptions emerged decades after the event. The Roswell incident occurred in 1947, but the testimony that transformed the case into a major UFO controversy largely entered public discussion in the late 1970s and beyond. That time gap inevitably raises questions about memory, reconstruction and the influence of later interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
-Sceptics also point out that intelligence officers are not specialists in every type of classified technology. The later Air Force explanation linked the debris to [Project Mogul]({{ 'project-mogul/' | relative_url }}), a highly secret balloon programme designed to detect Soviet nuclear testing. Under that interpretation, Marcel's intelligence credentials do not necessarily guarantee recognition of a compartmentalised project to which he may not have had access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+Sceptics also point out that intelligence officers are not specialists in every type of classified technology. The later Air Force explanation linked the debris to [Project Mogul]({{ 'project-mogul/' | relative_url }}), a highly secret balloon programme designed to detect Soviet nuclear testing. Under that interpretation, Marcel's intelligence credentials do not necessarily guarantee recognition of a compartmentalised project to which he may not have had access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 This produces an important distinction often lost in popular discussions:
 
@@ -336,7 +336,7 @@ Those are separate questions.
 
 The largest credibility problem is not Marcel himself. It is the absence of corroborating evidence.
 
-In historical investigations, strong witnesses are most persuasive when their accounts are supported by documents, photographs, laboratory analysis, chain-of-custody records or surviving physical artefacts. Marcel's testimony sits in a difficult position because none of those forms of corroboration conclusively support his later interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
+In historical investigations, strong witnesses are most persuasive when their accounts are supported by documents, photographs, laboratory analysis, chain-of-custody records or surviving physical artefacts. Marcel's testimony sits in a difficult position because none of those forms of corroboration conclusively support his later interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
 
 This is where the credibility tradeoff becomes most visible. If Marcel had been an ordinary observer, supporters could argue that missing documentation was unsurprising. But because he was an intelligence officer operating within a military structure, readers naturally expect a stronger documentary trail.
 
@@ -352,211 +352,211 @@ Questions frequently raised include:
 
 </div>
 
-These questions do not automatically disprove Marcel's account, but they explain why many historians and investigators stop short of treating his testimony as definitive proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</span></span></span>
+These questions do not automatically disprove Marcel's account, but they explain why many historians and investigators stop short of treating his testimony as definitive proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YadmGZcvgr8" title="Roswell Reports, Vol. 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer">Roswell Reports, Vol. 6</a></p><p class="youtube-embed-meta">Channel: PublicResourceOrg &middot; Views: 356.7K &middot; Uploaded: December 2009 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YadmGZcvgr8">Open on YouTube</a></p></div></div></div>
 
 ## The Core Credibility Tradeoff
 
-Marcel's intelligence background remains one of the strongest and most enduring arguments in favour of taking the Roswell witness testimony seriously. He was not a bystander, a rumour source or a second-hand storyteller. He occupied a recognised intelligence role within a highly significant military organisation and participated directly in the recovery effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">intelligence agents investigate ufos roswell 7 jul 1947</span><span class="citation-popover-snippet">Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</span></span></span>
+Marcel's intelligence background remains one of the strongest and most enduring arguments in favour of taking the Roswell witness testimony seriously. He was not a bystander, a rumour source or a second-hand storyteller. He occupied a recognised intelligence role within a highly significant military organisation and participated directly in the recovery effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">intelligence agents investigate ufos roswell 7 jul 1947</span><span class="citation-popover-snippet">Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</span></span></span>
 
 Yet that same status raises expectations. The more qualified Marcel appears, the more observers expect supporting evidence equal to the claim. His credentials make his testimony harder to dismiss, but they also make the absence of contemporaneous corroboration more difficult to overlook.
 
-As a result, Marcel remains neither an easily accepted authority nor an easily rejected witness. His intelligence role gives Roswell one of its most credible participants. The unresolved question is whether that credibility can carry the case without the physical evidence and documentation that historians normally seek when evaluating extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+As a result, Marcel remains neither an easily accepted authority nor an easily rejected witness. His intelligence role gives Roswell one of its most credible participants. The unresolved question is whether that credibility can carry the case without the physical evidence and documentation that historians normally seek when evaluating extraordinary claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_credibility_t_0ed9a8-Illustration-3-dark.svg" | relative_url }}" alt="Credibility illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_credibility_t_0ed9a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_credibility_t_0ed9a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Marcel&#x27;s Rank Help or Hurt His Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Marcel&#x27;s Rank Help or Hurt His Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Evaluates Marcel&#x27;s testimony and standing as a witness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Evaluates Marcel&#x27;s testimony and standing as a witness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly explores how Marcel&#x27;s credibility influenced the Roswell story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores how Marcel&#x27;s credibility influenced the Roswell story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines whether Marcel&#x27;s military background supports later claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines whether Marcel&#x27;s military background supports later claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner</p>
         
-        <p class="fr-book-desc">Presents Marcel as a significant and credible participant.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents Marcel as a significant and credible participant.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Green Alien FIGURINE or FRIDGE MAGNET Area 51 Incident Extra-terrestrial"><img src="{{ '/assets/images/marketplace-covers/574db204350d513edacd.jpg' | relative_url }}" alt="Listing image for Roswell Green Alien FIGURINE or FRIDGE MAGNET Area 51 Incident Extra-terrestrial" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer">Roswell Green Alien FIGURINE or FRIDGE MAGNET Area 51 Incident Extra-terrestrial</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure Roswell">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure Roswell</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Green Alien FIGURINE or FRIDGE MAGNET Area 51 Incident Extra-terrestrial"><img src="{{ '/assets/images/marketplace-covers/574db204350d513edacd.jpg' | relative_url }}" alt="Listing image for Roswell Green Alien FIGURINE or FRIDGE MAGNET Area 51 Incident Extra-terrestrial" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer">Roswell Green Alien FIGURINE or FRIDGE MAGNET Area 51 Incident Extra-terrestrial</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure Roswell">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure Roswell</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/2d6f592d3158de6caeb7.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure Roswell">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure Roswell</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/2d6f592d3158de6caeb7.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure Roswell">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure Roswell</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13&quot; Female Roswell Grey Alien Figure by Shudehill Giftware"><img src="{{ '/assets/images/marketplace-covers/77341e3b0833d22cffe6.jpg' | relative_url }}" alt="Listing image for 13&quot; Female Roswell Grey Alien Figure by Shudehill Giftware" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer">13&quot; Female Roswell Grey Alien Figure by Shudehill Giftware</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure Roswell">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure Roswell</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13&quot; Female Roswell Grey Alien Figure by Shudehill Giftware"><img src="{{ '/assets/images/marketplace-covers/77341e3b0833d22cffe6.jpg' | relative_url }}" alt="Listing image for 13&quot; Female Roswell Grey Alien Figure by Shudehill Giftware" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer">13&quot; Female Roswell Grey Alien Figure by Shudehill Giftware</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure Roswell">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure Roswell</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW"><img src="{{ '/assets/images/marketplace-covers/ec4353094c9cf1052c62.jpg' | relative_url }}" alt="Listing image for Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer">Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure Roswell">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure Roswell</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW"><img src="{{ '/assets/images/marketplace-covers/ec4353094c9cf1052c62.jpg' | relative_url }}" alt="Listing image for Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer">Roswell Conspiracies Nick Logan In Star Armour Figure 2000 Giochi Preziosi NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure Roswell">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure Roswell</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+Roswell&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure Roswell" data-ebay-reference="credibility-did-marcel-s-rank-help-or-hurt-his-case-roswell-ufo-crash-alien-figure-roswell" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ As a result, Marcel remains neither an easily accepted authority nor an easily r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ As a result, Marcel remains neither an easily accepted authority nor an easily r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ As a result, Marcel remains neither an easily accepted authority nor an easily r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ As a result, Marcel remains neither an easily accepted authority nor an easily r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ As a result, Marcel remains neither an easily accepted authority nor an easily r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,126 +762,126 @@ As a result, Marcel remains neither an easily accepted authority nor an easily r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
-   Link: <a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — the Intelligence Officer of the 509th Bomb Group, stationed a...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — the Intelligence Officer of the 509th Bomb Group, stationed a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentJesse Marcel revealed that the Army&#x27;s weather balloon claim had been a cover story, and speculated that the debris was...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentJesse Marcel revealed that the Army&#x27;s weather balloon claim had been a cover story, and speculated that the debris was...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Jesse Marcel  
-   Link: <a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/shows/historys-greatest-mysteries/season-1/episode-5" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/historys-greatest-mysteries/season-1/episode-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Major Jesse Marcel&#x27;s journal may contain coded clues to the truth behind Roswell. 1h 22min | Aired on Dec 12, 2020...</p></details>
+   Link:<a href="https://www.history.com/shows/historys-greatest-mysteries/season-1/episode-5" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/historys-greatest-mysteries/season-1/episode-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Jesse Marcel&#x27;s journal may contain coded clues to the truth behind Roswell. 1h 22min | Aired on Dec 12, 2020...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/printable/475677</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico. Marcel was assigned...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/printable/475677</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico. Marcel was assigned...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: major jesse marcel was the intelligence officer for the 509th composite bomb gro  
-   Link: <a href="https://www.facebook.com/100064220914176/photos/major-jesse-marcel-was-the-intelligence-officer-for-the-509th-composite-bomb-gro/106038178038754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064220914176/photos/major-jesse-marcel-was-the-intelligence-officer-for-the-509th-composite-bomb-gro/106038178038754/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For - Major Jesse Marcel was the intelligence officer...8 Dec 2020 — Major Jesse Marcel was the intelligence officer for the 509th Compo...</p></details>
+   Link:<a href="https://www.facebook.com/100064220914176/photos/major-jesse-marcel-was-the-intelligence-officer-for-the-509th-composite-bomb-gro/106038178038754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064220914176/photos/major-jesse-marcel-was-the-intelligence-officer-for-the-509th-composite-bomb-gro/106038178038754/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For - Major Jesse Marcel was the intelligence officer...8 Dec 2020 — Major Jesse Marcel was the intelligence officer for the 509th Compo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTIntelligence Officer of the 509th Bomb Group, stationed at Roswell AAF, Major Jesse A. Marcel, had recovered a &quot;flying dis...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTIntelligence Officer of the 509th Bomb Group, stationed at Roswell AAF, Major Jesse A. Marcel, had recovered a &quot;flying dis...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airbnb.com  
-   Link: <a href="https://www.airbnb.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.airbnb.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vacation rentals, cabins, beach houses, &amp; moreGet an Airbnb for every kind of trip → 8 million vacation rentals → 2 million Gues...</p></details>
+   Link:<a href="https://www.airbnb.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.airbnb.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vacation rentals, cabins, beach houses, &amp; moreGet an Airbnb for every kind of trip → 8 million vacation rentals → 2 million Gues...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: on july 8 1947 the [roswell daily record](&#123;&#123; 'newspaper/' | relative_url &#125;&#125;) reported the arrival of something strang  
-   Link: <a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel of the 509th Bomb Group Intelligence Office. Action was immediately taken and the disc was picked up at the rancher&#x27;s home. It...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel of the 509th Bomb Group Intelligence Office. Action was immediately taken and the disc was picked up at the rancher&#x27;s home. It...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/roswell-the-first-witness/articles/does-an-army-officer-s-secret-diary-reveal-new-clues-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/roswell-the-first-witness/articles/does-an-army-officer-s-secret-diary-reveal-new-clues-to-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>happened at Roswell and new evidence of where the alien wreckage might still lie...Read more...</p></details>
+   Link:<a href="https://www.history.co.uk/shows/roswell-the-first-witness/articles/does-an-army-officer-s-secret-diary-reveal-new-clues-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/roswell-the-first-witness/articles/does-an-army-officer-s-secret-diary-reveal-new-clues-to-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>happened at Roswell and new evidence of where the alien wreckage might still lie...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bridgemanimages.com  
-   Link: <a href="https://www.bridgemanimages.com/en/noartistknown/jesse-marcel-who-initially-investigated-the-roswell-ufo-site/photo/asset/3586752" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgemanimages.com/en/noartistknown/jesse-marcel-who-initially-investigated-the-roswell-ufo-site/photo/asset/3586752</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO site, 1947 - High quality fine art images, pictures, photos and videos from...</p></details>
+   Link:<a href="https://www.bridgemanimages.com/en/noartistknown/jesse-marcel-who-initially-investigated-the-roswell-ufo-site/photo/asset/3586752" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgemanimages.com/en/noartistknown/jesse-marcel-who-initially-investigated-the-roswell-ufo-site/photo/asset/3586752</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO site, 1947 - High quality fine art images, pictures, photos and videos from...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-[secrecy" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-[secrecy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he Roswell case, raising questions about whether the public was...Read more...</p></details>
+   Link:<a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-[secrecy" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-[secrecy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he Roswell case, raising questions about whether the public was...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: edn.com  
    Title: roswell incident is first reported july 8 1947  
-   Link: <a href="https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident is first reported, July 8, 1947It was reported on July 8, 1947 that the Roswell Army Air Field issued a press release sa...</p></details>
+   Link:<a href="https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.edn.com/roswell-incident-is-first-reported-july-8-1947/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident is first reported, July 8, 1947It was reported on July 8, 1947 that the Roswell Army Air Field issued a press release sa...</p></details>
    Published: July 8, 1947  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/o3m5lp/1984_interview_with_major_jesse_marcel_one_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/o3m5lp/1984_interview_with_major_jesse_marcel_one_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1984 Interview with Major Jesse Marcel - one of the first witnesses of...June 19, 2021 — i come from an air force family, my great grand...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/o3m5lp/1984_interview_with_major_jesse_marcel_one_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/o3m5lp/1984_interview_with_major_jesse_marcel_one_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1984 Interview with Major Jesse Marcel - one of the first witnesses of...June 19, 2021 — i come from an air force family, my great grand...</p></details>
    Published: June 19, 2021  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/roswell-the-first-witness/articles/jesse-marcel-roswell-s-first-witness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/roswell-the-first-witness/articles/jesse-marcel-roswell-s-first-witness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rs of his family, along with former CIA operative Ben Smith.Read more...</p></details>
+   Link:<a href="https://www.history.co.uk/shows/roswell-the-first-witness/articles/jesse-marcel-roswell-s-first-witness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/roswell-the-first-witness/articles/jesse-marcel-roswell-s-first-witness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rs of his family, along with former CIA operative Ben Smith.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
    Title: Going back to Roswell in light of disclosure  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major Jesse...Major Jesse Marcel Sr was one of the first military officers to attend with a group to investigate the crash site, assiste...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Jesse...Major Jesse Marcel Sr was one of the first military officers to attend with a group to investigate the crash site, assiste...</p></details>

@@ -280,11 +280,11 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_fbi_t
 
 ## Introduction
 
-Among the documents closest to the Roswell event itself, the FBI teletype of 8 July 1947 occupies a unique position. It is neither the famous Roswell Army Air Field press release announcing a recovered “[flying disc]({{ 'flying-disc/' | relative_url }})” nor a retrospective explanation written decades later. Instead, it is a near-contemporary communication that [records]({{ 'records/' | relative_url }}) what military officials were reporting on the very day the story broke. For readers trying to understand Roswell through the strongest surviving documentary evidence, the teletype functions as a bridge between the sensational “saucer” headlines and the later balloon-based explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: FBI+2FAS Project on Government Secrecy">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">FBI+2FAS Project on Government Secrecy</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
+Among the documents closest to the Roswell event itself, the FBI teletype of 8 July 1947 occupies a unique position. It is neither the famous Roswell Army Air Field press release announcing a recovered “[flying disc]({{ 'flying-disc/' | relative_url }})” nor a retrospective explanation written decades later. Instead, it is a near-contemporary communication that [records]({{ 'records/' | relative_url }}) what military officials were reporting on the very day the story broke. For readers trying to understand Roswell through the strongest surviving documentary evidence, the teletype functions as a bridge between the sensational “saucer” headlines and the later balloon-based explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: FBI+2FAS Project on Government Secrecy">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">FBI+2FAS Project on Government Secrecy</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_fbi_teletype_bridge_2bd34b-Illustration-1-dark.svg" | relative_url }}" alt="FBI Teletype illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_fbi_teletype_bridge_2bd34b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_fbi_teletype_bridge_2bd34b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Its importance lies less in proving a particular theory and more in narrowing the range of possibilities. The document preserves a description of the recovered object that includes a balloon, cables, and a radar reflector—details that are often overshadowed by later accounts of crashed spacecraft and alien [bodies]({{ 'bodies/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: FBI+2FAS Project on Government Secrecy">[FBI+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">FBI+2FAS Project on Government Secrecy</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
+Its importance lies less in proving a particular theory and more in narrowing the range of possibilities. The document preserves a description of the recovered object that includes a balloon, cables, and a radar reflector—details that are often overshadowed by later accounts of crashed spacecraft and alien [bodies]({{ 'bodies/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: FBI+2FAS Project on Government Secrecy">[fbi.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">FBI+2FAS Project on Government Secrecy</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K4SiqjS28ZE" title="Let&#x27;s Talk About the New UFO Files Released by The Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer">Let&#x27;s Talk About the New UFO Files Released by The Government</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 153.8K &middot; Uploaded: May 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K4SiqjS28ZE">Open on YouTube</a></p></div></div></div>
@@ -295,19 +295,19 @@ The document was sent by the FBI's Dallas Field Office after receiving informati
 
 The object was described as:
 
-* Hexagonal in shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/the-roswell-teletype.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[jasoncolavito.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-snippet">The Roswell TeletypeTHE DISC IS HEXAGONAL IN SHAPE AND WAS SUSPENDED FROM A BALLON BY CABLE, WHICH BALLON WAS APPROXIMATELY TWENTY FEET I...</span></span></span> * Suspended from a balloon by cable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/the-roswell-teletype.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[jasoncolavito.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-snippet">The Roswell TeletypeTHE DISC IS HEXAGONAL IN SHAPE AND WAS SUSPENDED FROM A BALLON BY CABLE, WHICH BALLON WAS APPROXIMATELY TWENTY FEET I...</span></span></span>
+* Hexagonal in shape.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/the-roswell-teletype.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[jasoncolavito.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-snippet">The Roswell TeletypeTHE DISC IS HEXAGONAL IN SHAPE AND WAS SUSPENDED FROM A BALLON BY CABLE, WHICH BALLON WAS APPROXIMATELY TWENTY FEET I...</span></span></span> * Suspended from a balloon by cable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/the-roswell-teletype.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[jasoncolavito.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-snippet">The Roswell TeletypeTHE DISC IS HEXAGONAL IN SHAPE AND WAS SUSPENDED FROM A BALLON BY CABLE, WHICH BALLON WAS APPROXIMATELY TWENTY FEET I...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Attached to a balloon approximately twenty feet in diameter.
-* Resembling a high-altitude weather balloon with a radar reflector. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — identified the July 8, 1947, FBI teletype message discussing the recovery near Roswell of...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
-* Being transported to Wright Field in Ohio for examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+* Resembling a high-altitude weather balloon with a radar reflector.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — identified the July 8, 1947, FBI teletype message discussing the recovery near Roswell of...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+* Being transported to Wright Field in Ohio for examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 </div>
 
-These details matter because they are not generic. A balloon, cables, and a radar reflector describe a physical assembly rather than an unexplained metallic craft. The wording also shows that military personnel were already attempting to identify the object in familiar aeronautical terms on the same day that “flying disc” headlines were circulating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: FBI+2FAS Project on Government Secrecy">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">FBI+2FAS Project on Government Secrecy</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
+These details matter because they are not generic. A balloon, cables, and a radar reflector describe a physical assembly rather than an unexplained metallic craft. The wording also shows that military personnel were already attempting to identify the object in familiar aeronautical terms on the same day that “flying disc” headlines were circulating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: FBI+2FAS Project on Government Secrecy">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">FBI+2FAS Project on Government Secrecy</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
 
-One often-discussed sentence notes that conversations with Wright Field had “not borne out” the belief that the object was simply a weather balloon. That phrase has generated decades of debate. Some readers interpret it as evidence of uncertainty or disagreement within military channels. Others note that uncertainty is exactly what would be expected before technical examination had been completed. What is clear from the text itself is that the teletype records an active identification process rather than a settled conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">Inside the FBI Podcast: UFOs — FBIFurther advised that the object found resembles a high-altitude weather balloon with a radar reflect...</span></span></span>
+One often-discussed sentence notes that conversations with Wright Field had “not borne out” the belief that the object was simply a weather balloon. That phrase has generated decades of debate. Some readers interpret it as evidence of uncertainty or disagreement within military channels. Others note that uncertainty is exactly what would be expected before technical examination had been completed. What is clear from the text itself is that the teletype records an active identification process rather than a settled conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">Inside the FBI Podcast: UFOs — FBIFurther advised that the object found resembles a high-altitude weather balloon with a radar reflect...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
@@ -321,13 +321,13 @@ One often-discussed sentence notes that conversations with Wright Field had “n
 
 The value of the teletype comes largely from when it was created.
 
-Many of the most famous Roswell claims emerged decades after 1947. Memories changed, new witnesses appeared, and theories expanded to include recovered spacecraft, extraterrestrial bodies, and extensive government concealment. The FBI teletype predates all of that. It was written during the original event, before Roswell became a cultural phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: FBI+2FAS Project on Government Secrecy">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">FBI+2FAS Project on Government Secrecy</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
+Many of the most famous Roswell claims emerged decades after 1947. Memories changed, new witnesses appeared, and theories expanded to include recovered spacecraft, extraterrestrial bodies, and extensive government concealment. The FBI teletype predates all of that. It was written during the original event, before Roswell became a cultural phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: FBI+2FAS Project on Government Secrecy">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">FBI+2FAS Project on Government Secrecy</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
 
 The timing also [places]({{ 'places/' | relative_url }}) the document between two competing narratives:
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_fbi_teletype_bridge_2bd34b-Illustration-2-dark.svg" | relative_url }}" alt="FBI Teletype illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_fbi_teletype_bridge_2bd34b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_roswell_evidence_sta_1bc5d2_fbi_teletype_bridge_2bd34b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-1. The public announcement that a “flying disc” had been recovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+1. The public announcement that a “flying disc” had been recovered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 2. The rapid move toward identifying the [debris]({{ 'debris/' | relative_url }}) as balloon-related material. [Wikipedia](https://en.wikipedia.org/wiki/1947_flying_disc_craze)
 
 Because it sits in the middle of that transition, the teletype captures the moment when military officials were communicating internally while public reporting remained confused and highly influenced by the 1947 flying-[saucer craze]({{ 'saucer-craze/' | relative_url }}). It therefore provides evidence about what officials were discussing before later explanations became formalised. [Encyclopedia Britannica](https://www.britannica.com/event/Roswell-incident)
@@ -368,194 +368,194 @@ For readers beginning with primary evidence, the FBI teletype is one of the most
 That combination is what makes the document a bridge record. It neither confirms the dramatic interpretation suggested by the original press release nor fully reflects the detailed explanations that emerged later. Instead, it captures the transition between them. As a result, it helps narrow the central Roswell question from “What stories were later told?” to “What did officials closest to the event believe they were dealing with at the time?” [GAO+2FAS Project on Government Secrecy](https://www.gao.gov/assets/nsiad-95-187.pdf)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Roswell Document Between Saucer and Balloon. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Roswell Document Between Saucer and Balloon. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly addresses Roswell evidence, debris descriptions, witness claims, and how the narrative developed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses Roswell evidence, debris descriptions, witness claims, and how the narrative developed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Presents the leading crash-retrieval case and is useful context for evaluating conflicting evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents the leading crash-retrieval case and is useful context for evaluating conflicting evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines documentary records and competing explanations central to interpreting the FBI teletype.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documentary records and competing explanations central to interpreting the FBI teletype.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the influential crash narrative against which documentary evidence such as the teletype is often compared.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the influential crash narrative against which documentary evidence such as the teletype is often compared.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights"><img src="{{ '/assets/images/marketplace-covers/61b940309fc6c9103d6e.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights"><img src="{{ '/assets/images/marketplace-covers/61b940309fc6c9103d6e.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="fbi-teletype-the-roswell-document-between-saucer-and-balloon-roswell-ufo-crash-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ That combination is what makes the document a bridge record. It neither confirms
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ That combination is what makes the document a bridge record. It neither confirms
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ That combination is what makes the document a bridge record. It neither confirms
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ That combination is what makes the document a bridge record. It neither confirms
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ That combination is what makes the document a bridge record. It neither confirms
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,123 +761,123 @@ That combination is what makes the document a bridge record. It neither confirms
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — identified the July 8, 1947, FBI teletype message discussing the recovery near Roswell of...</p></details>
+   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — identified the July 8, 1947, FBI teletype message discussing the recovery near Roswell of...</p></details>
    Published: July 8, 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe FBI message stated that the military had reported that an object...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe FBI message stated that the military had reported that an object...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jasoncolavito.com  
-   Link: <a href="https://www.jasoncolavito.com/the-roswell-teletype.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/the-roswell-teletype.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell TeletypeTHE DISC IS HEXAGONAL IN SHAPE AND WAS SUSPENDED FROM A BALLON BY CABLE, WHICH BALLON WAS APPROXIMATELY TWENTY FEET I...</p></details>
+   Link:<a href="https://www.jasoncolavito.com/the-roswell-teletype.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/the-roswell-teletype.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell TeletypeTHE DISC IS HEXAGONAL IN SHAPE AND WAS SUSPENDED FROM A BALLON BY CABLE, WHICH BALLON WAS APPROXIMATELY TWENTY FEET I...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the FBI Podcast: UFOs — FBIFurther advised that the object found resembles a high-altitude weather balloon with a radar reflect...</p></details>
+   Link:<a href="https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the FBI Podcast: UFOs — FBIFurther advised that the object found resembles a high-altitude weather balloon with a radar reflect...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>balloon in 1947 near Roswell, New Mexico, which became the center of a conspiracy theory involving UFOs and aliens. The U.S. military...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>balloon in 1947 near Roswell, New Mexico, which became the center of a conspiracy theory involving UFOs and aliens. The U.S. military...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gao.justia.com  
    Title: GAO Reports NSIAD-95-187  
-   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</p></details>
+   Link:<a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</p></details>
    Published: July 1947  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Most versions now claim that there were two crash sites where...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Most versions now claim that there were two crash sites where...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air Fie...</p></details>
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air Fie...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/search?SearchableText=ufo" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>results — 23 items matching your search termsOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that...</p></details>
+   Link:<a href="https://vault.fbi.gov/search?SearchableText=ufo" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>results — 23 items matching your search termsOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that...</p></details>
    Published: July 8, 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTRecords were located and thoroughly explored concerning a then-TOP SECRET balloon project, designed to a...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTRecords were located and thoroughly explored concerning a then-TOP SECRET balloon project, designed to a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Vault Reveals UFO, Roswell Files&quot;The disc is hexagonal in shape and was suspended from a balloon by cable,&quot; the document said. &quot;The o...</p></details>
+   Link:<a href="https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Vault Reveals UFO, Roswell Files&quot;The disc is hexagonal in shape and was suspended from a balloon by cable,&quot; the document said. &quot;The o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — On July 8, 1947, a, New Mexico ignited 70 years of &quot;flying saucer&quot; sightings. more than 300 alleged “flying saucer” sightin...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — On July 8, 1947, a, New Mexico ignited 70 years of &quot;flying saucer&quot; sightings. more than 300 alleged “flying saucer” sightin...</p></details>
    Published: July 8, 1947  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: latimes.com  
    Title: la xpm 2012 jul 08 la na nn 65 years aliens roswell 20120708 story  
-   Link: <a href="https://www.latimes.com/nation/la-xpm-2012-jul-08-la-na-nn-65-years-aliens-roswell-20120708-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/nation/la-xpm-2012-jul-08-la-na-nn-65-years-aliens-roswell-20120708-story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>65 years ago today, aliens probably didn&#x27;t land in Roswell...8 Jul 2012 — The disc is hexagonal in shape and was suspended from a ballo...</p></details>
+   Link:<a href="https://www.latimes.com/nation/la-xpm-2012-jul-08-la-na-nn-65-years-aliens-roswell-20120708-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/nation/la-xpm-2012-jul-08-la-na-nn-65-years-aliens-roswell-20120708-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>65 years ago today, aliens probably didn&#x27;t land in Roswell...8 Jul 2012 — The disc is hexagonal in shape and was suspended from a ballo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#AstroOTD FAMOUS ROSWELL “UFO CRASH”...Initial Reports: On July 8, 1947, the Roswell Army Air Field (RAAF) issued a press release statin...</p></details>
+   Link:<a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-[roswell-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#AstroOTD FAMOUS ROSWELL “UFO CRASH”...Initial Reports: On July 8, 1947, the Roswell Army Air Field (RAAF) issued a press release statin...</p></details>
    Published: July 8, 1947  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: Did the US just quietly confirm the Roswell crashed UFO  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying disc,&#x27; but also says it was &#x27;suspended from a balloon by cable&#x27; and resembled a high-altitude weather balloon with a radar reflect...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying disc,&#x27; but also says it was &#x27;suspended from a balloon by cable&#x27; and resembled a high-altitude weather balloon with a radar reflect...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: GENERAL ACCOUNTING OFFICE S SCHIFF  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGovernment Records13 Jul 2021 — identified the July 8, 1947, FBI teletype message discussing the recovery near Rosw...</p></details>
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGovernment Records13 Jul 2021 — identified the July 8, 1947, FBI teletype message discussing the recovery near Rosw...</p></details>
    Published: July 8, 1947  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: deseret.com  
    Title: ufo documents destroyed unjustifiably lawmaker says  
-   Link: <a href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — The GAO report includes an FBI teletype and a reference to a &quot;radar tracking de...</p></details>
+   Link:<a href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — The GAO report includes an FBI teletype and a reference to a &quot;radar tracking de...</p></details>

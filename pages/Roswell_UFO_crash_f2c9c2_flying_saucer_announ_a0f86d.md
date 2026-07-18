@@ -448,67 +448,67 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-overv
 
 ## Introduction
 
-Roswell Army Air Field’s flying saucer announcement endured because it briefly made the extraordinary sound official. On 8 July 1947, the [Roswell Daily Record]({{ 'newspaper/' | relative_url }}) reported that the intelligence office of the 509th Bombardment Group had announced it had “come into possession of a flying saucer”, with the object recovered from a ranch after the local sheriff contacted the base. Within hours, senior officers at Fort Worth reframed the material as a weather balloon, and later [official reviews]({{ 'official-reviews/' | relative_url }}) tied the debris to a classified balloon programme rather than an alien craft. Yet the first announcement gave Roswell a distinctive evidential charge: for one news cycle, the dramatic claim appeared to come not from a private witness, but from the military itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+Roswell Army Air Field’s flying saucer announcement endured because it briefly made the extraordinary sound official. On 8 July 1947, the [Roswell Daily Record]({{ 'newspaper/' | relative_url }}) reported that the intelligence office of the 509th Bombardment Group had announced it had “come into possession of a flying saucer”, with the object recovered from a ranch after the local sheriff contacted the base. Within hours, senior officers at Fort Worth reframed the material as a weather balloon, and later [official reviews]({{ 'official-reviews/' | relative_url }}) tied the debris to a classified balloon programme rather than an alien craft. Yet the first announcement gave Roswell a distinctive evidential charge: for one news cycle, the dramatic claim appeared to come not from a private witness, but from the military itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-overview.webp" | relative_url }}" alt="Overview image for Announcement" loading="eager" decoding="sync" fetchpriority="high">
-That is why the announcement matters more than its short life might suggest. Many UFO stories begin with sightings, rumours, or later [testimony]({{ 'testimony/' | relative_url }}). Roswell’s central public spark was different: a base public information channel, a named intelligence office, an atomic-age military unit, a local newspaper headline, and then a rapid official reversal. The lasting question is not simply “what crashed?”, but why a military organisation initially used language that seemed to validate the new “flying saucer” idea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+That is why the announcement matters more than its short life might suggest. Many UFO stories begin with sightings, rumours, or later [testimony]({{ 'testimony/' | relative_url }}). Roswell’s central public spark was different: a base public information channel, a named intelligence office, an atomic-age military unit, a local newspaper headline, and then a rapid official reversal. The lasting question is not simply “what crashed?”, but why a military organisation initially used language that seemed to validate the new “flying saucer” idea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 ## What the announcement said
 
-The Roswell [Daily Record]({{ 'daily-record/' | relative_url }})’s 8 July story was direct, brief, and unusually powerful. Its headline, “RAAF Captures Flying Saucer On Ranch in Roswell Region”, turned a local recovery into a national phrase. The article said the intelligence office of the 509th Bombardment Group at Roswell Army Air Field had announced at noon that the field had acquired a flying saucer. It added that information had been released “over authority of Maj. J. A. Marcel”, the intelligence officer, and that the disk had been recovered after an unidentified rancher notified [Sheriff]({{ 'sheriff/' | relative_url }}) George Wilcox. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+The Roswell [Daily Record]({{ 'daily-record/' | relative_url }})’s 8 July story was direct, brief, and unusually powerful. Its headline, “RAAF Captures Flying Saucer On Ranch in Roswell Region”, turned a local recovery into a national phrase. The article said the intelligence office of the 509th Bombardment Group at Roswell Army Air Field had announced at noon that the field had acquired a flying saucer. It added that information had been released “over authority of Maj. J. A. Marcel”, the intelligence officer, and that the disk had been recovered after an unidentified rancher notified [Sheriff]({{ 'sheriff/' | relative_url }}) George Wilcox.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
-The report also contained details that made the announcement sound procedural rather than merely sensational. Major Marcel and a party from his department had gone to the ranch and recovered the “disk”; the intelligence office had inspected the “instrument”; and it had then been flown to “higher headquarters”. Just as important, the article said no details of the saucer’s construction or appearance had been revealed, leaving the dramatic label in place while withholding the ordinary descriptive information that might have calmed speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+The report also contained details that made the announcement sound procedural rather than merely sensational. Major Marcel and a party from his department had gone to the ranch and recovered the “disk”; the intelligence office had inspected the “instrument”; and it had then been flown to “higher headquarters”. Just as important, the article said no details of the saucer’s construction or appearance had been revealed, leaving the dramatic label in place while withholding the ordinary descriptive information that might have calmed speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
-The announcement did not stand alone on the page. The same article included a separate account from Roswell residents Dan and Mrs Wilmot, who reported seeing a glowing, oval object days earlier. That pairing mattered for memory: the official recovery story and a local sighting story appeared together, encouraging later readers to treat them as part of one coherent event even though they were different kinds of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+The announcement did not stand alone on the page. The same article included a separate account from Roswell residents Dan and Mrs Wilmot, who reported seeing a glowing, oval object days earlier. That pairing mattered for memory: the official recovery story and a local sighting story appeared together, encouraging later readers to treat them as part of one coherent event even though they were different kinds of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-Illustration-1-dark.svg" | relative_url }}" alt="Announcement illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the source mattered
 
-The announcement carried unusual weight because of who appeared to be speaking. Roswell Army Air Field was not a random rural outpost. The recovery was attributed to personnel from the 509th Bombardment Group, a unit associated with the post-war atomic military world; U.S. Army material notes that Major Jesse Marcel was assigned to the 509th Composite Group at Roswell, which had deployed during Operation Crossroads, the 1946 nuclear weapons tests at Bikini Atoll. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Open source on dvidshub.net.</span></span></span>
+The announcement carried unusual weight because of who appeared to be speaking. Roswell Army Air Field was not a random rural outpost. The recovery was attributed to personnel from the 509th Bombardment Group, a unit associated with the post-war atomic military world; U.S. Army material notes that Major Jesse Marcel was assigned to the 509th Composite Group at Roswell, which had deployed during Operation Crossroads, the 1946 nuclear weapons tests at Bikini Atoll.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Open source on dvidshub.net.</span></span></span>
 
-That institutional setting made the claim feel more credible than an ordinary civilian rumour. The article framed the story through the base intelligence office, Major Marcel, and the sheriff’s chain of notification. In other words, the public did not first encounter Roswell as a campfire tale about strange lights. It arrived as a story in which military intelligence had recovered, inspected, and forwarded an object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+That institutional setting made the claim feel more credible than an ordinary civilian rumour. The article framed the story through the base intelligence office, Major Marcel, and the sheriff’s chain of notification. In other words, the public did not first encounter Roswell as a campfire tale about strange lights. It arrived as a story in which military intelligence had recovered, inspected, and forwarded an object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
-The announcement also landed during the 1947 flying-disc wave. The Army’s own historical account places Roswell within a period of repeated alleged sightings in the United States, especially in the American Southwest. That setting helps explain why the term “flying disc” or “flying saucer” was available to describe puzzling debris, but it also explains why the wording was so explosive: newspapers and readers were already primed to treat such language as evidence of a new aerial mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Open source on dvidshub.net.</span></span></span>
+The announcement also landed during the 1947 flying-disc wave. The Army’s own historical account places Roswell within a period of repeated alleged sightings in the United States, especially in the American Southwest. That setting helps explain why the term “flying disc” or “flying saucer” was available to describe puzzling debris, but it also explains why the wording was so explosive: newspapers and readers were already primed to treat such language as evidence of a new aerial mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Open source on dvidshub.net.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JkFjUhLONms" title="Museum Unveils Declassified Roswell Artifact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JkFjUhLONms" target="_blank" rel="noopener noreferrer">Museum Unveils Declassified Roswell Artifact</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 15.0K &middot; Uploaded: April 2017 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JkFjUhLONms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JkFjUhLONms">Open on YouTube</a></p></div></div></div>
 
 ## How the reversal sharpened the mystery
 
-The first announcement was short-lived. According to the Government Accountability Office’s later review, the RAAF public information office reported the crash and recovery of a “flying disc” on 8 July 1947, and the following day press reports said Brigadier General Roger Ramey, commanding general of the Eighth [Air Force]({{ 'air-force/' | relative_url }}) at Fort Worth, had announced that the recovered object was a radar-tracking weather balloon, not a flying disc. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
+The first announcement was short-lived. According to the Government Accountability Office’s later review, the RAAF public information office reported the crash and recovery of a “flying disc” on 8 July 1947, and the following day press reports said Brigadier General Roger Ramey, commanding general of the Eighth [Air Force]({{ 'air-force/' | relative_url }}) at Fort Worth, had announced that the recovered object was a radar-tracking weather balloon, not a flying disc.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
 
-The reversal is central to the announcement’s afterlife. If the military had only said “balloon” from the beginning, Roswell would probably have remained a minor debris recovery. If it had only said “flying saucer” and never corrected itself, the case would have developed differently. Instead, the public record preserved a sharp before-and-after: first, a base-linked claim of a flying saucer; then, a higher-command explanation that the material was a balloon. That contradiction became the hinge on which later cover-up arguments turned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The reversal is central to the announcement’s afterlife. If the military had only said “balloon” from the beginning, Roswell would probably have remained a minor debris recovery. If it had only said “flying saucer” and never corrected itself, the case would have developed differently. Instead, the public record preserved a sharp before-and-after: first, a base-linked claim of a flying saucer; then, a higher-command explanation that the material was a balloon. That contradiction became the hinge on which later cover-up arguments turned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-Official records later complicated the simple “weather balloon” correction. The GAO reported that the Air Force did not dispute that something happened near Roswell, but concluded that the most likely source of the wreckage was a balloon train from Project Mogul, a classified effort to detect Soviet nuclear weapons research. That meant the 1947 weather-balloon explanation was not the full story, even if the best official explanation still pointed to a terrestrial balloon project rather than an extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
+Official records later complicated the simple “weather balloon” correction. The GAO reported that the Air Force did not dispute that something happened near Roswell, but concluded that the most likely source of the wreckage was a balloon train from Project Mogul, a classified effort to detect Soviet nuclear weapons research. That meant the 1947 weather-balloon explanation was not the full story, even if the best official explanation still pointed to a terrestrial balloon project rather than an extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-Illustration-2-dark.svg" | relative_url }}" alt="Announcement illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the wording shaped memory
 
-The announcement’s language did a lot of lasting work. “Flying saucer” was not a cautious technical description; it was the most culturally charged phrase available in July 1947. The Daily Record article used both “saucer” and “disk”, while also calling the recovered item an “instrument”. Those shifts let the object sound at once mechanical, mysterious, and validated by official handling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+The announcement’s language did a lot of lasting work. “Flying saucer” was not a cautious technical description; it was the most culturally charged phrase available in July 1947. The Daily Record article used both “saucer” and “disk”, while also calling the recovered item an “instrument”. Those shifts let the object sound at once mechanical, mysterious, and validated by official handling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
-The phrase “higher headquarters” also became important. In the original article, it simply explained that the inspected material had been sent up the chain. In later Roswell storytelling, that same movement of debris became fertile ground for claims about Fort Worth, Wright Field, hidden storage, and military secrecy. The FBI teletype described in the GAO review similarly said an object near Roswell resembled a high-altitude weather balloon with a radar reflector and that the disc and balloon were being sent to Wright Field for examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
+The phrase “higher headquarters” also became important. In the original article, it simply explained that the inspected material had been sent up the chain. In later Roswell storytelling, that same movement of debris became fertile ground for claims about Fort Worth, Wright Field, hidden storage, and military secrecy. The FBI teletype described in the GAO review similarly said an object near Roswell resembled a high-altitude weather balloon with a radar reflector and that the disc and balloon were being sent to Wright Field for examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
 
-Memory also preserved the headline more cleanly than the article’s caveats. The newspaper did say no construction details had been released, and the official reversal came quickly. But “RAAF Captures Flying Saucer” was short, official-sounding, and easy to reproduce. That made it more durable than the technical explanation that followed. The Smithsonian’s National Air and Space Museum preserves the Roswell Daily Record front page as a notable image of the episode, reflecting how the headline itself became an artefact of UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
+Memory also preserved the headline more cleanly than the article’s caveats. The newspaper did say no construction details had been released, and the official reversal came quickly. But “RAAF Captures Flying Saucer” was short, official-sounding, and easy to reproduce. That made it more durable than the technical explanation that followed. The Smithsonian’s National Air and Space Museum preserves the Roswell Daily Record front page as a notable image of the episode, reflecting how the headline itself became an artefact of UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odUSnDgU-oo" title="The Mysterious Roswell UFO Incident of 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer">The Mysterious Roswell UFO Incident of 1947</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 317.2K &middot; Uploaded: January 2012 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odUSnDgU-oo">Open on YouTube</a></p></div></div></div>
 
 ## What the surviving records do and do not prove
 
-The announcement proves that Roswell’s flying saucer claim entered public circulation through an official military information channel. It does not, by itself, prove that the recovered object was an alien spacecraft. The strongest surviving contemporary records point to a confusing chain: debris found on a ranch, a local report to the sheriff, RAAF involvement, an initial public statement using “flying disc” language, and a rapid correction identifying balloon-related material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
+The announcement proves that Roswell’s flying saucer claim entered public circulation through an official military information channel. It does not, by itself, prove that the recovered object was an alien spacecraft. The strongest surviving contemporary records point to a confusing chain: debris found on a ranch, a local report to the sheriff, RAAF involvement, an initial public statement using “flying disc” language, and a rapid correction identifying balloon-related material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">RAAF Captures Flying Saucer on Ranch in Roswell Region</span><span class="citation-popover-snippet">RAAF Captures Flying Saucer on Ranch in Roswell Region</span></span></span>
 
-The GAO’s 1995 records search is especially useful because it separates evidence from absence. It found two 1947 records: a July 1947 history report by the combined 509th Bomb Group and RAAF, and an FBI teletype from 8 July. The unit history said the public information office had been busy answering inquiries about the “flying disc” reported to be in the possession of the 509th Bomb Group, and that the object turned out to be a radar-tracking balloon. The FBI message said the recovered object resembled a high-altitude weather balloon with a radar reflector. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
+The GAO’s 1995 records search is especially useful because it separates evidence from absence. It found two 1947 records: a July 1947 history report by the combined 509th Bomb Group and RAAF, and an FBI teletype from 8 July. The unit history said the public information office had been busy answering inquiries about the “flying disc” reported to be in the possession of the 509th Bomb Group, and that the object turned out to be a radar-tracking balloon. The FBI message said the recovered object resembled a high-altitude weather balloon with a radar reflector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
 
-At the same time, the GAO found that some RAAF records had been destroyed, including administrative records from March 1945 through December 1949 and outgoing messages from October 1946 through December 1949. That gap does not prove an alien recovery, but it helps explain why the announcement remained vulnerable to suspicion: a dramatic official statement, a fast correction, a classified [Cold War]({{ 'cold-war/' | relative_url }}) balloon programme, and incomplete surviving records created a space in which later interpretations could grow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
+At the same time, the GAO found that some RAAF records had been destroyed, including administrative records from March 1945 through December 1949 and outgoing messages from October 1946 through December 1949. That gap does not prove an alien recovery, but it helps explain why the announcement remained vulnerable to suspicion: a dramatic official statement, a fast correction, a classified [Cold War]({{ 'cold-war/' | relative_url }}) balloon programme, and incomplete surviving records created a space in which later interpretations could grow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-Illustration-3-dark.svg" | relative_url }}" alt="Announcement illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_flying_saucer_announ_a0f86d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this announcement still defines Roswell
 
-The RAAF announcement endured because it gave Roswell a feature many UFO stories lack: a documented moment when military language appeared to confirm the extraordinary. Later investigations, including the Air Force’s Project Mogul explanation, make the balloon interpretation far stronger than the alien-craft claim. But the announcement remains central because it fixed the public memory before the correction arrived. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+The RAAF announcement endured because it gave Roswell a feature many UFO stories lack: a documented moment when military language appeared to confirm the extraordinary. Later investigations, including the Air Force’s Project Mogul explanation, make the balloon interpretation far stronger than the alien-craft claim. But the announcement remains central because it fixed the public memory before the correction arrived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 Its importance is therefore evidential and cultural at the same time. Evidentially, it is a primary public trace of what the base said, or was reported as saying, on 8 July 1947. Culturally, it gave Roswell its signature contradiction: the Army first said “flying saucer”, then said “weather balloon”, and decades later acknowledged that the balloon story concealed a classified surveillance project. That sequence is enough to explain why the announcement became more than a newspaper item. It became the sentence Roswell could never quite outgrow.
 
@@ -517,194 +517,194 @@ Its importance is therefore evidential and cultural at the same time. Evidential
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Flying Saucer Press Release Endured. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Flying Saucer Press Release Endured. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Explores testimony and why the story persisted in public memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores testimony and why the story persisted in public memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for the flying-saucer craze that made the Roswell announcement so powerful.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for the flying-saucer craze that made the Roswell announcement so powerful.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Directly examines the original announcement, media coverage, and enduring impact of Roswell.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the original announcement, media coverage, and enduring impact of Roswell.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Focuses on the evidence, witnesses, and controversy created by the initial claim and reversal.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the evidence, witnesses, and controversy created by the initial claim and reversal.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cbbb6c28907e6c685e71.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cbbb6c28907e6c685e71.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="{{ '/assets/images/marketplace-covers/2b78ede972258550fbe8.jpg' | relative_url }}" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="{{ '/assets/images/marketplace-covers/2b78ede972258550fbe8.jpg' | relative_url }}" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster"><img src="{{ '/assets/images/marketplace-covers/2f9747ee40cac1c17d46.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster"><img src="{{ '/assets/images/marketplace-covers/2f9747ee40cac1c17d46.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="announcement-why-the-flying-saucer-press-release-endured-roswell-ufo-crash-roswell-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -720,7 +720,7 @@ Its importance is therefore evidential and cultural at the same time. Evidential
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -740,7 +740,7 @@ Its importance is therefore evidential and cultural at the same time. Evidential
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -772,7 +772,7 @@ Its importance is therefore evidential and cultural at the same time. Evidential
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -824,7 +824,7 @@ Its importance is therefore evidential and cultural at the same time. Evidential
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -869,7 +869,7 @@ Its importance is therefore evidential and cultural at the same time. Evidential
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -910,144 +910,144 @@ Its importance is therefore evidential and cultural at the same time. Evidential
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: RAAF Captures Flying Saucer on Ranch in Roswell Region  
-   Link: <a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
    Title: Project on Government Secrecy GAO Report on Roswell, NM UFO Crash  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/printable/475677</a>  
+   Link:<a href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/printable/475677</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: U.S. Air Force reports on Roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: Does Hangar 18, Legendary Alien Warehouse, Exist? | HISTORY  
-   Link: <a href="https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson</a>  
+   Link:<a href="https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
    Title: New Mexico  
-   Link: <a href="https://www.history.com/articles/new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/new-mexico</a>  
+   Link:<a href="https://www.history.com/articles/new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/new-mexico</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: links.e.history.com  
    Title: D ebzd Hqsh Gj SLN8BDDs0LP3h LVqw SL1  
-   Link: <a href="https://links.e.history.com/s/c/H4Bkhw7bVdgnbYzY1_uu5LcNHRJy6aX2n311-ruDB2T692auRBpj273qaECyGYI6ti82qeMi9-qaQYyRs1f1653eXuU1ohYjHotXk7DbGwnO6GiZXAhRSmlk2N_ZeTSnd8raDtHUkhQ6RfJcrjQdbVdlS140Nkwco8HEkxUSt_ZXpHyuxmAb-lmATDLAuZDTYpJ-RTEE2ttADnW1HFYe0y4usdP8QUofGg7BGMfb19wEbh1kG4svq_l-ZR3oSOIuQzP2/D-ebzdHqshGjSLN8BDDs0LP3hLVqwSL1/9" target="_blank" rel="noopener noreferrer nofollow">https://links.e.history.com/s/c/H4Bkhw7bVdgnbYzY1_uu5LcNHRJy6aX2n311-ruDB2T692auRBpj273qaECyGYI6ti82qeMi9-qaQYyRs1f1653eXuU1ohYjHotXk7DbGwnO6GiZXAhRSmlk2N_ZeTSnd8raDtHUkhQ6RfJcrjQdbVdlS140Nkwco8HEkxUSt_ZXpHyuxmAb-lmATDLAuZDTYpJ-RTEE2ttADnW1HFYe0y4usdP8QUofGg7BGMfb19wEbh1kG4svq_l-ZR3oSOIuQzP2/D-ebzdHqshGjSLN8BDDs0LP3hLVqwSL1/9</a>  
+   Link:<a href="https://links.e.history.com/s/c/H4Bkhw7bVdgnbYzY1_uu5LcNHRJy6aX2n311-ruDB2T692auRBpj273qaECyGYI6ti82qeMi9-qaQYyRs1f1653eXuU1ohYjHotXk7DbGwnO6GiZXAhRSmlk2N_ZeTSnd8raDtHUkhQ6RfJcrjQdbVdlS140Nkwco8HEkxUSt_ZXpHyuxmAb-lmATDLAuZDTYpJ-RTEE2ttADnW1HFYe0y4usdP8QUofGg7BGMfb19wEbh1kG4svq_l-ZR3oSOIuQzP2/D-ebzdHqshGjSLN8BDDs0LP3hLVqwSL1/9" target="_blank" rel="noopener noreferrer nofollow">https://links.e.history.com/s/c/H4Bkhw7bVdgnbYzY1_uu5LcNHRJy6aX2n311-ruDB2T692auRBpj273qaECyGYI6ti82qeMi9-qaQYyRs1f1653eXuU1ohYjHotXk7DbGwnO6GiZXAhRSmlk2N_ZeTSnd8raDtHUkhQ6RfJcrjQdbVdlS140Nkwco8HEkxUSt_ZXpHyuxmAb-lmATDLAuZDTYpJ-RTEE2ttADnW1HFYe0y4usdP8QUofGg7BGMfb19wEbh1kG4svq_l-ZR3oSOIuQzP2/D-ebzdHqshGjSLN8BDDs0LP3hLVqwSL1/9</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFO  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view</a>  
+   Link:<a href="https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: content.time.com  
    Title: 0,33009,986565 2,00  
-   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kids.britannica.com  
    Title: Roswell Incident  
-   Link: <a href="https://kids.britannica.com/students/article/Roswell-Incident/313285" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Roswell-Incident/313285</a>  
+   Link:<a href="https://kids.britannica.com/students/article/Roswell-Incident/313285" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Roswell-Incident/313285</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: muller.lbl.gov  
    Title: Muller Lab Project Mogul  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo</a>  
+   Link:<a href="https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Roswell Daily Record  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_Daily_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_Daily_Record</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_Daily_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_Daily_Record</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lumsx-bbb.lums.edu.pk  
    Title: lums.edu.pk Roswell Daily Record  
-   Link: <a href="https://lumsx-bbb.lums.edu.pk/fast-dispatch/roswell-daily-record-july-8-1947-the-ufo-headline-1764804578" target="_blank" rel="noopener noreferrer nofollow">https://lumsx-bbb.lums.edu.pk/fast-dispatch/roswell-daily-record-july-8-1947-the-ufo-headline-1764804578</a>  
+   Link:<a href="https://lumsx-bbb.lums.edu.pk/fast-dispatch/roswell-daily-record-july-8-1947-the-ufo-headline-1764804578" target="_blank" rel="noopener noreferrer nofollow">https://lumsx-bbb.lums.edu.pk/fast-dispatch/roswell-daily-record-july-8-1947-the-ufo-headline-1764804578</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: Roswell Daily Record,  
-   Link: <a href="https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832</a>  
+   Link:<a href="https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: picryl.com  
    Title: Roswell Daily Record  
-   Link: <a href="https://picryl.com/[media" target="_blank" rel="noopener noreferrer nofollow">https://picryl.com/[media</a>  
+   Link:<a href="https://picryl.com/[media" target="_blank" rel="noopener noreferrer nofollow">https://picryl.com/[media</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761379/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761379/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761379/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761379/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: roswell-nm.gov  
-   Link: <a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
+   Link:<a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
+   Link:<a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
    Published: may 1948  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Roswell: The UFO mystery that still haunts America | Planet America  
-   Link: <a href="https://www.youtube.com/watch?v=gGsUUvOXxtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gGsUUvOXxtY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Roswell UFO Incident of 1947...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gGsUUvOXxtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gGsUUvOXxtY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Roswell UFO Incident of 1947...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Museum Unveils Declassified Roswell Artifact  
-   Link: <a href="https://www.youtube.com/watch?v=JkFjUhLONms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JkFjUhLONms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: The UFO mystery that still haunts America | Planet America...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JkFjUhLONms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JkFjUhLONms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: The UFO mystery that still haunts America | Planet America...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754</a>  
+   Link:<a href="https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: commons.wikimedia.org  
    Title: File:Roswell Daily Record  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_page.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_page.webp</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_page.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_page.webp</a>  
    Published: July 8, 1947  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: commons.wikimedia.org  
    Title: File:Roswell Daily Record  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
    Published: July 8, 1947  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nbc.ca  
-   Link: <a href="https://www.nbc.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbc.ca/</a>  
+   Link:<a href="https://www.nbc.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbc.ca/</a>  

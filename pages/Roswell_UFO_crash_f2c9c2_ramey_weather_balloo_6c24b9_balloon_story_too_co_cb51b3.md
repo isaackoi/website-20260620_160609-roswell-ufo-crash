@@ -274,11 +274,11 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_ballo
 
 ## Introduction
 
-The weather balloon explanation sounded suspicious to many people not because balloons were inherently implausible, but because of how the explanation appeared. In the space of roughly one news cycle, an official military announcement that a “flying saucer” had been recovered was replaced by one of the most ordinary explanations imaginable: a weather balloon. That sharp contrast created a [credibility]({{ 'credibility/' | relative_url }}) problem that has followed the Roswell story ever since. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+The weather balloon explanation sounded suspicious to many people not because balloons were inherently implausible, but because of how the explanation appeared. In the space of roughly one news cycle, an official military announcement that a “flying saucer” had been recovered was replaced by one of the most ordinary explanations imaginable: a weather balloon. That sharp contrast created a [credibility]({{ 'credibility/' | relative_url }}) problem that has followed the Roswell story ever since.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_balloon_story_too_co_cb51b3-Illustration-1-dark.svg" | relative_url }}" alt="Too Convenient illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_balloon_story_too_co_cb51b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_balloon_story_too_co_cb51b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Even readers who accept the modern [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation can understand why the original correction looked convenient. The public saw a dramatic claim, an immediate reversal, and little detailed explanation. What appeared to be a simple clarification later turned out to conceal a classified military programme, meaning the official “weather balloon” story was not the whole truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Even readers who accept the modern [Project Mogul]({{ 'project-mogul/' | relative_url }}) explanation can understand why the original correction looked convenient. The public saw a dramatic claim, an immediate reversal, and little detailed explanation. What appeared to be a simple clarification later turned out to conceal a classified military programme, meaning the official “weather balloon” story was not the whole truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dyJjcjpxKgY" title="We Are Not Alone: Expert sheds light on Roswell UFO incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dyJjcjpxKgY" target="_blank" rel="noopener noreferrer">We Are Not Alone: Expert sheds light on Roswell UFO incident</a></p><p class="youtube-embed-meta">Channel: Queen City News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dyJjcjpxKgY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dyJjcjpxKgY">Open on YouTube</a></p></div></div></div>
@@ -287,9 +287,9 @@ Even readers who accept the modern [Project Mogul]({{ 'project-mogul/' | relativ
 
 The power of the weather balloon explanation lies partly in its contrast with what came before it.
 
-In July 1947, the phrase “flying saucer” was one of the most exciting terms in American newspapers. Reports of mysterious objects in the sky were spreading nationwide, and public interest was intense. When Roswell Army Air Field announced that it had recovered a [flying disc]({{ 'flying-disc/' | relative_url }}), the statement sounded like confirmation from a military authority rather than a rumour from a civilian witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+In July 1947, the phrase “flying saucer” was one of the most exciting terms in American newspapers. Reports of mysterious objects in the sky were spreading nationwide, and public interest was intense. When Roswell Army Air Field announced that it had recovered a [flying disc]({{ 'flying-disc/' | relative_url }}), the statement sounded like confirmation from a military authority rather than a rumour from a civilian witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-The replacement explanation could hardly have been more different. A weather balloon represented something familiar, routine and unremarkable. To many observers, the correction felt less like a discovery and more like a dismissal. The gap between the extraordinary first headline and the mundane second explanation created an enduring sense that the public had been given the least controversial answer available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">DID ALIENS REALLY LAND?</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The next day, under the headline GENERAL RAMEY EMPTIES ROSWELL SAUCER, the Daily Record r...</span></span></span>
+The replacement explanation could hardly have been more different. A weather balloon represented something familiar, routine and unremarkable. To many observers, the correction felt less like a discovery and more like a dismissal. The gap between the extraordinary first headline and the mundane second explanation created an enduring sense that the public had been given the least controversial answer available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">DID ALIENS REALLY LAND?</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The next day, under the headline GENERAL RAMEY EMPTIES ROSWELL SAUCER, the Daily Record r...</span></span></span>
 
 This psychological contrast became part of Roswell’s appeal. The issue was not simply whether the debris came from a balloon. It was that the official story seemed to travel instantly from maximum mystery to minimum mystery.
 
@@ -300,9 +300,9 @@ This psychological contrast became part of Roswell’s appeal. The issue was not
 
 Rapid corrections are common when mistakes occur, but Roswell involved an unusually public reversal.
 
-The original announcement was not a speculative [newspaper]({{ 'newspaper/' | relative_url }}) story. It originated from military sources and stated that personnel had recovered a flying disc. Within hours, higher command presented debris to reporters and declared that the object was merely a radar-tracking weather balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Peter James]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+The original announcement was not a speculative [newspaper]({{ 'newspaper/' | relative_url }}) story. It originated from military sources and stated that personnel had recovered a flying disc. Within hours, higher command presented debris to reporters and declared that the object was merely a radar-tracking weather balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-For later observers, the speed of the change raised a question: if the object was obviously balloon debris, why had the initial identification happened at all? Critics argued that the correction appeared too neat, as though an explanation had been selected to close the story quickly. Supporters of the official account responded that confusion was understandable because the recovered material was unusual and had been misidentified in a period of intense public excitement over flying saucers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+For later observers, the speed of the change raised a question: if the object was obviously balloon debris, why had the initial identification happened at all? Critics argued that the correction appeared too neat, as though an explanation had been selected to close the story quickly. Supporters of the official account responded that confusion was understandable because the recovered material was unusual and had been misidentified in a period of intense public excitement over flying saucers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 The key point is that the correction arrived before the public had much opportunity to examine the contradiction. Instead of a gradual investigation producing a revised conclusion, Roswell appeared to move from sensational claim to final answer almost immediately. That sequence helped create the impression of a managed narrative, regardless of whether one believes that impression was justified.
 
@@ -312,11 +312,11 @@ The key point is that the correction arrived before the public had much opportun
 
 The strongest reason the weather balloon story later looked convenient is that it was, in an important sense, incomplete.
 
-Government investigations in the 1990s concluded that the debris was associated with Project Mogul, a highly classified programme that used balloon arrays and specialised equipment to detect evidence of Soviet nuclear testing. Officials in 1947 could not publicly discuss that mission because it was secret. As a result, the explanation presented to the public was simplified into the safer and more familiar label of a weather balloon. Encyclopedia Britannica+3U.S. Department of War+3FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</span></span></span>
+Government investigations in the 1990s concluded that the debris was associated with Project Mogul, a highly classified programme that used balloon arrays and specialised equipment to detect evidence of Soviet nuclear testing. Officials in 1947 could not publicly discuss that mission because it was secret. As a result, the explanation presented to the public was simplified into the safer and more familiar label of a weather balloon. Encyclopedia Britannica+3U.S. Department of War+3FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</span></span></span>
 
-This later revelation had an unintended consequence. It showed that the military had indeed concealed part of the real story. The concealment involved Cold War surveillance technology rather than extraterrestrial craft, but it confirmed that the public explanation was not fully accurate. For many people, that admission reinforced suspicions that official statements could not be accepted at face value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2nasw.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+This later revelation had an unintended consequence. It showed that the military had indeed concealed part of the real story. The concealment involved Cold War surveillance technology rather than extraterrestrial craft, but it confirmed that the public explanation was not fully accurate. For many people, that admission reinforced suspicions that official statements could not be accepted at face value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The irony is that the eventual Project Mogul explanation actually explains why a simple weather-balloon story was used. Yet the very fact that the explanation changed decades later gave sceptics of the official account a powerful argument: if the first explanation was incomplete, how could anyone be certain later explanations were complete? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+The irony is that the eventual Project Mogul explanation actually explains why a simple weather-balloon story was used. Yet the very fact that the explanation changed decades later gave sceptics of the official account a powerful argument: if the first explanation was incomplete, how could anyone be certain later explanations were complete?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fAArhGRN5xk" title="Was the Crash in Roswell a Weather Balloon?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fAArhGRN5xk" target="_blank" rel="noopener noreferrer">Was the Crash in Roswell a Weather Balloon?</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fAArhGRN5xk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fAArhGRN5xk">Open on YouTube</a></p></div></div></div>
@@ -325,204 +325,204 @@ The irony is that the eventual Project Mogul explanation actually explains why a
 
 The weather balloon story remains controversial because it sits at the intersection of three factors:
 
-* An official military claim about a recovered flying disc. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+* An official military claim about a recovered flying disc.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 * An almost immediate public correction to a mundane explanation.
-* A later acknowledgement that the public explanation concealed a classified project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+* A later acknowledgement that the public explanation concealed a classified project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">0708army announces roswell new mexico ufo sighting</span><span class="citation-popover-snippet">July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-Taken together, those factors created a mechanism that continually renews doubt. The issue is not merely the debris itself. It is the appearance that the simplest possible answer arrived at exactly the moment the military needed an answer, followed decades later by evidence that the explanation had omitted important facts. That combination explains why the weather balloon story felt suspicious to so many people and why it remains one of the most discussed aspects of the Roswell incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[nasw.org+2sciencefriday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">a still-secret government program from the 1940s called Project Mogul...</span></span></span>
+Taken together, those factors created a mechanism that continually renews doubt. The issue is not merely the debris itself. It is the appearance that the simplest possible answer arrived at exactly the moment the military needed an answer, followed decades later by evidence that the explanation had omitted important facts. That combination explains why the weather balloon story felt suspicious to so many people and why it remains one of the most discussed aspects of the Roswell incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[nasw.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">a still-secret government program from the 1940s called Project Mogul...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_balloon_story_too_co_cb51b3-Illustration-3-dark.svg" | relative_url }}" alt="Too Convenient illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_balloon_story_too_co_cb51b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_ramey_weather_balloo_6c24b9_balloon_story_too_co_cb51b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Balloon Story Felt Suspicious. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Balloon Story Felt Suspicious. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly examines why narratives such as the weather-balloon explanation generated lasting suspicion and mythmaking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines why narratives such as the weather-balloon explanation generated lasting suspicion and mythmaking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Explores claims of government secrecy and information control that echo themes discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores claims of government secrecy and information control that echo themes discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Helped popularize the Roswell controversy and the debate over the military&#x27;s changing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helped popularize the Roswell controversy and the debate over the military&#x27;s changing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner</p>
         
-        <p class="fr-book-desc">Focuses on the alleged cover-up narrative that made the balloon story appear suspicious to many readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the alleged cover-up narrative that made the balloon story appear suspicious to many readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled"><img src="{{ '/assets/images/marketplace-covers/94884a9cb26d9ea6820f.jpg' | relative_url }}" alt="Listing image for Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled"><img src="{{ '/assets/images/marketplace-covers/94884a9cb26d9ea6820f.jpg' | relative_url }}" alt="Listing image for Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Lindberg Roswell UFO w/ Alien Crew 1:48 Model Kit #91005 Unassembled</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell"><img src="{{ '/assets/images/marketplace-covers/cf8447edbd9e5fa1ebe9.jpg' | relative_url }}" alt="Listing image for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell"><img src="{{ '/assets/images/marketplace-covers/cf8447edbd9e5fa1ebe9.jpg' | relative_url }}" alt="Listing image for UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Phoenix Lights UFO 1997 – Geek Gift – UAP Model - UFOlogy – Roswell</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift"><img src="{{ '/assets/images/marketplace-covers/58c360064e1a0c1216b5.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift"><img src="{{ '/assets/images/marketplace-covers/58c360064e1a0c1216b5.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="too-convenient-why-the-balloon-story-felt-suspicious-roswell-ufo-crash-roswell-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ Taken together, those factors created a mechanism that continually renews doubt.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ Taken together, those factors created a mechanism that continually renews doubt.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ Taken together, those factors created a mechanism that continually renews doubt.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ Taken together, those factors created a mechanism that continually renews doubt.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ Taken together, those factors created a mechanism that continually renews doubt.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,145 +728,145 @@ Taken together, those factors created a mechanism that continually renews doubt.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: 0708army announces roswell new mexico ufo sighting  
-   Link: <a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</p></details>
+   Link:<a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947: Roswell Incident Launches UFO Controversy8 Jul 2010 — The Roswell Army Air Field issues a press release that says the...</p></details>
    Published: July 8, 1947  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sgp.fas.org  
    Title: Project on Government [Secrecy](&#123;&#123; 'secrecy/' | relative_url &#125;&#125;) GAO Report on Roswell, NM UFO Crash  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO Crash(5) a 1947 Air Force report noted the recovery of a flying disc that was later determined by military offi...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO Crash(5) a 1947 Air Force report noted the recovery of a flying disc that was later determined by military offi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeThe following day, the &quot;disc&quot; was revealed to be pieces of a weather balloon. On July 9, Roswell Daily Record re...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeThe following day, the &quot;disc&quot; was revealed to be pieces of a weather balloon. On July 9, Roswell Daily Record re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: content.time.com  
    Title: DID ALIENS REALLY LAND?  
-   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The next day, under the headline GENERAL [RAMEY](&amp;#123;&amp;#123; &#x27;ramey/&#x27; | relative_url &amp;#125;&amp;#125;) EMPTIES ROSWELL SAUCER, the Daily Record r...</p></details>
+   Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The next day, under the headline GENERAL [RAMEY](&amp;#123;&amp;#123; &#x27;ramey/&#x27; | relative_url &amp;#125;&amp;#125;) EMPTIES ROSWELL SAUCER, the Daily Record r...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencefriday.com  
    Title: The Real Roswell Cover-Up?  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: peterjames.com  
    Title: Peter James ROSWELL  
-   Link: <a href="https://www.peterjames.com/roswell-what-really-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.peterjames.com/roswell-what-really-happened/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ROSWELL - WHAT REALLY HAPPENED? - Peter JamesCommanding General of the Eighth Air Force stated that, in fact, a radar tracking balloon ha...</p></details>
+   Link:<a href="https://www.peterjames.com/roswell-what-really-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.peterjames.com/roswell-what-really-happened/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ROSWELL - WHAT REALLY HAPPENED? - Peter JamesCommanding General of the Eighth Air Force stated that, in fact, a radar tracking balloon ha...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOGUL [Neoprene Balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) and Standard Meteorological Weather Balloons... crash of a weather balloon near Roswell, New Mexico in July 1947...</p></details>
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOGUL [Neoprene Balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) and Standard Meteorological Weather Balloons... crash of a weather balloon near Roswell, New Mexico in July 1947...</p></details>
    Published: July 1947  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wxii12.com  
-   Link: <a href="https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499" target="_blank" rel="noopener noreferrer nofollow">https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Day in History: Air Force debunks UFO theories after...8 Jul 2019 — Air Force officials were quick to correct the paper saying it w...</p></details>
+   Link:<a href="https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499" target="_blank" rel="noopener noreferrer nofollow">https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Day in History: Air Force debunks UFO theories after...8 Jul 2019 — Air Force officials were quick to correct the paper saying it w...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: on july 8 1947 the roswell daily record reported the arrival of something strang  
-   Link: <a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...On July 8, 1947, Roswell Army Air Field issued a press release stating that...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...On July 8, 1947, Roswell Army Air Field issued a press release stating that...</p></details>
    Published: July 8, 1947  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Roswell Daily Record On July 8, 1947, a headline in the local paper in Roswell, New Mexico ignited 70 years of &quot;flying sauce...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Roswell Daily Record On July 8, 1947, a headline in the local paper in Roswell, New Mexico ignited 70 years of &quot;flying sauce...</p></details>
    Published: July 8, 1947  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The classified Project Mogul was designed to detect sound waves in the upper atmosphere from Soviet atom bomb tests by...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-[roswell-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The classified Project Mogul was designed to detect sound waves in the upper atmosphere from Soviet atom bomb tests by...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ia601607.us.archive.org  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact versus Fiction in the New Mexico...Project MOGUL resulted from two important post-World War II priorities set by the...</p></details>
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact versus Fiction in the New Mexico...Project MOGUL resulted from two important post-World War II priorities set by the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gutenberg.org  
    Title: The Roswell Report: Case Closed, by James Mc Andrew—  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. Moore launched the balloon train on June 4, 1947, tha...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. Moore launched the balloon train on June 4, 1947, tha...</p></details>
    Published: June 4, 1947  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
    Title: declassified description of the ufo from the 1947  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/118rjyp/declassified_description_of_the_ufo_from_the_1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/118rjyp/declassified_description_of_the_ufo_from_the_1947/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified description of the &quot;UFO&quot; from the 1947...Declassified description of the &quot;UFO&quot; from the 1947 Roswell Incident as a hexagona...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/118rjyp/declassified_description_of_the_ufo_from_the_1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/118rjyp/declassified_description_of_the_ufo_from_the_1947/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified description of the &quot;UFO&quot; from the 1947...Declassified description of the &quot;UFO&quot; from the 1947 Roswell Incident as a hexagona...</p></details>

@@ -280,36 +280,36 @@ image: /assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_m
 
 ## Introduction
 
-The strength of Jesse [Marcel]({{ 'marcel/' | relative_url }})’s later Roswell [testimony]({{ 'testimony/' | relative_url }}) depends heavily on a difficult question: how much weight should be given to memories recalled more than thirty years after the event? Marcel was unquestionably involved in the 1947 debris recovery, but the claims that made him famous in UFO history emerged only after Roswell had largely vanished from public discussion and was revived by researchers in the late 1970s. That long gap sits at the centre of the debate. Supporters argue that Marcel finally felt free to tell the truth after retirement. Critics argue that memory changes over time, especially when an event is reinterpreted decades later. The issue is not whether Marcel was present in 1947, but whether his recollections from the late 1970s and early 1980s can reliably overturn the surviving contemporary record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+The strength of Jesse [Marcel]({{ 'marcel/' | relative_url }})’s later Roswell [testimony]({{ 'testimony/' | relative_url }}) depends heavily on a difficult question: how much weight should be given to memories recalled more than thirty years after the event? Marcel was unquestionably involved in the 1947 debris recovery, but the claims that made him famous in UFO history emerged only after Roswell had largely vanished from public discussion and was revived by researchers in the late 1970s. That long gap sits at the centre of the debate. Supporters argue that Marcel finally felt free to tell the truth after retirement. Critics argue that memory changes over time, especially when an event is reinterpreted decades later. The issue is not whether Marcel was present in 1947, but whether his recollections from the late 1970s and early 1980s can reliably overturn the surviving contemporary record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_memory_gap_309321-Illustration-1-dark.svg" | relative_url }}" alt="Memory Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_memory_gap_309321-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_memory_gap_309321-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Roswell Faded Before the Late 1970s Revival
 
-One reason the memory question matters so much is that Roswell was not continuously debated from 1947 onward. After the initial [newspaper]({{ 'newspaper/' | relative_url }}) coverage and the military’s balloon explanation, the episode largely disappeared from public attention for decades. Contemporary UFO literature discussed many sightings and cases, but Roswell was not yet the defining UFO event it would later become. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsAliens Changed Roswell, Even Without Proof24 Feb 2005 — Marcel&#x27;s story might still be forgotten were it not for a UFO-ologist nam...</span></span></span>
+One reason the memory question matters so much is that Roswell was not continuously debated from 1947 onward. After the initial [newspaper]({{ 'newspaper/' | relative_url }}) coverage and the military’s balloon explanation, the episode largely disappeared from public attention for decades. Contemporary UFO literature discussed many sightings and cases, but Roswell was not yet the defining UFO event it would later become.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsAliens Changed Roswell, Even Without Proof24 Feb 2005 — Marcel&#x27;s story might still be forgotten were it not for a UFO-ologist nam...</span></span></span>
 
-The turning point came in 1978 when nuclear physicist and UFO researcher Stanton Friedman interviewed the retired Marcel. According to later accounts, Friedman had been searching for witnesses connected to old UFO incidents and found in Marcel a participant who rejected the official explanation. Roswell's modern fame largely dates from this encounter and the investigations that followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+The turning point came in 1978 when nuclear physicist and UFO researcher Stanton Friedman interviewed the retired Marcel. According to later accounts, Friedman had been searching for witnesses connected to old UFO incidents and found in Marcel a participant who rejected the official explanation. Roswell's modern fame largely dates from this encounter and the investigations that followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
-This chronology is important because it means Marcel was not repeatedly recounting the same story in public over thirty years. Instead, the most influential version of his account surfaced after a long period in which the event had attracted little public scrutiny. Historians and psychologists often treat such long-delayed testimony cautiously because memories are reconstructed rather than replayed like recordings. The passage of time does not automatically make a witness wrong, but it does increase the possibility of distortion, omission and reinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsAliens Changed Roswell, Even Without Proof24 Feb 2005 — Marcel&#x27;s story might still be forgotten were it not for a UFO-ologist nam...</span></span></span>
+This chronology is important because it means Marcel was not repeatedly recounting the same story in public over thirty years. Instead, the most influential version of his account surfaced after a long period in which the event had attracted little public scrutiny. Historians and psychologists often treat such long-delayed testimony cautiously because memories are reconstructed rather than replayed like recordings. The passage of time does not automatically make a witness wrong, but it does increase the possibility of distortion, omission and reinterpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsAliens Changed Roswell, Even Without Proof24 Feb 2005 — Marcel&#x27;s story might still be forgotten were it not for a UFO-ologist nam...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YadmGZcvgr8" title="Roswell Reports, Vol. 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer">Roswell Reports, Vol. 6</a></p><p class="youtube-embed-meta">Channel: PublicResourceOrg &middot; Views: 356.7K &middot; Uploaded: December 2009 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YadmGZcvgr8">Open on YouTube</a></p></div></div></div>
 
 ## What Changed When Marcel Spoke to UFO Researchers?
 
-Marcel's later descriptions were substantially more dramatic than the sparse descriptions available from 1947. In interviews beginning in 1978, he argued that the debris he recovered was not a weather balloon and possessed unusual characteristics. Later Roswell literature attributed to him descriptions of extraordinary materials, unusual markings and properties that he believed could not be explained by conventional military equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+Marcel's later descriptions were substantially more dramatic than the sparse descriptions available from 1947. In interviews beginning in 1978, he argued that the debris he recovered was not a weather balloon and possessed unusual characteristics. Later Roswell literature attributed to him descriptions of extraordinary materials, unusual markings and properties that he believed could not be explained by conventional military equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
-From the perspective of UFO researchers, this was exactly why Marcel mattered. He was not a second-hand storyteller but the intelligence officer who had handled the debris. His military background gave his recollections greater apparent credibility than those of casual observers. If someone in his position concluded decades later that the material was extraordinary, proponents argue that his judgment deserves serious consideration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">intelligence agents investigate ufos roswell 7 jul 1947</span><span class="citation-popover-snippet">Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</span></span></span>
+From the perspective of UFO researchers, this was exactly why Marcel mattered. He was not a second-hand storyteller but the intelligence officer who had handled the debris. His military background gave his recollections greater apparent credibility than those of casual observers. If someone in his position concluded decades later that the material was extraordinary, proponents argue that his judgment deserves serious consideration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">intelligence agents investigate ufos roswell 7 jul 1947</span><span class="citation-popover-snippet">Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</span></span></span>
 
-Critics, however, note that the [later claims]({{ 'later-claims/' | relative_url }}) emerged within a changed cultural environment. By the late 1970s, public interest in UFOs, government secrecy and crash-retrieval stories had expanded significantly. Researchers were actively looking for forgotten witnesses, and Roswell was being reframed as a possible cover-up rather than a minor newspaper story. Sceptics argue that such a context can influence how old events are remembered and narrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">did aliens really land</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND?Jun 22, 1997 — After quizzing Marcel, who still believed the debris he retrieved was extraterrestrial, Friedma...</span></span></span>
+Critics, however, note that the [later claims]({{ 'later-claims/' | relative_url }}) emerged within a changed cultural environment. By the late 1970s, public interest in UFOs, government secrecy and crash-retrieval stories had expanded significantly. Researchers were actively looking for forgotten witnesses, and Roswell was being reframed as a possible cover-up rather than a minor newspaper story. Sceptics argue that such a context can influence how old events are remembered and narrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">did aliens really land</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND?Jun 22, 1997 — After quizzing Marcel, who still believed the debris he retrieved was extraterrestrial, Friedma...</span></span></span>
 
-Another point frequently raised is that some elements associated with later Roswell narratives were absent from the earliest record. Even sympathetic accounts acknowledge that the larger mythology surrounding Roswell developed gradually through interviews, books and witness recollections gathered decades after the fact. Sky at Night Magazine+2JH Movie Fandom <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">roswell ufo incident</span><span class="citation-popover-snippet">Sky at Night MagazineRoswell UFO incident facts and history26 Jun 2025 — None of the original reports had mentioned alien bodies, and eve...</span></span></span>
+Another point frequently raised is that some elements associated with later Roswell narratives were absent from the earliest record. Even sympathetic accounts acknowledge that the larger mythology surrounding Roswell developed gradually through interviews, books and witness recollections gathered decades after the fact. Sky at Night Magazine+2JH Movie Fandom<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">roswell ufo incident</span><span class="citation-popover-snippet">Sky at Night MagazineRoswell UFO incident facts and history26 Jun 2025 — None of the original reports had mentioned alien bodies, and eve...</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_memory_gap_309321-Illustration-2-dark.svg" | relative_url }}" alt="Memory Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_memory_gap_309321-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_memory_gap_309321-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Problem of Memory Versus Documentation
 
-The central evidential tension is straightforward. Marcel's later testimony is direct eyewitness evidence, but it comes from memory. The surviving 1947 material consists of photographs, military statements, newspaper reports and documentary records created close to the event. When the two conflict, investigators must decide which deserves greater weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
+The central evidential tension is straightforward. Marcel's later testimony is direct eyewitness evidence, but it comes from memory. The surviving 1947 material consists of photographs, military statements, newspaper reports and documentary records created close to the event. When the two conflict, investigators must decide which deserves greater weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
 Supporters of Marcel generally make three arguments:
 
@@ -318,7 +318,7 @@ Supporters of Marcel generally make three arguments:
 
 * He had first-hand access to the debris.
 * He maintained that the official explanation was false.
-* He had little obvious reason to invent the story after retirement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+* He had little obvious reason to invent the story after retirement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 </div>
 
@@ -329,7 +329,7 @@ Critics respond with three counterarguments:
 
 * The most extraordinary claims appeared decades after the event.
 * Human memory is vulnerable to reconstruction over long periods.
-* No surviving physical evidence independently verifies the strongest later claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
+* No surviving physical evidence independently verifies the strongest later claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
 </div>
 
@@ -343,204 +343,204 @@ The dispute therefore becomes less about whether Marcel was sincere and more abo
 
 ## How Delayed Testimony Should Be Weighed
 
-A balanced assessment does not require choosing between complete acceptance and complete dismissal. Long-delayed testimony can remain valuable, especially when it comes from a participant with direct involvement. Marcel's statements reveal how he understood the event later in life and why he rejected the balloon explanation. Those [views]({{ 'views/' | relative_url }}) are an important part of the Roswell story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+A balanced assessment does not require choosing between complete acceptance and complete dismissal. Long-delayed testimony can remain valuable, especially when it comes from a participant with direct involvement. Marcel's statements reveal how he understood the event later in life and why he rejected the balloon explanation. Those [views]({{ 'views/' | relative_url }}) are an important part of the Roswell story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
-At the same time, historians generally give greater weight to records created close to an event than to memories recorded decades later. The longer the interval between occurrence and testimony, the more important corroboration becomes. In Marcel's case, the evidential challenge is that his strongest claims rely largely on recollection rather than surviving physical artefacts, technical reports or contemporaneous written statements supporting the same conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
+At the same time, historians generally give greater weight to records created close to an event than to memories recorded decades later. The longer the interval between occurrence and testimony, the more important corroboration becomes. In Marcel's case, the evidential challenge is that his strongest claims rely largely on recollection rather than surviving physical artefacts, technical reports or contemporaneous written statements supporting the same conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</span></span></span>
 
-This does not settle the Roswell controversy, but it explains why Marcel remains such a contested figure. Believers see a trained intelligence officer finally speaking freely after years of silence. Sceptics see a witness recalling an event through a thirty-year filter shaped by time, retelling and a changing cultural landscape. The debate over Marcel's credibility is therefore inseparable from the debate over memory itself: whether recollections recorded three decades later can outweigh the documentary record left behind in 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+This does not settle the Roswell controversy, but it explains why Marcel remains such a contested figure. Believers see a trained intelligence officer finally speaking freely after years of silence. Sceptics see a witness recalling an event through a thirty-year filter shaped by time, retelling and a changing cultural landscape. The debate over Marcel's credibility is therefore inseparable from the debate over memory itself: whether recollections recorded three decades later can outweigh the documentary record left behind in 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_memory_gap_309321-Illustration-3-dark.svg" | relative_url }}" alt="Memory Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_memory_gap_309321-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Roswell_UFO_crash_f2c9c2_jesse_marcel_role_af3c3f_marcel_memory_gap_309321-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Marcel&#x27;s Late Memory Carry the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Marcel&#x27;s Late Memory Carry the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Presents witness memories that emerged decades after the event.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents witness memories that emerged decades after the event.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly addresses how later recollections shaped Roswell&#x27;s evolution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how later recollections shaped Roswell&#x27;s evolution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines delayed testimony and the evidential problems it creates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines delayed testimony and the evidential problems it creates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Built largely on Marcel&#x27;s later recollections after a long gap.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built largely on Marcel&#x27;s later recollections after a long gap.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-gap-can-marcel-s-late-memory-carry-the-case-roswell-ufo-crash-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ This does not settle the Roswell controversy, but it explains why Marcel remains
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ This does not settle the Roswell controversy, but it explains why Marcel remains
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ This does not settle the Roswell controversy, but it explains why Marcel remains
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ This does not settle the Roswell controversy, but it explains why Marcel remains
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ This does not settle the Roswell controversy, but it explains why Marcel remains
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,120 +746,120 @@ This does not settle the Roswell controversy, but it explains why Marcel remains
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Jesse Marcel  
-   Link: <a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2026 — In February 1978, Marcel, then a retired lieutenant colonel, was interviewed by ufologist Stanton Friedman. In that interv...</p></details>
    Published: May 10, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?Jun 22, 1997 — After quizzing Marcel, who still believed the debris he retrieved was extraterrestrial, Friedma...</p></details>
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?Jun 22, 1997 — After quizzing Marcel, who still believed the debris he retrieved was extraterrestrial, Friedma...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
-   Link: <a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman, William Moore, and the team of Kevin D. Randle and Donald R. Schmitt interviewed...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman, William Moore, and the team of Kevin D. Randle and Donald R. Schmitt interviewed...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — The first story reported that the Intelligence Officer of the 509th Bomb Group, s...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — The first story reported that the Intelligence Officer of the 509th Bomb Group, s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roswell (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) where the Roswell UFO exists, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) where the Roswell UFO exists, and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dafhistory.af.mil  
    Title: DAF History The Roswell Report  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAliens Changed Roswell, Even Without Proof24 Feb 2005 — Marcel&#x27;s story might still be forgotten were it not for a UFO-ologist nam...</p></details>
+   Link:<a href="https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAliens Changed Roswell, Even Without Proof24 Feb 2005 — Marcel&#x27;s story might still be forgotten were it not for a UFO-ologist nam...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skyatnightmagazine.com  
    Title: roswell ufo incident  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineRoswell UFO incident facts and history26 Jun 2025 — None of the original reports had mentioned alien [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;), and eve...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineRoswell UFO incident facts and history26 Jun 2025 — None of the original reports had mentioned alien [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;), and eve...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: roswell-nm.gov  
-   Link: <a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteFind activities offered by city&#x27;s Recreation Department, Roswell Public Library, and Roswell Museum Read on...</p></details>
+   Link:<a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteFind activities offered by city&#x27;s Recreation Department, Roswell Public Library, and Roswell Museum Read on...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16rez12/new_jesse_marcel_interview_released/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16rez12/new_jesse_marcel_interview_released/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jesse Marcel interview released: r/UFOsJust saw a tweet that the National Archives (.gov) just released the interview with Jesse Mar...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16rez12/new_jesse_marcel_interview_released/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16rez12/new_jesse_marcel_interview_released/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Jesse Marcel interview released: r/UFOsJust saw a tweet that the National Archives (.gov) just released the interview with Jesse Mar...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/v39wgv/jesse_marcel_on_what_really_happened_at_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/v39wgv/jesse_marcel_on_what_really_happened_at_roswell/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/v39wgv/jesse_marcel_on_what_really_happened_at_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/v39wgv/jesse_marcel_on_what_really_happened_at_roswell/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/17noo90/jesse_marcel_one_of_the_witnesses_to_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17noo90/jesse_marcel_one_of_the_witnesses_to_the_roswell/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/17noo90/jesse_marcel_one_of_the_witnesses_to_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17noo90/jesse_marcel_one_of_the_witnesses_to_the_roswell/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: standard.co.uk  
-   Link: <a href="https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>which casts new light on the incident and raises the possibility that we have, indeed, been visited by aliens.Read more...</p></details>
+   Link:<a href="https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>which casts new light on the incident and raises the possibility that we have, indeed, been visited by aliens.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
    Title: how 1978 conversation revived roswell ufo story linked condhesc i3nwf  
-   Link: <a href="https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a 1978 conversation revived the Roswell UFO story...The 1978 meeting between Jesse Marcel and Stanton Friedman reignited a global co...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a 1978 conversation revived the Roswell UFO story...The 1978 meeting between Jesse Marcel and Stanton Friedman reignited a global co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt31455007/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31455007/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel...MASHUP - Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel: The Roswell UFO Cr...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt31455007/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31455007/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel...MASHUP - Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel: The Roswell UFO Cr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/roswell-the-first-witness/articles/does-an-army-officer-s-secret-diary-reveal-new-clues-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/roswell-the-first-witness/articles/does-an-army-officer-s-secret-diary-reveal-new-clues-to-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>happened at Roswell and new evidence of where the alien wreckage might still lie...Read more...</p></details>
+   Link:<a href="https://www.history.co.uk/shows/roswell-the-first-witness/articles/does-an-army-officer-s-secret-diary-reveal-new-clues-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/roswell-the-first-witness/articles/does-an-army-officer-s-secret-diary-reveal-new-clues-to-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>happened at Roswell and new evidence of where the alien wreckage might still lie...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — Jesse Marcel was a UFO nut like a lot of military personnel...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — Jesse Marcel was a UFO nut like a lot of military personnel...</p></details>
