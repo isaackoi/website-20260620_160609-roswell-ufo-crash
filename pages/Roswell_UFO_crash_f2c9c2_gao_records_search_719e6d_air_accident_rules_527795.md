@@ -761,7 +761,7 @@ Within the broader government-accountability inquiry, this became one of the mos
 4.<a id="endnote-4"></a>
    Source: govinfo.gov  
    Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell report: [case closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;) / James McAndrewIn July 1994, the Office of the Secretary of the Air Force concluded an exhaustive...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell report: [case closed]({{ 'case-closed/' | relative_url }}) / James McAndrewIn July 1994, the Office of the Secretary of the Air Force concluded an exhaustive...</p></details>
    Published: July 1994  
 
 5.<a id="endnote-5"></a>
@@ -783,7 +783,7 @@ Within the broader government-accountability inquiry, this became one of the mos
 8.<a id="endnote-8"></a>
    Source: sgp.fas.org  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at [Roswell Air Field](&amp;#123;&amp;#123; &#x27;raaf-route/&#x27; | relative_url &amp;#125;&amp;#125;), New Mexico, focusing on...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at [Roswell Air Field]({{ 'raaf-route/' | relative_url }}), New Mexico, focusing on...</p></details>
 
 ### Additional References
 

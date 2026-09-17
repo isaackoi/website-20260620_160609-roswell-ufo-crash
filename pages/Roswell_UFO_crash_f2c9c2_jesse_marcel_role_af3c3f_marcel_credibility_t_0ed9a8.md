@@ -787,7 +787,7 @@ As a result, Marcel remains neither an easily accepted authority nor an easily r
 5.<a id="endnote-5"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: media.defense.gov  
@@ -837,7 +837,7 @@ As a result, Marcel remains neither an easily accepted authority nor an easily r
 
 14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Title: on july 8 1947 the [roswell daily record](&#123;&#123; 'newspaper/' | relative_url &#125;&#125;) reported the arrival of something strang  
+   Title: on july 8 1947 the [roswell daily record]({{ 'newspaper/' | relative_url }}) reported the arrival of something strang  
    Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel of the 509th Bomb Group Intelligence Office. Action was immediately taken and the disc was picked up at the rancher&#x27;s home. It...</p></details>
 

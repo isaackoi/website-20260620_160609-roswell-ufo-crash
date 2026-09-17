@@ -755,7 +755,7 @@ As a result, Jesse Marcel became more than a witness. He became the pivotal figu
    Source: Wikipedia  
    Title: Jesse Marcel  
    Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2026 — Marcel was the first military officer tasked with investigating the 1947 Roswell incident, where supposed &quot;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; de...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2026 — Marcel was the first military officer tasked with investigating the 1947 Roswell incident, where supposed &quot;[flying disc]({{ 'flying-disc/' | relative_url }})&quot; de...</p></details>
    Published: May 10, 2026  
 
 2.<a id="endnote-2"></a>
@@ -787,7 +787,7 @@ As a result, Jesse Marcel became more than a witness. He became the pivotal figu
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: reddit.com  
@@ -822,7 +822,7 @@ As a result, Jesse Marcel became more than a witness. He became the pivotal figu
    Source: reddit.com  
    Title: Going back to Roswell in light of disclosure  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Jesse...Major Jesse Marcel&#x27;s testimony and discussion: r/UFOs... Major Jesse Marcel with debris from [Roswell UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;). 1947 · r...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Jesse...Major Jesse Marcel&#x27;s testimony and discussion: r/UFOs... Major Jesse Marcel with debris from [Roswell UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}). 1947 · r...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: reddit.com  
@@ -857,7 +857,7 @@ As a result, Jesse Marcel became more than a witness. He became the pivotal figu
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
    Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman, William [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;), and the team of Kevin D. Randle and Donald R. Schmitt interviewed...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman, William [Moore]({{ 'moore/' | relative_url }}), and the team of Kevin D. Randle and Donald R. Schmitt interviewed...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: abcnews.com  

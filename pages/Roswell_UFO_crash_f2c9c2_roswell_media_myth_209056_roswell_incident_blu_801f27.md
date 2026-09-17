@@ -811,7 +811,7 @@ Together these elements created a self-sustaining narrative framework. Whether l
    Source: Wikipedia  
    Title: Roswell incident  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2026 — In 1978, retired United States [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) officer Jesse Marcel revealed that the army&#x27;s weather balloon claim had been a cov...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2026 — In 1978, retired United States [Air Force]({{ 'air-force/' | relative_url }}) officer Jesse Marcel revealed that the army&#x27;s weather balloon claim had been a cov...</p></details>
    Published: May 6, 2026  
 
 6.<a id="endnote-6"></a>
@@ -913,7 +913,7 @@ Together these elements created a self-sustaining narrative framework. Whether l
 
 22.<a id="endnote-22"></a>
    Source: esd.whs.mil  
-   Title: ESDThe Roswell report: [case closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;)  
+   Title: ESDThe Roswell report: [case closed]({{ 'case-closed/' | relative_url }})  
    Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Roswell report: case closedMay 22, 2017 — The &quot;Roswell Incident&quot; has assumed a central place in American folklore since the e...</p></details>
    Published: May 22, 2017  

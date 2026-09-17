@@ -955,7 +955,7 @@ That does not make the original public handling admirable. The quick change from
 
 5.<a id="endnote-5"></a>
    Source: kevinrandle.blogspot.com  
-   Title: roswell sheridan [cavitt](&#123;&#123; 'cavitt/' | relative_url &#125;&#125;) and project  
+   Title: roswell sheridan [cavitt]({{ 'cavitt/' | relative_url }}) and project  
    Link:<a href="https://kevinrandle.blogspot.com/2025/02/roswell-sheridan-cavitt-and-project.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2025/02/roswell-sheridan-cavitt-and-project.html</a>  
 
 6.<a id="endnote-6"></a>
@@ -974,7 +974,7 @@ That does not make the original public handling admirable. The quick change from
    Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
 
 9.<a id="endnote-9"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
 10.<a id="endnote-10"></a>

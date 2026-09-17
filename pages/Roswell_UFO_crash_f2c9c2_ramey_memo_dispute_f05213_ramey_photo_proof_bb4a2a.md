@@ -786,7 +786,7 @@ The photograph's real value lies in its status as a genuine contemporary artefac
 5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently [conflicts](&amp;#123;&amp;#123; &#x27;conflicts/&#x27; | relative_url &amp;#125;&amp;#125;) with...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently [conflicts]({{ 'conflicts/' | relative_url }}) with...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: researchgate.net  
@@ -818,7 +818,7 @@ The photograph's real value lies in its status as a genuine contemporary artefac
    Source: iconicphotos.wordpress.com  
    Title: roswell memo  
    Link:<a href="https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Memo - Iconic Photos - WordPress.com31 May 2018 — The photo above was taken by a photographer from the Fort Worth Star Telegram [newspaper](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memo - Iconic Photos - WordPress.com31 May 2018 — The photo above was taken by a photographer from the Fort Worth Star Telegram [newspaper]({{ 'newspaper/' | relative_url }})...</p></details>
    Published: May 2018  
 
 12.<a id="endnote-12"></a>
@@ -838,7 +838,7 @@ The photograph's real value lies in its status as a genuine contemporary artefac
    Source: the-sun.com  
    Title: roswell crash memo key cracking ufo mystery alien bodies  
    Link:<a href="https://www.the-sun.com/news/14397094/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/14397094/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Eerie Roswell crash memo holds key to cracking UFO mystery...Jun 4, 2025 — A BIZARRE memo about the [Roswell UFO crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) could unlock secre...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eerie Roswell crash memo holds key to cracking UFO mystery...Jun 4, 2025 — A BIZARRE memo about the [Roswell UFO crash]({{ 'roswell-ufo-crash/' | relative_url }}) could unlock secre...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: thesun.co.uk  
@@ -848,7 +848,7 @@ The photograph's real value lies in its status as a genuine contemporary artefac
 
 16.<a id="endnote-16"></a>
    Source: thesun.co.uk  
-   Title: roswell mystery cracked [air force](&#123;&#123; 'air-force/' | relative_url &#125;&#125;) captain memo ufo crash  
+   Title: roswell mystery cracked [air force]({{ 'air-force/' | relative_url }}) captain memo ufo crash  
    Link:<a href="https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain...8 Jul 2022 — The grainy memo appears to say the words “victims of the crash” a...</p></details>
 

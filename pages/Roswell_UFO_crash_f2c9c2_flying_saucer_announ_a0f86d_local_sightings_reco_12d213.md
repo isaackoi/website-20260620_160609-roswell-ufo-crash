@@ -744,7 +744,7 @@ The official recovery claim supplied institutional authority. The local sighting
    Published: May 2026  
 
 4.<a id="endnote-4"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;However, following some initial confusion at Roswell Army Air Field, th...</p></details>
@@ -765,7 +765,7 @@ The official recovery claim supplied institutional authority. The local sighting
 
 7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Title: The Documentary That Got Banned! | [Roswell UFO Crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;) | UFOTV  
+   Title: The Documentary That Got Banned! | [Roswell UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) | UFOTV  
    Link:<a href="https://www.youtube.com/watch?v=fVgCuGIrohI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fVgCuGIrohI</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
@@ -796,7 +796,7 @@ The official recovery claim supplied institutional authority. The local sighting
    Source: muller.lbl.gov  
    Title: Roswell Incident  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army [Air Forces](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) (AAF) allege...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army [Air Forces]({{ 'air-force/' | relative_url }}) (AAF) allege...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: picryl.com  
@@ -817,7 +817,7 @@ The official recovery claim supplied institutional authority. The local sighting
 15.<a id="endnote-15"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: alamy.com  
@@ -864,7 +864,7 @@ The official recovery claim supplied institutional authority. The local sighting
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel]({{ 'marcel/' | relative_url }}) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
 
 24.<a id="endnote-24"></a>
    Source: reddit.com  

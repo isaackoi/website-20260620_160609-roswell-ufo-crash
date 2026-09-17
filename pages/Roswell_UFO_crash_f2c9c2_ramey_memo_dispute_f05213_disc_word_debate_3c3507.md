@@ -766,7 +766,7 @@ That is why the debate over *disc* remains important yet limited. The word may b
 4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently [conflicts](&amp;#123;&amp;#123; &#x27;conflicts/&#x27; | relative_url &amp;#125;&amp;#125;) with...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently [conflicts]({{ 'conflicts/' | relative_url }}) with...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: sites.libraries.uta.edu  
@@ -806,7 +806,7 @@ That is why the debate over *disc* remains important yet limited. The word may b
 
 11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Title: on july 8 1947 the [roswell daily record](&#123;&#123; 'newspaper/' | relative_url &#125;&#125;) reported the arrival of something strang  
+   Title: on july 8 1947 the [roswell daily record]({{ 'newspaper/' | relative_url }}) reported the arrival of something strang  
    Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-[daily-record" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-[daily-record</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...On July 8, 1947, the Roswell Daily Record reported the arrival of something strange...</p></details>
    Published: July 8, 1947  
@@ -825,7 +825,7 @@ That is why the debate over *disc* remains important yet limited. The word may b
 
 14.<a id="endnote-14"></a>
    Source: thesun.co.uk  
-   Title: roswell mystery cracked [air force](&#123;&#123; 'air-force/' | relative_url &#125;&#125;) captain memo ufo crash  
+   Title: roswell mystery cracked [air force]({{ 'air-force/' | relative_url }}) captain memo ufo crash  
    Link:<a href="https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain...8 Jul 2022 — The grainy memo appears to say the words “victims of the crash” a...</p></details>
 
@@ -848,7 +848,7 @@ That is why the debate over *disc* remains important yet limited. The word may b
 
 18.<a id="endnote-18"></a>
    Source: library.illinois.edu  
-   Title: idnc flying [saucer craze](&#123;&#123; 'saucer-craze/' | relative_url &#125;&#125;)  
+   Title: idnc flying [saucer craze]({{ 'saucer-craze/' | relative_url }})  
    Link:<a href="https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/" target="_blank" rel="noopener noreferrer nofollow">https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Newspaper Dive: The Flying Saucer Phenomena of...8 Oct 2025 — Originally creating a buzz in American newspapers in July 1947, flying sau...</p></details>
    Published: July 1947  

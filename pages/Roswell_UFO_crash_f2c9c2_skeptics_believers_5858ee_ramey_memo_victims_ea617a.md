@@ -765,7 +765,7 @@ Perhaps most importantly, the memo cannot independently verify the body-recovery
 7.<a id="endnote-7"></a>
    Source: esd.whs.mil  
    Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey /[Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) photographs (Atch 16) of the wreckage taken to Fort Worth (often claimed by UFO...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey /[Marcel]({{ 'marcel/' | relative_url }}) photographs (Atch 16) of the wreckage taken to Fort Worth (often claimed by UFO...Read more...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: philpapers.org  
@@ -793,7 +793,7 @@ Perhaps most importantly, the memo cannot independently verify the body-recovery
    Source: youtube.com  
    Title: Ross Coulthart weighs in on 'Roswell Incident' video | News Nation Prime  
    Link:<a href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nrLVpWBxHRA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: youtube.com  
@@ -823,7 +823,7 @@ Perhaps most importantly, the memo cannot independently verify the body-recovery
 18.<a id="endnote-18"></a>
    Source: muller.lbl.gov  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTLt Col [Cavitt](&amp;#123;&amp;#123; &#x27;cavitt/&#x27; | relative_url &amp;#125;&amp;#125;) also reviewed the famous Ramey/Marcel photographs (Atch 16) of the wreckage taken to Ft. W...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORTLt Col [Cavitt]({{ 'cavitt/' | relative_url }}) also reviewed the famous Ramey/Marcel photographs (Atch 16) of the wreckage taken to Ft. W...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
@@ -844,7 +844,7 @@ Perhaps most importantly, the memo cannot independently verify the body-recovery
 
 22.<a id="endnote-22"></a>
    Source: thesun.co.uk  
-   Title: roswell mystery cracked [air force](&#123;&#123; 'air-force/' | relative_url &#125;&#125;) captain memo ufo crash  
+   Title: roswell mystery cracked [air force]({{ 'air-force/' | relative_url }}) captain memo ufo crash  
    Link:<a href="https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain...8 Jul 2022 — The grainy memo appears to say the words “victims of the crash” a...</p></details>
 

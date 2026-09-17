@@ -752,7 +752,7 @@ For historians and investigators, that description functions as a benchmark. Any
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 3.<a id="endnote-3"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
@@ -774,7 +774,7 @@ For historians and investigators, that description functions as a benchmark. Any
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
    Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: youtube.com  
@@ -838,7 +838,7 @@ For historians and investigators, that description functions as a benchmark. Any
 17.<a id="endnote-17"></a>
    Source: instagram.com  
    Link:<a href="https://www.instagram.com/reel/DYSKqeVk-rc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSKqeVk-rc/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;flying disc&quot; crashes, then suddenly it&#x27;s just a...Mac [Brazel finds](&amp;#123;&amp;#123; &#x27;brazel-find/&#x27; | relative_url &amp;#125;&amp;#125;) a debris field stretching for 300 yards...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;flying disc&quot; crashes, then suddenly it&#x27;s just a...Mac [Brazel finds]({{ 'brazel-find/' | relative_url }}) a debris field stretching for 300 yards...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: ciphermysteries.com  
@@ -866,7 +866,7 @@ For historians and investigators, that description functions as a benchmark. Any
 22.<a id="endnote-22"></a>
    Source: hangar1publishing.com  
    Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-crash?srsltid=AfmBOoqh0zv8c1yXzmSqYPNSpMtAN5Q50XB_2tVBXUxflo0wOYtLTeNO" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-crash?srsltid=AfmBOoqh0zv8c1yXzmSqYPNSpMtAN5Q50XB_2tVBXUxflo0wOYtLTeNO</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash: What Actually Happened in 1947What they found was described in the [Roswell Daily Record](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;) as &quot;rubber strips, tinfoil, a rath...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash: What Actually Happened in 1947What they found was described in the [Roswell Daily Record]({{ 'newspaper/' | relative_url }}) as &quot;rubber strips, tinfoil, a rath...</p></details>
 
 23.<a id="endnote-23"></a>
    Source: muller.lbl.gov  

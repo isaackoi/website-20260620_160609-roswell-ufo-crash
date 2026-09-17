@@ -812,7 +812,7 @@ For supporters of the Mogul explanation, Moore represented the strongest kind of
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Film and StorytellingDuring “the UFO wave of 1947”, grad student Charles Moore realizes the weather balloon he is designing for the Army...</p></details>
 
 18.<a id="endnote-18"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>

@@ -797,7 +797,7 @@ For historians, the key issue is not whether every witness was right or wrong. I
 
 5.<a id="endnote-5"></a>
    Source: dvidshub.net  
-   Title: military [cover-up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;) of extraterrestrial life at Roswell.Read more  
+   Title: military [cover-up]({{ 'cover-up/' | relative_url }}) of extraterrestrial life at Roswell.Read more  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSIntelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — ” More witnesses came forward following publication of Marcel...</p></details>
 
@@ -839,7 +839,7 @@ For historians, the key issue is not whether every witness was right or wrong. I
 13.<a id="endnote-13"></a>
    Source: thesun.co.uk  
    Link:<a href="https://www.thesun.co.uk/news/35262595/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35262595/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologist Kevin Randle argues that the memo, photographed in the hands of Brigadier General Roger [Ramey](&amp;#123;&amp;#123; &#x27;ramey/&#x27; | relative_url &amp;#125;&amp;#125;), includes the phrase &quot;victims of...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologist Kevin Randle argues that the memo, photographed in the hands of Brigadier General Roger [Ramey]({{ 'ramey/' | relative_url }}), includes the phrase &quot;victims of...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: nsa.gov  

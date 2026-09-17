@@ -786,7 +786,7 @@ That is why the Roswell Army Air Field recovery remains central to the wider Ros
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
 
 6.<a id="endnote-6"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
@@ -806,7 +806,7 @@ That is why the Roswell Army Air Field recovery remains central to the wider Ros
    Source: youtube.com  
    Title: The Roswell Incident That Shocked the World (S1) | Ancient Aliens  
    Link:<a href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LdBu36XkQLw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: youtube.com  
@@ -821,7 +821,7 @@ That is why the Roswell Army Air Field recovery remains central to the wider Ros
 
 13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Title: on july 8 1947 the [roswell daily record](&#123;&#123; 'newspaper/' | relative_url &#125;&#125;) reported the arrival of something strang  
+   Title: on july 8 1947 the [roswell daily record]({{ 'newspaper/' | relative_url }}) reported the arrival of something strang  
    Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...the crashed object was a conventional weather balloon. that they had recovered a &quot;f...</p></details>
    Published: July 8, 1947  

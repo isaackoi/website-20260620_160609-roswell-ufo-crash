@@ -939,7 +939,7 @@ The reason the reversal still matters is that both sides can point to something 
 
 8.<a id="endnote-8"></a>
    Source: en.wikisource.org  
-   Title: Roswell [Daily Record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;)  
+   Title: Roswell [Daily Record]({{ 'daily-record/' | relative_url }})  
    Link:<a href="https://en.wikisource.org/wiki/Roswell_Daily_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record</a>  
 
 9.<a id="endnote-9"></a>

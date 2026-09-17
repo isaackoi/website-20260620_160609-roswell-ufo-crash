@@ -791,7 +791,7 @@ Neither document offers a complete reconstruction of the incident. Both are brie
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Secretary of the Air Force and to the General Accounting Office (GAO). It was written as a result...Read more...</p></details>
 
 11.<a id="endnote-11"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: GENERAL ACCOUNTING OFFICE S SCHIFF  
    Link:<a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGovernment Records13 Jul 2021 — We re\iewed the FBI&#x27;s FOIA material and identified the July 8, 1947, FBI teletype m...</p></details>

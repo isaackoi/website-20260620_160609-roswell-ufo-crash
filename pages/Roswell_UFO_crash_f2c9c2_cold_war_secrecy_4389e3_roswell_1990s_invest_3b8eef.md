@@ -768,7 +768,7 @@ What the 1990s investigations unquestionably changed was the nature of the discu
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret News`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...Jul 30, 1995 — Key military documents on the so-called Roswell Incident, cited by...</p></details>
 
 7.<a id="endnote-7"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Subsequent to the 1994 report, Air Force researchers discovered informa...</p></details>
@@ -791,7 +791,7 @@ What the 1990s investigations unquestionably changed was the nature of the discu
    Source: Wikipedia  
    Title: Roswell (TV series)  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) where the Roswell UFO exists, and...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline]({{ 'timeline/' | relative_url }}) where the Roswell UFO exists, and...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: Wikipedia  
@@ -898,7 +898,7 @@ What the 1990s investigations unquestionably changed was the nature of the discu
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
    Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Major Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), an intelligence officer from Roswell Ar...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Major Jesse [Marcel]({{ 'marcel/' | relative_url }}), an intelligence officer from Roswell Ar...</p></details>
 
 32.<a id="endnote-32"></a>
    Source: reddit.com  

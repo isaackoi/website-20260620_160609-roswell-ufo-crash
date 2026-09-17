@@ -802,7 +802,7 @@ This is what makes the Barnett account historically important. Its significance 
    Source: youtube.com  
    Title: Man claims there were 2 Roswell UFO crashes  
    Link:<a href="https://www.youtube.com/watch?v=0E6-kTvVmh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0E6-kTvVmh0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: youtube.com  
@@ -846,7 +846,7 @@ This is what makes the Barnett account historically important. Its significance 
    Source: georgehbalazs.com  
    Title: 1980 THE ROSWELL INCIDENT Excerpted Pages  
    Link:<a href="https://georgehbalazs.com/wp-content/uploads/2019/05/1980-THE-ROSWELL-INCIDENT-Excerpted-Pages..pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/05/1980-THE-ROSWELL-INCIDENT-Excerpted-Pages..pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>1980-THE-ROSWELL-INCIDENT-Excerpted-Pages..pdf&quot;Barney&quot; Barnett, who broke a pledge of [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) to tell friends he had witnessed the crash...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1980-THE-ROSWELL-INCIDENT-Excerpted-Pages..pdf&quot;Barney&quot; Barnett, who broke a pledge of [secrecy]({{ 'secrecy/' | relative_url }}) to tell friends he had witnessed the crash...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: abebooks.com  

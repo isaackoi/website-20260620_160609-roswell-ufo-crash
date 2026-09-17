@@ -727,7 +727,7 @@ For the Roswell recovery timeline, the importance of the Mogul theory is not mer
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The reports that existed contain only descriptions of mundane materials...</p></details>
@@ -799,7 +799,7 @@ For the Roswell recovery timeline, the importance of the Mogul theory is not mer
 
 13.<a id="endnote-13"></a>
    Source: sciencefriday.com  
-   Title: Science Friday The Real Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;)?  
+   Title: Science Friday The Real Roswell [Cover-Up]({{ 'cover-up/' | relative_url }})?  
    Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
 
@@ -833,7 +833,7 @@ For the Roswell recovery timeline, the importance of the Mogul theory is not mer
 19.<a id="endnote-19"></a>
    Source: nasw.org  
    Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>No aliens Visit Earth, But The Government Covers Up...The army sent an intelligence officer, Major Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), to check out the report...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No aliens Visit Earth, But The Government Covers Up...The army sent an intelligence officer, Major Jesse [Marcel]({{ 'marcel/' | relative_url }}), to check out the report...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: gao.gov  

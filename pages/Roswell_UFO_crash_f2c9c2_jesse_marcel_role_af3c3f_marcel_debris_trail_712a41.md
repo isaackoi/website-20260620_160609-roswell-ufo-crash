@@ -755,7 +755,7 @@ That is why Marcel remains such a contested figure in the Roswell debate. His in
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 3.<a id="endnote-3"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
@@ -772,7 +772,7 @@ That is why Marcel remains such a contested figure in the Roswell debate. His in
 
 6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Title: 1947 [flying disc](&#123;&#123; 'flying-disc/' | relative_url &#125;&#125;) craze  
+   Title: 1947 [flying disc]({{ 'flying-disc/' | relative_url }}) craze  
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 7.<a id="endnote-7"></a>
@@ -802,7 +802,7 @@ That is why Marcel remains such a contested figure in the Roswell debate. His in
 
 12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Title: on july 8 1947 the roswell [daily record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;) reported the arrival of something strang  
+   Title: on july 8 1947 the roswell [daily record]({{ 'daily-record/' | relative_url }}) reported the arrival of something strang  
    Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...Friedman interviewed Major Jesse Marcel who was involved with the original recovery...</p></details>
    Published: July 8, 1947  
@@ -850,7 +850,7 @@ That is why Marcel remains such a contested figure in the Roswell debate. His in
 20.<a id="endnote-20"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Before Area 51, there was America&#x27;s first UFO conspiracy...Friedman interviewed Jesse Marcel, an [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) major who accompanied the wre...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before Area 51, there was America&#x27;s first UFO conspiracy...Friedman interviewed Jesse Marcel, an [Air Force]({{ 'air-force/' | relative_url }}) major who accompanied the wre...</p></details>
 
 21.<a id="endnote-21"></a>
    Source: youtube.com  

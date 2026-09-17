@@ -756,7 +756,7 @@ As a result, the key question is not merely “What is in the photographs?” bu
 
 6.<a id="endnote-6"></a>
    Source: people.com  
-   Title: "[Unsolved Mysteries](&#123;&#123; 'tv-suspense/' | relative_url &#125;&#125;)": The True Story of the Roswell UFO Incident  
+   Title: "[Unsolved Mysteries]({{ 'tv-suspense/' | relative_url }})": The True Story of the Roswell UFO Incident  
    Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 
@@ -792,7 +792,7 @@ As a result, the key question is not merely “What is in the photographs?” bu
    Source: muller.lbl.gov  
    Title: Roswell Incident  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORT&quot; Upon review of the local [newspaper](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;) photographs from General Ramey&#x27;s press conference in 1947... July...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORT&quot; Upon review of the local [newspaper]({{ 'newspaper/' | relative_url }}) photographs from General Ramey&#x27;s press conference in 1947... July...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: dafhistory.af.mil  
@@ -833,7 +833,7 @@ As a result, the key question is not merely “What is in the photographs?” bu
 19.<a id="endnote-19"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: researchgate.net  

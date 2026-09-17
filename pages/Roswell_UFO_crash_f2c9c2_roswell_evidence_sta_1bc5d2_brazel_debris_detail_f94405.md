@@ -732,7 +732,7 @@ Readers do not have to accept the Project Mogul explanation to recognise the sig
 
 1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Title: 1947 [flying disc](&#123;&#123; 'flying-disc/' | relative_url &#125;&#125;) craze  
+   Title: 1947 [flying disc]({{ 'flying-disc/' | relative_url }}) craze  
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeOn July 9, Roswell Daily Record reported that the debris consisted of &quot;large area of bright wreckage made up of...</p></details>
 
@@ -749,7 +749,7 @@ Readers do not have to accept the Project Mogul explanation to recognise the sig
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashAccording to the Eighth Air Force official, the recovered object rese...</p></details>
 
 4.<a id="endnote-4"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The reports that existed contain only descriptions of mundane materials...</p></details>
@@ -793,7 +793,7 @@ Readers do not have to accept the Project Mogul explanation to recognise the sig
 11.<a id="endnote-11"></a>
    Source: skepticalinquirer.org  
    Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber Brazel noted was similar to the [neoprene balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) used to carry equipment aloft.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber Brazel noted was similar to the [neoprene balloons]({{ 'balloon-decay/' | relative_url }}) used to carry equipment aloft.Read more...</p></details>
 
 ### Additional References
 
@@ -834,7 +834,7 @@ Readers do not have to accept the Project Mogul explanation to recognise the sig
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
    Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — From an interview with Mack Brazel, Roswell [Daily Record](&amp;#123;&amp;#123; &#x27;daily-record/&#x27; | relative_url &amp;#125;&amp;#125;) Chronicle...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — From an interview with Mack Brazel, Roswell [Daily Record]({{ 'daily-record/' | relative_url }}) Chronicle...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: reddit.com  

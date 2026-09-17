@@ -778,7 +778,7 @@ As a result, the Roswell records issue remains a classic example of a historical
    Published: July 8, 1947  
 
 9.<a id="endnote-9"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: Case Closed&quot;In July 1994, the Office of the Secretary of the Air Force concluded an exhaustive search for...</p></details>
@@ -871,4 +871,4 @@ As a result, the Roswell records issue remains a classic example of a historical
    Source: youtube.com  
    Title: The Roswell Incident That Shocked the World (S1) | Ancient Aliens  
    Link:<a href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LdBu36XkQLw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The [Roswell UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) (Overview) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The [Roswell UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) (Overview) - Jimmy Akin&#x27;s Mysterious World...</p></details>

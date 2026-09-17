@@ -770,7 +770,7 @@ That dual legacy explains why witness-hunting books remain central to debates ov
 
 2.<a id="endnote-2"></a>
    Source: dvidshub.net  
-   Title: military [cover-up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;) of extraterrestrial life at Roswell.Read more  
+   Title: military [cover-up]({{ 'cover-up/' | relative_url }}) of extraterrestrial life at Roswell.Read more  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSIntelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — ” More witnesses came forward following publication of Marcel...</p></details>
 
@@ -789,7 +789,7 @@ That dual legacy explains why witness-hunting books remain central to debates ov
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;Reports of flying saucers and alien bodies allegedly sighted in the Ros...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;Reports of flying saucers and alien bodies allegedly sighted in the Ros...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: content.time.com  
@@ -806,7 +806,7 @@ That dual legacy explains why witness-hunting books remain central to debates ov
    Source: britannica.com  
    Title: Roswell incident  
    Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Science - [Roswell UFO crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;): What is the truth behind the &#x27;flying saucer&#x27;...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Science - [Roswell UFO crash]({{ 'roswell-ufo-crash/' | relative_url }}): What is the truth behind the &#x27;flying saucer&#x27;...Read more...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: jhmovie.fandom.com  

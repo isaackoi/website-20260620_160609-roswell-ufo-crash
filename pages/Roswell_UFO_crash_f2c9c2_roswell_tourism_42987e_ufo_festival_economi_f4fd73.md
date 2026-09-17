@@ -848,7 +848,7 @@ The economic lesson is straightforward: the Roswell UFO Festival succeeds not be
 
 16.<a id="endnote-16"></a>
    Source: krwg.org  
-   Title: [ufo museum](&#123;&#123; 'ufo-museum/' | relative_url &#125;&#125;) in roswell new mexico reaches 5 million visitors  
+   Title: [ufo museum]({{ 'ufo-museum/' | relative_url }}) in roswell new mexico reaches 5 million visitors  
    Link:<a href="https://www.krwg.org/regional/2023-12-01/ufo-museum-in-roswell-new-mexico-reaches-5-million-visitors" target="_blank" rel="noopener noreferrer nofollow">https://www.krwg.org/regional/2023-12-01/ufo-museum-in-roswell-new-mexico-reaches-5-million-visitors</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Museum in Roswell, New Mexico, reaches 5 million...Dec 1, 2023 — An annual UFO Festival, operating since 1996, brings as many as 40...</p></details>
 

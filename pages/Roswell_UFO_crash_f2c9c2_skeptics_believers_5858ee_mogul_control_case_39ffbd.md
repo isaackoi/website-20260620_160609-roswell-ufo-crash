@@ -737,7 +737,7 @@ This is why Mogul occupies such a central position in Roswell arguments. It is n
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
@@ -855,7 +855,7 @@ This is why Mogul occupies such a central position in Roswell arguments. It is n
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
    Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — A published statement from the War Department in Washington claimed the debris collected on [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s ranch was the remains...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — A published statement from the War Department in Washington claimed the debris collected on [Brazel]({{ 'brazel/' | relative_url }})&#x27;s ranch was the remains...</p></details>
 
 23.<a id="endnote-23"></a>
    Source: poweredbyrobots.com  
@@ -888,4 +888,4 @@ This is why Mogul occupies such a central position in Roswell arguments. It is n
 28.<a id="endnote-28"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=RCAHyclAmZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RCAHyclAmZs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ashed at Roswell, NM in 1947. Major Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), the first...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ashed at Roswell, NM in 1947. Major Jesse [Marcel]({{ 'marcel/' | relative_url }}), the first...</p></details>

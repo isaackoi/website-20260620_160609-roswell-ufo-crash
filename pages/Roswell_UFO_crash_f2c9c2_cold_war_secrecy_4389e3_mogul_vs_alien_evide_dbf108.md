@@ -784,7 +784,7 @@ For that reason, most historians of the incident regard Project Mogul as the exp
    Source: Wikipedia  
    Title: Roswell (TV series)  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) where the Roswell UFO exists, and...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline]({{ 'timeline/' | relative_url }}) where the Roswell UFO exists, and...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: gao.gov  
@@ -865,7 +865,7 @@ For that reason, most historians of the incident regard Project Mogul as the exp
 
 24.<a id="endnote-24"></a>
    Source: people.com  
-   Title: "[Unsolved Mysteries](&#123;&#123; 'tv-suspense/' | relative_url &#125;&#125;)": The True Story of the Roswell UFO Incident  
+   Title: "[Unsolved Mysteries]({{ 'tv-suspense/' | relative_url }})": The True Story of the Roswell UFO Incident  
    Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 

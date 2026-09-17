@@ -802,7 +802,7 @@ As a result, the hospital strand remains one of the clearest examples of the bro
 6.<a id="endnote-6"></a>
    Source: cdn.centerforinquiry.org  
    Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryCase Closed:by BD GILDENBERG · 1998 · Cited by 1 — [Glenn Dennis](&amp;#123;&amp;#123; &#x27;glenn-dennis/&#x27; | relative_url &amp;#125;&amp;#125;) story matches: only military aircraft accident in area...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryCase Closed:by BD GILDENBERG · 1998 · Cited by 1 — [Glenn Dennis]({{ 'glenn-dennis/' | relative_url }}) story matches: only military aircraft accident in area...</p></details>
 
 ### Additional References
 

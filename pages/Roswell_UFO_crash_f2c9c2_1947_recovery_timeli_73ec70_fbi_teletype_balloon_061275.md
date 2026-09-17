@@ -765,7 +765,7 @@ For historians, the value of the teletype lies less in proving a particular theo
 7.<a id="endnote-7"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Biggest Alien [Cover-Up](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) Finally Exposed...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Biggest Alien [Cover-Up]({{ 'cover-up/' | relative_url }}) Finally Exposed...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: muller.lbl.gov  
@@ -805,7 +805,7 @@ For historians, the value of the teletype lies less in proving a particular theo
 14.<a id="endnote-14"></a>
    Source: georgehbalazs.com  
    Link:<a href="https://georgehbalazs.com/wp-content/uploads/2020/02/1995-Results-of-a-search-for-records-concerning-the-1947-crash-near-Rosell-NM-GAO-Government-Records..pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2020/02/1995-Results-of-a-search-for-records-concerning-the-1947-crash-near-Rosell-NM-GAO-Government-Records..pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Against UFO [Secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;). Army Counterintelligence Corps...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Against UFO [Secrecy]({{ 'secrecy/' | relative_url }}). Army Counterintelligence Corps...Read more...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: gao.justia.com  

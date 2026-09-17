@@ -838,7 +838,7 @@ In practical terms, the destroyed records ensure that some questions may never b
 <details class="endnote-snippet"><summary>Source snippet</summary><p>records covering activities of the Roswell Army Air Field had been destroyed. GAO did locate two 1947 records that mentioned the crash--a...</p></details>
 
 15.<a id="endnote-15"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: GENERAL ACCOUNTING OFFICE S SCHIFF  
    Link:<a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGovernment Records13 Jul 2021 — In our search for records concerning the Roswell crash, we learned that some govern...</p></details>

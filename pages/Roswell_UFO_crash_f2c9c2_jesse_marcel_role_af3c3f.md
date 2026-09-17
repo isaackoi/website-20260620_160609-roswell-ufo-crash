@@ -940,7 +940,7 @@ That is why he remains useful to both sides. Believers see him as the recovery o
 
 5.<a id="endnote-5"></a>
    Source: esd.whs.mil  
-   Title: Roswell Report [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;)  
+   Title: Roswell Report [Case Closed]({{ 'case-closed/' | relative_url }})  
    Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
 
 6.<a id="endnote-6"></a>
@@ -979,7 +979,7 @@ That is why he remains useful to both sides. Believers see him as the recovery o
    Source: youtube.com  
    Title: "Roswell: The First Witness" on the HISTORY channel  
    Link:<a href="https://www.youtube.com/watch?v=FqB0BKOdm_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqB0BKOdm_E</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Shocking Insights Into The Roswell UFO [Cover Up](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) | Supernatural Documentary...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shocking Insights Into The Roswell UFO [Cover Up]({{ 'cover-up/' | relative_url }}) | Supernatural Documentary...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: reddit.com  

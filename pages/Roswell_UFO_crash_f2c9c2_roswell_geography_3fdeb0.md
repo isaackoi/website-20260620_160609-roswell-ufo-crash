@@ -943,7 +943,7 @@ Whether one accepts the Project Mogul explanation or believes significant questi
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: Wikipedia  
@@ -977,7 +977,7 @@ Whether one accepts the Project Mogul explanation or believes significant questi
 11.<a id="endnote-11"></a>
    Source: wsmrmuseum.com  
    Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryProject Mogul Balloons promptly contacted the Roswell Army Air Field and got Maj. Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) involved. (From now on...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryProject Mogul Balloons promptly contacted the Roswell Army Air Field and got Maj. Jesse [Marcel]({{ 'marcel/' | relative_url }}) involved. (From now on...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: instagram.com  
@@ -994,7 +994,7 @@ Whether one accepts the Project Mogul explanation or believes significant questi
    Source: youtube.com  
    Title: Roswell Crash Site What I Experienced Out Here Was Unsettling 4K New Mexico  
    Link:<a href="https://www.youtube.com/watch?v=Cbgmd6X3qqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cbgmd6X3qqk</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Livestream exploring the Socorro and [Roswell UFO crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) sites in Microsoft Flight Simulator...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Livestream exploring the Socorro and [Roswell UFO crash]({{ 'roswell-ufo-crash/' | relative_url }}) sites in Microsoft Flight Simulator...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: youtube.com  

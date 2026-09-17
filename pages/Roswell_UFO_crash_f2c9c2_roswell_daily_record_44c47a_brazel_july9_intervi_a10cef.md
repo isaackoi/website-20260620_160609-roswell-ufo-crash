@@ -740,7 +740,7 @@ From a historical-comparative perspective, the interview sits between two compet
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;This account from the July 9, 1947 Roswell Daily Record, described the...</p></details>
@@ -825,4 +825,4 @@ From a historical-comparative perspective, the interview sits between two compet
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel]({{ 'marcel/' | relative_url }}) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>

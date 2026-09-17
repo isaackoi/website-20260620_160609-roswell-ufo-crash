@@ -768,7 +768,7 @@ For most historians and evidence-based investigators, that burden remains unmet.
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...14 Nov 2023 — Walter Haut, to put out a press release: The US Army Air Fo...</p></details>
 
 6.<a id="endnote-6"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;It appears that UFO proponents have failed to establish the accurate da...</p></details>

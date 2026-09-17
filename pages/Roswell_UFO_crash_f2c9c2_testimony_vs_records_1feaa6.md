@@ -937,7 +937,7 @@ For that reason, the strongest analyses of Roswell do not ask whether testimony 
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: sgp.fas.org  
@@ -960,7 +960,7 @@ For that reason, the strongest analyses of Roswell do not ask whether testimony 
    Source: archives.gov  
    Title: moving images and sound  
    Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...[Glenn Dennis](&amp;#123;&amp;#123; &#x27;glenn-dennis/&#x27; | relative_url &amp;#125;&amp;#125;), alleged firsthand witness to events at Roswel...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...[Glenn Dennis]({{ 'glenn-dennis/' | relative_url }}), alleged firsthand witness to events at Roswel...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: esd.whs.mil  
@@ -984,7 +984,7 @@ For that reason, the strongest analyses of Roswell do not ask whether testimony 
    Source: content.time.com  
    Title: 0,33009,986565 2,00  
    Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENS REALLY LAND? - TIME23 Jun 1997 — RAAF CAPTURES FLYING SAUCER ON RANCH IN ROSWELL REGION, proclaimed the Roswell [Daily Record](&amp;#123;&amp;#123; &#x27;daily-record/&#x27; | relative_url &amp;#125;&amp;#125;) on Ju...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENS REALLY LAND? - TIME23 Jun 1997 — RAAF CAPTURES FLYING SAUCER ON RANCH IN ROSWELL REGION, proclaimed the Roswell [Daily Record]({{ 'daily-record/' | relative_url }}) on Ju...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: nsa.gov  

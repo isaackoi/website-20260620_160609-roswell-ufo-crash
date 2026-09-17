@@ -779,7 +779,7 @@ As a result, Roswell became more than a question about unidentified debris. It e
 <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
 9.<a id="endnote-9"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
@@ -834,7 +834,7 @@ As a result, Roswell became more than a question about unidentified debris. It e
 
 19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
-   Title: File:[Roswell Daily Record](&#123;&#123; 'newspaper/' | relative_url &#125;&#125;)  
+   Title: File:[Roswell Daily Record]({{ 'newspaper/' | relative_url }})  
    Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...5 Nov 2023 — July 8, 1947. Article titled: &quot;RAAF Captures Flying Saucer On Ranch in Roswell Region&quot;. Flyin...</p></details>
    Published: July 8, 1947  
@@ -863,7 +863,7 @@ As a result, Roswell became more than a question about unidentified debris. It e
 
 24.<a id="endnote-24"></a>
    Source: theweek.com  
-   Title: [roswell ufo crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;) what really happened 67 years ago  
+   Title: [roswell ufo crash]({{ 'roswell-ufo-crash/' | relative_url }}) what really happened 67 years ago  
    Link:<a href="https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO crash: what really happened 67 years ago?26 Jun 2018 — On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release st...</p></details>
    Published: July 1947  

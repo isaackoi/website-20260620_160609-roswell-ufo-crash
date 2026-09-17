@@ -785,7 +785,7 @@ The durability of the cover story therefore rested on a simple mechanism: it mat
 15.<a id="endnote-15"></a>
    Source: skepticalinquirer.org  
    Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;) noted was similar to the [neoprene balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) used to carry equipment aloft...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber [Brazel]({{ 'brazel/' | relative_url }}) noted was similar to the [neoprene balloons]({{ 'balloon-decay/' | relative_url }}) used to carry equipment aloft...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: facebook.com  

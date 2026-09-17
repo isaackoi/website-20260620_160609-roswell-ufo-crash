@@ -762,7 +762,7 @@ That is why one short statement changed Roswell forever. The military's temporar
 
 6.<a id="endnote-6"></a>
    Source: sgp.fas.org  
-   Title: Project on Government [Secrecy](&#123;&#123; 'secrecy/' | relative_url &#125;&#125;) GAO Report on Roswell, NM UFO Crash  
+   Title: Project on Government [Secrecy]({{ 'secrecy/' | relative_url }}) GAO Report on Roswell, NM UFO Crash  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. The 509th- RAAF report noted the recovery of a &quot;flying disc&quot; that was later determined by military officials to be a radar...</p></details>
    Published: July 8, 1947  
@@ -785,7 +785,7 @@ That is why one short statement changed Roswell forever. The military's temporar
    Source: Wikipedia  
    Title: Roswell (TV series)  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) where the Roswell UFO exists, and...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline]({{ 'timeline/' | relative_url }}) where the Roswell UFO exists, and...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: Wikipedia  
@@ -817,7 +817,7 @@ That is why one short statement changed Roswell forever. The military's temporar
 
 15.<a id="endnote-15"></a>
    Source: theweek.com  
-   Title: [roswell ufo crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;) what really happened 67 years ago  
+   Title: [roswell ufo crash]({{ 'roswell-ufo-crash/' | relative_url }}) what really happened 67 years ago  
    Link:<a href="https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The WeekRoswell UFO crash: what really happened 67 years ago?26 Jun 2018 — On 8 July 1947 Roswell Army Air Field (RAAF) issued a press re...</p></details>
    Published: July 1947  
@@ -901,4 +901,4 @@ That is why one short statement changed Roswell forever. The military's temporar
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel]({{ 'marcel/' | relative_url }}) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>

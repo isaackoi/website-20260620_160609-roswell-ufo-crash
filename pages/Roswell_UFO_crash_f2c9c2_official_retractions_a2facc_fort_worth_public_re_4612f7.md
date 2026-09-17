@@ -834,7 +834,7 @@ That tension explains why the Fort Worth balloon display remains central to the 
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
    Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — A published statement from the War Department in Washington claimed the debris collected on [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s ranch was the remains o...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — A published statement from the War Department in Washington claimed the debris collected on [Brazel]({{ 'brazel/' | relative_url }})&#x27;s ranch was the remains o...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: artpike.fortunecity.ws  
@@ -879,7 +879,7 @@ That tension explains why the Fort Worth balloon display remains central to the 
 
 25.<a id="endnote-25"></a>
    Source: gao.justia.com  
-   Title: government [records](&#123;&#123; 'records/' | relative_url &#125;&#125;) nsiad 95 187  
+   Title: government [records]({{ 'records/' | relative_url }}) nsiad 95 187  
    Link:<a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>justia.comNSIAD-95-187 - Government Records28 Jul 1995 — In July 1947, an airborne object crashed new Roswell, New Mexico. Nearly 50 year...</p></details>
    Published: July 1947  

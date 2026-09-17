@@ -808,7 +808,7 @@ The debate persists because the photographs occupy a unique position between phy
 10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulDescriptions of the debris provided by [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;), Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulDescriptions of the debris provided by [Brazel]({{ 'brazel/' | relative_url }}), Cavitt, Crary&#x27;s diary, and the photos of the material displayed in...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: centerforinquiry.s3.amazonaws.com  
@@ -831,7 +831,7 @@ The debate persists because the photographs occupy a unique position between phy
 14.<a id="endnote-14"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: facebook.com  

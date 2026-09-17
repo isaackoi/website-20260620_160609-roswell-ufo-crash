@@ -1043,7 +1043,7 @@ Their deeper significance is that they changed the Roswell argument from “weat
    Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
 
 29.<a id="endnote-29"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
@@ -1151,7 +1151,7 @@ Their deeper significance is that they changed the Roswell argument from “weat
 51.<a id="endnote-51"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=ctmYX6AcHCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ctmYX6AcHCc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports]({{ 'official-reports/' | relative_url }}) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
 52.<a id="endnote-52"></a>
    Source: youtube.com  

@@ -776,7 +776,7 @@ As a governance and investigative technique, the filtering test served a limited
 
 10.<a id="endnote-10"></a>
    Source: time.com  
-   Title: aliens or [dummies](&#123;&#123; 'dummies/' | relative_url &#125;&#125;)  
+   Title: aliens or [dummies]({{ 'dummies/' | relative_url }})  
    Link:<a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jun 1997 — According to “The Roswell Report, Case Closed,” life-sized latex and aluminum test dummies were used in high-altitude parac...</p></details>
 

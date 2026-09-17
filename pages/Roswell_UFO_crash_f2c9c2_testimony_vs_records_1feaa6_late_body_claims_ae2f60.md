@@ -804,7 +804,7 @@ Yet the same feature that made these stories influential—their emergence long 
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Jesse. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), an intelligence officer from Roswell Army Air Field, wit...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Jesse. [Marcel]({{ 'marcel/' | relative_url }}), an intelligence officer from Roswell Army Air Field, wit...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: history.com  
@@ -830,7 +830,7 @@ Yet the same feature that made these stories influential—their emergence long 
 13.<a id="endnote-13"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident... Air Force 1997 publication of &quot;The Roswell Report: Case Closed&quot;. Official Reports on the...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports]({{ 'official-reports/' | relative_url }}) on the Roswell UFO Incident... Air Force 1997 publication of &quot;The Roswell Report: Case Closed&quot;. Official Reports on the...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: Wikipedia  
@@ -933,7 +933,7 @@ Yet the same feature that made these stories influential—their emergence long 
 31.<a id="endnote-31"></a>
    Source: thesun.co.uk  
    Link:<a href="https://www.thesun.co.uk/news/35262595/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35262595/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologist Kevin Randle argues that the memo, photographed in the hands of Brigadier General Roger [Ramey](&amp;#123;&amp;#123; &#x27;ramey/&#x27; | relative_url &amp;#125;&amp;#125;), includes the phrase &quot;victims of...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologist Kevin Randle argues that the memo, photographed in the hands of Brigadier General Roger [Ramey]({{ 'ramey/' | relative_url }}), includes the phrase &quot;victims of...</p></details>
 
 32.<a id="endnote-32"></a>
    Source: skepsis.no  

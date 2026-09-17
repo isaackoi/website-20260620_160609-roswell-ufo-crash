@@ -1034,7 +1034,7 @@ The deeper implication is that Roswell’s oddness does not disappear under the 
 
 26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Title: The Project Mogul [COVER-UP](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;) That Created Roswell | EP56  
+   Title: The Project Mogul [COVER-UP]({{ 'cover-up/' | relative_url }}) That Created Roswell | EP56  
    Link:<a href="http://www.youtube.com/watch?v=VoncUxxEBZc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VoncUxxEBZc</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell 1947 UFO Crash Explained | Alien Bodies or Project Mogul Cover-Up?...</p></details>
 

@@ -769,7 +769,7 @@ Because the Roswell case often turns on the meaning of those reported materials,
    Source: youtube.com  
    Title: Project Mogul  
    Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | [Roswell UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) 1947...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | [Roswell UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) 1947...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: nsa.gov  
@@ -816,7 +816,7 @@ Because the Roswell case often turns on the meaning of those reported materials,
 12.<a id="endnote-12"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...He discovered &quot;a large area of bright wreckage made up of [rubber strips](&amp;#123;&amp;#123; &#x27;rubber-strips/&#x27; | relative_url &amp;#125;&amp;#125;), tinfoil, a rathe...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...He discovered &quot;a large area of bright wreckage made up of [rubber strips]({{ 'rubber-strips/' | relative_url }}), tinfoil, a rathe...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: daviddarling.info  
@@ -836,7 +836,7 @@ Because the Roswell case often turns on the meaning of those reported materials,
 16.<a id="endnote-16"></a>
    Source: nasw.org  
    Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>No aliens Visit Earth, But The Government Covers Up...A search of military [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) for information about the Roswell incident uncovered...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No aliens Visit Earth, But The Government Covers Up...A search of military [records]({{ 'records/' | relative_url }}) for information about the Roswell incident uncovered...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: dafhistory.af.mil  

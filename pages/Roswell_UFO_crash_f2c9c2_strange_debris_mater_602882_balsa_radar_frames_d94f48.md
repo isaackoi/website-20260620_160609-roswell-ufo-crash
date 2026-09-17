@@ -772,7 +772,7 @@ When the structure collapsed, the carefully arranged geometry disappeared. What 
 
 4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Title: Project [Mogul](&#123;&#123; 'mogul/' | relative_url &#125;&#125;)  
+   Title: Project [Mogul]({{ 'mogul/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
 
@@ -801,7 +801,7 @@ When the structure collapsed, the carefully arranged geometry disappeared. What 
 9.<a id="endnote-9"></a>
    Source: artpike.fortunecity.ws  
    Link:<a href="https://artpike.fortunecity.ws/ramey0.htm" target="_blank" rel="noopener noreferrer nofollow">https://artpike.fortunecity.ws/ramey0.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) holds the debris in General Ramey&#x27;s office at 8th Air Force HQ Fort Worth...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Marcel]({{ 'marcel/' | relative_url }}) holds the debris in General Ramey&#x27;s office at 8th Air Force HQ Fort Worth...Read more...</p></details>
 
 ### Additional References
 

@@ -779,7 +779,7 @@ The reason body claims require stronger evidence than debris claims is straightf
 
 2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
-   Title: Commons File:[Roswell Daily Record](&#123;&#123; 'newspaper/' | relative_url &#125;&#125;)  
+   Title: Commons File:[Roswell Daily Record]({{ 'newspaper/' | relative_url }})  
    Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...29 Jan 2024 — The intelligence office stated that no details of the saucer&#x27;s construction or its appearanc...</p></details>
    Published: July 8, 1947  
@@ -808,7 +808,7 @@ The reason body claims require stronger evidence than debris claims is straightf
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 7.<a id="endnote-7"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;This in-depth examination revealed that these accounts, in most instanc...</p></details>
@@ -835,7 +835,7 @@ The reason body claims require stronger evidence than debris claims is straightf
 
 11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Title: Roswell: The World's Biggest Alien [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;) Finally Exposed  
+   Title: Roswell: The World's Biggest Alien [Cover-Up]({{ 'cover-up/' | relative_url }}) Finally Exposed  
    Link:<a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RueuqXrQE4</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
@@ -885,7 +885,7 @@ The reason body claims require stronger evidence than debris claims is straightf
 19.<a id="endnote-19"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: facebook.com  

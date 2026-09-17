@@ -806,7 +806,7 @@ The presence of scattered rubber supports three features of the Mogul interpreta
    Source: youtube.com  
    Title: Project Mogul  
    Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports]({{ 'official-reports/' | relative_url }}) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: dafhistory.af.mil  
@@ -864,7 +864,7 @@ The presence of scattered rubber supports three features of the Mogul interpreta
    Source: instagram.com  
    Title: But balloons don't leave purple symbols behind. OCR  
    Link:<a href="https://www.instagram.com/reel/DYSKqeVk-rc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSKqeVk-rc/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; crashes, then suddenly it&#x27;s just a...Decades later, documents reveal Project Mogul, a secret plan to spy...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;[flying disc]({{ 'flying-disc/' | relative_url }})&quot; crashes, then suddenly it&#x27;s just a...Decades later, documents reveal Project Mogul, a secret plan to spy...</p></details>
 
 21.<a id="endnote-21"></a>
    Source: medium.com  

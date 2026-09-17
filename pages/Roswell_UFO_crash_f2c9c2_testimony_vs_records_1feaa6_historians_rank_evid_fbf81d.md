@@ -805,7 +805,7 @@ As a result, the central methodological lesson of Roswell is not about extraterr
    Source: nsa.gov  
    Title: report af roswell  
    Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>report of [air force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) research regarding the21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 19...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of [air force]({{ 'air-force/' | relative_url }}) research regarding the21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 19...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
@@ -826,7 +826,7 @@ As a result, the central methodological lesson of Roswell is not about extraterr
 
 5.<a id="endnote-5"></a>
    Source: esd.whs.mil  
-   Title: Roswell Report [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;)  
+   Title: Roswell Report [Case Closed]({{ 'case-closed/' | relative_url }})  
    Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Roswell report22 May 2017 — The Roswell Report: Fact UFO organizations sponsored a conference in February 1992 to evaluate the...</p></details>
    Published: May 2017  
@@ -899,7 +899,7 @@ As a result, the central methodological lesson of Roswell is not about extraterr
    Source: muller.lbl.gov  
    Title: USMogul Report  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Mogul(5) It is [Project MOGUL](&amp;#123;&amp;#123; &#x27;project-mogul/&#x27; | relative_url &amp;#125;&amp;#125;) that provides the ultimate explanation for the &quot;Roswell Incident.&quot; 1. Roswell Daily Record, Jul 9,1947, p.1...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mogul(5) It is [Project MOGUL]({{ 'project-mogul/' | relative_url }}) that provides the ultimate explanation for the &quot;Roswell Incident.&quot; 1. Roswell Daily Record, Jul 9,1947, p.1...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: youtube.com  

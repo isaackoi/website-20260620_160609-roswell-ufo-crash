@@ -821,7 +821,7 @@ In that sense, Roswell's souvenir culture demonstrates how tourism brands are cr
 16.<a id="endnote-16"></a>
    Source: tripadvisor.com  
    Link:<a href="https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum And Research CenterThis museum contains a diorama and a film of the &quot;official&quot; autopsy of the alien [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) after...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum And Research CenterThis museum contains a diorama and a film of the &quot;official&quot; autopsy of the alien [bodies]({{ 'bodies/' | relative_url }}) after...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: reddit.com  
@@ -841,7 +841,7 @@ In that sense, Roswell's souvenir culture demonstrates how tourism brands are cr
 20.<a id="endnote-20"></a>
    Source: kupi.com  
    Link:<a href="https://www.kupi.com/en-ae/explore/united-states/roswell/alien-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-states/roswell/alien-zone</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover unique sci-fi [photo ops](&amp;#123;&amp;#123; &#x27;photo-ops/&#x27; | relative_url &amp;#125;&amp;#125;), UFO exhibits, and the best space-themed souvenirs. Plan your out-of-this-world adventure...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover unique sci-fi [photo ops]({{ 'photo-ops/' | relative_url }}), UFO exhibits, and the best space-themed souvenirs. Plan your out-of-this-world adventure...</p></details>
 
 21.<a id="endnote-21"></a>
    Source: youtube.com  
@@ -857,7 +857,7 @@ In that sense, Roswell's souvenir culture demonstrates how tourism brands are cr
    Source: cleananpressbooks.com  
    Title: UF O District, UFO Souvenirs | Cleanan Press, Inc.Planet Roswell (204 N  
    Link:<a href="https://cleananpressbooks.com/roswell-nm/ufo-souvenirs-district-aliens" target="_blank" rel="noopener noreferrer nofollow">https://cleananpressbooks.com/roswell-nm/ufo-souvenirs-district-aliens</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Main). The t-shirts, postcards, books, and giant UFO [flying discs](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;) in this small souvenir shop are worth a stop. A favorite t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Main). The t-shirts, postcards, books, and giant UFO [flying discs]({{ 'flying-disc/' | relative_url }}) in this small souvenir shop are worth a stop. A favorite t...</p></details>
 
 24.<a id="endnote-24"></a>
    Source: tripadvisor.com  

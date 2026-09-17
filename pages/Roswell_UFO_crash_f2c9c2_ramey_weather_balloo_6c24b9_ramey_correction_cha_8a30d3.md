@@ -846,7 +846,7 @@ That shiftâ€”from an unidentified object to a dispute over official credibilityâ
 18.<a id="endnote-18"></a>
    Source: govinfo.gov  
    Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell report: [case closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;) / James McAndrewGeneral Accounting Office (GAO) inquiry of an event popularly known as the &quot;Roswell Incid...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell report: [case closed]({{ 'case-closed/' | relative_url }}) / James McAndrewGeneral Accounting Office (GAO) inquiry of an event popularly known as the &quot;Roswell Incid...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: text-message.blogs.archives.gov  

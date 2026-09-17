@@ -823,7 +823,7 @@ Together, those words transformed an otherwise thin recovery report into a vivid
 5.<a id="endnote-5"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: wired.com  
@@ -927,7 +927,7 @@ Together, those words transformed an otherwise thin recovery report into a vivid
 
 22.<a id="endnote-22"></a>
    Source: theweek.com  
-   Title: [roswell ufo crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;) what really happened 67 years ago  
+   Title: [roswell ufo crash]({{ 'roswell-ufo-crash/' | relative_url }}) what really happened 67 years ago  
    Link:<a href="https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO crash: what really happened 67 years ago?26 Jun 2018 — On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release st...</p></details>
    Published: July 1947  

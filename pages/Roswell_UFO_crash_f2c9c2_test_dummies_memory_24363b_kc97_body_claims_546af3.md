@@ -745,7 +745,7 @@ Even so, the KC-97 crash remains a key piece of the Air Force's case because it 
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;most likely a combination of two separate incidents: 1) a 1956 KC-97 ai...</p></details>
@@ -764,7 +764,7 @@ Even so, the KC-97 crash remains a key piece of the Air Force's case because it 
 4.<a id="endnote-4"></a>
    Source: cdn.centerforinquiry.org  
    Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Case Closed:by BD GILDENBERG · 1998 · Cited by 1 — The only [dummies](&amp;#123;&amp;#123; &#x27;dummies/&#x27; | relative_url &amp;#125;&amp;#125;) are the Air Force people who thought we&#x27;d buy this yarn!&quot; The fact th...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case Closed:by BD GILDENBERG · 1998 · Cited by 1 — The only [dummies]({{ 'dummies/' | relative_url }}) are the Air Force people who thought we&#x27;d buy this yarn!&quot; The fact th...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: time.com  

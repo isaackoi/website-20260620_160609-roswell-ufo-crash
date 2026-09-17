@@ -796,7 +796,7 @@ In that sense, the film's most enduring legacy lies not in what it claimed happe
    Source: vocal.media  
    Title: Watching The Skies With 'Roswell' | Futurism  
    Link:<a href="https://vocal.media/futurism/watching-the-skies-with-roswell" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/watching-the-skies-with-roswell</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Kyle Kyle MacLachlan as Army [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) Major Jesse Marcel in &#x27;Roswell&#x27;.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kyle Kyle MacLachlan as Army [Air Force]({{ 'air-force/' | relative_url }}) Major Jesse Marcel in &#x27;Roswell&#x27;.Read more...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: medium.com  

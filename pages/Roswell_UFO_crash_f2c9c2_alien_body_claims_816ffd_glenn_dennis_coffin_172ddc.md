@@ -772,7 +772,7 @@ That is why the coffin-call narrative remains one of the most discussed aspects 
 
 4.<a id="endnote-4"></a>
    Source: esd.whs.mil  
-   Title: Roswell Report [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;)  
+   Title: Roswell Report [Case Closed]({{ 'case-closed/' | relative_url }})  
    Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell report22 May 2017 — Glenn Dennis was provided by the interviewer, Karl. T. Pflock. The transcript of the interview of Mr...</p></details>
    Published: May 2017  
@@ -820,7 +820,7 @@ That is why the coffin-call narrative remains one of the most discussed aspects 
    Source: reddit.com  
    Title: w glenn dennis said in 1990 interview that nurse  
    Link:<a href="https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at...W. Glenn Dennis said in 1990 interview that nurse at Roswell [alien autopsy](&amp;#123;&amp;#123; &#x27;alien-autopsy/&#x27; | relative_url &amp;#125;&amp;#125;) told h...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at...W. Glenn Dennis said in 1990 interview that nurse at Roswell [alien autopsy]({{ 'alien-autopsy/' | relative_url }}) told h...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: reddit.com  

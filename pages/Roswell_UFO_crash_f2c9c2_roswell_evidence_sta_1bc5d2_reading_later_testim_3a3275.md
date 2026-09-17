@@ -793,7 +793,7 @@ Viewed in that order, later witness claims become more informative. Instead of s
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;Jesse. Marcel, an intelligence officer from Roswell Army Air Field, wit...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: archives.gov  
@@ -812,7 +812,7 @@ Viewed in that order, later witness claims become more informative. Instead of s
    Source: Wikipedia  
    Title: Jesse Marcel  
    Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse MarcelMarcel was the first military officer tasked with investigating the 1947 Roswell incident, where supposed &quot;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; de...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse MarcelMarcel was the first military officer tasked with investigating the 1947 Roswell incident, where supposed &quot;[flying disc]({{ 'flying-disc/' | relative_url }})&quot; de...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: youtube.com  
@@ -846,7 +846,7 @@ Viewed in that order, later witness claims become more informative. Instead of s
 12.<a id="endnote-12"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: medium.com  

@@ -753,7 +753,7 @@ When people later discovered that the “weather balloon” account masked the e
    Source: youtube.com  
    Title: Project Mogul  
    Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Secrets | ROSWELL [ALIEN AUTOPSY](&amp;#123;&amp;#123; &#x27;alien-autopsy/&#x27; | relative_url &amp;#125;&amp;#125;) SOLVED | Full Paranormal Documentary...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Secrets | ROSWELL [ALIEN AUTOPSY]({{ 'alien-autopsy/' | relative_url }}) SOLVED | Full Paranormal Documentary...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: dafhistory.af.mil  
@@ -788,7 +788,7 @@ When people later discovered that the “weather balloon” account masked the e
 10.<a id="endnote-10"></a>
    Source: wsmrmuseum.com  
    Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryProject Mogul Balloons promptly contacted the Roswell Army Air Field and got Maj. Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) involved. (From now on...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryProject Mogul Balloons promptly contacted the Roswell Army Air Field and got Maj. Jesse [Marcel]({{ 'marcel/' | relative_url }}) involved. (From now on...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: wired.com  
@@ -829,7 +829,7 @@ When people later discovered that the “weather balloon” account masked the e
 
 18.<a id="endnote-18"></a>
    Source: sciencefriday.com  
-   Title: The Real Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;)?  
+   Title: The Real Roswell [Cover-Up]({{ 'cover-up/' | relative_url }})?  
    Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
 

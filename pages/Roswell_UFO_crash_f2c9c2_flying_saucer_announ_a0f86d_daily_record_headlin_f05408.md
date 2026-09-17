@@ -743,7 +743,7 @@ As a result, the lasting artefact of Roswell is not merely a headline preserved 
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: 1947 [flying disc](&#123;&#123; 'flying-disc/' | relative_url &#125;&#125;) craze  
+   Title: 1947 [flying disc]({{ 'flying-disc/' | relative_url }}) craze  
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 4.<a id="endnote-4"></a>
@@ -769,7 +769,7 @@ As a result, the lasting artefact of Roswell is not merely a headline preserved 
    Source: time.com  
    Title: did aliens really land  
    Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?22 Jun 1997 — The next day, under the headline GENERAL [RAMEY](&amp;#123;&amp;#123; &#x27;ramey/&#x27; | relative_url &amp;#125;&amp;#125;) EMPTIES ROSWELL SAUCER, the Daily Record reported...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?22 Jun 1997 — The next day, under the headline GENERAL [RAMEY]({{ 'ramey/' | relative_url }}) EMPTIES ROSWELL SAUCER, the Daily Record reported...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: commons.wikimedia.org  
@@ -850,7 +850,7 @@ As a result, the lasting artefact of Roswell is not merely a headline preserved 
 21.<a id="endnote-21"></a>
    Source: muller.lbl.gov  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the [debris](&amp;#123;&amp;#123; &#x27;debris/&#x27; | relative_url &amp;#125;&amp;#125;) recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the [debris]({{ 'debris/' | relative_url }}) recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
 22.<a id="endnote-22"></a>
@@ -910,7 +910,7 @@ As a result, the lasting artefact of Roswell is not merely a headline preserved 
    Source: reddit.com  
    Title: the original 1947 roswell article fascinating  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/zgdb32/the_original_1947_roswell_article_fascinating/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zgdb32/the_original_1947_roswell_article_fascinating/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascinating since in this...In this first version of the Roswell story, the [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) conducts a crash retrieval of a flying saucer on a...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascinating since in this...In this first version of the Roswell story, the [Air Force]({{ 'air-force/' | relative_url }}) conducts a crash retrieval of a flying saucer on a...</p></details>
 
 31.<a id="endnote-31"></a>
    Source: nna.org  

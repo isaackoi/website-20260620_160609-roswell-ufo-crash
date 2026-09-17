@@ -982,7 +982,7 @@ The lasting value of the inquiry is therefore not that it delivered a dramatic r
    Link:<a href="https://www.archives.gov/records-mgmt/resources/unauthorizeddispositionoffederalrecords" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/resources/unauthorizeddispositionoffederalrecords</a>  
 
 10.<a id="endnote-10"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
@@ -1078,7 +1078,7 @@ The lasting value of the inquiry is therefore not that it delivered a dramatic r
    Source: youtube.com  
    Title: Ross Coulthart weighs in on 'Roswell Incident' video | News Nation Prime  
    Link:<a href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nrLVpWBxHRA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports]({{ 'official-reports/' | relative_url }}) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
 30.<a id="endnote-30"></a>
    Source: youtube.com  

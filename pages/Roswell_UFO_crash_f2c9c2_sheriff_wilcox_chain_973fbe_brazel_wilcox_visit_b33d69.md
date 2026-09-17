@@ -778,7 +778,7 @@ For historians, the event provides one of the clearest and least disputed links 
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 3.<a id="endnote-3"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;This account from the. July 9, 1947 Roswell Daily. Record, described th...</p></details>
@@ -805,7 +805,7 @@ For historians, the event provides one of the clearest and least disputed links 
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
    Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: youtube.com  
@@ -857,7 +857,7 @@ For historians, the event provides one of the clearest and least disputed links 
 
 16.<a id="endnote-16"></a>
    Source: commons.wikimedia.org  
-   Title: File:Roswell [Daily Record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;)  
+   Title: File:Roswell [Daily Record]({{ 'daily-record/' | relative_url }})  
    Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...Nov 5, 2023 — July 8, 1947. Article titled: &quot;RAAF Captures Flying Saucer On Ranch in Roswell Region&quot;. Flyi...</p></details>
    Published: July 8, 1947  
@@ -892,7 +892,7 @@ For historians, the event provides one of the clearest and least disputed links 
 22.<a id="endnote-22"></a>
    Source: nsa.gov  
    Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of [air force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) research regarding the21 July 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedl...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of [air force]({{ 'air-force/' | relative_url }}) research regarding the21 July 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedl...</p></details>
    Published: July 1994  
 
 23.<a id="endnote-23"></a>

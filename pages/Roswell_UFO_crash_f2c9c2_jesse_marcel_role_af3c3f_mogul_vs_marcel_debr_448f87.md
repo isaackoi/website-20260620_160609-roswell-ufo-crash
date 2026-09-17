@@ -744,7 +744,7 @@ The result is a debate driven by two different kinds of evidence. On one side ar
 2.<a id="endnote-2"></a>
    Source: esd.whs.mil  
    Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Pflock concluded from his research that the [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;) Ranch debr...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — Pflock concluded from his research that the [Brazel]({{ 'brazel/' | relative_url }}) Ranch debr...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: skepticalinquirer.org  
@@ -762,7 +762,7 @@ The result is a debate driven by two different kinds of evidence. On one side ar
 5.<a id="endnote-5"></a>
    Source: collections.digitalmaryland.org  
    Link:<a href="https://collections.digitalmaryland.org/digital/api/collection/saac/id/36448/download" target="_blank" rel="noopener noreferrer nofollow">https://collections.digitalmaryland.org/digital/api/collection/saac/id/36448/download</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;), Project Mogul, and the Roswell Incident22 Feb 2010 — radar targets were made of aluminum or rather paperbacked aluminum foi...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The [Cold War]({{ 'cold-war/' | relative_url }}), Project Mogul, and the Roswell Incident22 Feb 2010 — radar targets were made of aluminum or rather paperbacked aluminum foi...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: reddit.com  
@@ -866,4 +866,4 @@ The result is a debate driven by two different kinds of evidence. On one side ar
 24.<a id="endnote-24"></a>
    Source: online.flipbuilder.com  
    Link:<a href="https://online.flipbuilder.com/xwms/hbfw/files/basic-html/page85.html" target="_blank" rel="noopener noreferrer nofollow">https://online.flipbuilder.com/xwms/hbfw/files/basic-html/page85.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;X&#x27; Chronicles [Newspaper](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;) - Jan-Feb 2018, Vol 27, No 1The Roswell Incident and Project Mogul 85 The Roswell Incident and Project Mogul...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;X&#x27; Chronicles [Newspaper]({{ 'newspaper/' | relative_url }}) - Jan-Feb 2018, Vol 27, No 1The Roswell Incident and Project Mogul 85 The Roswell Incident and Project Mogul...</p></details>

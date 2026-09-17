@@ -974,7 +974,7 @@ For a reader assessing the Roswell UFO crash, the key question is therefore not 
    Source: gutenberg.org  
    Title: Project Gutenberg  
    Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—A Project Gutenberg eBook...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James McAndrew—A Project Gutenberg eBook...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: nsa.gov  
@@ -1051,7 +1051,7 @@ For a reader assessing the Roswell UFO crash, the key question is therefore not 
 18.<a id="endnote-18"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why “Listen” Is the Real Twist in Disclosure Day (2026) A Constantly Racing Mind · 12 [views](&amp;#123;&amp;#123; &#x27;views/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why “Listen” Is the Real Twist in Disclosure Day (2026) A Constantly Racing Mind · 12 [views]({{ 'views/' | relative_url }})...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: youtube.com  

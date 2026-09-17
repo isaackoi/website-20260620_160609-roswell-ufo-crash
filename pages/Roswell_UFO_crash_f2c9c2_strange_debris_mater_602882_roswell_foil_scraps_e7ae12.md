@@ -779,7 +779,7 @@ Those are precisely the characteristics that make early Roswell descriptions sou
    Source: Wikipedia  
    Title: Project Mogul  
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy](&amp;#123;&amp;#123; &#x27;legacy/&#x27; | relative_url &amp;#125;&amp;#125;) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy]({{ 'legacy/' | relative_url }}) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: youtube.com  
@@ -801,7 +801,7 @@ Those are precisely the characteristics that make early Roswell descriptions sou
 9.<a id="endnote-9"></a>
    Source: skepticalinquirer.org  
    Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber Brazel noted was similar to the [neoprene balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) used to carry equipment aloft...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber Brazel noted was similar to the [neoprene balloons]({{ 'balloon-decay/' | relative_url }}) used to carry equipment aloft...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: skepticalinquirer.org  
@@ -819,7 +819,7 @@ Those are precisely the characteristics that make early Roswell descriptions sou
    Source: muller.lbl.gov  
    Title: USMogul Report  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>MogulThese figures were printed on tape that sealed the seams of the of the [radar target](&amp;#123;&amp;#123; &#x27;radar-target/&#x27; | relative_url &amp;#125;&amp;#125;). The radar targets, sometimes called corner refl...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MogulThese figures were printed on tape that sealed the seams of the of the [radar target]({{ 'radar-target/' | relative_url }}). The radar targets, sometimes called corner refl...</p></details>
 
 ### Additional References
 
@@ -842,7 +842,7 @@ Those are precisely the characteristics that make early Roswell descriptions sou
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
    Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), an intelligence officer from Roswell A...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse [Marcel]({{ 'marcel/' | relative_url }}), an intelligence officer from Roswell A...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: ciphermysteries.com  

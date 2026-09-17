@@ -758,7 +758,7 @@ For anyone trying to understand the Roswell incident through maps and geography 
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the Maxwell have objects from the Roswell Crash Site?Dec 11, 2020 — “To date, no clear evidence of a UFO crash, or of other reported...</p></details>
 
 4.<a id="endnote-4"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
@@ -800,7 +800,7 @@ For anyone trying to understand the Roswell incident through maps and geography 
    Source: blogs.library.unt.edu  
    Title: Blogs75 Years after the Roswell Incident, What Have We  
    Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Major Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), an intelligence officer from Roswell Ar...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Major Jesse [Marcel]({{ 'marcel/' | relative_url }}), an intelligence officer from Roswell Ar...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: sciencefriday.com  
@@ -844,7 +844,7 @@ For anyone trying to understand the Roswell incident through maps and geography 
    Source: muller.lbl.gov  
    Title: Roswell Incident  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe number of these &quot;alien [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; recovered also varied. These claims are further complicated by the fact that UFO resear...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe number of these &quot;alien [bodies]({{ 'bodies/' | relative_url }})&quot; recovered also varied. These claims are further complicated by the fact that UFO resear...</p></details>
 
 ### Additional References
 
@@ -883,7 +883,7 @@ For anyone trying to understand the Roswell incident through maps and geography 
 
 24.<a id="endnote-24"></a>
    Source: gutenberg.org  
-   Title: The Roswell Report: [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;), by James Mc Andrew—  
+   Title: The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James Mc Andrew—  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>debris from an Army Air Forces balloon-borne research project code named Mogul.[1] Records located describing research carried out under...</p></details>
 
@@ -903,7 +903,7 @@ For anyone trying to understand the Roswell incident through maps and geography 
    Source: jimmyakin.com  
    Title: Happy Roswell Incident Day!  
    Link:<a href="https://jimmyakin.com/2005/07/happy_roswell_i.html" target="_blank" rel="noopener noreferrer nofollow">https://jimmyakin.com/2005/07/happy_roswell_i.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy AkinJul 3, 2005 —... alien bodies were really crash test [dummies](&amp;#123;&amp;#123; &#x27;dummies/&#x27; | relative_url &amp;#125;&amp;#125;) like the one pictured on the right, which was donated to and is o...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy AkinJul 3, 2005 —... alien bodies were really crash test [dummies]({{ 'dummies/' | relative_url }}) like the one pictured on the right, which was donated to and is o...</p></details>
 
 28.<a id="endnote-28"></a>
    Source: nasw.org  

@@ -812,7 +812,7 @@ In that sense, Roswell's tourism culture is built less on consensus than on coex
 15.<a id="endnote-15"></a>
    Source: tripadvisor.com  
    Link:<a href="https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum And Research CenterThis museum contains a diorama and a film of the &quot;official&quot; autopsy of the alien [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) after...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum And Research CenterThis museum contains a diorama and a film of the &quot;official&quot; autopsy of the alien [bodies]({{ 'bodies/' | relative_url }}) after...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: kupi.com  

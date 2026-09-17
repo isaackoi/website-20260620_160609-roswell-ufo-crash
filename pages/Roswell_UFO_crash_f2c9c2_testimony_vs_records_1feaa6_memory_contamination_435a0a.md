@@ -789,7 +789,7 @@ For the Roswell case specifically, the key lesson is methodological rather than 
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;In July 1994, the Office of the Secretary of the Air Force concluded an exhaustive search for...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;In July 1994, the Office of the Secretary of the Air Force concluded an exhaustive search for...</p></details>
    Published: July 1994  
 
 6.<a id="endnote-6"></a>

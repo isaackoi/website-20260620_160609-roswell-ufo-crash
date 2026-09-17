@@ -749,7 +749,7 @@ The result is a debate that has endured for decades. The photographs themselves 
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: 1947 [flying disc](&#123;&#123; 'flying-disc/' | relative_url &#125;&#125;) craze  
+   Title: 1947 [flying disc]({{ 'flying-disc/' | relative_url }}) craze  
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 6.<a id="endnote-6"></a>
@@ -814,7 +814,7 @@ The result is a debate that has endured for decades. The photographs themselves 
 
 16.<a id="endnote-16"></a>
    Source: wonderfulmuseums.com  
-   Title: international [ufo museum](&#123;&#123; 'ufo-museum/' | relative_url &#125;&#125;) in roswell new mexico 68  
+   Title: international [ufo museum]({{ 'ufo-museum/' | relative_url }}) in roswell new mexico 68  
    Link:<a href="https://www.wonderfulmuseums.com/museum/international-ufo-museum-in-roswell-new-mexico-68/" target="_blank" rel="noopener noreferrer nofollow">https://www.wonderfulmuseums.com/museum/international-ufo-museum-in-roswell-new-mexico-68/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum in Roswell, New Mexico5 Aug 2025 — A photograph was circulated showing Major Jesse Marcel, the intelligence offi...</p></details>
 

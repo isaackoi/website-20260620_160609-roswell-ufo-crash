@@ -834,13 +834,13 @@ That paradox helps explain its lasting significance. The footage is remembered n
    Source: thesun.co.uk  
    Title: grainy alien autopsy vid stoked roswell ufo conspiracy  
    Link:<a href="https://www.thesun.co.uk/news/39373555/grainy-alien-autopsy-vid-stoked-roswell-ufo-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/39373555/grainy-alien-autopsy-vid-stoked-roswell-ufo-conspiracy/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>British producers Ray Santilli and Gary Schofield claimed to have acquired the footage from a former U.S. Army [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) cameraman. The f...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British producers Ray Santilli and Gary Schofield claimed to have acquired the footage from a former U.S. Army [Air Force]({{ 'air-force/' | relative_url }}) cameraman. The f...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: theweek.com  
    Title: The Week The Alien Autopsy Scandal: 'Spinal Tap territory  
    Link:<a href="https://theweek.com/culture-life/tv-radio/the-alien-autopsy-scandal-spinal-tap-territory-but-real" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/culture-life/tv-radio/the-alien-autopsy-scandal-spinal-tap-territory-but-real</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>First aired on television, the black-and-white video captivated global audiences, earning an estimated one billion [views](&amp;#123;&amp;#123; &#x27;views/&#x27; | relative_url &amp;#125;&amp;#125;). The new miniser...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First aired on television, the black-and-white video captivated global audiences, earning an estimated one billion [views]({{ 'views/' | relative_url }}). The new miniser...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: skepticalinquirer.org  

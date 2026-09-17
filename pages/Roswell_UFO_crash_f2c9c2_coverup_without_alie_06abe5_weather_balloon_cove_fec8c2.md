@@ -790,7 +790,7 @@ That is why the explanation remains historically significant. The story demonstr
 16.<a id="endnote-16"></a>
    Source: wsmrmuseum.com  
    Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryProject Mogul Balloons promptly contacted the Roswell Army Air Field and got Maj. Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) involved. (From now on...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryProject Mogul Balloons promptly contacted the Roswell Army Air Field and got Maj. Jesse [Marcel]({{ 'marcel/' | relative_url }}) involved. (From now on...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: skepticalinquirer.org  

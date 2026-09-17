@@ -853,7 +853,7 @@ That distinction is important when evaluating the original documentary record. T
 
 16.<a id="endnote-16"></a>
    Source: theweek.com  
-   Title: [roswell ufo crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;) what really happened 67 years ago  
+   Title: [roswell ufo crash]({{ 'roswell-ufo-crash/' | relative_url }}) what really happened 67 years ago  
    Link:<a href="https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO crash: what really happened 67 years ago?26 Jun 2018 — On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release st...</p></details>
    Published: July 1947  
@@ -874,7 +874,7 @@ That distinction is important when evaluating the original documentary record. T
    Source: youtube.com  
    Title: Reel America: "The Roswell Reports"  
    Link:<a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO crash July 8 1947 newspaper Mac [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;) Jesse Marcel UFO Roswell Incident (Full Episode) | Undercover History Updates | Nation...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO crash July 8 1947 newspaper Mac [Brazel]({{ 'brazel/' | relative_url }}) Jesse Marcel UFO Roswell Incident (Full Episode) | Undercover History Updates | Nation...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: scribd.com  

@@ -831,7 +831,7 @@ Understanding White Sands and the wider test geography therefore provides essent
 
 16.<a id="endnote-16"></a>
    Source: sciencefriday.com  
-   Title: Science Friday The Real Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;)?  
+   Title: Science Friday The Real Roswell [Cover-Up]({{ 'cover-up/' | relative_url }})?  
    Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On AirJul 21, 2017 — Ewing was pretty optimistic about Project Mogul at first, but when he began running tests at Alamogordo Army...</p></details>
 
@@ -857,7 +857,7 @@ Understanding White Sands and the wider test geography therefore provides essent
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident - Cryptid Wiki - FandomThe balloon, part of the secret Project Mogul, was launched from Alamogordo Army Air Field to detect Sovi...</p></details>
 
 21.<a id="endnote-21"></a>
-   Source: dark-[tourism](&#123;&#123; 'tourism/' | relative_url &#125;&#125;). com  
+   Source: dark-[tourism]({{ 'tourism/' | relative_url }}). com  
    Link:<a href="https://dark-tourism.com/index.php/752-trinity-site-white-sands-missile-range-alomogordo-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://dark-tourism.com/index.php/752-trinity-site-white-sands-missile-range-alomogordo-new-mexico</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Tourism - the guide to dark travel destinations...It was here, in the middle of the desert of the White Sands range in southern New...</p></details>
 
@@ -923,7 +923,7 @@ Understanding White Sands and the wider test geography therefore provides essent
    Source: blogs.library.unt.edu  
    Title: edu75 Years after the Roswell Incident, What Have We  
    Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 7, 2022 — Major Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), an intelligence officer from Roswell Army Air Field, with the debris found 75 miles northwest of R...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 7, 2022 — Major Jesse [Marcel]({{ 'marcel/' | relative_url }}), an intelligence officer from Roswell Army Air Field, with the debris found 75 miles northwest of R...</p></details>
 
 33.<a id="endnote-33"></a>
    Source: reddit.com  

@@ -802,7 +802,7 @@ That disagreement over cumulative testimony explains why Roswell remains contest
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: The Roswell Incident ([1980 book](&#123;&#123; '1980-book/' | relative_url &#125;&#125;))  
+   Title: The Roswell Incident ([1980 book]({{ '1980-book/' | relative_url }}))  
    Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
 
 5.<a id="endnote-5"></a>
@@ -819,7 +819,7 @@ That disagreement over cumulative testimony explains why Roswell remains contest
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;James Ragsdale was provided by Kevin Randle, the coauthor of the Truth...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;James Ragsdale was provided by Kevin Randle, the coauthor of the Truth...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: Wikipedia  

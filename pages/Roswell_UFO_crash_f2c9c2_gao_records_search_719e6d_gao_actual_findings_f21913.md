@@ -798,7 +798,7 @@ On one hand, the investigation confirmed that substantial Roswell Army Air Field
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;&quot;Roswell Incident.&quot; The focus of the GAO probe, initiated at the request of New Mexico Congre...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;&quot;Roswell Incident.&quot; The focus of the GAO probe, initiated at the request of New Mexico Congre...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: washingtonpost.com  

@@ -746,7 +746,7 @@ As a result, Sierra Sam serves as both supporting evidence and a limitation for 
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;&quot;Sierra Sam&quot; Anthropomorphic Dummy in Ejection Seat. 22. Alderson Labor...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;&quot;Sierra Sam&quot; Anthropomorphic Dummy in Ejection Seat. 22. Alderson Labor...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: secretsdeclassified.af.mil  

@@ -982,7 +982,7 @@ That is why the flying saucer craze around Roswell remains more than background 
 
 14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Title: Project [Mogul](&#123;&#123; 'mogul/' | relative_url &#125;&#125;)  
+   Title: Project [Mogul]({{ 'mogul/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
 15.<a id="endnote-15"></a>

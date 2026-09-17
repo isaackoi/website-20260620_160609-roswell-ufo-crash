@@ -724,7 +724,7 @@ That is why historians often describe the original statement as a partial truth 
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
 4.<a id="endnote-4"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The International UFO Museum and Research Center, Roswell, N.M.. 3. Dra...</p></details>
@@ -789,7 +789,7 @@ That is why historians often describe the original statement as a partial truth 
    Source: wired.com  
    Title: roswell aliens fermi paradox  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...14 Nov 2023 — The Roswell Incident was largely built around [testimony](&amp;#123;&amp;#123; &#x27;testimony/&#x27; | relative_url &amp;#125;&amp;#125;) Friedman...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...14 Nov 2023 — The Roswell Incident was largely built around [testimony]({{ 'testimony/' | relative_url }}) Friedman...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: sciencefriday.com  

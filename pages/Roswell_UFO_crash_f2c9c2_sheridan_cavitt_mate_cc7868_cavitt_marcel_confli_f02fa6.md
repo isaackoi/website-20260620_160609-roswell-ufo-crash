@@ -745,7 +745,7 @@ The result is one of Roswell's clearest witness contradictions. Rather than a di
 3.<a id="endnote-3"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: Wikipedia  
@@ -851,7 +851,7 @@ The result is one of Roswell's clearest witness contradictions. Rather than a di
 22.<a id="endnote-22"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=71uQpWIdx9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=71uQpWIdx9M</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;[flying disc]({{ 'flying-disc/' | relative_url }})&#x27;...</p></details>
    Published: July 1947  
 
 23.<a id="endnote-23"></a>

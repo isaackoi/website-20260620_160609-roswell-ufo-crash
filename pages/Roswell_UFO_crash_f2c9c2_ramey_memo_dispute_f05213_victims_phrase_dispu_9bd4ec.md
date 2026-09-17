@@ -753,7 +753,7 @@ The debate over “victims of the wreck” is important not because the phrase h
 
 7.<a id="endnote-7"></a>
    Source: the-sun.com  
-   Title: roswell mystery cracked [air force](&#123;&#123; 'air-force/' | relative_url &#125;&#125;) captain memo ufo crash  
+   Title: roswell mystery cracked [air force]({{ 'air-force/' | relative_url }}) captain memo ufo crash  
    Link:<a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain who...8 Jul 2022 — The grainy memo appears to say the words “victims of the cras...</p></details>
 
@@ -799,7 +799,7 @@ The debate over “victims of the wreck” is important not because the phrase h
 
 15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Title: The Ramey Memo: Best Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;) Evidence ever Found  
+   Title: The Ramey Memo: Best Roswell [Cover-Up]({{ 'cover-up/' | relative_url }}) Evidence ever Found  
    Link:<a href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z8VQwxF8gRQ</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey Memo Roswell victims wreck Military Encounters with the Unknown | Ancient Aliens HISTORY...</p></details>
 

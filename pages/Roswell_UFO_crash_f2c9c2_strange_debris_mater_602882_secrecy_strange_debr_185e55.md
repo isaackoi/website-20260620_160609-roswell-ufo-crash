@@ -737,7 +737,7 @@ Within the history of Roswell, this secret context helps explain why simple mate
 1.<a id="endnote-1"></a>
    Source: nsa.gov  
    Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) were located and thoroughly explored concerning a the...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding theMarch 24, 2018 — 21 Jul 1994 — [Records]({{ 'records/' | relative_url }}) were located and thoroughly explored concerning a the...</p></details>
    Published: March 24, 2018  
 
 2.<a id="endnote-2"></a>

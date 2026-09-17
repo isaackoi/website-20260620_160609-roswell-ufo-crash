@@ -748,7 +748,7 @@ As a result, Project Mogul remains the central official mechanism for explaining
    Source: gutenberg.org  
    Title: 63659 h  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) launc...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. [Moore]({{ 'moore/' | relative_url }}) launc...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: gao.justia.com  
@@ -764,7 +764,7 @@ As a result, Project Mogul remains the central official mechanism for explaining
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</p></details>
 
 6.<a id="endnote-6"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf?ref=bexfiles.ghost.io</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarThe Roswell reportThe 1994 Air Force report determined that project MOGUL was responsible for the 1947 events. MOGU...</p></details>
@@ -792,7 +792,7 @@ As a result, Project Mogul remains the central official mechanism for explaining
 11.<a id="endnote-11"></a>
    Source: cdn.centerforinquiry.org  
    Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>which is consistent with the [neoprene balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) used in NYU Flight 4. Much of the Roswell debris—...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>which is consistent with the [neoprene balloons]({{ 'balloon-decay/' | relative_url }}) used in NYU Flight 4. Much of the Roswell debris—...Read more...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: skepticalinquirer.org  
@@ -809,7 +809,7 @@ As a result, Project Mogul remains the central official mechanism for explaining
    Source: sciencefriday.com  
    Title: Science Friday The Real Roswell Cover-Up?  
    Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;) came across a trail of metal and...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac [Brazel]({{ 'brazel/' | relative_url }}) came across a trail of metal and...</p></details>
    Published: June 1947  
 
 ### Additional References
@@ -855,7 +855,7 @@ As a result, Project Mogul remains the central official mechanism for explaining
 
 22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Title: Aliens or Crash Test [Dummies](&#123;&#123; 'dummies/' | relative_url &#125;&#125;)!?  
+   Title: Aliens or Crash Test [Dummies]({{ 'dummies/' | relative_url }})!?  
    Link:<a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Roswell Reports...In 1994 the air force admitted that the recovered material was in reality from a U.S. spy balloon. Part of Projec...</p></details>
 

@@ -767,7 +767,7 @@ The newspaper's phrase “over authority of Maj. J. A. Marcel” transformed him
    Source: nsa.gov  
    Title: Marcel, had recovered a "flying disc" from the range  
    Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of [air force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) research regarding theMarch 24, 2018 — 21 Jul 1994 — Intelligence Officer of the 509th Bomb G...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of [air force]({{ 'air-force/' | relative_url }}) research regarding theMarch 24, 2018 — 21 Jul 1994 — Intelligence Officer of the 509th Bomb G...</p></details>
    Published: March 24, 2018  
 
 9.<a id="endnote-9"></a>
@@ -780,7 +780,7 @@ The newspaper's phrase “over authority of Maj. J. A. Marcel” transformed him
 10.<a id="endnote-10"></a>
    Source: media.defense.gov  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;(Right) Maj. Jesse. Marcel, an intelligence officer from Roswell Army Air Field, with the deb...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;(Right) Maj. Jesse. Marcel, an intelligence officer from Roswell Army Air Field, with the deb...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: facebook.com  
@@ -815,7 +815,7 @@ The newspaper's phrase “over authority of Maj. J. A. Marcel” transformed him
 16.<a id="endnote-16"></a>
    Source: youtube.com  
    Link:<a href="http://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=odUSnDgU-oo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Jesse Marcel [Roswell UFO crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) interview press release announcement 1947 🇺🇸 #UFOB [CASE] Major Jesse Marcel interviewed at the Coro...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Jesse Marcel [Roswell UFO crash]({{ 'roswell-ufo-crash/' | relative_url }}) interview press release announcement 1947 🇺🇸 #UFOB [CASE] Major Jesse Marcel interviewed at the Coro...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: youtube.com  

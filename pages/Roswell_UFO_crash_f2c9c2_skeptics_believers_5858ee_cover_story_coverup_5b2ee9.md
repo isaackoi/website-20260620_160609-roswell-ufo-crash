@@ -803,7 +803,7 @@ Yet the existence of that concealment also explains why the debate has survived 
 7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently [conflicts](&amp;#123;&amp;#123; &#x27;conflicts/&#x27; | relative_url &amp;#125;&amp;#125;) with...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently [conflicts]({{ 'conflicts/' | relative_url }}) with...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: Wikipedia  

@@ -783,7 +783,7 @@ As a result, Flight 4 occupies a unique position in the Roswell case. It is the 
 9.<a id="endnote-9"></a>
    Source: sgp.fas.org  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO Crash(5) a 1947 Air Force report noted the recovery of a [flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;) that was later determined by military offi...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO Crash(5) a 1947 Air Force report noted the recovery of a [flying disc]({{ 'flying-disc/' | relative_url }}) that was later determined by military offi...</p></details>
 
 ### Additional References
 
@@ -800,7 +800,7 @@ As a result, Flight 4 occupies a unique position in the Roswell case. It is the 
 
 12.<a id="endnote-12"></a>
    Source: gutenberg.org  
-   Title: The Roswell Report: [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;), by James Mc Andrew—  
+   Title: The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James Mc Andrew—  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul flights in June 1947, covered a wide spectrum of scientific research. One important experiment in space biology measured th...</p></details>
    Published: June 1947  
@@ -830,7 +830,7 @@ As a result, Flight 4 occupies a unique position in the Roswell case. It is the 
 <details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul.Read more...</p></details>
 
 17.<a id="endnote-17"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;MOGUL was an experimental attempt to acoustically detect suspected Sovi...</p></details>

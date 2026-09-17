@@ -760,7 +760,7 @@ The Flying Saucer McDonald’s embodies that balance. It neither proves nor disp
 4.<a id="endnote-4"></a>
    Source: kupi.com  
    Link:<a href="https://www.kupi.com/en-ae/explore/united-states/roswell/alien-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-states/roswell/alien-zone</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Zone Roswell: The Ultimate Sci-Fi Photo ExperienceExplore Alien Zone in Roswell! Discover unique sci-fi [photo ops](&amp;#123;&amp;#123; &#x27;photo-ops/&#x27; | relative_url &amp;#125;&amp;#125;), UFO exhibits...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Zone Roswell: The Ultimate Sci-Fi Photo ExperienceExplore Alien Zone in Roswell! Discover unique sci-fi [photo ops]({{ 'photo-ops/' | relative_url }}), UFO exhibits...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: facebook.com  

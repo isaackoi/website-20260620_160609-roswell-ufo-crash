@@ -732,7 +732,7 @@ For historians, therefore, the value of the July 8 announcement lies less in pro
    Source: en.wikisource.org  
    Title: RAAF Captures Flying Saucer on Ranch in Roswell Region  
    Link:<a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Captures Flying Saucer on Ranch in Roswell RegionRoswell [Daily Record](&amp;#123;&amp;#123; &#x27;daily-record/&#x27; | relative_url &amp;#125;&amp;#125;)/1947/RAAF Captures Flying Saucer on Ranch in Roswell...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Captures Flying Saucer on Ranch in Roswell RegionRoswell [Daily Record]({{ 'daily-record/' | relative_url }})/1947/RAAF Captures Flying Saucer on Ranch in Roswell...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: britannica.com  
@@ -779,7 +779,7 @@ For historians, therefore, the value of the July 8 announcement lies less in pro
    Source: youtube.com  
    Title: The Secret Cold War Project Behind the Roswell UFO Incident  
    Link:<a href="https://www.youtube.com/watch?v=vP43ny3q0V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vP43ny3q0V8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: youtube.com  

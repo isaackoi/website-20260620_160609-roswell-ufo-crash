@@ -769,7 +769,7 @@ That combination—a remote discovery, an interval before reporting, and a debri
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project [MOGUL balloon train](&amp;#123;&amp;#123; &#x27;balloon-train/&#x27; | relative_url &amp;#125;&amp;#125;) similar to one found on a ranch. 75 miles n...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project [MOGUL balloon train]({{ 'balloon-train/' | relative_url }}) similar to one found on a ranch. 75 miles n...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: dafhistory.af.mil  
@@ -829,7 +829,7 @@ That combination—a remote discovery, an interval before reporting, and a debri
    Source: Wikipedia  
    Title: Project Mogul  
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy](&amp;#123;&amp;#123; &#x27;legacy/&#x27; | relative_url &amp;#125;&amp;#125;) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy]({{ 'legacy/' | relative_url }}) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: hhhistory.com  
