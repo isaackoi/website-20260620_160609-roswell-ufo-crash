@@ -766,7 +766,7 @@ The practical consequence is that Flight 4 occupies an unusual position in the R
    Source: Wikipedia  
    Title: Roswell (TV series)  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) where the Roswell UFO exists, and...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline]({{ 'timeline/' | relative_url }}) where the Roswell UFO exists, and...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: Wikipedia  
@@ -784,7 +784,7 @@ The practical consequence is that Flight 4 occupies an unusual position in the R
 8.<a id="endnote-8"></a>
    Source: gutenberg.org  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—...Other Mogul records, describing military applications of balloon...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James McAndrew—...Other Mogul records, describing military applications of balloon...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: reddit.com  

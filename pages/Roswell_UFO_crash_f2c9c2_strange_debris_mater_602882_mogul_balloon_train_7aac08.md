@@ -728,7 +728,7 @@ For the specific question of the debris field, this distinction is crucial. The 
    Source: esd.whs.mil  
    Title: ESDReport of Air Force Research Regarding the "Roswell  
    Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — Professor [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) opined that the material...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — Professor [Moore]({{ 'moore/' | relative_url }}) opined that the material...</p></details>
    Published: September 26, 2012  
 
 4.<a id="endnote-4"></a>
@@ -774,7 +774,7 @@ For the specific question of the debris field, this distinction is crucial. The 
 
 12.<a id="endnote-12"></a>
    Source: sciencefriday.com  
-   Title: Science Friday The Real Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;)?  
+   Title: Science Friday The Real Roswell [Cover-Up]({{ 'cover-up/' | relative_url }})?  
    Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac Brazel came across a trail of metal and...</p></details>
    Published: June 1947  
@@ -847,7 +847,7 @@ For the specific question of the debris field, this distinction is crucial. The 
 
 25.<a id="endnote-25"></a>
    Source: gutenberg.org  
-   Title: The Roswell Report: [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;), by James Mc Andrew—  
+   Title: The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James Mc Andrew—  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>debris from an Army Air Forces balloon-borne research project code named Mogul.[1] Records located describing research carried out under...</p></details>
 

@@ -749,7 +749,7 @@ This distinction matters because it changes how the Roswell episode is understoo
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: 1947 [flying disc](&#123;&#123; 'flying-disc/' | relative_url &#125;&#125;) craze  
+   Title: 1947 [flying disc]({{ 'flying-disc/' | relative_url }}) craze  
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeBloecher writes: &quot;With scarcely more than a dozen sightings for July 10th, the UFO wave of 1947 had almost compl...</p></details>
 
@@ -775,7 +775,7 @@ This distinction matters because it changes how the Roswell episode is understoo
 
 9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Title: Roswell [Daily Record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;)  
+   Title: Roswell [Daily Record]({{ 'daily-record/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_Daily_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_Daily_Record</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Daily RecordThe paper is well known in the UFO community because it reported the alleged Roswell UFO crash in 1947. The newspa...</p></details>
 
@@ -837,7 +837,7 @@ This distinction matters because it changes how the Roswell episode is understoo
    Source: historyextra.com  
    Title: roswell incident ufo alien crash conspiracy  
    Link:<a href="https://www.historyextra.com/period/20th-century/roswell-incident-ufo-alien-crash-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyextra.com/period/20th-century/roswell-incident-ufo-alien-crash-conspiracy/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Did The US [Cover Up](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) An Alien UFO Crash In 1947?May 16, 2024 — A mysterious incident in Roswell, New Mexico, laid the foundations of a sup...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did The US [Cover Up]({{ 'cover-up/' | relative_url }}) An Alien UFO Crash In 1947?May 16, 2024 — A mysterious incident in Roswell, New Mexico, laid the foundations of a sup...</p></details>
    Published: May 16, 2024  
 
 ### Additional References

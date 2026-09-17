@@ -1004,7 +1004,7 @@ The case remains historically important because the sceptical explanation is not
 
 26.<a id="endnote-26"></a>
    Source: airandspace.si.edu  
-   Title: roswell [daily record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;) newspaper ufo  
+   Title: roswell [daily record]({{ 'daily-record/' | relative_url }}) newspaper ufo  
    Link:<a href="https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo</a>  
 
 27.<a id="endnote-27"></a>

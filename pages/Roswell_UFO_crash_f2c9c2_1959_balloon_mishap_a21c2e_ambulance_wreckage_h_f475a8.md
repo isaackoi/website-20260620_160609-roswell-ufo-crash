@@ -737,7 +737,7 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
    Published: May 2017  
 
 2.<a id="endnote-2"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Stenciled Letters Described as &quot;Hieroglyphics.&quot; 22. A2C Ole Jorgeson in...</p></details>
@@ -751,7 +751,7 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
    Source: af.mil  
    Title: The Roswell Report  
    Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell Report) a 1956 [KC-97](&amp;#123;&amp;#123; &#x27;kc-97/&#x27; | relative_url &amp;#125;&amp;#125;) aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell Report) a 1956 [KC-97]({{ 'kc-97/' | relative_url }}) aircraft accident in which 11 Air Force members lost their lives; and;) a 1959 manned ba...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: skepticalinquirer.org  
@@ -763,7 +763,7 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
 6.<a id="endnote-6"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/aliens/comments/1g2ul19/what_are_your_thoughts_on_the_alien_writing_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1g2ul19/what_are_your_thoughts_on_the_alien_writing_on/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Thoughts on alien writing from Roswell I-BeamThese symbols were likely mistaken for alien writing due to the [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) surrounding the proj...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thoughts on alien writing from Roswell I-BeamThese symbols were likely mistaken for alien writing due to the [secrecy]({{ 'secrecy/' | relative_url }}) surrounding the proj...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
@@ -786,7 +786,7 @@ The key point is that the ambulance stories and the hieroglyphics detail are clo
    Source: governmentattic.org  
    Title: Roswell Report: Case Closed, as man with head injury causing him to.Read more  
    Link:<a href="https://www.governmentattic.org/2docs/NPRC_VIP_List_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/2docs/NPRC_VIP_List_2009.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives National Personnel [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) Center (...4 Jan 2010 — High altitude balloon pilot/parachutist written about in AF History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives National Personnel [Records]({{ 'records/' | relative_url }}) Center (...4 Jan 2010 — High altitude balloon pilot/parachutist written about in AF History...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: military-history.fandom.com  

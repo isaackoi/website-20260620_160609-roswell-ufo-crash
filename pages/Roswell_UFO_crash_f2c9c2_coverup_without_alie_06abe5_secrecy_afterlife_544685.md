@@ -874,7 +874,7 @@ The classified programme behind the debris was temporary. The public consequence
 22.<a id="endnote-22"></a>
    Source: gutenberg.org  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—...The 1994 Air Force report determined that project Mogul was responsible for the 19...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James McAndrew—...The 1994 Air Force report determined that project Mogul was responsible for the 19...</p></details>
 
 23.<a id="endnote-23"></a>
    Source: syfy.com  

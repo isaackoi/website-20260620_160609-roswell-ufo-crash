@@ -745,7 +745,7 @@ For that reason, missing flight records are best understood as a limitation on c
 
 4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Title: Roswell: The World's Biggest Alien [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;) Finally Exposed  
+   Title: Roswell: The World's Biggest Alien [Cover-Up]({{ 'cover-up/' | relative_url }}) Finally Exposed  
    Link:<a href="https://www.youtube.com/watch?v=5RueuqXrQE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RueuqXrQE4</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
@@ -786,7 +786,7 @@ For that reason, missing flight records are best understood as a limitation on c
 11.<a id="endnote-11"></a>
    Source: realufo.org  
    Link:<a href="https://realufo.org/nara/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://realufo.org/nara/roswell.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>· Project Mogul — case file · NARA ArchiveThe 8 July 1947 RAAF &#x27;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; press release and its successor explanations — Project Mogul...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Project Mogul — case file · NARA ArchiveThe 8 July 1947 RAAF &#x27;[flying disc]({{ 'flying-disc/' | relative_url }})&#x27; press release and its successor explanations — Project Mogul...</p></details>
    Published: July 1947  
 
 12.<a id="endnote-12"></a>
@@ -829,7 +829,7 @@ For that reason, missing flight records are best understood as a limitation on c
 
 19.<a id="endnote-19"></a>
    Source: gutenberg.org  
-   Title: The Roswell Report: [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;), by James Mc Andrew—  
+   Title: The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James Mc Andrew—  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. Moore launc...</p></details>
 

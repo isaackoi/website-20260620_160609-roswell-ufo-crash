@@ -780,7 +780,7 @@ For supporters of the Mogul explanation, this is one of the strongest reasons th
 
 5.<a id="endnote-5"></a>
    Source: esd.whs.mil  
-   Title: Roswell Report [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;)  
+   Title: Roswell Report [Case Closed]({{ 'case-closed/' | relative_url }})  
    Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Roswell report22 May 2017 — The &quot;Roswell Incident&quot; has assumed a central place in American folklore since the events of the 19...</p></details>
    Published: May 2017  
@@ -798,7 +798,7 @@ For supporters of the Mogul explanation, this is one of the strongest reasons th
 
 8.<a id="endnote-8"></a>
    Source: sciencefriday.com  
-   Title: Science Friday The Real Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;)?  
+   Title: Science Friday The Real Roswell [Cover-Up]({{ 'cover-up/' | relative_url }})?  
    Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
 
@@ -883,4 +883,4 @@ For supporters of the Mogul explanation, this is one of the strongest reasons th
 23.<a id="endnote-23"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) in the late 1940s to develop balloon-borne...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Moore]({{ 'moore/' | relative_url }}) in the late 1940s to develop balloon-borne...Read more...</p></details>

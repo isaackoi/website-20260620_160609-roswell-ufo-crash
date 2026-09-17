@@ -766,7 +766,7 @@ For that reason, the strongest documentary evidence from 1947 supports a debris-
 
 1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
-   Title: Commons File:Roswell [Daily Record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;)  
+   Title: Commons File:Roswell [Daily Record]({{ 'daily-record/' | relative_url }})  
    Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...29 Jan 2024 — The intelligence office stated that no details of the saucer&#x27;s construction or its appearanc...</p></details>
    Published: July 8, 1947  
@@ -792,7 +792,7 @@ For that reason, the strongest documentary evidence from 1947 supports a debris-
    Published: May 2026  
 
 5.<a id="endnote-5"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;This account from the. July 9, 1947 Roswell Daily. Record, described th...</p></details>
@@ -818,7 +818,7 @@ For that reason, the strongest documentary evidence from 1947 supports a debris-
    Source: Wikipedia  
    Title: Roswell incident  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentOn July 9, the Roswell Daily Record highlighted that no engine or metal parts had been found in the wreckage. [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;) t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentOn July 9, the Roswell Daily Record highlighted that no engine or metal parts had been found in the wreckage. [Brazel]({{ 'brazel/' | relative_url }}) t...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: Wikipedia  
@@ -910,7 +910,7 @@ For that reason, the strongest documentary evidence from 1947 supports a debris-
 24.<a id="endnote-24"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 25.<a id="endnote-25"></a>
    Source: alamy.com  
@@ -935,7 +935,7 @@ For that reason, the strongest documentary evidence from 1947 supports a debris-
    Source: gutenberg.org  
    Title: Mogul was an experimental attempt to acoustically detect suspected  
    Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...The 1994 Air Force report determined that [project Mogul](&amp;#123;&amp;#123; &#x27;project-mogul/&#x27; | relative_url &amp;#125;&amp;#125;) was responsible for the 19...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...The 1994 Air Force report determined that [project Mogul]({{ 'project-mogul/' | relative_url }}) was responsible for the 19...</p></details>
 
 29.<a id="endnote-29"></a>
    Source: nashuatelegraph.com  

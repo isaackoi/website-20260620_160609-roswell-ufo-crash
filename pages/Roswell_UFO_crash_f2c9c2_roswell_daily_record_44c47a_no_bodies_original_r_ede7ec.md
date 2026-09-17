@@ -774,7 +774,7 @@ The result is a clear historical distinction: the first Roswell newspaper accoun
    Source: en.wikisource.org  
    Title: Section 4  
    Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, and to identify any government [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) concerning the Roswell crash.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, and to identify any government [records]({{ 'records/' | relative_url }}) concerning the Roswell crash.Read more...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: time.com  
@@ -802,7 +802,7 @@ The result is a clear historical distinction: the first Roswell newspaper accoun
 
 9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Title: 1947 [flying disc](&#123;&#123; 'flying-disc/' | relative_url &#125;&#125;) craze  
+   Title: 1947 [flying disc]({{ 'flying-disc/' | relative_url }}) craze  
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeThe following day, the &quot;disc&quot; was revealed to be pieces of a weather balloon. On July 9, Roswell Daily Record re...</p></details>
 
@@ -866,7 +866,7 @@ The result is a clear historical distinction: the first Roswell newspaper accoun
 19.<a id="endnote-19"></a>
    Source: dafhistory.af.mil  
    Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportProject [MOGUL](&amp;#123;&amp;#123; &#x27;mogul/&#x27; | relative_url &amp;#125;&amp;#125;), the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Ro...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportProject [MOGUL]({{ 'mogul/' | relative_url }}), the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Ro...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: wxii12.com  

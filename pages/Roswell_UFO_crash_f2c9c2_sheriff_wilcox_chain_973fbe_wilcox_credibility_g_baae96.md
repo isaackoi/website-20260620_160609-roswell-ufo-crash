@@ -744,7 +744,7 @@ At the same time, the chain should not be exaggerated. Wilcox's involvement made
 
 2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Title: Jesse [Marcel](&#123;&#123; 'marcel/' | relative_url &#125;&#125;)  
+   Title: Jesse [Marcel]({{ 'marcel/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
 
 3.<a id="endnote-3"></a>
@@ -760,7 +760,7 @@ At the same time, the chain should not be exaggerated. Wilcox's involvement made
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: Roswell [Daily Record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;)  
+   Title: Roswell [Daily Record]({{ 'daily-record/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_Daily_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_Daily_Record</a>  
 
 6.<a id="endnote-6"></a>

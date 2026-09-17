@@ -796,7 +796,7 @@ When treated strictly as a contemporary document, the first Roswell [Daily Recor
 11.<a id="endnote-11"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: alamy.com  
@@ -833,7 +833,7 @@ When treated strictly as a contemporary document, the first Roswell [Daily Recor
    Source: commons.wikimedia.org  
    Title: Category:1947 newspaper articles about the Roswell UFO incident  
    Link:<a href="https://commons.wikimedia.org/wiki/Category%3A1947_newspaper_articles_about_the_Roswell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3A1947_newspaper_articles_about_the_Roswell_UFO_incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Captures Flying Saucer On Ranch in Roswell Region.... Sacramento Bee article July 8,1947 on the Roswell [flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;). jpg...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAAF Captures Flying Saucer On Ranch in Roswell Region.... Sacramento Bee article July 8,1947 on the Roswell [flying disc]({{ 'flying-disc/' | relative_url }}). jpg...Read more...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: theweek.com  

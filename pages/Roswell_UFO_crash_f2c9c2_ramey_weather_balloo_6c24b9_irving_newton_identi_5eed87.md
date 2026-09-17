@@ -780,7 +780,7 @@ Yet Newton’s identification has often been asked to carry more weight than it 
 
 11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Title: mac [brazel](&#123;&#123; 'brazel/' | relative_url &#125;&#125;) and the heavy price of the 1947 corona find while the name roswell is  
+   Title: mac [brazel]({{ 'brazel/' | relative_url }}) and the heavy price of the 1947 corona find while the name roswell is  
    Link:<a href="https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100076011920518/posts/mac-brazel-and-the-heavy-price-of-the-1947-corona-find-while-the-name-roswell-is/961202006423521/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>weather officer Irving Newton identified the material as pieces of a weather balloon. Newton told reporters that similar radar targets we...</p></details>
 
@@ -803,7 +803,7 @@ Yet Newton’s identification has often been asked to carry more weight than it 
 
 15.<a id="endnote-15"></a>
    Source: rvmiles.com  
-   Title: the international [ufo museum](&#123;&#123; 'ufo-museum/' | relative_url &#125;&#125;) research center  
+   Title: the international [ufo museum]({{ 'ufo-museum/' | relative_url }}) research center  
    Link:<a href="https://rvmiles.com/the-international-ufo-museum-research-center/" target="_blank" rel="noopener noreferrer nofollow">https://rvmiles.com/the-international-ufo-museum-research-center/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The International UFO Museum &amp; Research Center16 Nov 2019 — The Army ordered the object be flown to Fort Worth Army Air Field, where Warr...</p></details>
 

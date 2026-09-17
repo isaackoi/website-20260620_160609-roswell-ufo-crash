@@ -765,7 +765,7 @@ Whether one accepts the official Project Mogul explanation or believes alternati
 
 4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Title: The Roswell Incident ([1980 book](&#123;&#123; '1980-book/' | relative_url &#125;&#125;))  
+   Title: The Roswell Incident ([1980 book]({{ '1980-book/' | relative_url }}))  
    Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on the UFO Wave of 1947 (Report). the University of Michigan... The truth about the UFO Crash at Roswell (Hardcover ed.). New Yor...</p></details>
 
@@ -836,7 +836,7 @@ Whether one accepts the official Project Mogul explanation or believes alternati
 16.<a id="endnote-16"></a>
    Source: gutenberg.org  
    Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled al...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled al...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: nasw.org  

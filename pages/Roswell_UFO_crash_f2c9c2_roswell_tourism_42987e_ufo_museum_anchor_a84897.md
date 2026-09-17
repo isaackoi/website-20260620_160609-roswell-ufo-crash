@@ -780,7 +780,7 @@ For believers, the museum offers evidence, testimony, and a place where alternat
    Source: Wikipedia  
    Title: International UFO Museum and Research Center  
    Link:<a href="https://en.wikipedia.org/wiki/International_UFO_Museum_and_Research_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_UFO_Museum_and_Research_Center</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>W. &quot;Mack&quot; [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;), discovered metal debris outside of Roswell, near a giant...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. &quot;Mack&quot; [Brazel]({{ 'brazel/' | relative_url }}), discovered metal debris outside of Roswell, near a giant...Read more...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: media.defense.gov  
@@ -820,7 +820,7 @@ For believers, the museum offers evidence, testimony, and a place where alternat
 16.<a id="endnote-16"></a>
    Source: tripadvisor.com  
    Link:<a href="https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_And_Research_Center-Roswell_New_Mexico.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum And Research CenterThis museum contains a diorama and a film of the &quot;official&quot; autopsy of the alien [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) after...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum And Research CenterThis museum contains a diorama and a film of the &quot;official&quot; autopsy of the alien [bodies]({{ 'bodies/' | relative_url }}) after...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: siouxcityjournal.com  
@@ -843,7 +843,7 @@ For believers, the museum offers evidence, testimony, and a place where alternat
    Source: keyt.com  
    Title: 21.Read more  
    Link:<a href="https://keyt.com/news/2023/12/01/ufo-museum-in-roswell-new-mexico-reaches-5-million-visitors/" target="_blank" rel="noopener noreferrer nofollow">https://keyt.com/news/2023/12/01/ufo-museum-in-roswell-new-mexico-reaches-5-million-visitors/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>News Channel 3-12UFO Museum in Roswell, New Mexico, reaches 5 million...Dec 1, 2023 — The Roswell [Daily Record](&amp;#123;&amp;#123; &#x27;daily-record/&#x27; | relative_url &amp;#125;&amp;#125;) reported Friday that a fa...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News Channel 3-12UFO Museum in Roswell, New Mexico, reaches 5 million...Dec 1, 2023 — The Roswell [Daily Record]({{ 'daily-record/' | relative_url }}) reported Friday that a fa...</p></details>
 
 21.<a id="endnote-21"></a>
    Source: newmexico.org  

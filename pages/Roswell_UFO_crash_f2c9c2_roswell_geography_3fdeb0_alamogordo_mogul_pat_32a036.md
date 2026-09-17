@@ -750,7 +750,7 @@ For that reason, maps showing Alamogordo, White Sands, Corona, and the surroundi
 <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — Pflock concluded from his research that the. Brazel Ranch debris originally repor...</p></details>
 
 3.<a id="endnote-3"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
@@ -850,7 +850,7 @@ For that reason, maps showing Alamogordo, White Sands, Corona, and the surroundi
 19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentDocumentation and eyewitness [testimony](&amp;#123;&amp;#123; &#x27;testimony/&#x27; | relative_url &amp;#125;&amp;#125;) proves that rancher William Ware “Mack” Brazel...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentDocumentation and eyewitness [testimony]({{ 'testimony/' | relative_url }}) proves that rancher William Ware “Mack” Brazel...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: facebook.com  

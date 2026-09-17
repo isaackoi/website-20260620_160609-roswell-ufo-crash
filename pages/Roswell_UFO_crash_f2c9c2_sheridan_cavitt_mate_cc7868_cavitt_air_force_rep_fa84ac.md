@@ -751,7 +751,7 @@ As a result, the ordinary-material explanation presented by the Air Force was no
 
 4.<a id="endnote-4"></a>
    Source: esd.whs.mil  
-   Title: Roswell Report [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;)  
+   Title: Roswell Report [Case Closed]({{ 'case-closed/' | relative_url }})  
    Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell report22 May 2017 — The &quot;Roswell Incident&quot; has assumed a central place in American folklore since the events of the 1940s in a re...</p></details>
    Published: May 2017  
@@ -765,7 +765,7 @@ As a result, the ordinary-material explanation presented by the Air Force was no
 6.<a id="endnote-6"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Mogul [COVER-UP](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) That Created Roswell | EP56...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Mogul [COVER-UP]({{ 'cover-up/' | relative_url }}) That Created Roswell | EP56...</p></details>
 
 ### Additional References
 

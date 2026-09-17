@@ -749,7 +749,7 @@ As a result, the purple tape controversy remains one of the clearest examples of
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The reports that existed contain only descriptions of mundane materials...</p></details>
@@ -773,7 +773,7 @@ As a result, the purple tape controversy remains one of the clearest examples of
 5.<a id="endnote-5"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: time.com  
@@ -843,7 +843,7 @@ As a result, the purple tape controversy remains one of the clearest examples of
 17.<a id="endnote-17"></a>
    Source: degruyterbrill.com  
    Link:<a href="https://www.degruyterbrill.com/document/doi/10.1515/9781503612129-010/pdf?licenseType=restricted&amp;srsltid=AfmBOoq3DonXPXWSRCzIe8MH28CJBdpoxnzArJOTaqJhZWpUdh7WllL0" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.1515/9781503612129-010/pdf?licenseType=restricted&amp;srsltid=AfmBOoq3DonXPXWSRCzIe8MH28CJBdpoxnzArJOTaqJhZWpUdh7WllL0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>De Gruyter BrillRoswell, New MexicoWHAT WAS THAT DEBRIS? Both Brazels, father and daughter, remembered seeing [flowered tape](&amp;#123;&amp;#123; &#x27;flowered-tape/&#x27; | relative_url &amp;#125;&amp;#125;) amid the debr...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>De Gruyter BrillRoswell, New MexicoWHAT WAS THAT DEBRIS? Both Brazels, father and daughter, remembered seeing [flowered tape]({{ 'flowered-tape/' | relative_url }}) amid the debr...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: skepticalinquirer.org  

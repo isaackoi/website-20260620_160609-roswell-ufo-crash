@@ -735,7 +735,7 @@ For that reason, the flowered tape remains one of the strongest links between th
    Source: time.com  
    Title: did aliens really land  
    Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?22 Jun 1997 — A mysterious crash, dead extraterrestrials littering the landscape, a government [cover-up](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;). Today...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND?22 Jun 1997 — A mysterious crash, dead extraterrestrials littering the landscape, a government [cover-up]({{ 'cover-up/' | relative_url }}). Today...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
@@ -789,7 +789,7 @@ For that reason, the flowered tape remains one of the strongest links between th
 15.<a id="endnote-15"></a>
    Source: gutenberg.org  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—...The reports that existed contain only descriptions of mundane mat...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James McAndrew—...The reports that existed contain only descriptions of mundane mat...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: reddit.com  
@@ -818,7 +818,7 @@ For that reason, the flowered tape remains one of the strongest links between th
 <details class="endnote-snippet"><summary>Source snippet</summary><p>photograph from Roswell 1947 of the US military trying to convince everybody that a flying saucer is a weather balloon...</p></details>
 
 21.<a id="endnote-21"></a>
-   Source: [dummies](&#123;&#123; 'dummies/' | relative_url &#125;&#125;). com  
+   Source: [dummies]({{ 'dummies/' | relative_url }}). com  
    Title: the most famous ufo story roswell 294100  
    Link:<a href="https://www.dummies.com/article/academics-the-arts/history/conspiracy-theories/the-most-famous-ufo-story-roswell-294100/" target="_blank" rel="noopener noreferrer nofollow">https://www.dummies.com/article/academics-the-arts/history/conspiracy-theories/the-most-famous-ufo-story-roswell-294100/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Famous UFO Story: RoswellJun 24, 2022 — The tape, it was claimed, was left over from a line of holiday items and contained gold...</p></details>

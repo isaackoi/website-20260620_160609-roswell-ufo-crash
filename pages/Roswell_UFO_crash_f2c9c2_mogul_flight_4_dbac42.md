@@ -942,7 +942,7 @@ For readers trying to understand Roswell rather than defend a side, Flight 4 is 
 
 4.<a id="endnote-4"></a>
    Source: ufologie.patrickgross.org  
-   Title: The Roswell [Daily Record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;),  
+   Title: The Roswell [Daily Record]({{ 'daily-record/' | relative_url }}),  
    Link:<a href="https://ufologie.patrickgross.org/rw/p/roswelldailyrecord9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/roswelldailyrecord9jul1947.htm</a>  
 
 5.<a id="endnote-5"></a>
@@ -988,7 +988,7 @@ For readers trying to understand Roswell rather than defend a side, Flight 4 is 
    Source: youtube.com  
    Title: Reel America: "The Roswell Reports"  
    Link:<a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports]({{ 'official-reports/' | relative_url }}) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: youtube.com  

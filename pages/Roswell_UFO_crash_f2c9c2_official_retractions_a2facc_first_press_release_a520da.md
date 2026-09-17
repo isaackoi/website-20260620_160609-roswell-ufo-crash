@@ -778,7 +778,7 @@ That is why the wording mattered so much. The first Roswell statement did not me
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: The Roswell Incident ([1980 book](&#123;&#123; '1980-book/' | relative_url &#125;&#125;))  
+   Title: The Roswell Incident ([1980 book]({{ '1980-book/' | relative_url }}))  
    Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
 
 6.<a id="endnote-6"></a>
@@ -800,7 +800,7 @@ That is why the wording mattered so much. The first Roswell statement did not me
    Published: March 24, 2018  
 
 9.<a id="endnote-9"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Claims that the U.S. Army Air Forces recovered a &quot;flying disc&quot; in 1947...</p></details>
@@ -875,7 +875,7 @@ That is why the wording mattered so much. The first Roswell statement did not me
    Source: youtube.com  
    Title: The Top Secret Project That Spawned the Roswell UFO Incident  
    Link:<a href="https://www.youtube.com/watch?v=h54XMccPH-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h54XMccPH-Q</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Very Real Top Secret [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) Project That Gave Us the Roswell Incident...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Very Real Top Secret [Cold War]({{ 'cold-war/' | relative_url }}) Project That Gave Us the Roswell Incident...</p></details>
 
 22.<a id="endnote-22"></a>
    Source: instagram.com  

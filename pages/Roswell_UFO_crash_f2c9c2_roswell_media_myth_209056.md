@@ -1010,7 +1010,7 @@ That is why Roswell remains recognisable long after many other UFO cases have fa
 
 13.<a id="endnote-13"></a>
    Source: books.google.com  
-   Title: The [Roswell UFO Crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;)  
+   Title: The [Roswell UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }})  
    Link:<a href="https://books.google.com/books/about/The_Roswell_UFO_Crash.html?id=_gmnhbyBRwYC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Roswell_UFO_Crash.html?id=_gmnhbyBRwYC</a>  
 
 14.<a id="endnote-14"></a>

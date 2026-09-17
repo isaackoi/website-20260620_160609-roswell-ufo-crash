@@ -881,7 +881,7 @@ The useful conclusion is therefore neither “the 1959 mishap explains Roswell�
    Source: gutenberg.org  
    Title: Project Gutenberg  
    Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—A Project Gutenberg eBook...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James McAndrew—A Project Gutenberg eBook...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: nationalmuseum.af.mil  
@@ -900,7 +900,7 @@ The useful conclusion is therefore neither “the 1959 mishap explains Roswell�
 
 6.<a id="endnote-6"></a>
    Source: time.com  
-   Title: aliens or [dummies](&#123;&#123; 'dummies/' | relative_url &#125;&#125;)  
+   Title: aliens or [dummies]({{ 'dummies/' | relative_url }})  
    Link:<a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
 
 7.<a id="endnote-7"></a>

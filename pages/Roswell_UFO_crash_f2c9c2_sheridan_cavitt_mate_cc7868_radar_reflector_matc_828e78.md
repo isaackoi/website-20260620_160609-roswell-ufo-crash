@@ -736,7 +736,7 @@ Those recollections closely mirror the documented construction of balloon-borne 
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;taped to a balsa wood frame, several ML-307B/AP radar targets were used...</p></details>
@@ -753,7 +753,7 @@ Those recollections closely mirror the documented construction of balloon-borne 
 
 4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Title: Project [Mogul](&#123;&#123; 'mogul/' | relative_url &#125;&#125;)  
+   Title: Project [Mogul]({{ 'mogul/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
 5.<a id="endnote-5"></a>

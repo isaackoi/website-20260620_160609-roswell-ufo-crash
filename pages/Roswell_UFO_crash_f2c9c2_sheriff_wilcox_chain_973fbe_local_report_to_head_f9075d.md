@@ -737,7 +737,7 @@ Seen in that light, Roswell's overnight transformation from a county-level repor
 1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
    Link:<a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Major [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) and a detail from his department went to the ranch and recovered the disk, it was...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major [Marcel]({{ 'marcel/' | relative_url }}) and a detail from his department went to the ranch and recovered the disk, it was...Read more...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: historypod.net  
@@ -776,7 +776,7 @@ Seen in that light, Roswell's overnight transformation from a county-level repor
    Source: wired.com  
    Title: Here's the Proof There's No Government Alien Conspiracy Around Roswell  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: vault.fbi.gov  
@@ -802,7 +802,7 @@ Seen in that light, Roswell's overnight transformation from a county-level repor
    Source: Wikipedia  
    Title: 1947 flying disc craze  
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeOn July 8, 1947, RAAF public information officer [Walter Haut](&amp;#123;&amp;#123; &#x27;walter-haut/&#x27; | relative_url &amp;#125;&amp;#125;) issued a press release stating that personnel from...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeOn July 8, 1947, RAAF public information officer [Walter Haut]({{ 'walter-haut/' | relative_url }}) issued a press release stating that personnel from...</p></details>
    Published: July 8, 1947  
 
 12.<a id="endnote-12"></a>

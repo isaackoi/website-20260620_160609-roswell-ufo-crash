@@ -744,7 +744,7 @@ In that sense, the reports did not fail because they lacked detail. They failed 
    Source: britannica.com  
    Title: Roswell incident  
    Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — The 1997 Air Force report suggested that stories of alien [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) may have come from witne...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — The 1997 Air Force report suggested that stories of alien [bodies]({{ 'bodies/' | relative_url }}) may have come from witne...</p></details>
    Published: May 2026  
 
 5.<a id="endnote-5"></a>

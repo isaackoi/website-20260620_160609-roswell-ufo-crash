@@ -725,7 +725,7 @@ Under the Mogul interpretation, Roswell was worth hiding because it touched one 
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;MOGUL was an experimental attempt to acoustically detect suspected Sovi...</p></details>
@@ -746,7 +746,7 @@ Under the Mogul interpretation, Roswell was worth hiding because it touched one 
    Source: gutenberg.org  
    Title: 63659 h  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) launc...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. [Moore]({{ 'moore/' | relative_url }}) launc...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: wired.com  
@@ -765,7 +765,7 @@ Under the Mogul interpretation, Roswell was worth hiding because it touched one 
 
 8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Title: 1947 [flying disc](&#123;&#123; 'flying-disc/' | relative_url &#125;&#125;) craze  
+   Title: 1947 [flying disc]({{ 'flying-disc/' | relative_url }}) craze  
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 9.<a id="endnote-9"></a>
@@ -810,7 +810,7 @@ Under the Mogul interpretation, Roswell was worth hiding because it touched one 
 
 16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Title: the [roswell ufo crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;) was a classified balloon program designed to spy on soviet  
+   Title: the [roswell ufo crash]({{ 'roswell-ufo-crash/' | relative_url }}) was a classified balloon program designed to spy on soviet  
    Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Crash Was a Classified Balloon Program...Part of Project Mogul, it was an attempt to monitor anticipated nuclear tests b...</p></details>
 

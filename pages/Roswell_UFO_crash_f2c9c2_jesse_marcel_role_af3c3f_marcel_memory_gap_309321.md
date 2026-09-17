@@ -768,7 +768,7 @@ This does not settle the Roswell controversy, but it explains why Marcel remains
 4.<a id="endnote-4"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: jhmovie.fandom.com  
@@ -792,7 +792,7 @@ This does not settle the Roswell controversy, but it explains why Marcel remains
    Source: Wikipedia  
    Title: Roswell (TV series)  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) where the Roswell UFO exists, and...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline]({{ 'timeline/' | relative_url }}) where the Roswell UFO exists, and...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: dafhistory.af.mil  
@@ -809,7 +809,7 @@ This does not settle the Roswell controversy, but it explains why Marcel remains
    Source: skyatnightmagazine.com  
    Title: roswell ufo incident  
    Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineRoswell UFO incident facts and history26 Jun 2025 — None of the original reports had mentioned alien [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;), and eve...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineRoswell UFO incident facts and history26 Jun 2025 — None of the original reports had mentioned alien [bodies]({{ 'bodies/' | relative_url }}), and eve...</p></details>
 
 ### Additional References
 

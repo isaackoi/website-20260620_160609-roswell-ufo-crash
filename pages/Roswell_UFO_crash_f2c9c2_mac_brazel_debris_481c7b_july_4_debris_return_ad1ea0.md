@@ -833,7 +833,7 @@ For historians of the Roswell incident, the episode also provides a valuable gli
    Source: muller.lbl.gov  
    Title: Roswell Incident  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army [Air Forces](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) (AAF) allege...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army [Air Forces]({{ 'air-force/' | relative_url }}) (AAF) allege...</p></details>
 
 ### Additional References
 
@@ -878,7 +878,7 @@ For historians of the Roswell incident, the episode also provides a valuable gli
    Source: commons.wikimedia.org  
    Title: The following 7 files are in this category, out of 7 total.Read more  
    Link:<a href="https://commons.wikimedia.org/wiki/Category%3A1947_newspaper_articles_about_the_Roswell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3A1947_newspaper_articles_about_the_Roswell_UFO_incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:1947 newspaper articles about the Roswell UFO...7 Jun 2025 — [Media](&amp;#123;&amp;#123; &#x27;media/&#x27; | relative_url &amp;#125;&amp;#125;) in category &quot;1947 newspaper articles about the...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:1947 newspaper articles about the Roswell UFO...7 Jun 2025 — [Media]({{ 'media/' | relative_url }}) in category &quot;1947 newspaper articles about the...</p></details>
 
 29.<a id="endnote-29"></a>
    Source: georgehbalazs.com  

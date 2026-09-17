@@ -752,7 +752,7 @@ His late-1970s interviews provided the catalyst for books, [media]({{ 'media/' |
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: The Roswell Incident ([1980 book](&#123;&#123; '1980-book/' | relative_url &#125;&#125;))  
+   Title: The Roswell Incident ([1980 book]({{ '1980-book/' | relative_url }}))  
    Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
 
 4.<a id="endnote-4"></a>
@@ -765,7 +765,7 @@ His late-1970s interviews provided the catalyst for books, [media]({{ 'media/' |
    Source: time.com  
    Title: roswell history  
    Link:<a href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3916193/roswell-history/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Roswell UFO Theory Got Started7 Jul 2015 — Marcel was convinced that [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;) stumbled upon nothing less than the remains of a flyi...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Roswell UFO Theory Got Started7 Jul 2015 — Marcel was convinced that [Brazel]({{ 'brazel/' | relative_url }}) stumbled upon nothing less than the remains of a flyi...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: ufologie.patrickgross.org  
@@ -825,7 +825,7 @@ His late-1970s interviews provided the catalyst for books, [media]({{ 'media/' |
 16.<a id="endnote-16"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=c87U_QspFeA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c87U_QspFeA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell [Legacy](&amp;#123;&amp;#123; &#x27;legacy/&#x27; | relative_url &amp;#125;&amp;#125;): The Untold Story of the… by Jesse...[https://g.co/booksYT/A](https://g.co/booksYT/A)... The Roswell Legacy: The Untold Story of the First Mili...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell [Legacy]({{ 'legacy/' | relative_url }}): The Untold Story of the… by Jesse...[https://g.co/booksYT/A](https://g.co/booksYT/A)... The Roswell Legacy: The Untold Story of the First Mili...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: linkedin.com  

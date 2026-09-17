@@ -986,7 +986,7 @@ The most balanced conclusion is therefore narrower than either side often wants.
 
 14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Title: Jesse [Marcel](&#123;&#123; 'marcel/' | relative_url &#125;&#125;)  
+   Title: Jesse [Marcel]({{ 'marcel/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
 
 15.<a id="endnote-15"></a>
@@ -1003,7 +1003,7 @@ The most balanced conclusion is therefore narrower than either side often wants.
    Source: youtube.com  
    Title: The Roswell Incident That Shocked the World (S1) | Ancient Aliens  
    Link:<a href="https://www.youtube.com/watch?v=LdBu36XkQLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LdBu36XkQLw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: youtube.com  
@@ -1036,7 +1036,7 @@ The most balanced conclusion is therefore narrower than either side often wants.
 
 25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Title: Roswell [Daily Record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;),  
+   Title: Roswell [Daily Record]({{ 'daily-record/' | relative_url }}),  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/4h7qzv/roswell_daily_record_july_9_1947_harassed_rancher/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/4h7qzv/roswell_daily_record_july_9_1947_harassed_rancher/</a>  
 
 26.<a id="endnote-26"></a>

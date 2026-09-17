@@ -742,7 +742,7 @@ Taken together, those factors created a mechanism that continually renews doubt.
 
 3.<a id="endnote-3"></a>
    Source: sgp.fas.org  
-   Title: Project on Government [Secrecy](&#123;&#123; 'secrecy/' | relative_url &#125;&#125;) GAO Report on Roswell, NM UFO Crash  
+   Title: Project on Government [Secrecy]({{ 'secrecy/' | relative_url }}) GAO Report on Roswell, NM UFO Crash  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO Crash(5) a 1947 Air Force report noted the recovery of a flying disc that was later determined by military offi...</p></details>
 
@@ -762,7 +762,7 @@ Taken together, those factors created a mechanism that continually renews doubt.
    Source: content.time.com  
    Title: DID ALIENS REALLY LAND?  
    Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The next day, under the headline GENERAL [RAMEY](&amp;#123;&amp;#123; &#x27;ramey/&#x27; | relative_url &amp;#125;&amp;#125;) EMPTIES ROSWELL SAUCER, the Daily Record r...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The next day, under the headline GENERAL [RAMEY]({{ 'ramey/' | relative_url }}) EMPTIES ROSWELL SAUCER, the Daily Record r...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: sciencefriday.com  
@@ -822,7 +822,7 @@ Taken together, those factors created a mechanism that continually renews doubt.
 16.<a id="endnote-16"></a>
    Source: physics.smu.edu  
    Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>MOGUL [Neoprene Balloons](&amp;#123;&amp;#123; &#x27;balloon-decay/&#x27; | relative_url &amp;#125;&amp;#125;) and Standard Meteorological Weather Balloons... crash of a weather balloon near Roswell, New Mexico in July 1947...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOGUL [Neoprene Balloons]({{ 'balloon-decay/' | relative_url }}) and Standard Meteorological Weather Balloons... crash of a weather balloon near Roswell, New Mexico in July 1947...</p></details>
    Published: July 1947  
 
 17.<a id="endnote-17"></a>

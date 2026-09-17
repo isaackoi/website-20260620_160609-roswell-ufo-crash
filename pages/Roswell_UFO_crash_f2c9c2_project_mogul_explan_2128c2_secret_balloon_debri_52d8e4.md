@@ -757,7 +757,7 @@ In that sense, Project Mogul does not explain Roswell by claiming the debris was
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 4.<a id="endnote-4"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;taped to a balsa wood frame, several ML-307B/AP radar targets were used...</p></details>
@@ -799,7 +799,7 @@ In that sense, Project Mogul does not explain Roswell by claiming the debris was
 11.<a id="endnote-11"></a>
    Source: muller.lbl.gov  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulThese figures were printed on tape that sealed the seams of the of the [radar target](&amp;#123;&amp;#123; &#x27;radar-target/&#x27; | relative_url &amp;#125;&amp;#125;). The radar targets, sometimes...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulThese figures were printed on tape that sealed the seams of the of the [radar target]({{ 'radar-target/' | relative_url }}). The radar targets, sometimes...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: muller.lbl.gov  
@@ -830,7 +830,7 @@ In that sense, Project Mogul does not explain Roswell by claiming the debris was
    Source: gutenberg.org  
    Title: The Roswell Report: Case Closed, by James Mc Andrew—  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>debris from an Army Air Forces balloon-borne research project code named Mogul.[1] [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) located describing research carried out under...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>debris from an Army Air Forces balloon-borne research project code named Mogul.[1] [Records]({{ 'records/' | relative_url }}) located describing research carried out under...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: facebook.com  
@@ -856,7 +856,7 @@ In that sense, Project Mogul does not explain Roswell by claiming the debris was
 
 21.<a id="endnote-21"></a>
    Source: sciencefriday.com  
-   Title: The Real Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;)?  
+   Title: The Real Roswell [Cover-Up]({{ 'cover-up/' | relative_url }})?  
    Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac Brazel came across a trail of metal and...</p></details>
    Published: June 1947  

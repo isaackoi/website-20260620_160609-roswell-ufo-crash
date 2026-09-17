@@ -776,7 +776,7 @@ The result is a rare point of agreement across much of the Roswell debate: Glenn
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Dennis, a key witness in the alleged 1947 crash of a...</p></details>
 
 5.<a id="endnote-5"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;observations of alien bodies associated with the &quot;Roswell Incident.” Pu...</p></details>
@@ -819,7 +819,7 @@ The result is a rare point of agreement across much of the Roswell debate: Glenn
    Source: reddit.com  
    Title: w glenn dennis said in 1990 interview that nurse  
    Link:<a href="https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at...Glenn Dennis said in 1990 interview that nurse at Roswell [alien autopsy](&amp;#123;&amp;#123; &#x27;alien-autopsy/&#x27; | relative_url &amp;#125;&amp;#125;) told him...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at...Glenn Dennis said in 1990 interview that nurse at Roswell [alien autopsy]({{ 'alien-autopsy/' | relative_url }}) told him...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: medium.com  

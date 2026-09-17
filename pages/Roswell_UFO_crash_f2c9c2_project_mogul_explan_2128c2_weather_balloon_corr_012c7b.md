@@ -725,7 +725,7 @@ The irony is that the later discovery of Project Mogul both strengthened and wea
    Source: nsa.gov  
    Title: report af roswell  
    Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) were located and thoroughly explored concerning a then-TOP SECRET ball...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — [Records]({{ 'records/' | relative_url }}) were located and thoroughly explored concerning a then-TOP SECRET ball...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: Wikipedia  
@@ -782,7 +782,7 @@ The irony is that the later discovery of Project Mogul both strengthened and wea
    Source: youtube.com  
    Title: Project Mogul  
    Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | [Roswell UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) 1947...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | [Roswell UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) 1947...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: muller.lbl.gov  
@@ -808,7 +808,7 @@ The irony is that the later discovery of Project Mogul both strengthened and wea
 
 16.<a id="endnote-16"></a>
    Source: sciencefriday.com  
-   Title: Science Friday The Real Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;)?  
+   Title: Science Friday The Real Roswell [Cover-Up]({{ 'cover-up/' | relative_url }})?  
    Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
 
@@ -869,7 +869,7 @@ The irony is that the later discovery of Project Mogul both strengthened and wea
    Source: youtube.com  
    Title: Reel America: "The Roswell Reports"  
    Link:<a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports]({{ 'official-reports/' | relative_url }}) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
 27.<a id="endnote-27"></a>
    Source: jhmovie.fandom.com  

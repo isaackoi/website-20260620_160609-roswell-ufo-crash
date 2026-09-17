@@ -775,7 +775,7 @@ For historians, that makes Wilcox a pivotal figure in understanding how the inci
 9.<a id="endnote-9"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: facebook.com  
@@ -813,7 +813,7 @@ For historians, that makes Wilcox a pivotal figure in understanding how the inci
 15.<a id="endnote-15"></a>
    Source: nsa.gov  
    Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>report of [air force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) research regarding the21 July 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of [air force]({{ 'air-force/' | relative_url }}) research regarding the21 July 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947...</p></details>
    Published: July 1994  
 
 16.<a id="endnote-16"></a>

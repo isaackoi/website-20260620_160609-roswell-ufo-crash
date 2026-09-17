@@ -754,7 +754,7 @@ That question remains at the heart of the Roswell controversy, and it is the rea
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;The reports that existed contain only descriptions of mundane materials...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;The reports that existed contain only descriptions of mundane materials...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: time.com  
@@ -775,7 +775,7 @@ That question remains at the heart of the Roswell controversy, and it is the rea
 
 7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Title: [Project Mogul](&#123;&#123; 'project-mogul/' | relative_url &#125;&#125;)  
+   Title: [Project Mogul]({{ 'project-mogul/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>November 18, 2025 — Project Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloon...</p></details>
    Published: November 18, 2025  
@@ -827,7 +827,7 @@ That question remains at the heart of the Roswell controversy, and it is the rea
    Source: historyextra.com  
    Title: roswell incident ufo alien crash conspiracy  
    Link:<a href="https://www.historyextra.com/period/20th-century/roswell-incident-ufo-alien-crash-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyextra.com/period/20th-century/roswell-incident-ufo-alien-crash-conspiracy/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Did The US [Cover Up](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) An Alien UFO Crash In 1947?16 May 2024 — A mysterious incident in Roswell, New Mexico, laid the foundations of a supp...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did The US [Cover Up]({{ 'cover-up/' | relative_url }}) An Alien UFO Crash In 1947?16 May 2024 — A mysterious incident in Roswell, New Mexico, laid the foundations of a supp...</p></details>
    Published: May 2024  
 
 17.<a id="endnote-17"></a>

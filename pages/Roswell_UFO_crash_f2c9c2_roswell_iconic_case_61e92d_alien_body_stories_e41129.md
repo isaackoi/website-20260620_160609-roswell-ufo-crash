@@ -748,7 +748,7 @@ The result is that the body stories became the most emotionally charged part of 
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: The Roswell Incident ([1980 book](&#123;&#123; '1980-book/' | relative_url &#125;&#125;))  
+   Title: The Roswell Incident ([1980 book]({{ '1980-book/' | relative_url }}))  
    Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>edit · The Roswell Incident (1980 book) is located in New Mexico... The Roswell UFO Crash: What They Don&#x27;t Want You to Know. Prometheus...</p></details>
 
@@ -793,7 +793,7 @@ The result is that the body stories became the most emotionally charged part of 
 
 11.<a id="endnote-11"></a>
    Source: people.com  
-   Title: "[Unsolved Mysteries](&#123;&#123; 'tv-suspense/' | relative_url &#125;&#125;)": The True Story of the Roswell UFO Incident  
+   Title: "[Unsolved Mysteries]({{ 'tv-suspense/' | relative_url }})": The True Story of the Roswell UFO Incident  
    Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 
@@ -951,7 +951,7 @@ The result is that the body stories became the most emotionally charged part of 
    Source: reddit.com  
    Title: CIA and Air Force formed same day ~3 months after Roswell UFO Crash.Read more  
    Link:<a href="https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re a UFO Expert and former CIA Operative investigating...r/aliens - Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), one of the witnesses to the Roswell incident...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re a UFO Expert and former CIA Operative investigating...r/aliens - Jesse [Marcel]({{ 'marcel/' | relative_url }}), one of the witnesses to the Roswell incident...</p></details>
 
 40.<a id="endnote-40"></a>
    Source: spokesman.com  

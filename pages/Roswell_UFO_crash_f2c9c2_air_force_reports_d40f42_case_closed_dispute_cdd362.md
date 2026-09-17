@@ -789,7 +789,7 @@ For critics, however, the reports illustrated the limits of official investigati
    Source: history.com  
    Title: u s air force reports on roswell  
    Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but [dummies](&amp;#123;&amp;#123; &#x27;dummies/&#x27; | relative_url &amp;#125;&amp;#125;) used...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but [dummies]({{ 'dummies/' | relative_url }}) used...</p></details>
    Published: June 24, 1997  
 
 11.<a id="endnote-11"></a>
@@ -871,7 +871,7 @@ For critics, however, the reports illustrated the limits of official investigati
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
    Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Major Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;), an intelligence officer from Roswell Ar...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Major Jesse [Marcel]({{ 'marcel/' | relative_url }}), an intelligence officer from Roswell Ar...</p></details>
 
 25.<a id="endnote-25"></a>
    Source: skepticalinquirer.org  

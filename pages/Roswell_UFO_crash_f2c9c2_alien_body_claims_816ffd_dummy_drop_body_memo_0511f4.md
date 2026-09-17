@@ -757,7 +757,7 @@ Whether one accepts that conclusion or not, the dummy-drop explanation became th
 5.<a id="endnote-5"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: gutenberg.org  
@@ -834,7 +834,7 @@ Whether one accepts that conclusion or not, the dummy-drop explanation became th
 19.<a id="endnote-19"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/champcosheriff/posts/the-recently-released-ufo-photos-from-the-government-have-raised-a-lot-of-questi/1467915045362821/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/champcosheriff/posts/the-recently-released-ufo-photos-from-the-government-have-raised-a-lot-of-questi/1467915045362821/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) claimed it was a weather balloon—later revealed to be...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official reports]({{ 'official-reports/' | relative_url }}) claimed it was a weather balloon—later revealed to be...Read more...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: librivox.org  

@@ -767,7 +767,7 @@ Whether one accepts that explanation or not, Dennis's account illustrates a broa
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;1) a 1956 KC-97 aircraft accident in which 11 Air Force members lost th...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;1) a 1956 KC-97 aircraft accident in which 11 Air Force members lost th...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: Wikipedia  
@@ -851,7 +851,7 @@ Whether one accepts that explanation or not, Dennis's account illustrates a broa
    Source: reddit.com  
    Title: w glenn dennis said in 1990 interview that nurse  
    Link:<a href="https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at Roswell...Glenn Dennis said in 1990 interview that nurse at Roswell [alien autopsy](&amp;#123;&amp;#123; &#x27;alien-autopsy/&#x27; | relative_url &amp;#125;&amp;#125;) t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at Roswell...Glenn Dennis said in 1990 interview that nurse at Roswell [alien autopsy]({{ 'alien-autopsy/' | relative_url }}) t...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: screenrant.com  

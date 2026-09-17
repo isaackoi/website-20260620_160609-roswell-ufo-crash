@@ -895,7 +895,7 @@ For historians, the value of the page is not that it proves a crashed spacecraft
    Source: reddit.com  
    Title: the original 1947 roswell article fascinating  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/zgdb32/the_original_1947_roswell_article_fascinating/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zgdb32/the_original_1947_roswell_article_fascinating/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascinating since in this...In this first version of the Roswell story, the [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) conducts a crash retrieval of a flying saucer on a...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascinating since in this...In this first version of the Roswell story, the [Air Force]({{ 'air-force/' | relative_url }}) conducts a crash retrieval of a flying saucer on a...</p></details>
 
 25.<a id="endnote-25"></a>
    Source: instagram.com  

@@ -764,7 +764,7 @@ For believers in a cover-up, Marcel’s substitution claim explains why the phot
    Source: wired.com  
    Title: Here's the Proof There's No Government Alien Conspiracy Around Roswell  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: Wikipedia  
@@ -819,7 +819,7 @@ For believers in a cover-up, Marcel’s substitution claim explains why the phot
    Source: muller.lbl.gov  
    Title: Roswell Incident  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, alleged [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, alleged [bodies]({{ 'bodies/' | relative_url }})...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: jhmovie.fandom.com  

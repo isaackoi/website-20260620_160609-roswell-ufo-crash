@@ -732,7 +732,7 @@ As a result, Schiff occupies a distinctive place in Roswell history. He neither 
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: U.S. Department of War Government Records  
    Link:<a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGovernment RecordsMarch 24, 2018 — 13 Jul 2021 — Schiff: On July 8, 1947, the Roswell Anny Air Field (RAAF) public...</p></details>
@@ -759,7 +759,7 @@ As a result, Schiff occupies a distinctive place in Roswell history. He neither 
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;In July 1994, the Office of the Secretary of the Air Force concluded an...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;In July 1994, the Office of the Secretary of the Air Force concluded an...</p></details>
    Published: July 1994  
 
 6.<a id="endnote-6"></a>
@@ -794,7 +794,7 @@ As a result, Schiff occupies a distinctive place in Roswell history. He neither 
 
 11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Title: The [Roswell UFO Crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;)  
+   Title: The [Roswell UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }})  
    Link:<a href="https://www.youtube.com/watch?v=eSoRHwKWRxM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eSoRHwKWRxM</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Steven Schiff GAO Congressman Steven Schiff - The Accidental Whistleblower The Future Past...</p></details>
 
@@ -808,7 +808,7 @@ As a result, Schiff occupies a distinctive place in Roswell history. He neither 
    Source: Wikipedia  
    Title: Roswell incident  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentAfter metallic and rubber [debris](&amp;#123;&amp;#123; &#x27;debris/&#x27; | relative_url &amp;#125;&amp;#125;) was recovered by Roswell Army Air Field personnel, the United States Army Air Forces...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentAfter metallic and rubber [debris]({{ 'debris/' | relative_url }}) was recovered by Roswell Army Air Field personnel, the United States Army Air Forces...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: youtube.com  

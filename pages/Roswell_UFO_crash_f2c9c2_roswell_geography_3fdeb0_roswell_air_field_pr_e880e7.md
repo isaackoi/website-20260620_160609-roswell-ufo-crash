@@ -775,7 +775,7 @@ The lasting significance of Roswell Army Air Field is therefore practical as muc
 
 6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Title: Project [Mogul](&#123;&#123; 'mogul/' | relative_url &#125;&#125;)  
+   Title: Project [Mogul]({{ 'mogul/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulThe project was carried out from 1947 until early 1949. It was a classified portion of -altitude-control and polyethylene...</p></details>
 

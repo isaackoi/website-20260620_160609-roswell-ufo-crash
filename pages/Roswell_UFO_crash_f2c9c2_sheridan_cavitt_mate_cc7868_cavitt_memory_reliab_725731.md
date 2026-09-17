@@ -796,7 +796,7 @@ The reliability problem is therefore not a reason to ignore Cavitt. It is a reas
    Source: britannica.com  
    Title: Roswell incident  
    Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Army Air Forces high-altitude balloon that was part of the top-secret Project [Mogul](&amp;#123;&amp;#123; &#x27;mogul/&#x27; | relative_url &amp;#125;&amp;#125;), designed to detect Soviet...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army Air Forces high-altitude balloon that was part of the top-secret Project [Mogul]({{ 'mogul/' | relative_url }}), designed to detect Soviet...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: Wikipedia  
@@ -813,7 +813,7 @@ The reliability problem is therefore not a reason to ignore Cavitt. It is a reas
    Source: Wikipedia  
    Title: Project Mogul  
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy](&amp;#123;&amp;#123; &#x27;legacy/&#x27; | relative_url &amp;#125;&amp;#125;) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy]({{ 'legacy/' | relative_url }}) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
@@ -871,7 +871,7 @@ The reliability problem is therefore not a reason to ignore Cavitt. It is a reas
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...Jul 8, 2024 — Col. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) claimed in an interview with ufologists (researchers...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...Jul 8, 2024 — Col. [Marcel]({{ 'marcel/' | relative_url }}) claimed in an interview with ufologists (researchers...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: ciphermysteries.com  

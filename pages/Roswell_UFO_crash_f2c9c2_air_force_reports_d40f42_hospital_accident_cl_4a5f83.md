@@ -757,7 +757,7 @@ What is clear is that the 1997 report treated hospital stories differently from 
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAccident Boeing KC-97G Stratofreighter 52-2700, Tuesday...The KC-97G air tanker lost a blade of the no.2 prop on...</p></details>
 
 3.<a id="endnote-3"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
 4.<a id="endnote-4"></a>

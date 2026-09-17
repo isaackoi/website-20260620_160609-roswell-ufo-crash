@@ -731,7 +731,7 @@ As a result, the question was never simply whether the debris contained rubber a
 2.<a id="endnote-2"></a>
    Source: wired.com  
    Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) era activities rather than extraterrestrial invol...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and [Cold War]({{ 'cold-war/' | relative_url }}) era activities rather than extraterrestrial invol...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
@@ -751,7 +751,7 @@ As a result, the question was never simply whether the debris contained rubber a
 6.<a id="endnote-6"></a>
    Source: muller.lbl.gov  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulThese figures were printed on tape that sealed the seams of the of the [radar target](&amp;#123;&amp;#123; &#x27;radar-target/&#x27; | relative_url &amp;#125;&amp;#125;). The radar targets, sometimes...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulThese figures were printed on tape that sealed the seams of the of the [radar target]({{ 'radar-target/' | relative_url }}). The radar targets, sometimes...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: dafhistory.af.mil  
@@ -781,7 +781,7 @@ As a result, the question was never simply whether the debris contained rubber a
 11.<a id="endnote-11"></a>
    Source: daviddarling.info  
    Link:<a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a secret program conducted by the US Air Force and directed by Charles B. [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) in the late 1940s to devel...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a secret program conducted by the US Air Force and directed by Charles B. [Moore]({{ 'moore/' | relative_url }}) in the late 1940s to devel...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: facebook.com  
@@ -795,7 +795,7 @@ As a result, the question was never simply whether the debris contained rubber a
 
 14.<a id="endnote-14"></a>
    Source: people.com  
-   Title: "[Unsolved Mysteries](&#123;&#123; 'tv-suspense/' | relative_url &#125;&#125;)": The True Story of the Roswell UFO Incident  
+   Title: "[Unsolved Mysteries]({{ 'tv-suspense/' | relative_url }})": The True Story of the Roswell UFO Incident  
    Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 
@@ -812,7 +812,7 @@ As a result, the question was never simply whether the debris contained rubber a
 17.<a id="endnote-17"></a>
    Source: online.flipbuilder.com  
    Link:<a href="https://online.flipbuilder.com/xwms/hbfw/files/basic-html/page85.html" target="_blank" rel="noopener noreferrer nofollow">https://online.flipbuilder.com/xwms/hbfw/files/basic-html/page85.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;X&#x27; Chronicles [Newspaper](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;) - Jan-Feb 2018, Vol 27, No 1Moore, one of three surviving Project Mogul scientists identified in...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;X&#x27; Chronicles [Newspaper]({{ 'newspaper/' | relative_url }}) - Jan-Feb 2018, Vol 27, No 1Moore, one of three surviving Project Mogul scientists identified in...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: physics.smu.edu  

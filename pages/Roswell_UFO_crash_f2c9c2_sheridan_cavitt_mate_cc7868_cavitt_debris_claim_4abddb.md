@@ -726,7 +726,7 @@ That benchmark helps explain why Cavitt remains central to the debate. His descr
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: The Roswell Incident ([1980 book](&#123;&#123; '1980-book/' | relative_url &#125;&#125;))  
+   Title: The Roswell Incident ([1980 book]({{ '1980-book/' | relative_url }}))  
    Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
 
 4.<a id="endnote-4"></a>
@@ -739,7 +739,7 @@ That benchmark helps explain why Cavitt remains central to the debate. His descr
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
    Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: youtube.com  
@@ -755,7 +755,7 @@ That benchmark helps explain why Cavitt remains central to the debate. His descr
 
 8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Title: on july 8 1947 the [roswell daily record](&#123;&#123; 'newspaper/' | relative_url &#125;&#125;) reported the arrival of something strang  
+   Title: on july 8 1947 the [roswell daily record]({{ 'newspaper/' | relative_url }}) reported the arrival of something strang  
    Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...I&#x27;ve been to Roswell and the old UFO Museum a couple of times. It was entertaining...</p></details>
    Published: July 8, 1947  
@@ -770,7 +770,7 @@ That benchmark helps explain why Cavitt remains central to the debate. His descr
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — The three men traveled to [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s ranch and collected numerous pi...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — The three men traveled to [Brazel]({{ 'brazel/' | relative_url }})&#x27;s ranch and collected numerous pi...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: ciphermysteries.com  
@@ -801,7 +801,7 @@ That benchmark helps explain why Cavitt remains central to the debate. His descr
    Published: July 1947  
 
 16.<a id="endnote-16"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: Case Closed&quot;Subsequent to the 1994 report, Air Force researchers discovered information that provided a r...</p></details>

@@ -760,7 +760,7 @@ Seen through that lens, Project Mogul was not a side note to Roswell. It was par
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Fallout and Intelligence as Secrets, Problems...Operated as the Atomic Energy Detection System by a covert Air Force...</p></details>
 
 5.<a id="endnote-5"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
@@ -805,7 +805,7 @@ Seen through that lens, Project Mogul was not a side note to Roswell. It was par
    Source: Wikipedia  
    Title: Project Mogul  
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy](&amp;#123;&amp;#123; &#x27;legacy/&#x27; | relative_url &amp;#125;&amp;#125;) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy]({{ 'legacy/' | relative_url }}) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: Wikipedia  
@@ -855,7 +855,7 @@ Seen through that lens, Project Mogul was not a side note to Roswell. It was par
 
 22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Title: aliens or crash test [dummies](&#123;&#123; 'dummies/' | relative_url &#125;&#125;) the roswell reports 1997 us air force film on the 1  
+   Title: aliens or crash test [dummies]({{ 'dummies/' | relative_url }}) the roswell reports 1997 us air force film on the 1  
    Link:<a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens or Crash Test Dummies!? &quot;The Roswell Reports...On this date in 1997, the U.S. Air Force released “The Roswell Report: Case Closed...</p></details>
 

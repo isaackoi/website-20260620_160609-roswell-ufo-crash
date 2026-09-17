@@ -759,7 +759,7 @@ In this sense, *Unsolved Mysteries* helped redefine Roswell for a mass audience.
    Source: people.com  
    Title: "Unsolved Mysteries": The True Story of the Roswell UFO Incident  
    Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. [Air Force]({{ 'air-force/' | relative_url }}) to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: reddit.com  

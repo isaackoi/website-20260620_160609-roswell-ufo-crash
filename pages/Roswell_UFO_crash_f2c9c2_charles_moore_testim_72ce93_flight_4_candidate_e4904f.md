@@ -846,7 +846,7 @@ Yet Flight 4 remains debated because the case relies on reconstructed records, l
    Source: gutenberg.org  
    Title: Mogul was an experimental attempt to acoustically detect suspected  
    Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—...The 1994 Air Force report determined that project Mogul was responsible for the 19...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James McAndrew—...The 1994 Air Force report determined that project Mogul was responsible for the 19...</p></details>
 
 21.<a id="endnote-21"></a>
    Source: blogs.library.unt.edu  
@@ -872,7 +872,7 @@ Yet Flight 4 remains debated because the case relies on reconstructed records, l
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel]({{ 'marcel/' | relative_url }}) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
 
 25.<a id="endnote-25"></a>
    Source: merriam-webster.com  

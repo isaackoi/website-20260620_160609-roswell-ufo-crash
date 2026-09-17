@@ -788,7 +788,7 @@ Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | re
    Source: youtube.com  
    Title: Project Mogul  
    Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: youtube.com  
@@ -826,7 +826,7 @@ Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | re
    Source: instagram.com  
    Title: Decades later, documents reveal Project Mogul, a secret plan  
    Link:<a href="https://www.instagram.com/reel/DYSKqeVk-rc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSKqeVk-rc/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; crashes, then suddenly it&#x27;s just a...They swap the wreck for a shredded weather balloon and tell the worl...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;[flying disc]({{ 'flying-disc/' | relative_url }})&quot; crashes, then suddenly it&#x27;s just a...They swap the wreck for a shredded weather balloon and tell the worl...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: blogs.library.unt.edu  
@@ -841,7 +841,7 @@ Critics remain unconvinced, pointing to witness [testimony]({{ 'testimony/' | re
 
 16.<a id="endnote-16"></a>
    Source: sciencefriday.com  
-   Title: The Real Roswell [Cover-Up](&#123;&#123; 'cover-up/' | relative_url &#125;&#125;)?  
+   Title: The Real Roswell [Cover-Up]({{ 'cover-up/' | relative_url }})?  
    Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
 

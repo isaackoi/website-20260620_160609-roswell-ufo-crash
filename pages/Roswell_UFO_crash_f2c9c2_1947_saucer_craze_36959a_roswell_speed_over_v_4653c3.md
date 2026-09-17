@@ -762,7 +762,7 @@ That sequence explains why the first Roswell story became historically important
    Source: historypod.net  
    Title: 8th july 1947 roswell army air base reports flying disc debris  
    Link:<a href="https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/" target="_blank" rel="noopener noreferrer nofollow">https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The daily history podcastRoswell Army Air Base reports &#x27;flying disc&#x27; debris8 Jul 2024 — [Walter Haut](&amp;#123;&amp;#123; &#x27;walter-haut/&#x27; | relative_url &amp;#125;&amp;#125;), the public information...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The daily history podcastRoswell Army Air Base reports &#x27;flying disc&#x27; debris8 Jul 2024 — [Walter Haut]({{ 'walter-haut/' | relative_url }}), the public information...</p></details>
    Published: july 1947  
 
 6.<a id="endnote-6"></a>
@@ -821,7 +821,7 @@ That sequence explains why the first Roswell story became historically important
 14.<a id="endnote-14"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/groups/1518912868430057/posts/2895099914144672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1518912868430057/posts/2895099914144672/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1947, on July 8, a New Mexico newspaper: the Roswell...On July 8, 1947, [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) officials announced they recovered the wreckage of...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1947, on July 8, a New Mexico newspaper: the Roswell...On July 8, 1947, [Air Force]({{ 'air-force/' | relative_url }}) officials announced they recovered the wreckage of...</p></details>
    Published: July 8, 1947  
 
 15.<a id="endnote-15"></a>
@@ -890,7 +890,7 @@ That sequence explains why the first Roswell story became historically important
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel]({{ 'marcel/' | relative_url }}) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
 
 26.<a id="endnote-26"></a>
    Source: reddit.com  

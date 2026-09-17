@@ -747,7 +747,7 @@ At the same time, the case is not built on perfect documentation. The continuing
 ## Endnotes
 
 1.<a id="endnote-1"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
@@ -818,7 +818,7 @@ At the same time, the case is not built on perfect documentation. The continuing
    Source: kevinrandle.blogspot.com  
    Title: 5 because, had it flown and done so, there would be  
    Link:<a href="https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/08/a-few-facts-about-project-mogul.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogA Different Perspective: A Few Facts about Project Mogul12 Aug 2013 — Contrary to what Charles [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) claimed, it did n...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogA Different Perspective: A Few Facts about Project Mogul12 Aug 2013 — Contrary to what Charles [Moore]({{ 'moore/' | relative_url }}) claimed, it did n...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: muller.lbl.gov  
@@ -855,7 +855,7 @@ At the same time, the case is not built on perfect documentation. The continuing
    Source: britannica.com  
    Title: Roswell incident | Overview, Theories, Hoaxes, & Facts  
    Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>military initially claimed that the recovered debris near Roswell, New Mexico in June 1947 was from a “[flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;).” A rancher...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military initially claimed that the recovered debris near Roswell, New Mexico in June 1947 was from a “[flying disc]({{ 'flying-disc/' | relative_url }}).” A rancher...Read more...</p></details>
    Published: June 1947  
 
 21.<a id="endnote-21"></a>
@@ -908,7 +908,7 @@ At the same time, the case is not built on perfect documentation. The continuing
 
 30.<a id="endnote-30"></a>
    Source: people.com  
-   Title: "[Unsolved Mysteries](&#123;&#123; 'tv-suspense/' | relative_url &#125;&#125;)": The True Story of the Roswell UFO Incident  
+   Title: "[Unsolved Mysteries]({{ 'tv-suspense/' | relative_url }})": The True Story of the Roswell UFO Incident  
    Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 

@@ -739,7 +739,7 @@ As this cultural shift occurred, earlier ambiguities faded from public memory. T
    Source: kids.britannica.com  
    Title: Kidsunidentified flying object (UFO)  
    Link:<a href="https://kids.britannica.com/students/article/unidentified-flying-object-UFO/277502" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/unidentified-flying-object-UFO/277502</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Britannica Kidsunidentified flying object (UFO) - StudentsThe United States government has [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) of thousands of UFO sightings, includi...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britannica Kidsunidentified flying object (UFO) - StudentsThe United States government has [records]({{ 'records/' | relative_url }}) of thousands of UFO sightings, includi...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: Wikipedia  
@@ -754,7 +754,7 @@ As this cultural shift occurred, earlier ambiguities faded from public memory. T
 
 9.<a id="endnote-9"></a>
    Source: history.com  
-   Title: u s [air force](&#123;&#123; 'air-force/' | relative_url &#125;&#125;) closes the book on ufos 45 years ago  
+   Title: u s [air force]({{ 'air-force/' | relative_url }}) closes the book on ufos 45 years ago  
    Link:<a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1952, UFOs outran U.S. Air Force jets over Washington, D.C. Was this the moment aliens first made contact?Read more...</p></details>
 

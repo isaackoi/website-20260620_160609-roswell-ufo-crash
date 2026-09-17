@@ -747,7 +747,7 @@ Whether one accepts that interpretation or not, the hospital-to-commissary-to-fu
    Source: Wikipedia  
    Title: Glenn Dennis  
    Link:<a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn DennisGlenn Dennis (March 24, 1925 – April 28, 2015) was a founder of the International [UFO Museum](&amp;#123;&amp;#123; &#x27;ufo-museum/&#x27; | relative_url &amp;#125;&amp;#125;) and Research Center in Roswel...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn DennisGlenn Dennis (March 24, 1925 – April 28, 2015) was a founder of the International [UFO Museum]({{ 'ufo-museum/' | relative_url }}) and Research Center in Roswel...</p></details>
    Published: March 24, 1925  
 
 4.<a id="endnote-4"></a>
@@ -791,7 +791,7 @@ Whether one accepts that interpretation or not, the hospital-to-commissary-to-fu
 10.<a id="endnote-10"></a>
    Source: scribd.com  
    Link:<a href="https://www.scribd.com/document/639591167/Untitled" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/639591167/Untitled</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Untitled | PDF | Ufology | Unidentified Flying Object1. &quot;RAAF Captures Flying Saucer in Roswell Region,&quot; [Roswell Daily Record](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;), hlJy B, 19...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Untitled | PDF | Ufology | Unidentified Flying Object1. &quot;RAAF Captures Flying Saucer in Roswell Region,&quot; [Roswell Daily Record]({{ 'newspaper/' | relative_url }}), hlJy B, 19...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: dafhistory.af.mil  
@@ -812,7 +812,7 @@ Whether one accepts that interpretation or not, the hospital-to-commissary-to-fu
 
 14.<a id="endnote-14"></a>
    Source: minutemanmissile.com  
-   Title: Department of Defense [Legacy](&#123;&#123; 'legacy/' | relative_url &#125;&#125;) Resource Management Program  
+   Title: Department of Defense [Legacy]({{ 'legacy/' | relative_url }}) Resource Management Program  
    Link:<a href="https://minutemanmissile.com/documents/DefendAndDeterLegacyOfTheColdWar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/documents/DefendAndDeterLegacyOfTheColdWar.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 97/01. November 1996. A study sponsored by the Department of Defense. Legacy Resource Management Program. Cold War Project. Page 3...</p></details>
    Published: November 1996  
@@ -833,7 +833,7 @@ Whether one accepts that interpretation or not, the hospital-to-commissary-to-fu
    Source: primarysources.brillonline.com  
    Title: weapons of mass destruction  
    Link:<a href="https://primarysources.brillonline.com/browse/weapons-of-mass-destruction" target="_blank" rel="noopener noreferrer nofollow">https://primarysources.brillonline.com/browse/weapons-of-mass-destruction</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>of Mass DestructionThe American WMD programs remain cloaked in [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;), yet a substantial number of revealing documents have been quietly...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Mass DestructionThe American WMD programs remain cloaked in [secrecy]({{ 'secrecy/' | relative_url }}), yet a substantial number of revealing documents have been quietly...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: youtube.com  

@@ -745,7 +745,7 @@ Roswell happened at exactly the moment when that atmosphere was strongest. The f
    Source: history.com  
    Title: objects were saucer-shaped, hence the term flying saucer.Read more  
    Link:<a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFOs - Sightings, [Timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Abductions27 Oct 2009 — The first well-known UFO sighting occurred in 1947, when businessm...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFOs - Sightings, [Timeline]({{ 'timeline/' | relative_url }}) &amp; Abductions27 Oct 2009 — The first well-known UFO sighting occurred in 1947, when businessm...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: facebook.com  
@@ -907,7 +907,7 @@ Roswell happened at exactly the moment when that atmosphere was strongest. The f
 
 32.<a id="endnote-32"></a>
    Source: theweek.com  
-   Title: [roswell ufo crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;) what really happened 67 years ago  
+   Title: [roswell ufo crash]({{ 'roswell-ufo-crash/' | relative_url }}) what really happened 67 years ago  
    Link:<a href="https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/us/59331/roswell-ufo-crash-what-really-happened-67-years-ago</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO crash: what really happened 67 years ago?26 Jun 2018 — On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release st...</p></details>
    Published: July 1947  
@@ -934,7 +934,7 @@ Roswell happened at exactly the moment when that atmosphere was strongest. The f
    Source: reddit.com  
    Title: the original 1947 roswell article fascinating  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/zgdb32/the_original_1947_roswell_article_fascinating/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zgdb32/the_original_1947_roswell_article_fascinating/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascinating since in this...In this first version of the Roswell story, the [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) conducts a crash retrieval of a flying saucer on a...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fascinating since in this...In this first version of the Roswell story, the [Air Force]({{ 'air-force/' | relative_url }}) conducts a crash retrieval of a flying saucer on a...</p></details>
 
 37.<a id="endnote-37"></a>
    Source: reddit.com  

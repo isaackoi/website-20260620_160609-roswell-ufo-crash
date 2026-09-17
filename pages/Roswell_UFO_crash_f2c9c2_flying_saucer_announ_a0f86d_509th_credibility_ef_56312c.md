@@ -752,7 +752,7 @@ Yet the credibility effect persisted. For many observers, the central puzzle was
 4.<a id="endnote-4"></a>
    Source: sgp.fas.org  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOur search for government [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) concerning the Roswell crash yielde...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashOur search for government [records]({{ 'records/' | relative_url }}) concerning the Roswell crash yielde...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
@@ -773,7 +773,7 @@ Yet the credibility effect persisted. For many observers, the central puzzle was
    Source: Wikipedia  
    Title: Roswell incident  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentRAAF was home to the 509th Bomb group of the Eighth [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;), the only unit at the time capable of delivering nuclear...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentRAAF was home to the 509th Bomb group of the Eighth [Air Force]({{ 'air-force/' | relative_url }}), the only unit at the time capable of delivering nuclear...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: Wikipedia  
@@ -855,7 +855,7 @@ Yet the credibility effect persisted. For many observers, the central puzzle was
 
 23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Title: on july 8 1947 the [roswell daily record](&#123;&#123; 'newspaper/' | relative_url &#125;&#125;) reported the arrival of something strang  
+   Title: on july 8 1947 the [roswell daily record]({{ 'newspaper/' | relative_url }}) reported the arrival of something strang  
    Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...On July 8, 1947, the Roswell Daily Record reported the arrival of something strange...</p></details>
    Published: July 8, 1947  

@@ -754,7 +754,7 @@ The significance of this chain lies not in proving any particular explanation fo
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: Walker [Air Force](&#123;&#123; 'air-force/' | relative_url &#125;&#125;) Base  
+   Title: Walker [Air Force]({{ 'air-force/' | relative_url }}) Base  
    Link:<a href="https://en.wikipedia.org/wiki/Walker_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walker_Air_Force_Base</a>  
 
 4.<a id="endnote-4"></a>
@@ -843,7 +843,7 @@ The significance of this chain lies not in proving any particular explanation fo
    Source: hhhistory.com  
    Title: the roswell incident of 1947 whats it  
    Link:<a href="https://www.hhhistory.com/2020/07/the-roswell-incident-of-1947-whats-it.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhhistory.com/2020/07/the-roswell-incident-of-1947-whats-it.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident of 1947: What&#x27;s it all about6 Jul 2020 — He brought some of the material--[rubber strips](&amp;#123;&amp;#123; &#x27;rubber-strips/&#x27; | relative_url &amp;#125;&amp;#125;), tinfoil, and thick paper--t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident of 1947: What&#x27;s it all about6 Jul 2020 — He brought some of the material--[rubber strips]({{ 'rubber-strips/' | relative_url }}), tinfoil, and thick paper--t...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: historywiththeszilagyis.org  

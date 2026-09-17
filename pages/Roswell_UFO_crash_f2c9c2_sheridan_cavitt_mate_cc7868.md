@@ -913,7 +913,7 @@ Cavitt therefore occupies a specific place in the Roswell evidence map. He does 
 4.<a id="endnote-4"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Shocking Insights Into The Roswell UFO [Cover Up](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) | Supernatural Documentary...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shocking Insights Into The Roswell UFO [Cover Up]({{ 'cover-up/' | relative_url }}) | Supernatural Documentary...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: dvidshub.net  
@@ -932,7 +932,7 @@ Cavitt therefore occupies a specific place in the Roswell evidence map. He does 
 ### Additional References
 
 8.<a id="endnote-8"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
 9.<a id="endnote-9"></a>

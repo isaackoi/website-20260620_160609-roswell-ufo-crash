@@ -787,7 +787,7 @@ Viewed through the lens of New Mexico geography rather than conspiracy or specul
    Source: youtube.com  
    Title: The Roswell UFO Incident  
    Link:<a href="https://www.youtube.com/watch?v=Phh03APIWDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Phh03APIWDE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Mogul](&amp;#123;&amp;#123; &#x27;mogul/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project [Mogul]({{ 'mogul/' | relative_url }})...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: youtube.com  
@@ -823,7 +823,7 @@ Viewed through the lens of New Mexico geography rather than conspiracy or specul
    Source: youtube.com  
    Title: The Roswell Incident  
    Link:<a href="https://www.youtube.com/watch?v=j50PLMwyfKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j50PLMwyfKc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2023 —... Mac” Brazel found some wreckage on his sizable property 75 miles north of Roswell, consisting of [rubber strips](&amp;#123;&amp;#123; &#x27;rubber-strips/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2023 —... Mac” Brazel found some wreckage on his sizable property 75 miles north of Roswell, consisting of [rubber strips]({{ 'rubber-strips/' | relative_url }})...</p></details>
    Published: May 4, 2023  
 
 ### Additional References
@@ -884,7 +884,7 @@ Viewed through the lens of New Mexico geography rather than conspiracy or specul
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell New Mexico UFO CrashIn 1947, mysterious debris fell from the sky over New Mexico and scattered across a rancher&#x27;s property ne...</p></details>
 
 22.<a id="endnote-22"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles northwest of Roswell...</p></details>

@@ -741,7 +741,7 @@ For historians, Vernon’s importance lies less in what he said and more in what
    Published: June 14, 1947  
 
 2.<a id="endnote-2"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;At the time Brazel was in a sign of any propellers of any kind. hurry t...</p></details>
@@ -760,7 +760,7 @@ For historians, Vernon’s importance lies less in what he said and more in what
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
    Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: youtube.com  
@@ -778,7 +778,7 @@ For historians, Vernon’s importance lies less in what he said and more in what
    Source: nsa.gov  
    Title: report af roswell  
    Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of [air force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of [air force]({{ 'air-force/' | relative_url }}) research regarding the21 Jul 1994 — son, Vernon, found the material on June 14, 1947, when th...</p></details>
    Published: June 14, 1947  
 
 9.<a id="endnote-9"></a>
@@ -848,7 +848,7 @@ For historians, Vernon’s importance lies less in what he said and more in what
    Source: jpost.com  
    Title: article 868202  
    Link:<a href="https://www.jpost.com/omg/article-868202" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/article-868202</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Brazel found unusual debris on his land north of Roswell. Intelligence officer Major Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) later described...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Brazel found unusual debris on his land north of Roswell. Intelligence officer Major Jesse [Marcel]({{ 'marcel/' | relative_url }}) later described...Read more...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: facebook.com  

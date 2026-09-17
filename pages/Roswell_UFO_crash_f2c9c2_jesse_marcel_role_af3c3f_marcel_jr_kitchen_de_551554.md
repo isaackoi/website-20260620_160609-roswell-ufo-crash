@@ -822,7 +822,7 @@ For supporters of the Roswell UFO interpretation, the account reinforces the ide
 15.<a id="endnote-15"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse Marcel, one of the witnesses to the Roswell incident... r/Colorization - Major Jesse Marcel with debris from [Roswell UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse Marcel, one of the witnesses to the Roswell incident... r/Colorization - Major Jesse Marcel with debris from [Roswell UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }})...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: blogs.library.unt.edu  

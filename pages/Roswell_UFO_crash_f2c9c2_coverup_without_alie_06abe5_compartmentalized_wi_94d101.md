@@ -818,7 +818,7 @@ Viewed through that lens, Roswell becomes less a story about witnesses inventing
 11.<a id="endnote-11"></a>
    Source: nasw.org  
    Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) for informatio...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...A search of military [records]({{ 'records/' | relative_url }}) for informatio...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: britannica.com  
@@ -875,7 +875,7 @@ Viewed through that lens, Roswell becomes less a story about witnesses inventing
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — [Moore](&amp;#123;&amp;#123; &#x27;moore/&#x27; | relative_url &amp;#125;&amp;#125;) confirmed in 1994 that witness descriptions and photographs...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — [Moore]({{ 'moore/' | relative_url }}) confirmed in 1994 that witness descriptions and photographs...</p></details>
 
 22.<a id="endnote-22"></a>
    Source: georgehbalazs.com  

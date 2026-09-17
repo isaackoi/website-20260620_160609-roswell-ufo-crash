@@ -726,7 +726,7 @@ More than seven decades later, the Fort Worth photographs remain the clearest co
    Source: Wikipedia  
    Title: Roswell (TV series)  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) where the Roswell UFO exists, and...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a [timeline]({{ 'timeline/' | relative_url }}) where the Roswell UFO exists, and...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: Wikipedia  
@@ -749,7 +749,7 @@ More than seven decades later, the Fort Worth photographs remain the clearest co
    Source: muller.lbl.gov  
    Title: Roswell Incident  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORT - Richard A. MullerLt Col [Cavitt](&amp;#123;&amp;#123; &#x27;cavitt/&#x27; | relative_url &amp;#125;&amp;#125;) also reviewed the famous Ramey/Marcel photographs (Atch 16) of the wreckage taken to Ft...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORT - Richard A. MullerLt Col [Cavitt]({{ 'cavitt/' | relative_url }}) also reviewed the famous Ramey/Marcel photographs (Atch 16) of the wreckage taken to Ft...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: sites.libraries.uta.edu  

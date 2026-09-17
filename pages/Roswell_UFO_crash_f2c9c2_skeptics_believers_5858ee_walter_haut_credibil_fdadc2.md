@@ -821,7 +821,7 @@ Believers view the sealed affidavit as the long-suppressed testimony of a truste
 
 13.<a id="endnote-13"></a>
    Source: soundviewmediapartners.com  
-   Title: [Roswell UFO Crash](&#123;&#123; 'roswell-ufo-crash/' | relative_url &#125;&#125;): Deathbed Confessions Was (is) there a conspiracy?  
+   Title: [Roswell UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}): Deathbed Confessions Was (is) there a conspiracy?  
    Link:<a href="https://soundviewmediapartners.com/roswell-ufo-crash-deathbed-confessions/" target="_blank" rel="noopener noreferrer nofollow">https://soundviewmediapartners.com/roswell-ufo-crash-deathbed-confessions/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>This series of events has been studied for years by both professionals and amateurs alike… UFO investigator Don Schmitt reveals...</p></details>
 

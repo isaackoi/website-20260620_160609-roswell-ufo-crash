@@ -751,7 +751,7 @@ The resulting picture is unusually specific within Roswell literature. Rather th
    Published: May 2017  
 
 2.<a id="endnote-2"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Section Two examines the alleged activities at the Roswell Army Airfiel...</p></details>
@@ -844,4 +844,4 @@ The resulting picture is unusually specific within Roswell literature. Rather th
 17.<a id="endnote-17"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dzv6nRpMX24</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Reports, 03/31/1997The Roswell incident consisted only of accounts of the recovery of a [flying disc](&amp;#123;&amp;#123; &#x27;flying-disc/&#x27; | relative_url &amp;#125;&amp;#125;) in 1947. There were no claims...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Reports, 03/31/1997The Roswell incident consisted only of accounts of the recovery of a [flying disc]({{ 'flying-disc/' | relative_url }}) in 1947. There were no claims...</p></details>

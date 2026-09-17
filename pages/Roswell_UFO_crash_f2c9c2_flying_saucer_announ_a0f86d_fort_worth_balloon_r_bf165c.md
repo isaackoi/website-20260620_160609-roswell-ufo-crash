@@ -761,7 +761,7 @@ For that reason, the balloon reversal did more than change a headline. It gave R
    Source: Wikipedia  
    Title: 1947 flying disc craze  
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeOn July 8, 1947, RAAF public information officer [Walter Haut](&amp;#123;&amp;#123; &#x27;walter-haut/&#x27; | relative_url &amp;#125;&amp;#125;) issued a press release stating that personnel from...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeOn July 8, 1947, RAAF public information officer [Walter Haut]({{ 'walter-haut/' | relative_url }}) issued a press release stating that personnel from...</p></details>
    Published: July 8, 1947  
 
 7.<a id="endnote-7"></a>
@@ -795,7 +795,7 @@ For that reason, the balloon reversal did more than change a headline. It gave R
 
 12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Title: on this day in 1947 the roswell [daily record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;) quoted officials at roswell army ai  
+   Title: on this day in 1947 the roswell [daily record]({{ 'daily-record/' | relative_url }}) quoted officials at roswell army ai  
    Link:<a href="https://www.facebook.com/Enquirer/posts/on-this-day-in-1947-the-roswell-daily-record-quoted-officials-at-roswell-army-ai/10161464354424698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Enquirer/posts/on-this-day-in-1947-the-roswell-daily-record-quoted-officials-at-roswell-army-ai/10161464354424698/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1947, the Roswell Daily Record quoted...... Roger Ramey had stated that a weather balloon was recovered by the RAAF perso...</p></details>
 
@@ -842,4 +842,4 @@ For that reason, the balloon reversal did more than change a headline. It gave R
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. [Marcel]({{ 'marcel/' | relative_url }}) investigated reports of an Unidentified Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>

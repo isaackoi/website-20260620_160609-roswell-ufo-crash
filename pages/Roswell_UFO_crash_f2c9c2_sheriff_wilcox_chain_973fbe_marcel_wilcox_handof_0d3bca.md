@@ -760,7 +760,7 @@ For that reason, the Wilcox-to-Marcel transfer stands as a key mechanical link i
    Source: youtube.com  
    Title: Roswell Reports, Vol. 6  
    Link:<a href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YadmGZcvgr8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash](&amp;#123;&amp;#123; &#x27;roswell-ufo-crash/&#x27; | relative_url &amp;#125;&amp;#125;) in New Mexico | Free Documentary History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell - UFO Crash]({{ 'roswell-ufo-crash/' | relative_url }}) in New Mexico | Free Documentary History...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: youtube.com  
@@ -788,7 +788,7 @@ For that reason, the Wilcox-to-Marcel transfer stands as a key mechanical link i
 11.<a id="endnote-11"></a>
    Source: historywiththeszilagyis.org  
    Link:<a href="https://historywiththeszilagyis.org/hwts188" target="_blank" rel="noopener noreferrer nofollow">https://historywiththeszilagyis.org/hwts188</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>It was a collection of metal... When asked about these, Marcel said that he had never seen any [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;), only debris.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was a collection of metal... When asked about these, Marcel said that he had never seen any [bodies]({{ 'bodies/' | relative_url }}), only debris.Read more...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: facebook.com  
@@ -829,7 +829,7 @@ For that reason, the Wilcox-to-Marcel transfer stands as a key mechanical link i
 18.<a id="endnote-18"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=j6sXXAwuO-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j6sXXAwuO-8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: The World&#x27;s Biggest Alien [Cover-Up](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) Finally Exposed...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: The World&#x27;s Biggest Alien [Cover-Up]({{ 'cover-up/' | relative_url }}) Finally Exposed...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: media.defense.gov  

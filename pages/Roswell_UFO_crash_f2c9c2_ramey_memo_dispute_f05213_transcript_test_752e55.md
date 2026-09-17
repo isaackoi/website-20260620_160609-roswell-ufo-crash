@@ -837,7 +837,7 @@ Under these standards, the question shifts from whether a transcript contains ex
 10.<a id="endnote-10"></a>
    Source: roswellproof.com  
    Link:<a href="https://www.roswellproof.com/reconstruct.html" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/reconstruct.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruct Ramey Roswell memoA high-resolution scan of the entire Ramey message. How believable is [Air Force](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) counterintelligence&#x27;s claim...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruct Ramey Roswell memoA high-resolution scan of the entire Ramey message. How believable is [Air Force]({{ 'air-force/' | relative_url }}) counterintelligence&#x27;s claim...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: dafhistory.af.mil  

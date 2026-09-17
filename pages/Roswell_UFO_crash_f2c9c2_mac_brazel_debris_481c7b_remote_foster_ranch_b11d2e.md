@@ -772,7 +772,7 @@ A more urban or accessible location would likely have produced photographs, addi
 5.<a id="endnote-5"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Biggest Alien [Cover-Up](&amp;#123;&amp;#123; &#x27;cover-up/&#x27; | relative_url &amp;#125;&amp;#125;) Finally Exposed...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Biggest Alien [Cover-Up]({{ 'cover-up/' | relative_url }}) Finally Exposed...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: dafhistory.af.mil  
@@ -789,7 +789,7 @@ A more urban or accessible location would likely have produced photographs, addi
 
 8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Title: otd 1947 an object crashed on a ranch near roswell nm the army [air force](&#123;&#123; 'air-force/' | relative_url &#125;&#125;) identif  
+   Title: otd 1947 an object crashed on a ranch near roswell nm the army [air force]({{ 'air-force/' | relative_url }}) identif  
    Link:<a href="https://www.facebook.com/curatoractual/posts/otd-1947-an-object-crashed-on-a-ranch-near-roswell-nm-the-army-air-force-identif/248571091221629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/curatoractual/posts/otd-1947-an-object-crashed-on-a-ranch-near-roswell-nm-the-army-air-force-identif/248571091221629/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>#otd 1947 – An object crashed on a ranch near Roswell...The U.S. Army Air Force insisted it was a weather balloon, but eyewitness accoun...</p></details>
 
@@ -831,7 +831,7 @@ A more urban or accessible location would likely have produced photographs, addi
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Mac Brazel and the Heavy Price of the 1947 Corona Find 🛸...Foster ranch in Lincoln County, New Mexico, 75 miles (120 kilometers) north o...</p></details>
 
 15.<a id="endnote-15"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;At the time Brazel was in a sign of any propellers of any kind. hurry t...</p></details>

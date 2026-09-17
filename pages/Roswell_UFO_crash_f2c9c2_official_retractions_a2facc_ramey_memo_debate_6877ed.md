@@ -794,7 +794,7 @@ The enduring importance of the Ramey memo therefore lies less in any single prop
 10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulOn July 10, 1947, a [newspaper](&amp;#123;&amp;#123; &#x27;newspaper/&#x27; | relative_url &amp;#125;&amp;#125;) article appeared in the Alamogordo Daily News displaying for the press the devices...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulOn July 10, 1947, a [newspaper]({{ 'newspaper/' | relative_url }}) article appeared in the Alamogordo Daily News displaying for the press the devices...</p></details>
    Published: July 10, 1947  
 
 11.<a id="endnote-11"></a>
@@ -813,7 +813,7 @@ The enduring importance of the Ramey memo therefore lies less in any single prop
    Source: muller.lbl.gov  
    Title: Roswell Incident  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army [Air Forces](&amp;#123;&amp;#123; &#x27;air-force/&#x27; | relative_url &amp;#125;&amp;#125;) (AAF) allege...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army [Air Forces]({{ 'air-force/' | relative_url }}) (AAF) allege...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: iconicphotos.wordpress.com  
@@ -832,7 +832,7 @@ The enduring importance of the Ramey memo therefore lies less in any single prop
 16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) posing with debris on July 8...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. [Marcel]({{ 'marcel/' | relative_url }}) posing with debris on July 8...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: smithsonianmag.com  
@@ -853,7 +853,7 @@ The enduring importance of the Ramey memo therefore lies less in any single prop
 
 20.<a id="endnote-20"></a>
    Source: the-sun.com  
-   Title: roswell crash memo key cracking ufo mystery alien [bodies](&#123;&#123; 'bodies/' | relative_url &#125;&#125;)  
+   Title: roswell crash memo key cracking ufo mystery alien [bodies]({{ 'bodies/' | relative_url }})  
    Link:<a href="https://www.the-sun.com/news/14397094/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/14397094/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Eerie Roswell crash memo holds key to cracking UFO mystery...Jun 4, 2025 — A BIZARRE memo about the Roswell UFO crash could unlock secre...</p></details>
 

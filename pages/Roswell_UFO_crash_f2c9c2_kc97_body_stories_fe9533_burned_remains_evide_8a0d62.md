@@ -736,7 +736,7 @@ This does not prove that every alien-body account originated with the KC-97 disa
    Source: gutenberg.org  
    Title: 63659 h  
    Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: britannica.com  
@@ -752,7 +752,7 @@ This does not prove that every alien-body account originated with the KC-97 disa
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAccident Boeing KC-97G Stratofreighter 52-2700, Tuesday...The KC-97G air tanker lost a blade of the no.2 prop on...</p></details>
 
 4.<a id="endnote-4"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
 5.<a id="endnote-5"></a>
@@ -770,7 +770,7 @@ This does not prove that every alien-body account originated with the KC-97 disa
    Source: history.com  
    Title: u s air force reports on roswell  
    Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but [dummies](&amp;#123;&amp;#123; &#x27;dummies/&#x27; | relative_url &amp;#125;&amp;#125;) used...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reports on Roswell | June 24, 1997... reported UFO sightings, and that the “bodies” recovered were not aliens but [dummies]({{ 'dummies/' | relative_url }}) used...</p></details>
    Published: June 24, 1997  
 
 8.<a id="endnote-8"></a>
@@ -818,7 +818,7 @@ This does not prove that every alien-body account originated with the KC-97 disa
    Source: youtube.com  
    Title: Reel America: "The Roswell Reports"  
    Link:<a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports]({{ 'official-reports/' | relative_url }}) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: youtube.com  

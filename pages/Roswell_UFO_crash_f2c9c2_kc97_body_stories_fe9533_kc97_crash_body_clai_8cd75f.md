@@ -738,7 +738,7 @@ Whether that explanation is ultimately persuasive depends on how one evaluates w
    Source: gutenberg.org  
    Title: 63659 h  
    Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;), by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }}), by James McAndrew—...KC-97 Aircraft. 8. 4036th USAF Hospital, Walker AFB, N.M., 1956...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
@@ -765,7 +765,7 @@ Whether that explanation is ultimately persuasive depends on how one evaluates w
    Published: June 24, 1997  
 
 7.<a id="endnote-7"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
 8.<a id="endnote-8"></a>
@@ -820,7 +820,7 @@ Whether that explanation is ultimately persuasive depends on how one evaluates w
 
 16.<a id="endnote-16"></a>
    Source: vintageaviationnews.com  
-   Title: [legacy](&#123;&#123; 'legacy/' | relative_url &#125;&#125;) walker air force base  
+   Title: [legacy]({{ 'legacy/' | relative_url }}) walker air force base  
    Link:<a href="https://vintageaviationnews.com/aviation-museum-news/legacy-walker-air-force-base.html" target="_blank" rel="noopener noreferrer nofollow">https://vintageaviationnews.com/aviation-museum-news/legacy-walker-air-force-base.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>To find the newspaper article about it that I submitted to a ww2aircraft.net website just Google my...Read more...</p></details>
 
@@ -846,7 +846,7 @@ Whether that explanation is ultimately persuasive depends on how one evaluates w
    Source: youtube.com  
    Title: Were Alien Bodies Found At Roswell's UFO Crash?  
    Link:<a href="https://www.youtube.com/watch?v=AlFuucsLIVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AlFuucsLIVk</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports]({{ 'official-reports/' | relative_url }}) on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
 21.<a id="endnote-21"></a>
    Source: cdn.centerforinquiry.org  

@@ -750,7 +750,7 @@ Nevertheless, the recollection carries evidential value because it is a concrete
    Link:<a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
 
 6.<a id="endnote-6"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
@@ -813,7 +813,7 @@ Nevertheless, the recollection carries evidential value because it is a concrete
 17.<a id="endnote-17"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/metavation/posts/narratives-surrounding-the-roswell-incident-classified-aerospace-technology-and-/930008716740664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/metavation/posts/narratives-surrounding-the-roswell-incident-classified-aerospace-technology-and-/930008716740664/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Narratives surrounding the Roswell incident, classified...Marcel, [Brazel](&amp;#123;&amp;#123; &#x27;brazel/&#x27; | relative_url &amp;#125;&amp;#125;), and Captain Sheridan Cavitt returned to collect more material...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Narratives surrounding the Roswell incident, classified...Marcel, [Brazel]({{ 'brazel/' | relative_url }}), and Captain Sheridan Cavitt returned to collect more material...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: docdb.cept.org  

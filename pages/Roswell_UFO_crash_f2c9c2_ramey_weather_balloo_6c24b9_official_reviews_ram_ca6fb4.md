@@ -747,7 +747,7 @@ The lasting contribution of the official reviews was not merely to defend Ramey'
    Source: Wikipedia  
    Title: Project Mogul  
    Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy](&amp;#123;&amp;#123; &#x27;legacy/&#x27; | relative_url &amp;#125;&amp;#125;) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the [legacy]({{ 'legacy/' | relative_url }}) of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: nasw.org  
@@ -763,7 +763,7 @@ The lasting contribution of the official reviews was not merely to defend Ramey'
    Source: media.defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;Claims that the U.S. Army Air Forces recovered a &quot;flying disc&quot; in 1947...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})&quot;Claims that the U.S. Army Air Forces recovered a &quot;flying disc&quot; in 1947...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: history.com  
@@ -803,7 +803,7 @@ The lasting contribution of the official reviews was not merely to defend Ramey'
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
    Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomMajor Jesse [Marcel](&amp;#123;&amp;#123; &#x27;marcel/&#x27; | relative_url &amp;#125;&amp;#125;) and USAF Brigadier General Thomas DuBose publicly described the claims of a...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomMajor Jesse [Marcel]({{ 'marcel/' | relative_url }}) and USAF Brigadier General Thomas DuBose publicly described the claims of a...</p></details>
 
 ### Additional References
 
@@ -825,7 +825,7 @@ The lasting contribution of the official reviews was not merely to defend Ramey'
 18.<a id="endnote-18"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports](&amp;#123;&amp;#123; &#x27;official-reports/&#x27; | relative_url &amp;#125;&amp;#125;) on the Roswell UFO Incident | USAF...This documentary, written and produced by Captain James MacAndrew, was produced to...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Official Reports]({{ 'official-reports/' | relative_url }}) on the Roswell UFO Incident | USAF...This documentary, written and produced by Captain James MacAndrew, was produced to...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: blogs.library.unt.edu  

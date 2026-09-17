@@ -997,7 +997,7 @@ But it does change the burden of interpretation. The known cover story already h
    Link:<a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
 
 14.<a id="endnote-14"></a>
-   Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
+   Source: [media]({{ 'media/' | relative_url }}). defense.gov  
    Title: AFD 101027 030  
    Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
@@ -1062,7 +1062,7 @@ But it does change the burden of interpretation. The known cover story already h
 
 27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Title: Archivo:Roswell [Daily Record](&#123;&#123; 'daily-record/' | relative_url &#125;&#125;)  
+   Title: Archivo:Roswell [Daily Record]({{ 'daily-record/' | relative_url }})  
    Link:<a href="https://es.wikipedia.org/wiki/Archivo%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_front_page.jpg" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Archivo%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Full_front_page.jpg</a>  
    Published: July 8, 1947  
 
