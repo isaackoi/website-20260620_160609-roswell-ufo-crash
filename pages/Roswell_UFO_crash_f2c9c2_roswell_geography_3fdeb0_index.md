@@ -4,7 +4,7 @@ title_full: Places Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /roswell-ufo-crash-f2c9c2-roswell/
+permalink: /roswell-ufo-crash-f2c9c2-roswell-places/
 description: Focused pages that expand on Places.
 date: '2026'
 layout: default
